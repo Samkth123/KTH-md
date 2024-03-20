@@ -21,5 +21,9 @@
 
 ##### Transgenerational entrepreneurship
 - A challenge to owner families and their business is to continue being entrepreneurial when businesses and family become more compelx
-- Transgernertional entrepreneurship is the ability to keep the entrepreneurial spirit alive and nruture a mindset and secure the resources needed to create enduring entrepreneurship over time
+- Transgenerational entrepreneurship is the ability to keep the entrepreneurial spirit alive and nurture a mindset and secure the resources needed to create enduring entrepreneurship over time
 - Not an easy task, the 3 speakers will explore this from their perspectives.
+
+##### Factors that facisiltate or constrain transeneriaonl entrpentoruhp
+
+- Faciliting: history creating deep knowledge, long term orientation fofering patience and clear purpose strengthening commitment
