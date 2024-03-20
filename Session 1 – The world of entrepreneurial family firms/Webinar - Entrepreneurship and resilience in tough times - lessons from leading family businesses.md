@@ -27,4 +27,6 @@
 ##### Factors that facilitate or constrain transgenerational entrepreneurship
 
 - Facilitating: **History** creating deep knowledge, **long term orientation** offering patience and **clear purpose** strengthening commitment (sense of direction - why we do this together, passion, osv...)
-- Constraining: **History** when it means stuck in the past (not be able to exit legacy businesses), **conflict** when it means different interests (ex different family members have differenet understanding of risk, osv...) and **dominant people** when it means difficulties to integrate new talent.
+- Constraining: **History** when it means stuck in the past (not be able to exit legacy businesses), **conflict** when it means different interests (ex different family members have different understanding of risk, osv...) and **dominant people** when it means difficulties to integrate new talent (family members not stepping aside).
+- Nurturing transgenerational entrepreneurship is about nurturing entrepreneurship and resillience in the long run and creating a strong entrepreneurial family is about:
+	- 
