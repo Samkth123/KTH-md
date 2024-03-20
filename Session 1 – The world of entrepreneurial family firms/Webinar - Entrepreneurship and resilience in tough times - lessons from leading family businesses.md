@@ -19,6 +19,7 @@
 - Survival of new ventures from former family firm employees increase with greater geographical, industry and social proximity between the parent family firm and the founder of the new venture
 
 
-##### Transgenerational entrpreneurship
+##### Transgenerational entrepreneurship
 - A challenge to owner families and their business is to continue being entrepreneurial when businesses and family become more compelx
-- Transgernertional enteprenouship is the ability to keep the entrepreneurial spri
+- Transgernertional entrepreneurship is the ability to keep the entrepreneurial spirit alive and nruture a mindset and secure the resources needed to create enduring entrepreneurship over time
+- Not an easy task, the 3 speakers will explore this from their perspectives.
