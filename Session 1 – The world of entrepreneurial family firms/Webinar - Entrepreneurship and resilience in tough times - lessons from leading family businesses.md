@@ -16,7 +16,7 @@
 - Choose a new path by creating a different business model than existing family firm
 ##### Survival of new external ventures started by former employes from family vs non family firms:
 - new ventures started by former family firm employees survive longer than those started by non-family firms
-- Survival of new ventures from former family firm employees increase with greater geographical, industry and social proximity between the parent family firm and the founder of the new venture
+- Survival of new ventures from former family firm employees increase with greater geographical, industry and social proximity between the parent family firm and the founder of the new venture.
 
 
 ##### Transgenerational entrepreneurship
