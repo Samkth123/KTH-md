@@ -24,4 +24,5 @@
 
 
 ### PWC Video
-- Family firms go for a long term vision and dont focus on short term rewards, but rapid technological advancements are shortening lifecycles and challeng
+- Family firms go for a long term vision and dont focus on short term rewards, but rapid technological advancements are shortening lifecycles and challenge long term startgeies
+- Family firms have high employee engagement and are secure work, but now we have more mobile workforce
