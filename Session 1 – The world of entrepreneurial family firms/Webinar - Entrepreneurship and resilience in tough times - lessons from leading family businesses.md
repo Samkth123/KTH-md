@@ -18,3 +18,7 @@
 - new ventures started by former family firm employees survive longer than those started by non-family firms
 - Survival of new ventures from former family firm employees increase with greater geographical, industry and social proximity between the parent family firm and the founder of the new venture
 
+
+##### Transgenerational entrpreneurship
+- A challenge to owner families and their business is to continue being entrepreneurial when businesses and family become more compelx
+- Transgernertional enteprenouship is the ability to keep the entrepreneurial spri
