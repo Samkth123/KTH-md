@@ -21,3 +21,5 @@
 ### Investment in Education Beyond Lego
 
 - Beyond preparing their own family members for roles within Lego, there's an emphasis on education as a broader tool for engagement and impact. Kirkbi's investment in a digital learning platform in the US indicates a desire to reach children and have a positive impact beyond just selling Lego sets.
+
+
