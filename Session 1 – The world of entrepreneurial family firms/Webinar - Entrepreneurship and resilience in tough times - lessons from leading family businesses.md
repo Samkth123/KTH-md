@@ -24,6 +24,6 @@
 - Transgenerational entrepreneurship is the ability to keep the entrepreneurial spirit alive and nurture a mindset and secure the resources needed to create enduring entrepreneurship over time
 - Not an easy task, the 3 speakers will explore this from their perspectives.
 
-##### Factors that facisiltate or constrain transeneriaonl entrpentoruhp
+##### Factors that facilitate or constrain transgenerational entrepreneurship
 
-- Faciliting: history creating deep knowledge, long term orientation fofering patience and clear purpose strengthening commitment
+- Faciliting: **history** creating deep knowledge, **long term orientation** offering patience and clear purpose strengthening commitment
