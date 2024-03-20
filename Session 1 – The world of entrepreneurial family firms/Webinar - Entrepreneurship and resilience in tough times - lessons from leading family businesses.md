@@ -10,4 +10,7 @@
 	- Transforming existing businesses ex Herenco
 	- Driving innovation ex spendrups
 
-##### Starting new 
+##### Starting new external venures next generation entreprenours select 1 of 3 strategies:
+- Imitate existing family business model to start a new competeing business
+- Build on existing firms business model in a way that the new venture complements rather than competes
+- Choose a new p
