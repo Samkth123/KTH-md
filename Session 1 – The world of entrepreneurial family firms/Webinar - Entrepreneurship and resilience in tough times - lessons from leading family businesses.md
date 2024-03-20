@@ -2,4 +2,5 @@
 - Resiliance in organizations which is the ability to withstand difficult times and to come out stronger after a crisis yäni "bounce back better" is an ability that develops over time
 
 
-#
+##### Many family businesses are not only resiliant but also entrepreneurial
+
