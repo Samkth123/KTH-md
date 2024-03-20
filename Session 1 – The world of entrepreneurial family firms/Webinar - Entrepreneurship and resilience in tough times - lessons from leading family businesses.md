@@ -4,3 +4,7 @@
 
 ##### Many family businesses are not only resiliant but also entrepreneurial
 
+- Family businesses are strong engines for entrepreneurship, such as:
+	- Starting new ventures
+	- Investing in promising businesses ex wallenberg familjen
+	- Transforming existing businesses ex Herenco
