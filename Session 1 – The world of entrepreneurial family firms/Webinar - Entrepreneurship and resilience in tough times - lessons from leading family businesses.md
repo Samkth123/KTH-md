@@ -9,3 +9,5 @@
 	- Investing in promising businesses ex wallenberg familjen
 	- Transforming existing businesses ex Herenco
 	- Driving innovation ex spendrups
+
+##### Starting new 
