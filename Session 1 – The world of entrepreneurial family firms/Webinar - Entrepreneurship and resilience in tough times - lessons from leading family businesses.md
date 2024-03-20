@@ -13,4 +13,7 @@
 ##### Starting new external venures next generation entreprenours select 1 of 3 strategies:
 - Imitate existing family business model to start a new competeing business
 - Build on existing firms business model in a way that the new venture complements rather than competes
-- Choose a new p
+- Choose a new path by creating a different business model than existing family firm
+##### Survival of new external ventures started by former employes from family vs non family firms:
+- new ventures started by former family firm employees survive longer than those started by non-family firms
+- Survival of new venture
