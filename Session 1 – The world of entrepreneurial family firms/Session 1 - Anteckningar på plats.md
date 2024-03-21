@@ -14,3 +14,5 @@
 	- Direct correlation to the family (family firms maybe have their face on the varumärke)
 - Based on people, relationships and emotions
 - Are different - unique strengths and weaknesses
+
+#### The worlds oldest and most common form of business organization
