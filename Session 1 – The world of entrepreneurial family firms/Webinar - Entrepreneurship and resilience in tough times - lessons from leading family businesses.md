@@ -33,5 +33,9 @@
 
 #### Jacob Wallenberg
 trash
-
+resiliance osv...
 #### Lovisa hamaraamamam
+
+
+#### Spendrups
+Stock market gillar short term returns
