@@ -64,4 +64,4 @@ Themes of the course:
 ==Väldigt viktigt att ha läst å lyssnat på podden till nästa lektion pga case discussion osv...==
 
 
-==MÅSTE SKRIVA REFLECTION REPORT 36H SENAST EFTER NÅG
+==MÅSTE SKRIVA REFLECTION REPORT 36H SENAST EFTER GUEST LECTURE!!!!!==
