@@ -17,4 +17,5 @@
 
 #### The worlds oldest and most common form of business organization
 In Sweden - 50% of all employment is family firms
-Keep ompl
+Family firms keep employees longer than non-family firms in recessions
+- As there are both financial goals, but also other goals
