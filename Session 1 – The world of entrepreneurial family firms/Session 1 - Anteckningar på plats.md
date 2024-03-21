@@ -21,4 +21,4 @@ Family firms keep employees longer than non-family firms in recessions
 - As there are both financial goals, but also other goals
 
 #### What is a family firm?
-Sweden has many enmanabolag, do you see all those as family owned companies as well? Even if its like one person starting a company to do some consulting?
+
