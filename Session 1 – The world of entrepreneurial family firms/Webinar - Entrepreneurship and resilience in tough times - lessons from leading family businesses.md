@@ -31,4 +31,4 @@
 - **Nurturing transgenerational entrepreneurship** is about nurturing entrepreneurship and resilience in the long run and creating a strong entrepreneurial family is about:
 	- Establishing open communication, celebrating diversity, inviting multiple choices and sticking patiently to an owners strategic plan, but allow for adjustments when needed.
 
-####
+#### Jacob Wallenberg
