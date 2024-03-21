@@ -54,6 +54,7 @@ Themes of the course:
 **Take home exam:** Interview family business person
 - If think non family leader in family business is interesting then interview that person
 - Välj en av themes och därifrån ska du välja person
+- ==Kan intervjuea egna family members ex Sheelan? Har jag någon mer?==
 
 **Group project** - Either some family business you know or some other family business that has lots of material available:
 - Pick a case
