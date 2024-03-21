@@ -22,7 +22,7 @@ Family firms keep employees longer than non-family firms in recessions
 
 #### What is a family firm?
 
-Ownerships of shares --> concentrated
-Management/governance
+Ownerships of shares --> concentrated 50% + --> majority by people of family, but this is different for public companies
+Management/governance --> Does the family need to be represented by 
 Identity/perception --> Owners should see themselves as a family business
 Family dynamics
