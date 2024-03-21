@@ -51,6 +51,10 @@ Themes of the course:
 - Relationships, communication and conflict
 - Your choice of theme (course project and final exam) hmmm crime family
 
+Take home exam: Interview family business person
+- If think non family leader is interesting then interview that person
+- Välj en av themes och därifrån ska du välja pers
+
 ==Väldigt viktigt att ha läst å lyssnat på podden till nästa lektion pga case discussion osv...==
 
 
