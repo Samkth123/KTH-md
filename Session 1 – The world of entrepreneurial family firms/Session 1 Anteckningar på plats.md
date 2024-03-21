@@ -10,4 +10,5 @@
 	- A lot of money flowing into entrepreneurial ecosystems are from family firms
 - Lead sustainability and social engagement
 	- Strong agenda in family firms on this, including philanthropy
+	- You care about your reputation. Ex in Sweden, everyone knows eachother because its a smaller country
 	- Because they care about their immediate environment
