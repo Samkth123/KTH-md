@@ -34,3 +34,6 @@ Family firms keep employees longer than non-family firms in recessions
 
 Next time we will do a case on este lauder which is a family firm
 
+- Well functioning family businesses are perhaphs the best businesses
+- Dysfunctional family businesses are perhaps the worst businesses
+
