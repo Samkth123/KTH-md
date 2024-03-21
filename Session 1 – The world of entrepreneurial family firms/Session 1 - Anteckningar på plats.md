@@ -41,4 +41,13 @@ Mycket prat om governance, men vad menas med det? ==kolla upp==
 
 Themes of the course:
 - Family business characteristics and frameworks
-- 
+- Ownership and governance
+- Strategy
+- Succesion
+- Entrepeneurship and innovation
+- Advising and consulting
+- Family offices and family investment companies
+- Non-family leadership
+- Relationships, communication and conflict
+
+==Väldigt viktigt att ha läst å lyssnat på podden till nästa lektion pga case discussion os
