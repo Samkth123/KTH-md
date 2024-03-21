@@ -50,4 +50,6 @@ Themes of the course:
 - Non-family leadership
 - Relationships, communication and conflict
 
-==Väldigt viktigt att ha läst å lyssnat på podden till nästa lektion pga case discussion os
+==Väldigt viktigt att ha läst å lyssnat på podden till nästa lektion pga case discussion osv...==
+
+
