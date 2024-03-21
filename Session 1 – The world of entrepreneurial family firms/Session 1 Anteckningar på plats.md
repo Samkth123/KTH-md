@@ -9,3 +9,5 @@
 	- Very important in supporting startups as well.
 	- A lot of money flowing into entrepreneurial ecosystems are from family firms
 - Lead sustainability and social engagement
+	- Strong agenda in family firms on this, including philantropy
+	- Because they care about their immediate environment
