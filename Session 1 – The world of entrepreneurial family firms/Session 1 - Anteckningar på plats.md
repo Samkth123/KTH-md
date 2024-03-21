@@ -49,6 +49,7 @@ Themes of the course:
 - Family offices and family investment companies
 - Non-family leadership
 - Relationships, communication and conflict
+- Your 
 
 ==Väldigt viktigt att ha läst å lyssnat på podden till nästa lektion pga case discussion osv...==
 
