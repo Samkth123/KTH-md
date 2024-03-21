@@ -53,7 +53,12 @@ Themes of the course:
 
 Take home exam: Interview family business person
 - If think non family leader is interesting then interview that person
-- Välj en av themes och därifrån ska du välja pers
+- Välj en av themes och därifrån ska du välja person
+
+Group project:
+- Pick a case
+- Analyze the challenge
+- Come up with a suggestion
 
 ==Väldigt viktigt att ha läst å lyssnat på podden till nästa lektion pga case discussion osv...==
 
