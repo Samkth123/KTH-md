@@ -32,3 +32,5 @@ Family firms keep employees longer than non-family firms in recessions
 ==The way i see family firms is that we should not have small companies like mine as a family firm. My cousin is a suppleant, but I run it together with a friend from KTH==
 
 
+Next time we will do a case on este lauder which is a family firm
+
