@@ -22,3 +22,7 @@ Family firms keep employees longer than non-family firms in recessions
 
 #### What is a family firm?
 
+Ownerships of shares --> concentrated
+Management/governance
+Identity/perception --> Owners should see themselves as a family business
+Family dynamics
