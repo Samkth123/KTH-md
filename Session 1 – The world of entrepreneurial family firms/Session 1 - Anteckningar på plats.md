@@ -16,3 +16,4 @@
 - Are different - unique strengths and weaknesses
 
 #### The worlds oldest and most common form of business organization
+In Sweden - 50% of all employment is family firms
