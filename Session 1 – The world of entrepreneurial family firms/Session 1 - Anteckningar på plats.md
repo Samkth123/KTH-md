@@ -20,3 +20,4 @@ In Sweden - 50% of all employment is family firms
 Family firms keep employees longer than non-family firms in recessions
 - As there are both financial goals, but also other goals
 
+#### What is a family firm?
