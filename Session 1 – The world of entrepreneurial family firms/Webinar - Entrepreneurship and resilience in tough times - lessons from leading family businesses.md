@@ -32,3 +32,6 @@
 	- Establishing open communication, celebrating diversity, inviting multiple choices and sticking patiently to an owners strategic plan, but allow for adjustments when needed.
 
 #### Jacob Wallenberg
+trash
+
+#### Lovisa hamaraamamam
