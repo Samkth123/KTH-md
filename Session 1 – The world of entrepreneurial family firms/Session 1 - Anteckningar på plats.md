@@ -27,4 +27,6 @@ Family firms keep employees longer than non-family firms in recessions
 **Identity/perception** --> Owners should see themselves as a family business
 **Family dynamics**
 
-== The way i see family firms is that we should not have small companies like mine as a family firm. b==
+==The way i see family firms is that we should not have small companies like mine as a family firm. My cousin is a suppleant, but I run it together with a friend from KTH==
+
+
