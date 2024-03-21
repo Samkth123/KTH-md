@@ -39,3 +39,6 @@ Next time we will do a case on este lauder which is a family firm
 
 Mycket prat om governance, men vad menas med det? ==kolla upp==
 
+Themes of the course:
+- Family business characteristics and frameworks
+- 
