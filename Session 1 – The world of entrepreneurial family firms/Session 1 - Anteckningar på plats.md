@@ -52,7 +52,7 @@ Themes of the course:
 - Your choice of theme (course project and final exam) hmmm crime family
 
 **Take home exam:** Interview family business person
-- If think non family leader is interesting then interview that person
+- If think non family leader in family business is interesting then interview that person
 - Välj en av themes och därifrån ska du välja person
 
 **Group project** - Either some family business you know or some other family business that has lots of material available:
