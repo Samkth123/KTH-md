@@ -37,4 +37,5 @@ Next time we will do a case on este lauder which is a family firm
 - Well functioning family businesses are perhaphs the best businesses
 - Dysfunctional family businesses are perhaps the worst businesses
 
-Mycket prat 
+Mycket prat om governance, men vad menas med det? ==kolla upp==
+
