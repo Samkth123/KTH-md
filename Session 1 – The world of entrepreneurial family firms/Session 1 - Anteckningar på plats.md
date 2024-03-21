@@ -24,7 +24,8 @@ Family firms keep employees longer than non-family firms in recessions
 
 **Ownerships of shares** --> concentrated 50% + --> majority by people of family, but this is different for public companies
 **Management/governance** --> Does the family need to be represented by a governance? --> Depends on if you want to ahve a stronger or weaker definition of family business. Normally a family member does not have to be CEO member, but usually should have family in part of board of leadership.
-Passive governance/own
+- Passive governance/ownership is that family has effective and majority control, but they are passive in the way that they do not even have representation in the board, but rather appoint people to represent them. They are more in for the financial performance rather than legacy. Still make sure that the company works in some sort of rram
+- 
 **Identity/perception** --> Owners should see themselves as a family business
 **Family dynamics**
 
