@@ -105,6 +105,7 @@ Some might argue that the increase in growth can not be done with a maximisation
 - In the short term, it is possible to increase profit by slowing down growth
 - Managing the tension between growth and profit is an art not a science
 
+When considering profit for growing a business the term **break even** should be considered, which means that the company has reached a size .
 
 
 
