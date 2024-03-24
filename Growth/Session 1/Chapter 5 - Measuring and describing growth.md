@@ -54,10 +54,7 @@ Growth in profit might come from business decisions that mean decrease in revenu
 - Increasing profits might come from cutting staff or unprofitable parts of the business
 - This leads to less revenue but higher profits
 - In one sense, the business has grown
-
-
 #### Types of profit
-
 
 ##### Gross profit
 
@@ -67,4 +64,5 @@ Gross profit = Turnover - cost of sales
 Gross margin = Gross profit as a percentage of sales
 - Basically the health of the underlying engine of the business
 
-Businesses in different industries have different gross profit profiles.
+Businesses in different industries have different gross profit profiles
+- So gross profit only used to measure similar companies in the same industry with eachother
