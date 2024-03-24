@@ -48,4 +48,4 @@ In a shrinking industry
 
 No company can survive in the long term without generating profit or income
 
-Profit = " B"
+Profit = "Bottom line"
