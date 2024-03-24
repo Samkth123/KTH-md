@@ -118,7 +118,9 @@ Headcount is the number of staff on the payroll and amounts for the extent of re
 
 Government bodies use headcount as a proxy indicator of a companies size - A bigger business usually hires more people
 
-Asset capacity measures or profitability measures can show how much profit a particular asset generates ex by dividing 
+Asset capacity measures or profitability measures can show how much profit a particular asset generates ex by dividing net profit by cost of fixed assets to assess how much profit fixed assets are generating.
+
+Annual profit divided by anua
 
 
 
