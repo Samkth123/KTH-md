@@ -120,7 +120,8 @@ Government bodies use headcount as a proxy indicator of a companies size - A big
 
 Asset capacity measures or profitability measures can show how much profit a particular asset generates ex by dividing net profit by cost of fixed assets to assess how much profit fixed assets are generating.
 
-Annual profit divided by anua
+Annual profit divided by annual employement costs to see how much profit is given by employee
+- A good indication of changing to bad times is declining profit per employee
 
 
 
