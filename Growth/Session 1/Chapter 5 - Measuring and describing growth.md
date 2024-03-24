@@ -37,4 +37,8 @@ Small businesses or fragmented industry (nobody dominates it) market share does 
 In a growing industry
 - Some people say its easy to grow top line
 - Not necessarily true as many new people enter the market and much competition
-- A company can increase revenue but loose market
+- A company can increase top line but loose market share
+
+In a shrinking industry
+- Companies compete more about aggressive for smaller business
+- 
