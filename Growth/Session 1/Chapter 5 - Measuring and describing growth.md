@@ -62,3 +62,9 @@ Growth in profit might come from business decisions that mean decrease in revenu
 ##### Gross profit
 
 Gross profit = Turnover - cost of sales
+- Basically the cost attributed to each sale
+
+Gross margin = Gross profit as a percentage of sales
+- Basically the health of the underlying engine of the business
+
+Businesses in different industries have different gross profit profiles.
