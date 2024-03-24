@@ -78,5 +78,7 @@ Gross profit ignores the backoffice costs and only deducts the cost of the sale
 ##### Net profit
 Net profit and net margin (Net profit as a percentage of revenue) is profit after all costs including backoffice costs deducted.
 
-Net profit indicates the ability of a business to make a 
+Net profit indicates the ability of a business to generate a return.
+
+Net profit is EBITDA
 
