@@ -43,3 +43,9 @@ In a shrinking industry
 - Companies compete more about aggressive for smaller business
 - This puts pressure on sales prices
 - However some companies might be rushing to exit leaving those that stay to consolidate a stronger position buy buying up market share
+
+#### Profit/income gross net
+
+No company can survive in the long term without generating profit or income
+
+Profit = " B"
