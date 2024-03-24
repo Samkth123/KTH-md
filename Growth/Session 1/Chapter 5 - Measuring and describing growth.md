@@ -112,7 +112,7 @@ When considering profit for growing a business the term **break even** should be
 - The healthier the margin, the quicker the breakeven will be reached and the easier it will be to sustain profitability
 
 
-### Headcount and asse
+### Headcount and asset capacity
 
 
 
