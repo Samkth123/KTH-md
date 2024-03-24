@@ -102,5 +102,11 @@ Not much focus on profit can damage a business long term prospects
 Profit can be said to be cutting costs, but taken too far, it can negatively affect long term growth.
 
 Some might argue that the increase in growth can not be done with a maximisation of profit.
+- In the short term, it is possible to increase profit by slowing down growth
+- Managing the tension between growth and profit is an art not a science
 
-In the short term, it is possible to increase profit by slowing down gro
+
+
+
+
+
