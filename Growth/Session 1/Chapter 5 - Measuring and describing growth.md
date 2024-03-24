@@ -76,5 +76,7 @@ Gross profit ignores the backoffice costs and only deducts the cost of the sale
 - Deciding what to deduct is a matter of judgement when calculating gross profit
 
 ##### Net profit
+Net profit and net margin (Net profit as a percentage of revenue) is profit after all costs including backoffice costs deducted.
 
+Net profit indicates the ability of a business to make a 
 
