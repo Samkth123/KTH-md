@@ -6,3 +6,8 @@ Companies in different parts of their evolution will experience different kinds 
 #### Revenue, turnover and sales
 
 Revenue = Gross sales = turnover = "top line"
+
+Revenue appears at the top of the companies income statement.
+
+Turnover is more than just growth, its about how active a company is.
+
