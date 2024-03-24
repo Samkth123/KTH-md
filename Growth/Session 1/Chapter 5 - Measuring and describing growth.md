@@ -82,3 +82,5 @@ Net profit indicates the ability of a business to generate a return.
 
 Net profit is EBITDA
 
+Price is important as if lowered by sales people to win business, it is hard to increase later.
+
