@@ -31,3 +31,5 @@ Revenue is vanity, profit is sanity and cash flow is reality
 
 Big businesses
 - Market share is important as it benchmarks you to competition
+
+Small businesses or fragmented industry (nobody dominates it) market share does not matter as much
