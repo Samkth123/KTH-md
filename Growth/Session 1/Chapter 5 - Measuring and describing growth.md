@@ -156,7 +156,9 @@ When owner-managers sell their company they withdraw their own contributions to 
 - This is often seen in professional services companies, where there are more partnerships rather than clients and such
 - Parnterships suite people businesses and not asset-intensive ones, as the company brand is highly linkedin with the person owning it
 - Despite knowledge-management revolution, most of the knowledge are in the owners heads
-- Partnerships help people take advantage of scale and the efficiency of working in proximity of people with complementary skills 
+- Partnerships help people take advantage of scale and the efficiency of working in proximity of people with complementary skills
+
+In such companies, when the senior members want to sell and retire, it is hard because selling their shares to retire is not fair to junior members, as they will both "have the cake and eat it" as when they have sold their shares the value of the company goes down.
 
 
 
