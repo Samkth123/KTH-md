@@ -154,6 +154,7 @@ Shareholder value in a private business can only be determined when the company 
 
 When owner-managers sell their company they withdraw their own contributions to the business which significantly lowers its value.
 - This is often seen in professional services companies, where there are more partnerships rather than clients and such
+- Parnterships suite people bus
 
 
 
