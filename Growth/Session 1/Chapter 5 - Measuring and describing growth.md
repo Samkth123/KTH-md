@@ -51,4 +51,6 @@ No company can survive in the long term without generating profit or income
 Profit = "Bottom line"
 
 Growth in profit might come from business decisions that mean decrease in revenue
-- Increasing profits might come from cutting staff or unprofitable 
+- Increasing profits might come from cutting staff or unprofitable parts of the business
+- This leads to less revenue but higher profits
+- In one sense, the business has grown
