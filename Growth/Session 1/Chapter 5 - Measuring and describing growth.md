@@ -25,3 +25,9 @@ However if accounting policy stays the same year over year and business is fairl
 
 A business that grows revenue but pays too little attention to profits and cash measures will have unsustainable growth and uncertain future.
 
+Revenue is vanity, profit is sanity and cash flow is reality
+
+#### Market share
+
+Big businesses
+- Market share is important as it benchmarks you to competition
