@@ -88,3 +88,5 @@ Example: “For example, a business making a 10% margin decides on a 5% price cu
 
 Increasing prices is however the easiest and cheapest way of increasing margin
 
+Cost control as a means to increasing profit is a good way of keeping prices low but still increasing margins. ==Viktigt att vara effektiv med kostnader man har==
+
