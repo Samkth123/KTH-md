@@ -13,4 +13,9 @@ In a big business, different divisions grow at different speeds
 
 Inorganic growth such as mergers have additional challenges ex integration.
 
-Businesses that fail to manage grow
+Businesses that fail to manage growth become its victims
+
+Managers and owners who anticipate and manage challenges of growth give themselves the best chance of ensuring that the growth is secure and sustainable
+
+
+
