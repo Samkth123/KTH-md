@@ -59,7 +59,7 @@ Themes of the course:
 **Group project** - Either some family business you know or some other family business that has lots of material available:
 - Pick a case
 - Analyze the challenge
-- Come up with a suggestio
+- Come up with a suggestion
 
 ==Väldigt viktigt att ha läst å lyssnat på podden till nästa lektion pga case discussion osv...==
 
