@@ -90,5 +90,8 @@ Increasing prices is however the easiest and cheapest way of increasing margin
 
 Cost control as a means to increasing profit is a good way of keeping prices low but still increasing margins. ==Viktigt att vara effektiv med kostnader man har==
 - ex Southwest used only one plane to keep maintenance low 
-- However, cost management in ex people knowledge companies are hard because the largest cost is sala
+- However, cost management in ex people knowledge companies are hard because the largest cost is salaries of the people, and lowering them will make it hard to keep people which will in turn increase costs because of recruitment costs and such
+
+
+#### Determining profit
 
