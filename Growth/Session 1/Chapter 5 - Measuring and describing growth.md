@@ -133,7 +133,9 @@ Employee turnover (aka people leaving the company) is also a good measure for a 
 
 ### Growth - The shareholders perspective
 
-Here the most important perspective is the one from 
+Here the most important perspective is the one from the owners perspective
+
+Investments in com
 
 
 
