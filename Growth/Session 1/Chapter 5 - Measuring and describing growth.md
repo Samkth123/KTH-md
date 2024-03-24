@@ -15,3 +15,8 @@ Revenue is the product of price and volume.
 
 Inflation affects prices in the way that the managers have to push up the prices
 
+Revenue is sensitive to the effects of accounting policy
+- Management accounting is more an art than a science
+
+Accountants worry about 
+
