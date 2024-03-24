@@ -135,7 +135,9 @@ Employee turnover (aka people leaving the company) is also a good measure for a 
 
 Here the most important perspective is the one from the owners perspective
 
-Investments in com
+Investments in companies should be compared to other investments to see if they are good or not
+
+Share price of a listed company reflects the value the market sees in the company
 
 
 
