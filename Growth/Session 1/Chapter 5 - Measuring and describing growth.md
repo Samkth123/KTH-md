@@ -142,7 +142,8 @@ Share price of a listed company reflects the value the market sees in the compan
 - Ex a company wanting to buy another will often need to pay a premium to make the shareholders sell 
 - If a company will be broken up the only value it has is its assets it can sell
 - Companies assessment of value are also their future ability to make generate cash, often expressed as P/E price/earnings ratio.
-- The value is very subjective and also sensitive to the discount factor
+- The value is very subjective and also sensitive to the discount factor which itself is based on well educated guesses
+- Shareholder value in a private business can only be determined
 
 
 
