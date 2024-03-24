@@ -155,7 +155,8 @@ Shareholder value in a private business can only be determined when the company 
 When owner-managers sell their company they withdraw their own contributions to the business which significantly lowers its value.
 - This is often seen in professional services companies, where there are more partnerships rather than clients and such
 - Parnterships suite people businesses and not asset-intensive ones, as the company brand is highly linkedin with the person owning it
-- Despite knowledge-man
+- Despite knowledge-management revolution, most of the knowledge are in the owners heads
+- Partnerships help people take advantage of scale and the efficiency of people working together 
 
 
 
