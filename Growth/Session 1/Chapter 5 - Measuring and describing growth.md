@@ -125,6 +125,8 @@ Annual profit divided by annual employement costs to see how much profit is give
 
 Revenue and headcount curves do not however move in parallel as the above measure is not that good, as ahead of good times we recruit more and when the business anticipates worse times they cut back on business.
 
+Headcount also varies a lot based on business ex portfolio company can generate much profit with only a few employees.
+
 
 
 
