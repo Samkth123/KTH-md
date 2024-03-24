@@ -59,4 +59,6 @@ Growth in profit might come from business decisions that mean decrease in revenu
 #### Types of profit
 
 
-##### G
+##### Gross profit
+
+Gross profit = Turnover - cost of sales
