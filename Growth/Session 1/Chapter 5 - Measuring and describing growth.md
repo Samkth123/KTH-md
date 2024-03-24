@@ -93,5 +93,6 @@ Cost control as a means to increasing profit is a good way of keeping prices low
 - However, cost management in ex people knowledge companies are hard because the largest cost is salaries of the people, and lowering them will make it hard to keep people which will in turn increase costs because of recruitment costs and such
 
 
-#### Determining profit
+### Determining profit
 
+Determining profit is even harder than determining revenue as also here accounting can change a lot, ex whether or not capitalising expenditure (whether or not putting )
