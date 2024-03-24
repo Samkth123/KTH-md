@@ -73,5 +73,8 @@ Products in the same company even have different gross profit profiles
 
 Gross profit ignores the backoffice costs and only deducts the cost of the sale
 - It is a measure of interest to companies in the same industry that wish to buy the business
-- Deciding what to deduct is a matter of
+- Deciding what to deduct is a matter of judgement when calculating gross profit
+
+##### Net profit
+
 
