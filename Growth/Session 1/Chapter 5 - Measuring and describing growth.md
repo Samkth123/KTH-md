@@ -49,3 +49,6 @@ In a shrinking industry
 No company can survive in the long term without generating profit or income
 
 Profit = "Bottom line"
+
+Growth in profit might come from business decisions that mean decrease in revenue
+- Increasing profits might come from cutting staff or unprofitable 
