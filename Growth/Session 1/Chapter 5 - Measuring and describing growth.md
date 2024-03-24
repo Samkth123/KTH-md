@@ -139,7 +139,9 @@ Investments in companies should be compared to other investments to see if they 
 
 Share price of a listed company reflects the value the market sees in the company
 - But value even in listed companies is more slippery than share price might suggest
-- Ex a company wanting to buy another will often need to pay a premium to make the shareholders 
+- Ex a company wanting to buy another will often need to pay a premium to make the shareholders sell 
+- If a company will be broken up the only value it has is its assets it can sell
+- Companies assessment of value are also their future ability to make profit
 
 
 
