@@ -19,5 +19,7 @@ Revenue is sensitive to the effects of accounting policy
 - Management accounting is more an art than a science
 
 Accountants worry about revenue recognition basically when a sale should be booked.
-- A company may report numbers for its accounts that are different from those used in the business, ex if they want to make it seem like they have m
+- A company may report numbers for its accounts that are different from those used in the business, ex if they want to make it seem like they have more revenue 
+
+However if accounting policy stays the same year over year and business is fairly consistent, this will not make a big impact on the published number
 
