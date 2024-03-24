@@ -108,6 +108,11 @@ Some might argue that the increase in growth can not be done with a maximisation
 When considering profit for growing a business the term **break even** should be considered, which means that the company has reached a size which makes it cover its own costs. 
 - The breakeven point is expressed as the formula: Fixed costs devided by gross margin
 - For example, a business venture has fixed costs of $100,000 a year and a gross margin of 25%. Its break-even position is therefore 100,000 ÷ 0.25 = 400,000. In other words, when sales reach $400,000 a year the business will cover its fixed costs and break even.
+- Breakeven is an important point to reach in a business
+- The healthier the margin, the quicker the breakeven will be reached and the easier it will be to sustain profitability
+
+
+### Headcount and asse
 
 
 
