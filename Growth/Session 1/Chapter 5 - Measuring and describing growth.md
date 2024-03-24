@@ -116,7 +116,9 @@ When considering profit for growing a business the term **break even** should be
 
 Headcount is the number of staff on the payroll and amounts for the extent of resources are deployed.
 
-Government bodies use headcount as a proxy indicator of a companies size
+Government bodies use headcount as a proxy indicator of a companies size - A bigger business usually hires more people
+
+
 
 
 
