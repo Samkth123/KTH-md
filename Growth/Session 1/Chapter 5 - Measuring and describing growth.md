@@ -95,4 +95,4 @@ Cost control as a means to increasing profit is a good way of keeping prices low
 
 ### Determining profit
 
-Determining profit is even harder than determining revenue as also here accounting can change a lot, ex whether or not capitalising expenditure (whether or not putting )
+Determining profit is even harder than determining revenue as also here accounting can change a lot, ex whether or not capitalising expenditure ( putting something as asset rather than cost) can have much impact on the profit.
