@@ -33,3 +33,8 @@ Big businesses
 - Market share is important as it benchmarks you to competition
 
 Small businesses or fragmented industry (nobody dominates it) market share does not matter as much
+
+In a growing industry
+- Some people say its easy to grow top line
+- Not necessarily true as many new people enter the market and much competition
+- A company can increase revenue but loose market
