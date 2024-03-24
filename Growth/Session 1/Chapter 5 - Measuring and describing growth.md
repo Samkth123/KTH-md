@@ -13,5 +13,5 @@ Turnover is more than just growth, its about how active a company is and the spe
 
 Revenue is the product of price and volume.
 
-Infl
+Inflation affects prices in the way that the managers have to push up the prices
 
