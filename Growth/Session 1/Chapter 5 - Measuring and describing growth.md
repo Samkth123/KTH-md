@@ -71,5 +71,5 @@ Products in the same company even have different gross profit profiles
 - Managers should be careful of valuing high margin products more than low margin ones as they often complement eachother
 - ex: Gillete makes more profit on refills than shavers but shavers are needed for refills
 
-
+Gross profit ignores the backoffice costs and only deducts the cost of the sale
 
