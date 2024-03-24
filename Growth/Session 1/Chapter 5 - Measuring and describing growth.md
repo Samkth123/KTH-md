@@ -138,6 +138,8 @@ Here the most important perspective is the one from the owners perspective
 Investments in companies should be compared to other investments to see if they are good or not
 
 Share price of a listed company reflects the value the market sees in the company
+- But value even in listed companies is more slippery than share price might suggest
+- Ex a company wanting to buy another will often need to pay a premium to make the shareholders 
 
 
 
