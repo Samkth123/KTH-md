@@ -69,4 +69,7 @@ Businesses in different industries have different gross profit profiles
 
 Products in the same company even have different gross profit profiles
 - Managers should be careful of valuing high margin products more than low margin ones as they often complement eachother
+- ex: Gillete makes more profit on refills than shavers but shavers are needed for refills
+
+
 
