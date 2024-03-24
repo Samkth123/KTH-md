@@ -3,7 +3,7 @@ Businesses are multi dimensional and grow in different ways. If the different el
 Companies in different parts of their evolution will experience different kinds of growth. A smaller company can grow a lot, while large companies will be happy with even 10%.
 
 
-#### Revenue, turnover and sales
+### Revenue, turnover and sales
 
 Revenue = Gross sales = turnover = "top line"
 
@@ -27,7 +27,7 @@ A business that grows revenue but pays too little attention to profits and cash 
 
 Revenue is vanity, profit is sanity and cash flow is reality
 
-#### Market share
+### Market share
 
 Big businesses
 - Market share is important as it benchmarks you to competition
@@ -44,7 +44,7 @@ In a shrinking industry
 - This puts pressure on sales prices
 - However some companies might be rushing to exit leaving those that stay to consolidate a stronger position buy buying up market share
 
-#### Profit/income gross net
+### Profit/income gross net
 
 No company can survive in the long term without generating profit or income
 
