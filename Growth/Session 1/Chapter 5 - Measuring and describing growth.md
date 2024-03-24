@@ -84,3 +84,7 @@ Net profit is EBITDA
 
 Price is important as if lowered by sales people to win business, it is hard to increase later.
 
+Example: “For example, a business making a 10% margin decides on a 5% price cut to boost sales. It had been making $10 on every $100 of sales; now it makes only $5 on every $95 of sales, assuming volumes stay the same. A 5% reduction in price has led to a 50% reduction in margin. Volumes will have to more than double to make the 5% price reduction worthwhile.”
+
+Increasing prices is however the easiest and cheapest way of increasing margin
+
