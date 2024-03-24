@@ -121,7 +121,9 @@ Government bodies use headcount as a proxy indicator of a companies size - A big
 Asset capacity measures or profitability measures can show how much profit a particular asset generates ex by dividing net profit by cost of fixed assets to assess how much profit fixed assets are generating.
 
 Annual profit divided by annual employement costs to see how much profit is given by employee
-- A good indication of changing to bad times is declining profit per employee
+- A good indication of changing to bad times is declining profit per employee for a business ambitious for growth
+
+Revenue and headcount curves do not however move in parallel as the above measure is not that good, as if business is going well we recruit
 
 
 
