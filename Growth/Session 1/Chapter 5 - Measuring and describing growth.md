@@ -129,7 +129,9 @@ Headcount also varies a lot based on business ex portfolio company can generate 
 
 Headcount is a good measure of growth.
 
-Employee turnover (aka people leaving the company) is also a good measure for a company looking to grow its business as you do not only need to be good at recruit
+Employee turnover (aka people leaving the company) is also a good measure for a company looking to grow its business as you do not only need to be good at recruiting new staff buy also retaining them.
+
+### Growth - The shareholders perspective
 
 
 
