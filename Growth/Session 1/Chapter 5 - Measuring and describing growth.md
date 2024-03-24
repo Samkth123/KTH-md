@@ -9,5 +9,9 @@ Revenue = Gross sales = turnover = "top line"
 
 Revenue appears at the top of the companies income statement.
 
-Turnover is more than just growth, its about how active a company is.
+Turnover is more than just growth, its about how active a company is and the speed of its business engine.
+
+Revenue is the product of price and volume.
+
+Infl
 
