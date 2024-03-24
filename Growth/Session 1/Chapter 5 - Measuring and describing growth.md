@@ -66,3 +66,7 @@ Gross margin = Gross profit as a percentage of sales
 
 Businesses in different industries have different gross profit profiles
 - So gross profit only used to measure similar companies in the same industry with eachother
+
+Products in the same company even have different gross profit profiles
+- Managers should be careful of valuing high margin products more than low margin ones as they often complement eachother
+
