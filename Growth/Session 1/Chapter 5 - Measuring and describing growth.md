@@ -164,6 +164,7 @@ In such companies, when the senior members want to sell and retire, it is hard b
 	- Capital is not needed to finance assets and surplus financial capital does not necessarily generate a high return on anything else
 - Senior partners might try to get a deal with consolidators to get some money out before they retire, but then put burden on the junior partners, who now both need to work more as the seniors reputation in the firm is gone as well as now share the cake with more stakeholders as consolidators have come in.
 
+Professional services firms often don't include "goodwill" (an intangible asset that may include reputation, client relationships, etc.) when they assess their company's equity value.
 
 
 
