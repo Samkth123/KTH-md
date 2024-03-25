@@ -162,7 +162,7 @@ In such companies, when the senior members want to sell and retire, it is hard b
 - Therefore, many people-businesses are not made for aggregating value but rather for distributing income
 - The most significant capital needed in many people-businesses are working capital
 	- Capital is not needed to finance assets and surplus financial capital does not necessarily generate a high return on anything else
-
+- Senior partners might try to get a deal with consolidators to get some money out 
 
 
 
