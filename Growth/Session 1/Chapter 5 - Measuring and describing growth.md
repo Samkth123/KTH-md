@@ -233,16 +233,7 @@ Businesses that grow too fast
 	- Businesses go bust not because they do not generate enough profit, but because they run out of cash
 
 What is an acceptable level of growth?
-- Growth is financially acceptable if management know in advance how it is going to be financed
-- Growth is strategically acceptable if it cont
+- Growth is **financially acceptable** if management know in advance how it is going to be financed
+- Growth is **strategically acceptable** if it continues to secure and enhance the company's position in the industry and marketplace
+- Growth is **operationally acceptable** if management know how it will be controlled and supported
 
-
-
-Growth is financially acceptable if management know in advance how it is going to be financed (see Chapter 6).
-Growth is strategically acceptable if it continues to secure and enhance the company’s position in the industry and marketplace.
-Growth is operationally acceptable if management know how it will be controlled and supported.”
-
-Excerpt From
-Growing a Business
-Rupert Merson
-This material may be protected by copyright.
