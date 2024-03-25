@@ -33,4 +33,4 @@ Minimum 4 employees, intent to grow in near future, any industry you want
 Klass diskussion:
 Asset capacity är viktigt tex solar panel company how many pannels can you build in x time
 
-Growth skiljer sig i b
+Growth skiljer sig i början och senare. T.ex. i början är det viktigare med cash flow så kanske growth är bara vad du får in vare sig de e kunder eller investeringar. Senare kan det bli antal kunder osv...
