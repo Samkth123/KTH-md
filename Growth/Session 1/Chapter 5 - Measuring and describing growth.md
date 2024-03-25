@@ -241,3 +241,8 @@ The first test is about financial capacity.
 The second test is about management’s understanding of the commercial environment. 
 The third test is about management’s real understanding of the business.
 - The third test is about managements capacity
+
+
+
+
+
