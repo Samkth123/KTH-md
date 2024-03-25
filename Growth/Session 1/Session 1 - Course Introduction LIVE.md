@@ -14,4 +14,5 @@ Minimum 4 employees, intent to grow in near future, any industry you want
 
 ### GÅ IGENOM "MEASURING GROWTH"
 
-1. Headcount, revenue, profit, real estate
+1. Headcount, revenue, profit, real estate, market share
+2. Headcount - 
