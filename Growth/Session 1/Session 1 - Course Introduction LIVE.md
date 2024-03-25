@@ -10,3 +10,6 @@ Minimum 4 employees, intent to grow in near future, any industry you want
 - Ska vara en startup
 - max 8 år sedan skapades
 - måste vara ett företag som experiences growth och vill växa
+
+
+### GÅ IGENOM "MEASURING GROWTH"
