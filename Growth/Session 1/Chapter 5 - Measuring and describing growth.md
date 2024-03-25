@@ -223,4 +223,8 @@ Organic growth is hard to measure, but M&A is even harder as accounting practice
 ### Pace and capacity
 
 Businesses that grow too slow
-- Lose 
+- Lose advantage to competitors in the markets
+
+Businesses that grow too fast
+- May lose control with dangerous consequences
+- ex Toyota 2009 had safety issues making them have to recall 8.5M cars
