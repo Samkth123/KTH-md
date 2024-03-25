@@ -203,3 +203,8 @@ Companies can not only focus on one measure of growth.
 - Growing profit and revenue but do not earn their cost of capital run out of investors
 
 There is also no relationship between ease of measurement of business practice and how important it is
+
+
+##### The complications of change
+
+A company that is growing or changing
