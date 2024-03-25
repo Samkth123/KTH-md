@@ -161,6 +161,8 @@ When owner-managers sell their company they withdraw their own contributions to 
 In such companies, when the senior members want to sell and retire, it is hard because selling their shares to retire is not fair to junior members, as they will both "have the cake and eat it" as when they have sold their shares the value of the company goes down.
 - Therefore, many people-businesses are not made for aggregating value but rather for distributing income
 - The most significant capital needed in many people-businesses are working capital
+	- Capital is not needed to finance assets and surplus financial capital does not necessarily generate a high return on anything else
+
 
 
 
