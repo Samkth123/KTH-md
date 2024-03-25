@@ -27,4 +27,4 @@ Minimum 4 employees, intent to grow in near future, any industry you want
 3.  Klarna - recruit a lot of people
 	1. Issues when growth stops or declines
 	2. Lose trust of staff
-4. 
+4. Headcount and revenue
