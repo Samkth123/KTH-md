@@ -172,5 +172,8 @@ Professional services firms often don't include "goodwill" (an intangible asset 
 
 Too much attention to shareholders to the detriment of stakeholders is bad in the long term
 - Usually happens because of equity incentives of managers
+- This makes short term gain more lucrative than long term
+- Increase in shareholder value is easier to measure than stakeholder value
 
 
+### Range and depth
