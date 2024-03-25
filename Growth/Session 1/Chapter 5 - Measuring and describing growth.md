@@ -237,3 +237,7 @@ What is an acceptable level of growth?
 - Growth is **strategically acceptable** if it continues to secure and enhance the company's position in the industry and marketplace
 - Growth is **operationally acceptable** if management know how it will be controlled and supported
 
+The first test is about financial capacity. 
+The second test is about management’s understanding of the commercial environment. 
+The third test is about management’s real understanding of the business.
+- The third test is about managements capacity
