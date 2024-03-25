@@ -32,3 +32,5 @@ Minimum 4 employees, intent to grow in near future, any industry you want
 
 Klass diskussion:
 Asset capacity är viktigt tex solar panel company how many pannels can you build in x time
+
+Growth skiljer sig i b
