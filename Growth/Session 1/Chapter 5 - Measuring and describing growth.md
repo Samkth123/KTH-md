@@ -170,5 +170,7 @@ Professional services firms often don't include "goodwill" (an intangible asset 
 
 #### External shareholders
 
+Too much attention to shareholders to the detriment of stakeholders is bad in the long term
+- Usually happens because of equity incentives of managers
 
 
