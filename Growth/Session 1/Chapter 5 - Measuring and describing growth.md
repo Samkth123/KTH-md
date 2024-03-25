@@ -214,3 +214,6 @@ Growth also rarely happens linearly
 
 Fixed costs and variable costs are not as distinguishable as one would like.
 - Fixed costs (overheads) can be cut or increased, but adding to these oftens happens in large steps
+- Conversely, variable costs are often not as variable as they seem - components are often sourced in bulk to get cheaper
+
+Organic growth is hard to measure, but M&A is even harder as accounting practices are also not similar.
