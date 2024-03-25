@@ -213,3 +213,4 @@ Growth also rarely happens linearly
 - Business investing in next stage of development might put pressure on margins until the investment is paid back
 
 Fixed costs and variable costs are not as distinguishable as one would like.
+- Fixed costs (overheads) can be cut or increased, but adding to these oftens happens in large steps
