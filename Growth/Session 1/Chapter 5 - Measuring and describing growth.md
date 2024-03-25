@@ -228,3 +228,6 @@ Businesses that grow too slow
 Businesses that grow too fast
 - May lose control with dangerous consequences
 - ex Toyota 2009 had safety issues making them have to recall 8.5M cars
+- Risks losing confidence of staff
+- Put pressure on cash resources
+	- Businesses go bust not because they do not generate 
