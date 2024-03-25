@@ -9,4 +9,4 @@ No general growth strategy - better to focus on a specific question, like how a 
 Minimum 4 employees, intent to grow in near future, any industry you want
 - Ska vara en startup
 - max 8 år sedan skapades
-- måste vara ett företag som experiences growth
+- måste vara ett företag som experiences growth och vill växa
