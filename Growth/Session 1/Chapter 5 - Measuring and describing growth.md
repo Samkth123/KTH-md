@@ -178,4 +178,7 @@ Too much attention to shareholders to the detriment of stakeholders is bad in th
 
 ### Range and depth
 
-Need to increase range and depth of products 
+Need to increase range and depth of products to have sustainable business proposition
+
+Some managers speak of 8020 rule which is that 80% of revenue comes from 20% of the business.
+- Therefore successful growth comes from not only acquiring new busines
