@@ -192,4 +192,5 @@ Other measures of growth can be anything from oil barrels sold to happiness in B
 Younger businesses are harder to asses as they are small and have no history, and therefore it is hard to see any established business practice
 - This makes it more difficult to look at trends as they have no history
 
-In owner-manager businesses, the line between the business and owner becomes blurred and it is hard to assess 
+In owner-manager businesses, the line between the business and owner becomes blurred and it is hard to assess the performance of the underlying business regardless of size.
+- Also, the accounting can be weirder here as the owner does what he wants to the business as long as its legitimate
