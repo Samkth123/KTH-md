@@ -141,7 +141,7 @@ Share price of a listed company reflects the value the market sees in the compan
 - But value even in listed companies is more slippery than share price might suggest
 - Ex a company wanting to buy another will often need to pay a premium to make the shareholders sell 
 
-#### Private companies
+##### Private companies
 If a company will be broken up the only value it has is its assets it can sell
 
 Companies assessment of value are also their future ability to make generate cash, often expressed as P/E price/earnings ratio.
@@ -150,7 +150,7 @@ The value is very subjective and also sensitive to the discount factor which its
 
 Shareholder value in a private business can only be determined when the company is sold
 
-#### People businesses and partnerships
+##### People businesses and partnerships
 
 When owner-managers sell their company they withdraw their own contributions to the business which significantly lowers its value.
 - This is often seen in professional services companies, where there are more partnerships rather than clients and such
@@ -168,7 +168,7 @@ Professional services firms often don't include "goodwill" (an intangible asset 
 ^^This is a problem in such companies
 
 
-#### External shareholders
+##### External shareholders
 
 Too much attention to shareholders to the detriment of stakeholders is bad in the long term
 - Usually happens because of equity incentives of managers
@@ -177,3 +177,5 @@ Too much attention to shareholders to the detriment of stakeholders is bad in th
 
 
 ### Range and depth
+
+Need to increase range and depth of products 
