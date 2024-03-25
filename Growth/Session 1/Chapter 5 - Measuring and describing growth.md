@@ -207,4 +207,6 @@ There is also no relationship between ease of measurement of business practice a
 
 ##### The complications of change
 
-A company that is growing or changing
+A company that is evolving and expanding, new product lines can have impact on performance and nature of figures reported
+
+Growth also rarely happens linearly
