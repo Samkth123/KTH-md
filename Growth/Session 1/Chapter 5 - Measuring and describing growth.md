@@ -210,3 +210,6 @@ There is also no relationship between ease of measurement of business practice a
 A company that is evolving and expanding, new product lines can have impact on performance and nature of figures reported
 
 Growth also rarely happens linearly
+- Business investing in next stage of development might put pressure on margins until the investment is paid back
+
+Fixed costs and variable costs are not as distinguishable as one would like.
