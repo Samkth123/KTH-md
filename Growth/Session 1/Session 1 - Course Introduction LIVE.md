@@ -19,5 +19,9 @@ Minimum 4 employees, intent to grow in near future, any industry you want
 	1. adv: natural, if big company.
 	2. dis: not accuratte
 3. Revenue
-	1. adv: 
+	1. adv: If its a big company, growth in revenue could mean growth in market, increase means also more business
 	2. dis: big revenue, small profit
+4. Profit
+
+
+3. 
