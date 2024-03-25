@@ -194,3 +194,6 @@ Younger businesses are harder to asses as they are small and have no history, an
 
 In owner-manager businesses, the line between the business and owner becomes blurred and it is hard to assess the performance of the underlying business regardless of size.
 - Also, the accounting can be weirder here as the owner does what he wants to the business as long as its legitimate
+
+In younger businesses, the owner might not take a salary, and therefore the financial statements might be distorted in any direction, and the true cost of doing business might not be shown.
+
