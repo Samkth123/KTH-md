@@ -185,3 +185,8 @@ Some managers speak of 8020 rule which is that 80% of revenue comes from 20% of 
 
 
 Other measures of growth can be anything from oil barrels sold to happiness in Bhutan...
+
+
+### Difficulties of pace and assessment
+
+Younger businesses are harder to asses as they are small and have no history, and therefore it is hard to see any established business practice
