@@ -250,6 +250,17 @@ The third test is about management’s real understanding of the business.
 - To what extent do managers and staff have experience of the situation in which the business finds itself? 
 - High scores indicate a company that may be growing and changing more quickly than the capability and capacity of management to control it.
 
-**Culture. This section assesses some of the softer elements in a governance framework likely to be tested in a growing business. How significant to staff are their potential rewards for risk taking? How resistant are executives to receiving bad news? (“Don’t give meproblems, bring me solutions.”) How competitive is the internal environment? High scores in this row suggest that individuals, in the interest of meeting targets, are likely to take more risks than is good for the company. They are also less likely to draw problems to the attention of management in time for them to be addressed.
+**Culture.**
+- This section assesses some of the softer elements in a governance framework likely to be tested in a growing business. 
+- How significant to staff are their potential rewards for risk taking? 
+- How resistant are executives to receiving bad news? (“Don’t give me problems, bring me solutions.”) 
+- How competitive is the internal environment? 
+- High scores in this row suggest that individuals, in the interest of meeting targets, are likely to take more risks than is good for the company. They are also less likely to draw problems to the attention of management in time for them to be addressed.
 
-Information management. This section covers the complexity that comes with growth. How fast does the business engine that underpins the business turn over, and how many components are in the engine? The more there are the less likely it is that management will be aware of all aspects of the business. To what extent do the indicators chosen to measure performance capture the total activity of the business, or are there fundamental gaps? How decentralised is decision-taking? Have controls been put in place to supervise the managers to whom authority has been delegated, or have senior management in effect confused delegation with abdication?
+**Information management.** 
+- This section covers the complexity that comes with growth. 
+- How fast does the business engine that underpins the business turn over, and how many components are in the engine? 
+- The more there are the less likely it is that management will be aware of all aspects of the business. 
+- To what extent do the indicators chosen to measure performance capture the total activity of the business, or are there fundamental gaps? 
+- How decentralised is decision-taking? 
+- Have controls been put in place to supervise the managers to whom authority has been delegated, or have senior management in effect confused delegation with abdication?
