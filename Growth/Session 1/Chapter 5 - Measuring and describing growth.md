@@ -199,4 +199,7 @@ In younger businesses, the owner might not take a salary, and therefore the fina
 
 Companies can not only focus on one measure of growth.
 - Growing revenue but not profits do not create value in the long term
-- Growing profit but not turn over are on a unsus
+- Growing profit but not turn over are on a unsustainable growth path
+- Growing profit and revenue but do not earn their cost of capital run out of investors
+
+There is also no relationship between ease of measurement of business practice and how important it is
