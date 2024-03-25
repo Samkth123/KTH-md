@@ -197,3 +197,6 @@ In owner-manager businesses, the line between the business and owner becomes blu
 
 In younger businesses, the owner might not take a salary, and therefore the financial statements might be distorted in any direction, and the true cost of doing business might not be shown.
 
+Companies can not only focus on one measure of growth.
+- Growing revenue but not profits do not create value in the long term
+- Growing profit but not turn over are on a unsus
