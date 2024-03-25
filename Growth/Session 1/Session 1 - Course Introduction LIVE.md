@@ -14,7 +14,7 @@ Minimum 4 employees, intent to grow in near future, any industry you want
 
 ### GÅ IGENOM "MEASURING GROWTH"
 
-1. Headcount, revenue, profit, real estate, market share
+1. Headcount, revenue, profit, real estate, market share (if a more aggresive business model), break even
 2. Headcount
 	1. adv: natural, if big company.
 	2. dis: not accuratte
