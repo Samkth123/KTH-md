@@ -70,3 +70,8 @@ Mindre länder är som C
 
 Prisoners dilemma and two countries have to do with negotiations in the way that: 
 
+Everytime banks cheat and manipulate prices together, its always one company being the whistleblower.
+
+
+#### Behav
+
