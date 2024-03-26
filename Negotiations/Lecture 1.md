@@ -100,3 +100,8 @@ Peace negiotations are often not because different parties like eachother or tru
 ## NEXT DEALINE ASSIGNMENT 2
 
 Start reading VC terminology
+Every article under each assignment is there thay you need to read
+Read the stuff that is for assignemnt 4 for next lecture
+
+
+
