@@ -1,3 +1,5 @@
+Måste göra assignment 2 ASAP.
+Om lämnar in assignments inte i tid är det 50% straff
 
 Two things today:
 - Course overview and administration
