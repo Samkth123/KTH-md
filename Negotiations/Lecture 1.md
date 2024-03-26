@@ -65,5 +65,8 @@ Two countries made peace agreement
 Hitler and Stalin agreed to not attack eachother, but turned around to attack eachother
 ex if they dont have weapons now but get it later they might do something so lets attack them
 
-Prisoners dilemma and two countries have to do with negotiations in the way that:
+USA, Kina, Ryssland är som A
+Mindre länder är som C
+
+Prisoners dilemma and two countries have to do with negotiations in the way that: 
 
