@@ -48,5 +48,7 @@ What you are negotiating about (frame) is more important than where you are nego
 
 A was the strongest C weakest, B middle.
 
+A type solution - power, profit
 
+C type - discussi
 
