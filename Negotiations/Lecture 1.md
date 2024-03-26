@@ -46,3 +46,7 @@ Life isnt fair - you get what you negotiate
 
 What you are negotiating about (frame) is more important than where you are negotiating from (power)
 
+A was the strongest C weakest, B middle.
+
+
+
