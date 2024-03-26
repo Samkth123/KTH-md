@@ -91,3 +91,8 @@ Trust in negotiation terms often has to do with negative consequences
 
 In business, hockey players that fight star players are often lawfirms.
 Public prequorment are not good at putting in negative consequences in their contracts, so if government says "thats not ok", nothing happens. Example nya karolinska. There are never any negative consequences in the contracts with governments.
+Even gangs have negative consequences built in their culture, ex talking to police
+
+**So basically dont pick fights as are there any negative consequences of not sticking to a deal? If there are not then the other party will not stick to the deal either.**
+
+Peace negiotations are often not because different parties like e
