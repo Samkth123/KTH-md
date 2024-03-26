@@ -95,4 +95,8 @@ Even gangs have negative consequences built in their culture, ex talking to poli
 
 **So basically dont pick fights as are there any negative consequences of not sticking to a deal? If there are not then the other party will not stick to the deal either.**
 
-Peace negiotations are often not because different parties like e
+Peace negiotations are often not because different parties like eachother or trust eachother, but trust in negotiations are often that they know that if the other party breaks the deal something bad will happen to them and they trust that the other country will not break it because they dont want negative consequences.
+
+## NEXT DEALINE ASSIGNMENT 2
+
+Start reading VC terminology
