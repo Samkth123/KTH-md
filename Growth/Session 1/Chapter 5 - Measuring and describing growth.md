@@ -264,3 +264,5 @@ The third test is about management’s real understanding of the business.
 - To what extent do the indicators chosen to measure performance capture the total activity of the business, or are there fundamental gaps? 
 - How decentralised is decision-taking? 
 - Have controls been put in place to supervise the managers to whom authority has been delegated, or have senior management in effect confused delegation with abdication?
+
+The three rows in Figure 5.1 and each item within them are interlocking. High scores in all sections suggest a business that is growing fast, is becoming more complicated and is not under the control of management
