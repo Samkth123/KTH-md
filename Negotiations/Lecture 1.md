@@ -89,4 +89,5 @@ basic game theory says:
 
 Trust in negotiation terms often has to do with negative consequences
 
-In business, hockey players 
+In business, hockey players that fight star players are often lawfirms.
+Public prequorment are not good at putting in negative consequences in their contracts, so if government says th
