@@ -10,4 +10,9 @@ David Frykman - Investor viewpoint
 Johan Brenner - VC guy Proffesional VC side
 
 
+Individual reflection paper
+- Should connect back to assignment 1
+
+
+
 
