@@ -52,5 +52,9 @@ A type solution - power, profit,
 
 C type - discussion tends to be more on fairness, win-win, more relationship oriented, future oriented
 
+Pascal var gambler
 
+Game theory alla matematiker var gamblers
+
+After WW2
 
