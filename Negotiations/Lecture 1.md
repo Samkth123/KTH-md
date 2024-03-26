@@ -77,9 +77,13 @@ Everytime banks cheat and manipulate prices together, its always one company bei
 basic game theory says:
 
 
-1. Be forthcoming (start positively)
-2. Be provocable (use sanctions if nevessarry)
+1. Be **forthcoming** (start positively)
+2. Be **provocable** (use sanctions if necessarry)
 	1. if other party is cheating or tough bargain then do something to show its not ok
 	2. However, this one is a bit dangerous as you ahve to do something that is hostile which can lead to escalation if both start doing it
 	3. Example companies go into price war and lower prices until one crashes
-3. Be forgiving (avoid long-term retribution)
+3. Be **forgiving** (avoid long-term retribution)
+4. Be **clear** (communicate)
+	1. if one wants a win win deal one should communicate that
+		1. this could also be used for bluffing and cheating hehe
+Trust in nego
