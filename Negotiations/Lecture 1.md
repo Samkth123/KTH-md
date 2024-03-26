@@ -5,4 +5,4 @@ Two things today:
 
 Kvinnan innan - Startup viewpoint
 David Frykman - Investor viewpoint
-
+Johan Brenner - VC guy Proffesiona VC side
