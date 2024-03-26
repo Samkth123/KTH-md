@@ -59,5 +59,8 @@ Game theory alla matematiker var gamblers
 Prisoners dilemma - 2 prisoners
 - dilemma boils down to trust
 - basically om gola elr inte
-- 
+
+^^
+Two countries made peace agreement
+Hitler and Stalin agreed to not attack eachother, but t
 
