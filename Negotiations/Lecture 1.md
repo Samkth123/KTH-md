@@ -26,4 +26,7 @@ or like when you were younger and negotiated with a younger sibling that would b
 Process of creating agreement
 
 Three key words:
-process - important because common pitfall in negotiation is that you go into negotiation with a target and intended outcome, but other party has its own intended outcome that could be very different. If both parties are very out
+process - important because common pitfall in negotiation is that you go into negotiation with a target and intended outcome, but other party has its own intended outcome that could be very different. If both parties are very outcome oriented and not process oriented we could get stuck. But if we know that we might have to give up some stuff then we will do better. If we get stuck can we do something to get unstuck? Usually people go into negotiation very hardcore and try to get something which is not good.
+
+agreement - ip
+
