@@ -73,5 +73,12 @@ Prisoners dilemma and two countries have to do with negotiations in the way that
 Everytime banks cheat and manipulate prices together, its always one company being the whistleblower.
 
 
-#### Behav
+#### Behavioral implications for negatiators
+basic game theory says:
 
+
+1. Be forthcoming (start positively)
+2. Be provocable (use sanctions if nevessarry)
+	1. if other party is cheating or tough bargain then do something to show its not ok
+	2. However, this one is a 
+3. 
