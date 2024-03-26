@@ -15,3 +15,8 @@ Individual reflection paper
 
 Expected to use AI men kan få plagiat ganska enkelt så försiktig
 
+
+#### Definition of negotiation
+
+
+
