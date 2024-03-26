@@ -88,3 +88,5 @@ basic game theory says:
 		1. this could also be used for bluffing and cheating hehe
 
 Trust in negotiation terms often has to do with negative consequences
+
+In business, hockey players 
