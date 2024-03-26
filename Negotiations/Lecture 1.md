@@ -40,5 +40,9 @@ The process of creating agreement between two or more parties
 The more parties at the table, the more complex. Also the dynamics change when there are more countries. ex european union. Could also be negotiation teams, for example tech persons can agree in a company agreement but maybe not marketing and finance. This is in team party negotiations.
 
 
+Three party negotiation
 
+Life isnt fair - you get what you negotiate
+
+What you are negotiating about (frame) is more important than where you are negotiating from (power)
 
