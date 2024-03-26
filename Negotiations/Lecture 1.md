@@ -18,6 +18,7 @@ Expected to use AI men kan få plagiat ganska enkelt så försiktig
 
 #### Definition of negotiation
 
+Eget diskussion:
 metaforer: Game theory but more qualitative 
 or like when you were younger and negotiated with a younger sibling that would be the ideal negotiation for you, because you give them like a scoop of pink icecream and say that its worth 10 scoops of vanila icecream.
 
