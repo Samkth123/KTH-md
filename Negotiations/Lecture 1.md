@@ -56,5 +56,6 @@ Pascal var gambler
 
 Game theory alla matematiker var gamblers
 
-After WW2
+Prisoners dilemma - 2 prisoners
+If both confess
 
