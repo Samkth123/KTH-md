@@ -1,6 +1,5 @@
 
-Two thing:
-Course overview and administration
-
-Introducion to negotiation dynamics
+Two things today:
+- Course overview and administration
+- Introduction to negotiation dynamics
 
