@@ -13,5 +13,5 @@ Johan Brenner - VC guy Proffesional VC side
 Individual reflection paper
 - Should connect back to assignment 1
 
-Expected to use AI
+Expected to use AI men kan få plagiat ganska enkelt så försiktig
 
