@@ -57,5 +57,7 @@ Pascal var gambler
 Game theory alla matematiker var gamblers
 
 Prisoners dilemma - 2 prisoners
-
+- dilemma boils down to trust
+- basically om gola elr inte
+- 
 
