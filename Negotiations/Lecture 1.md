@@ -52,3 +52,5 @@ A type solution - power, profit,
 
 C type - discussion tends to be more on fairness, win-win, more relationship oriented, future oriented
 
+
+
