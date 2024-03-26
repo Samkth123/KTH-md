@@ -86,4 +86,5 @@ basic game theory says:
 4. Be **clear** (communicate)
 	1. if one wants a win win deal one should communicate that
 		1. this could also be used for bluffing and cheating hehe
-Trust in nego
+
+Trust in negotiation terms often has to do with negative consequences
