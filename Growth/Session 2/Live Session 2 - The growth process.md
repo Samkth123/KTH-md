@@ -66,6 +66,6 @@ First of its kind - benchmark to others
 Simplistic
 Limited
 
-Different phases and each phase begins with creativity/growth and then you come to a crisis and when each crisis is dealt with you come to next growing stage. 
+Different phases and each phase begins with growth (evolution) and then you come to a crisis and when each crisis is dealt with you come to next growing stage. 
 
-h
+
