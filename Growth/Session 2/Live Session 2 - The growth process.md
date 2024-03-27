@@ -116,9 +116,15 @@ Models suggest that
 
 ### Growth modes
 Fancy word of how firms grow
+
 Organic growth
 or
-In
-Acquisitions, merger or minority investment = Equity investments
-Joint venture or strategic alliances = Partnership based
-Franchising or licensing = Replication/contract-based
+Inorganic growth:
+- Acquisitions, merger or minority investment = Equity investments
+- Joint venture or strategic alliances = Partnership based
+- Franchising or licensing = Replication/contract-based
+
+
+Organic growth means growing through own internal processes and resources.
+If grow internationally organically you start your own factory in another country
+- It relies on a consistent flow of ideas and deve
