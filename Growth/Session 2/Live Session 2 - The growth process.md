@@ -200,6 +200,8 @@ ex: starbucks
 Growth modes decisions relate to the general firm strategy: One reason Starbycjs entered several licesning deals with Nestle nad PepseCo and sold Tazo to Unilever was to generate money for their expansion in China
 
 
-Clas Holson - Growth Strategy
-
-Swe
+What is the difference between votes and equity
+- Not all shares have the same voting rights
+- B och A aktier?
+- Family firms usually sell 
+- 10% equity right is 10% of profit but does not have to do with how much vote you have 
