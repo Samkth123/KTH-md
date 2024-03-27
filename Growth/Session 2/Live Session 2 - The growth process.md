@@ -27,4 +27,8 @@ Focus on cash flow and profit and revenue
 Improving existing products
 
 #### Horizon 2
-Find new opportunities that could bring cash flow
+Find new opportunities that could bring cash flow and become significant revenue streams
+Example adjecent markets or new customer segments
+Goal is to turn these new opportunities into Horizon 1 businesses
+
+### Horizon 3
