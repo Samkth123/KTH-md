@@ -19,3 +19,6 @@ Then more mature state, and has increased bureaucratiation ex Co-ordingation, re
 
 Growth becomes a challenge when the firm grows but managers/foudners dont develop competence to manage it with its growth. The managerial capacity is low. Employees will suffer if this happens as well as the founders.
 
+
+
+Baghai
