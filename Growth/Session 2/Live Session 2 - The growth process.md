@@ -111,3 +111,7 @@ Models suggest that
 - firms go through ALL stages
 - best suited for organic growth
 - limited empirical evidence
+
+
+
+### Growth modes
