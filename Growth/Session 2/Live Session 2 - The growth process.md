@@ -92,7 +92,8 @@ Anything about company in one stage or other?
 limitation is that its not change over night, but the model is not explicit abouy how to handle the transitions
 
 
-What are the advantages and disa
+What are the advantages and disadvantages of all these models? The red thread?
+
 
 
 TODO hitta grupp å fråga om quizet om de multople choice å så elr...
