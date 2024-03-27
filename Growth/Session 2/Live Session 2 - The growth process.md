@@ -203,5 +203,5 @@ Growth modes decisions relate to the general firm strategy: One reason Starbycjs
 What is the difference between votes and equity
 - Not all shares have the same voting rights
 - B och A aktier?
-- Family firms usually sell 
+- Family firms usually sell equity shares but not voting shares
 - 10% equity right is 10% of profit but does not have to do with how much vote you have 
