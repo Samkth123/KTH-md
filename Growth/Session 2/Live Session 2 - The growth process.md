@@ -181,5 +181,7 @@ Firms primarly use acquisitions to secure subsequent organic growth ie to
 - Samsung and Spotify
 - Basically spotify has more seamless experience on samsung devices
 
-##### Franchising and licesning
+##### Franchising and licensning
+- Both entail replication, but licensing is less restricive than franchising
+- Licensing is more popular in creative industries and pharmaceutical industries
 
