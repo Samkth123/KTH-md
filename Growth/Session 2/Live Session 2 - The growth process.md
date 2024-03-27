@@ -153,3 +153,8 @@ Generally unable to fully replace organic growth
 Instead acquisitions:
 - should strengthen or transform present competitive advantages
 - may target under-valued companies or specific resources/competencies
+- may be a management buyouy (MBO, shareholder sell to existing managers)
+
+Firms primarly use acquisitions to secure subsequent organic growth ie to
+- Quickly gain minimum scale in new markets
+- Gain acces to specific capabilities (ex apple buyin)
