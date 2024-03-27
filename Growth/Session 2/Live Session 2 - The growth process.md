@@ -21,6 +21,8 @@ Growth becomes a challenge when the firm grows but managers/foudners dont develo
 
 
 
+
+The framework is designed to help companies ensure sustainable growth by managing different aspects of their business simultaneously
 #### Horizon 1
 Core business
 Focus on cash flow and profit and revenue
@@ -66,6 +68,6 @@ First of its kind - benchmark to others
 Simplistic
 Limited
 
-Different phases and each phase begins with growth (evolution) and then you come to a crisis and when each crisis is dealt with you come to next growing stage. 
+Different phases and each phase begins with growth (evolution) and then you come to a crisis (revolution) and when each crisis is dealt with you come to next growing stage. 
 
 
