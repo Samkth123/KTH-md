@@ -22,7 +22,8 @@ Growth becomes a challenge when the firm grows but managers/foudners dont develo
 
 
 
-The framework helps ensure sustainable growth as it makes you manage different aspects of the business simultaneously, so its not like the other models
+The framework helps ensure sustainable growth as it makes you manage different aspects of the business simultaneously, so its not like the other models.
+Basically has three levels of security i would sa
 #### Horizon 1
 Core business
 Focus on cash flow and profit and revenue
@@ -79,7 +80,7 @@ key difference from greiner is....
 ##### Adizes
 
 birth to death instead of birth to success
-
+drawbacks?
 
 ##### Diamond
 
