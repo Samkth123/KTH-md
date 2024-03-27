@@ -21,9 +21,11 @@ Growth becomes a challenge when the firm grows but managers/foudners dont develo
 
 
 
+##### Baghai 
 
 The framework helps ensure sustainable growth as it makes you manage different aspects of the business simultaneously, so its not like the other models.
-Basically has three levels of security i would sa
+
+Basically has three levels of security i would say, where horizon one is the most stable and horizon 3 the least.
 #### Horizon 1
 Core business
 Focus on cash flow and profit and revenue
