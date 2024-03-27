@@ -115,3 +115,4 @@ Models suggest that
 
 
 ### Growth modes
+Fancy word of how firms grow
