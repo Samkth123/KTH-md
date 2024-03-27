@@ -170,4 +170,9 @@ Firms primarly use acquisitions to secure subsequent organic growth ie to
 - Antitrust law can prevent mergers (ex critical industries like airlines)
 
 ##### Minority investments 
-- one company buying some part in another om
+- one company buying some part in another company, ex ANT FINANCIAL bought small stake in Klarna
+
+##### Joint ventures
+- Sony Ericsson
+- Special type of alliance which are explicit in goal and in terms and conditions
+- Usually make it because you want to tex develop fuel cell technology and its very contractual in as how much
