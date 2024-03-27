@@ -45,9 +45,11 @@ ex: AI research R&D
 #### ADVANTAGES
 More "real applicable"
 Easy to grasp
-Growth model that focuses on 
+Growth model that focuses on diversifying business - protects about sudden market changes
 
 
 #### Disadvantages
 Only for established businesses, and harder to use for smaller businesses
 - Small company can only focus on horizon 1
+
+Challenge of balancing resources, how much should be on first horion or 
