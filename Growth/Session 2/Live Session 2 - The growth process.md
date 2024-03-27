@@ -60,7 +60,7 @@ Each horizons need managing in their own way, and success in own does not mean s
 
 
 
-### Group discussion
+### Group discussion - använd ba chatGPT för att sammanfatta dessa grejerna sen när läst lixom
 
 ##### Greiner model
 
@@ -73,7 +73,7 @@ Different phases and each phase begins with growth (evolution) and then you come
 
 ##### Summarize churchill model
 
-key different
+key difference from greiner is....
 
 
 ##### Adizes
