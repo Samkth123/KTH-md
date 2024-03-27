@@ -26,21 +26,26 @@ Core business
 Focus on cash flow and profit and revenue
 Improving existing products
 
+ex: Ericsson 5G
+
 #### Horizon 2
 Find new opportunities that could bring cash flow and become significant revenue streams
 Example adjecent markets or new customer segments
 Goal is to turn these new opportunities into Horizon 1 businesses
 
+ex: Ericsson phones in the past 
+
 ### Horizon 3
 Look at trends and future innovations
-Plant seed for future growth
+Plant seed for future growth by investing in R&D
 
-
+ex: AI research R&D
 
 
 #### ADVANTAGES
 More "real applicable"
 Easy to grasp
+Growth model that focuses on 
 
 
 #### Disadvantages
