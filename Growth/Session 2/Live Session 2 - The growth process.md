@@ -110,4 +110,4 @@ Models suggest that
 - there is one path
 - firms go through ALL stages
 - best suited for organic growth
-- limited empirical evidenve
+- limited empirical evidence
