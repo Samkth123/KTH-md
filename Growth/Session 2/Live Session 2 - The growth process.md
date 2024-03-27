@@ -193,4 +193,8 @@ Firms primarly use acquisitions to secure subsequent organic growth ie to
 
 Dominant entry mode: many companies ahve dominant entry mode, a mode they use most times/always ex H&M organic, subway franchsiing, Hello Kitty licensing
 
-Mixed entry mode: 
+Mixed entry mode: Many companies alternate modes depending on the brand and geographical location
+
+ex: startbucks
+
+Growth modes decisions relate to the general firm strategy: One reason Starbycjs entered several licesning deals with Nestle nad PepseCo and sold Tazo to Unilever was to generate money for their ex
