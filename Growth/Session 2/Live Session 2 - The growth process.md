@@ -184,4 +184,6 @@ Firms primarly use acquisitions to secure subsequent organic growth ie to
 ##### Franchising and licensning
 - Both entail replication, but licensing is less restricive than franchising
 - Licensing is more popular in creative industries and pharmaceutical industries
+	- Basically in industries where there is a recipe to replicate
+- Licensing also common for startup where you can give license of your product to larger company
 
