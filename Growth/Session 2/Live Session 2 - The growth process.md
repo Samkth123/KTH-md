@@ -143,4 +143,8 @@ Three main types of innovation
 - Process innovation (operational efficiency) ex Ford or porsche here operation efficiceny is important because drives down cost
 
 ##### Growth by acquisition
-Acquisitive growth is 
+Acquisitive growth is growth achived by firm external sources typically taking control of or merging with other companies
+- Relies on synergies or other added value 1+ 1 > 2
+- Often fails to deliver shareholder returns due to integration related challenges
+
+Generally unable to fully replace organic growth
