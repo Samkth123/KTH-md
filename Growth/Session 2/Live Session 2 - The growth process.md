@@ -78,6 +78,11 @@ key difference from greiner is....
 
 ##### Adizes
 
+birth to death instead of birth to success
 
 
 ##### Diamond
+
+
+
+TODO hitta grupp å fråga om quizet om de multople choice å så elr...
