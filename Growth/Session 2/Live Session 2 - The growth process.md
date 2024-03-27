@@ -87,7 +87,7 @@ drawbacks?
 ##### Diamond
 
 Anything about company in one stage or other?
-limitation is 
+limitation is that its not change over night, but the model is not explicit abouy how to handle the transitions
 
 
 TODO hitta grupp å fråga om quizet om de multople choice å så elr...
