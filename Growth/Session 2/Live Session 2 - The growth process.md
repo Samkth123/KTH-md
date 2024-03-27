@@ -22,7 +22,7 @@ Growth becomes a challenge when the firm grows but managers/foudners dont develo
 
 
 
-The framework is designed to help companies ensure sustainable growth by managing different aspects of their business simultaneously
+The framework helps ensure sustainable growth as it makes you manage different aspects of the business simultaneously, so its not like the other models
 #### Horizon 1
 Core business
 Focus on cash flow and profit and revenue
@@ -71,3 +71,13 @@ Limited
 Different phases and each phase begins with growth (evolution) and then you come to a crisis (revolution) and when each crisis is dealt with you come to next growing stage. 
 
 
+##### Summarize churchill model
+
+key different
+
+
+##### Adizes
+
+
+
+##### Diamond
