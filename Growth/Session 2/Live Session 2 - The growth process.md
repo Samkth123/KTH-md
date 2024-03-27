@@ -133,4 +133,7 @@ Generally found to drive long-term performance
 Howere it is challenging and requires:
 -  continuously challenging existing think and prcatices
 - being tuned in to changes in the market
-- rigourous 
+- rigourous customer monitoring and
+- efficient internal control and communication
+
+Innovation is 
