@@ -52,4 +52,6 @@ Growth model that focuses on diversifying business - protects about sudden marke
 Only for established businesses, and harder to use for smaller businesses
 - Small company can only focus on horizon 1
 
-Challenge of balancing resources, how much should be on first horion or 
+Challenge of balancing resources, how much should be spent on second horizon
+
+Each horizons need managing in t
