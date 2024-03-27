@@ -21,4 +21,10 @@ Growth becomes a challenge when the firm grows but managers/foudners dont develo
 
 
 
-Baghai
+#### Horizon 1
+Core business
+Focus on cash flow and profit and revenue
+Improving existing products
+
+#### Horizon 2
+Find new opportunities that could bring cash flow
