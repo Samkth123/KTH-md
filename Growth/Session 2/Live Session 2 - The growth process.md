@@ -32,3 +32,14 @@ Example adjecent markets or new customer segments
 Goal is to turn these new opportunities into Horizon 1 businesses
 
 ### Horizon 3
+
+
+
+
+
+#### ADVANTAGES
+
+
+#### Disadvantages
+Only for established businesses, and harder to use for smaller businesses
+- Small company can only focus on horizon 1
