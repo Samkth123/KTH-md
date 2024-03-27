@@ -187,3 +187,10 @@ Firms primarly use acquisitions to secure subsequent organic growth ie to
 	- Basically in industries where there is a recipe to replicate
 - Licensing also common for startup where you can give license of your product to larger company
 
+
+^^^ All these notes are pretty simplified
+#### Growth mode strategy
+
+Dominant entry mode: many companies ahve dominant entry mode, a mode they use most times/always ex H&M organic, subway franchsiing, Hello Kitty licensing
+
+Mixed entry mode: 
