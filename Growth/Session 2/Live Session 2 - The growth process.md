@@ -97,3 +97,4 @@ What are the advantages and disadvantages of all these models? The red thread?
 
 
 TODO hitta grupp å fråga om quizet om de multople choice å så elr...
+Till nästa lektion gå igenom advantages å disadvantages of dessa grejer
