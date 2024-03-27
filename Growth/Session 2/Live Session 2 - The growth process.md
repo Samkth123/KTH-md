@@ -140,4 +140,7 @@ Innovation is a key driver of organic growth
 Three main types of innovation
 - product innovation (ex R&D ) ex IBM
 - Market innovation (business model innovation - finding new ways to deliver value)ex IKEA
-- Process innovation ex
+- Process innovation (operational efficiency) ex Ford or porsche here operation efficiceny is important because drives down cost
+
+##### Growth by acquisition
+Acquisitive growth is 
