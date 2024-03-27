@@ -17,4 +17,5 @@ Then moves on to stage where firm has achieved som milestone, example first prod
 
 Then more mature state, and has increased bureaucratiation ex Co-ordingation, resource-matruiry, bereaucracy
 
-Growth becomes a challenge when the firm grows but managers/foudners dont develop competence to manage it with its growth. The managerial capacity is low. Employees will suffer if this happens as wel
+Growth becomes a challenge when the firm grows but managers/foudners dont develop competence to manage it with its growth. The managerial capacity is low. Employees will suffer if this happens as well as the founders.
+
