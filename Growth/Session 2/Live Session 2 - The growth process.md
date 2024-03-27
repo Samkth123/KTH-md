@@ -116,3 +116,9 @@ Models suggest that
 
 ### Growth modes
 Fancy word of how firms grow
+Organic growth
+or
+In
+Acquisitions, merger or minority investment = Equity investments
+Joint venture or strategic alliances = Partnership based
+Franchising or licensing = Replication/contract-based
