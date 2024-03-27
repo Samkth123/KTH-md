@@ -136,4 +136,8 @@ Howere it is challenging and requires:
 - rigourous customer monitoring and
 - efficient internal control and communication
 
-Innovation is 
+Innovation is a key driver of organic growth
+Three main types of innovation
+- product innovation (ex R&D ) ex IBM
+- Market innovation (business model innovation - finding new ways to deliver value)ex IKEA
+- Process innovation ex
