@@ -54,4 +54,13 @@ Only for established businesses, and harder to use for smaller businesses
 
 Challenge of balancing resources, how much should be spent on second horizon
 
-Each horizons need managing in t
+Each horizons need managing in their own way, and success in own does not mean success in another
+
+
+
+### Group discussion
+
+##### Greiner model
+
+First of its kind - benchmark to others
+
