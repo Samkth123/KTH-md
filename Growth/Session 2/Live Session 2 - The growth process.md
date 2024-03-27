@@ -23,6 +23,7 @@ Growth becomes a challenge when the firm grows but managers/foudners dont develo
 
 ##### Baghai 
 
+The point 
 The framework helps companies have sustainable growth as it makes you manage different aspects of the business simultaneously, so its not like the other models.
 
 Basically has three levels of security i would say, where horizon one is the most stable and horizon 3 the least.
