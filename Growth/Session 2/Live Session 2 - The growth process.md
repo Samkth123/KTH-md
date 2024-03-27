@@ -125,6 +125,12 @@ Inorganic growth:
 - Franchising or licensing = Replication/contract-based
 
 
+##### Organic growth
 Organic growth means growing through own internal processes and resources.
 If grow internationally organically you start your own factory in another country
-- It relies on a consistent flow of ideas and deve
+- It relies on a consistent flow of ideas and development
+Generally found to drive long-term performance
+Howere it is challenging and requires:
+-  continuously challenging existing think and prcatices
+- being tuned in to changes in the market
+- rigourous 
