@@ -156,5 +156,7 @@ Instead acquisitions:
 - may be a management buyouy (MBO, shareholder sell to existing managers)
 
 Firms primarly use acquisitions to secure subsequent organic growth ie to
-- Quickly gain minimum scale in new markets
-- Gain acces to specific capabilities (ex apple buyin)
+- Quickly gain minimum scale in new markets (coca cola buying a company in china to go there quicker)
+- Gain acces to specific capabilities (ex apple buying beats for its music tech)
+
+##### Other growth modes
