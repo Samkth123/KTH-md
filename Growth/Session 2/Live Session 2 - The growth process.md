@@ -98,3 +98,16 @@ What are the advantages and disadvantages of all these models? The red thread?
 
 TODO hitta grupp å fråga om quizet om de multople choice å så elr...
 Till nästa lektion gå igenom advantages å disadvantages of dessa grejer
+
+#### PROS AND CONS OF STAGE MODELS
+pros:
+Many entreprenours 
+- can locate their venture in one of the stages
+- find the models useful to pinpoint potential problems and think about solutions
+
+Cons:
+Models suggest that
+- there is one path
+- firms go through ALL stages
+- best suited for organic growth
+- limited empirical evidenve
