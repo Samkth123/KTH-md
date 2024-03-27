@@ -162,7 +162,12 @@ Firms primarly use acquisitions to secure subsequent organic growth ie to
 
 
 ##### Other growth modes
-Growth by merger
+
+##### Growth by merger
 - in practice similar to acquisitions
 - More common among large corporations
-- Post-deal integration is challenging (costs, conflicting interestest and cu)
+- Post-deal integration is challenging (costs, conflicting interestest and cultures)
+- Antitrust law can prevent mergers (ex critical industries like airlines)
+
+##### Minority investments 
+- one company buying some part in another om
