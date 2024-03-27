@@ -23,7 +23,8 @@ Growth becomes a challenge when the firm grows but managers/foudners dont develo
 
 ##### Baghai 
 
-The point 
+The point of this model is that something that is experimental can have potential and you put more investments into it and make it maybe horizon 2 or horizon 1...
+
 The framework helps companies have sustainable growth as it makes you manage different aspects of the business simultaneously, so its not like the other models.
 
 Basically has three levels of security i would say, where horizon one is the most stable and horizon 3 the least.
