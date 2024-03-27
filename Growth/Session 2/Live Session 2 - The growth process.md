@@ -11,8 +11,10 @@ t.ex. Norrsken, BLING startup, osv...
 Life cycle models
 Usually include 3 stages.
 
-First is founder important, the type of company where you just go to founder to ask something if you are employee
+First is founder important, the type of company where you just go to founder to ask something if you are employee ex creativity stage or existence stage 
 
 Then moves on to stage where firm has achieved som milestone, example first product or market success things. Ex Direction, gogo stage, ...
 
-Then more mature state, and has increased bureaucratiation ex Co-ordingation, resource-matruiry, bereauc
+Then more mature state, and has increased bureaucratiation ex Co-ordingation, resource-matruiry, bereaucracy
+
+Growth becomes a challenge when the firm grows but managers/foudners dont develop competence to manage it with its growth. The managerial capacity is low. Employees will suffer if this happens as wel
