@@ -175,4 +175,11 @@ Firms primarly use acquisitions to secure subsequent organic growth ie to
 ##### Joint ventures
 - Sony Ericsson
 - Special type of alliance which are explicit in goal and in terms and conditions
-- Usually make it because you want to tex develop fuel cell technology and its very contractual in as how much
+- Usually make it because you want to tex develop fuel cell technology and its very contractual in as how much u get and how long
+
+##### Strategic alliances
+- Samsung and Spotify
+- Basically spotify has more seamless experience on samsung devices
+
+##### Franchising and licesning
+
