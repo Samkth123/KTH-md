@@ -195,6 +195,11 @@ Dominant entry mode: many companies ahve dominant entry mode, a mode they use mo
 
 Mixed entry mode: Many companies alternate modes depending on the brand and geographical location
 
-ex: startbucks
+ex: starbucks
 
-Growth modes decisions relate to the general firm strategy: One reason Starbycjs entered several licesning deals with Nestle nad PepseCo and sold Tazo to Unilever was to generate money for their ex
+Growth modes decisions relate to the general firm strategy: One reason Starbycjs entered several licesning deals with Nestle nad PepseCo and sold Tazo to Unilever was to generate money for their expansion in China
+
+
+Clas Holson - Growth Strategy
+
+Swe
