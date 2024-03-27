@@ -147,4 +147,9 @@ Acquisitive growth is growth achived by firm external sources typically taking c
 - Relies on synergies or other added value 1+ 1 > 2
 - Often fails to deliver shareholder returns due to integration related challenges
 
+Need to do this in a way employees of acquired company wants to stay
 Generally unable to fully replace organic growth
+
+Instead acquisitions:
+- should strengthen or transform present competitive advantages
+- may target under-valued companies or specific resources/competencies
