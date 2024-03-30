@@ -220,7 +220,7 @@ What is the difference between votes and equity
 
 - **Linear Progression Assumption**: Assumes organizations will move through stages in a linear fashion, which may not always be the case in a dynamic business environment.
 - **One-Size-Fits-All Approach**: May not account for the unique aspects of different industries or the impact of external factors like technology and market changes.
-- a
+- Also, different parts of an organisation move at different speeds?
 
 ### 2. Churchill and Lewis Growth Model
 
