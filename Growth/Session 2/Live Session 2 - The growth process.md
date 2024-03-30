@@ -61,7 +61,7 @@ Only for established businesses, and harder to use for smaller businesses
 
 Challenge of balancing resources, how much should be spent on second horizon
 
-Each horizons need managing in their own way, and success in own does not mean success in another
+Each horizons need managing in their own way, and success in one does not mean success in another
 
 
 
