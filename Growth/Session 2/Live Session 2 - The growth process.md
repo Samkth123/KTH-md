@@ -206,6 +206,13 @@ What is the difference between votes and equity
 - Family firms usually sell equity shares but not voting shares
 - 10% equity right is 10% of profit but does not have to do with how much vote you have 
 
+-
+-
+-
+-
+-
+-
+-
 
 ### 1. Greiner’s Growth Model
 
