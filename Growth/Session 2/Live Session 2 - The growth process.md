@@ -213,6 +213,7 @@ What is the difference between votes and equity
 -
 -
 -
+-
 
 ### 1. Greiner’s Growth Model
 
