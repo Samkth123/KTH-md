@@ -83,3 +83,7 @@ When decision-makers’ beliefs were unaffected by a trigger, they rejected the 
 - Decisionmakers only chose to change their strategies after the beliefs underlying that strategy were affected by new information. 
 - Decision-makers affected by a problem trigger accepted that the new information conflicted with their beliefs and chose a strategic exit without identifying a replacement strategy. 
 - When decision-makers’ beliefs were affected by an unanticipated opportunity, they expanded their beliefs and made a strategic addition, adding a new element to their strategy.
+
+
+**Inte viktigt info, bara intro till nästa del:** In sum, we found that the type of strategic change selected depended on the relationship between the favorability of the new information that triggered decision-making and the decision-makers’ beliefs about their firm's strategy. But not all strategic changes produced a pivot. By analyzing each firm's pattern of decision-making over time, we assessed how and when decisions about strategic change accumulated into a pivot and reoriented the firms’ strategy.
+### WHEN DOES STRATEGIC CHANGE BECOME A PIVOT?
