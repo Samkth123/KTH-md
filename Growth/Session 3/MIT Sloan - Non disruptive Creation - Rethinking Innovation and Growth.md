@@ -22,3 +22,5 @@ Part of nondisruptive creation’s appeal is that it breaks this trade-off. It i
 Most companies today focus their efforts on what it would take to disrupt existing markets. 
 - This narrows their vision and blinds them to the wealth of nondisruptive, market-creating innovations they could unlock. 
 - For established companies and startups alike, a nondisruptive approach creates several distinctive advantages:
+	- Making execution emotionally and politically easier
+		- Disruption will kill yo
