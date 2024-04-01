@@ -47,3 +47,7 @@ Focusing on only one leads to a biased view of what’s possible and limits a co
 
 Which innovation strategies drive disruption, and which drive nondisruptive creation? 
 - The answer comes down to the type of issue a company sets out to address as it launches its innovation strategies.
+
+There are three basic ways to pursue innovation. Companies can: 
+- Offer a breakthrough solution to an industry’s existing problem. 
+- Identify and solve a brand-new problem or seize a brand-new opportunity. • Redefine an existing industry problem and solve the redefined problem. Let’s look at how each approach strikes a different balance between disruptive and nondisruptive creation
