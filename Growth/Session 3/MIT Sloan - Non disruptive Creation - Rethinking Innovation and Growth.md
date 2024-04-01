@@ -59,5 +59,19 @@ There are three basic ways to pursue innovation. Companies can:
 - **Redefine an existing industry problem and solve the redefined problem. **
 	- Innovation strategies that redefine an existing industry problem and solve the redefined problem lead to both disruptive and nondisruptive creation. 
 	- Problem redefinition allows an organization to question long-held assumptions and shift industry boundaries in creative ways
+	- Take the case of Nintendo’s Wii. 
+		- It redefined the problem the video console industry had long focused on from how to have the fastest, highest-resolution graphic video console to how to deliver an easy-touse console that combined the movement of physical sports with family-friendly games everyone could play together at home. 
+		- The Wii’s family-friendly games were easy to understand and play, and their operation was governed by motion, not button pushing. 
+		- The Wii drew a slice of demand from the existing video game console industry, creating an element of disruption, but it also expanded the industry in a nondisruptive manner by attracting a mass of people — from young children to senior citizens — who had never played video games.
+	- Solving a brand-new problem or seizing a brand-new opportunity drives nondisruptive creation. And redefining an existing industry problem and solving the redefined problem draws on elements of both disruptive and nondisruptive creation.
 
-Let’s look at how each approach strikes a different balance between disruptive and nondisruptive creation
+
+### How to Spot Potential for Nondisruptive Creation
+
+What makes some leaders effective at identifying brand-new problems to solve or brand-new opportunities to seize? Our research indicates that they think about innovation in a distinctive way. 
+
+Fundamentally, they follow three steps.
+
+- **First**, they tend to think deeply about burning but overlooked issues in the world, in their industry, or in their vocation that they truly care about and that people or organizations are struggling with. 
+	- Caring deeply is a fairly reliable indicator that an issue is of central importance, and if people or organizations are struggling with it, that suggests a gateway to an unaddressed problem or a brand-new opportunity.
+	- **Ask yourself this simple but profound question**: What burning but overlooked issue with which people or organizations are struggling in the world, in your industry, or in your vocation do you care deeply about?
