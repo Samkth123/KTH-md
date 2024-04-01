@@ -18,9 +18,22 @@ It can be boiled down to six simple categories:
 - Innovation budgets are finite, so allocations of your scarce resources should reduce risk and focus on the best bets. It needs to be balanced for maximum return the same way a retirement fund needs to be balanced among high and low risks and rewards.
 
 
+### How to spread innovation budget
+
+The easiest goal in the innovation pie is to maintain relevance to your core market through enhancements — with new features for your current offerings or the experiences that deliver them. It’s easy because it focuses on a market you already know and on products you already know how to deliver. A company will seldom question allocating the largest portion of its innovation budget to these activities (40%–60%).
+
+A smaller portion (10%–20%) is allocated to reaching new customers with what you know how to deliver. This low-investment, fail-fast, test-the-waters approach is more akin to how a private equity investor might approach innovation, making many small bets and quickly abandoning those that fail to get traction. The key is fast experimentation through lean, agile approaches
+
+Another 10%–20% is likely to go toward differentiation — developing new offerings before the competition does. These are things you’re not sure how to deliver, but you know the market wants them, making it worth trying to figure out. Efforts like these carry greater risks but promise greater rewards if you’re first to market.
+
+That leaves the smallest portion (5%–10%) for focused bets on revolutionary, high-risk opportunities with new offerings to new customers. In this quadrant, you focus on a big idea, using agile approaches to break it apart to see which elements drive value through continuous assessments of desirability, since you don’t know for sure what the market values (even the idea itself). If you continue to clear hurdles, you stand a chance to launch a game-changer that fills an unmet need. You just have to test and experiment quickly
+
+^^Dessa uppe liknar 3 horizons grejen
 
 
+New models — new ways of delivering — can fall anywhere in the innovation portfolio, as do build, buy, or partner decisions. Knowing the type of growth that your initiatives represent and their place in the portfolio helps determine which to pursue and how, including acquiring a startup that may hold a key to the puzzle — intentionally identified by targeted criteria, which are de-risked by researching and identifying unmet needs in the market.
 
+Knowing how growth happens, and the best ways to focus your organization’s efforts to grow, is as critical as allocating investments across the innovation risk-reward spectrum for maximum returns. Doing so works better than placing random bets on the latest startup in the hopes of getting lucky. Or worse, betting on one silver bullet that misfires.
 
 
 
