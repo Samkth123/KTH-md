@@ -19,3 +19,11 @@ First, the strategic change literature theorizes that firms are motivated to cha
 
 Second, examination of strategic change tends to equate change as positive, often assuming that strategic change was the correct and necessary decision, rather than evaluating what prompted decision-makers to select or reject change contemporaneously. 
 - For example, Barr et al. (1992) define the alternative to strategic change as strategic decline
+
+^^^allt ovan är onödigt egenltligen
+
+
+### WHEN FIRMS DECIDE TO CHANGE THEIR STRATEGIES
+
+When confronted with information triggers that prompted a new strategy question, decisionmakers considered strategic change. In these moments, entrepreneurs began to question their commitment to their current strategy—indicating some degree of receptivity to change (e.g., Gavetti & Rivkin, 2007). 
+- All firms encountered two types of triggers during the time of study: Problems and opportunities
