@@ -33,3 +33,7 @@ Most companies today focus their efforts on what it would take to disrupt existi
 		- The company that had sea travel instead started offering luxury cruises to public
 			- Cunard opened up the entire cruise tourism industry.
 	- Avoiding Goliath
+		- When companies — especially startups — set out to disrupt an existing market, they often face well-entrenched market leaders with far greater financial and marketing resources.
+	- Reducing conflicts with social interest groups and government agencies
+		- When the social costs incurred by disruption become too great, social interest groups and government agencies often lobby against, clamp down on, rein in, or tax the disruptor. 
+		- Consider how city after city has attempted to impose regulations and penalties to stymie Uber’s ability to maneuver and expand
