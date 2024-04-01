@@ -77,3 +77,9 @@ The type of strategic change firms chose depended on the favorability of the new
 		- In other words, having a strategy gap did not in itself trigger a subsequent strategic decision. 
 		- When strategic exits happened, the entrepreneurial teams in our study continued to work on fundraising, technology, and market development until they acquired new information in the form of an opportunity that triggered a new strategy question.
 - Strategic additions were triggered only by opportunities.
+
+
+When decision-makers’ beliefs were unaffected by a trigger, they rejected the option to change their strategies
+- Decisionmakers only chose to change their strategies after the beliefs underlying that strategy were affected by new information. 
+- Decision-makers affected by a problem trigger accepted that the new information conflicted with their beliefs and chose a strategic exit without identifying a replacement strategy. 
+- When decision-makers’ beliefs were affected by an unanticipated opportunity, they expanded their beliefs and made a strategic addition, adding a new element to their strategy.
