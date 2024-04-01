@@ -70,5 +70,6 @@ When new information stimulated decision-makers to question their current strate
 
 
 The type of strategic change firms chose depended on the favorability of the new information that triggered decision-making. 
-- Strategic exits were triggered only by problems while 
+- Strategic exits were triggered only by problems 
+	- In each case when firms chose a strategic exit, they made that choice without knowing what would fill the hole in their strategy.
 - Strategic additions were triggered only by opportunities.
