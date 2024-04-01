@@ -64,3 +64,9 @@ When new information stimulated decision-makers to question their current strate
 
 ##### Choosing strategic change
 - In these cases, when decision-makers found that new information conflicted with or expanded the beliefs they held about their firms, their technologies, or their strategies, they opted to change some element of the firm's strategy
+- As these examples illustrate, the entrepreneurial firms in our study that chose strategic change did not do so to renew a formerly successful strategy or as a means to respond to competitive pressures from others. 
+	- Rather, they chose to change their strategies after new information conflicted with or expanded the beliefs they held about their firms, their technologies, or their strategies.
+
+
+
+The type of strategic change firms chose depended on the favorability of the new information that triggered decision-making. Strategic exits were triggered only by problems while strategic additions were triggered only by opportunities.
