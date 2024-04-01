@@ -72,5 +72,8 @@ When new information stimulated decision-makers to question their current strate
 The type of strategic change firms chose depended on the favorability of the new information that triggered decision-making. 
 - Strategic exits were triggered only by problems 
 	- In each case when firms chose a strategic exit, they made that choice without knowing what would fill the hole in their strategy.
-	- After decision-makers at these three firms (entrepreneurial firms) encountered problems that conflicted with their beliefs, they chose a strategic exit. Unlike the “trimming” of strategy elements done at mature firms like Vanguard (Siggelkow, 2002), when entrepreneurial firms in our study made a strategic exit, this decision left a gap in their strategies with no backup or alternative strategy to fill this gap. In other words, having a strategy gap did not in itself trigger a subsequent strategic decision. When strategic exits happened, the entrepreneurial teams in our study continued to work on fundraising, technology, and market development until they acquired new information in the form of an opportunity that triggered a new strategy question.
+	- After decision-makers at these three firms (entrepreneurial firms) encountered problems that conflicted with their beliefs, they chose a strategic exit. 
+		- Unlike the “trimming” of strategy elements done at mature firms like Vanguard, when entrepreneurial firms in our study made a strategic exit, this decision left a gap in their strategies with no backup or alternative strategy to fill this gap. 
+		- In other words, having a strategy gap did not in itself trigger a subsequent strategic decision. 
+		- When strategic exits happened, the entrepreneurial teams in our study continued to work on fundraising, technology, and market development until they acquired new information in the form of an opportunity that triggered a new strategy question.
 - Strategic additions were triggered only by opportunities.
