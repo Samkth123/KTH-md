@@ -4,3 +4,4 @@ A pivot is in Lean Startup methodology a "structural course correction"
 
 “the central strategic challenge for an entrepreneur is how to choose their strategy"
 
+Entrepreneurial firms that cultivate user communities who strongly identify with the firm can be threatened by a pivot
