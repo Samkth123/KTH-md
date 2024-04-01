@@ -23,4 +23,6 @@ Most companies today focus their efforts on what it would take to disrupt existi
 - This narrows their vision and blinds them to the wealth of nondisruptive, market-creating innovations they could unlock. 
 - For established companies and startups alike, a nondisruptive approach creates several distinctive advantages:
 	- Making execution emotionally and politically easier
-		- Disruption will kill yo
+		- Disruption will kill your own industry if you are an established company there
+		- ex Kodak created the first digital camera but tried to withstand distruption so konkurs
+		- Management can put undue overhead or starve the disruptive sector of resources to not risk their jobs
