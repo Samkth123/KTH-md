@@ -38,3 +38,12 @@ Most companies today focus their efforts on what it would take to disrupt existi
 		- When the social costs incurred by disruption become too great, social interest groups and government agencies often lobby against, clamp down on, rein in, or tax the disruptor. 
 		- Consider how city after city has attempted to impose regulations and penalties to stymie Uber’s ability to maneuver and expand
 		- Since nondisruptive creation doesn’t displace existing businesses and livelihoods, it imposes minimal adjustment costs on society and allows companies to largely avoid these negative issues.
+
+### An expanded view of innovation and growth
+
+We need a model that recognizes and embraces both disruptive and nondisruptive creation, since they are complementary engines of growth. 
+
+Focusing on only one leads to a biased view of what’s possible and limits a company’s potential to create the markets of tomorrow.
+
+Which innovation strategies drive disruption, and which drive nondisruptive creation? 
+- The answer comes down to the type of issue a company sets out to address as it launches its innovation strategies.
