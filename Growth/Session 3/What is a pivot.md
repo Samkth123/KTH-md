@@ -86,6 +86,7 @@ When decision-makers’ beliefs were unaffected by a trigger, they rejected the 
 
 
 **Inte viktigt info, bara intro till nästa del:** In sum, we found that the type of strategic change selected depended on the relationship between the favorability of the new information that triggered decision-making and the decision-makers’ beliefs about their firm's strategy. But not all strategic changes produced a pivot. By analyzing each firm's pattern of decision-making over time, we assessed how and when decisions about strategic change accumulated into a pivot and reoriented the firms’ strategy.
+
 ### WHEN DOES STRATEGIC CHANGE BECOME A PIVOT?
 
 When entrepreneurial firms chose to change their strategies, they changed only one element in their strategies at a time.
@@ -94,3 +95,6 @@ When entrepreneurial firms chose to change their strategies, they changed only o
 
 Firm strategies evolved as decision-makers made strategy exits and additions after new information acquired during the process of developing new innovations triggered strategic decision-making. 
 - When firms chose to make a strategic exit, they left a significant gap in their strategies, which was left unaddressed until decision-makers confronted a new opportunity and opted to make a strategic addition that could address this strategy gap
+- When firms chose to make a strategic addition, they did not inherently redefine the direction of the firm with one decision. 
+
+Firms that pivoted did so through the gradual accumulation of multiple strategic decisions over time, adding and exiting elements to their strategy, rather than reorienting the firm's strategy with one decision
