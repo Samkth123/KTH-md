@@ -100,7 +100,7 @@ Firm strategies evolved as decision-makers made strategy exits and additions aft
 Firms that pivoted did so through the gradual accumulation of multiple strategic decisions over time, adding and exiting elements to their strategy, rather than reorienting the firm's strategy with one decision
 
 
-Bästa förklarin
+**Bästa förklaringen av pivot och vad det är:**
 - A pivot was not produced with a single decision to change the firm from one strategy to another, but rather the product of multiple independently triggered decisions that unfold over time.
 
 - A firm pivots by exiting and adding elements to a strategy one at a time, eventually producing a cumulative reallocation or restructuring of activities, resources, and attention
