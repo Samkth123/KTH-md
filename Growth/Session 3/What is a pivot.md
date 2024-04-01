@@ -11,3 +11,7 @@ firms make a strategic change when they perceive a performance gap between their
 - entrepreneurial firms without
 
 In other words, a learning-from-doing strategy may be more relevant to entrepreneurial firms than the identification of a performance gap
+
+
+First, the strategic change literature theorizes that firms are motivated to change when new information illuminates a gap between a firm's target outcome and its expected performance
+- However, firms in uncertain contexts can amass volumes of data that elicit conflicting interpretations, so such comparisons can be unclear.
