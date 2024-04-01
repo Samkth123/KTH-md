@@ -59,3 +59,5 @@ When new information stimulated decision-makers to question their current strate
 
 ##### Neglecting strategic change
 - New information alligns with existing beliefs
+- Firms may also neglect strategic change if decision-makers perceive that the new information, while potentially valuable, does not justify the risks associated with altering their strategic direction
+- In cases where the new information is ambiguous or does not create a sense of urgency, firms may choose to maintain their current strategic direction. - can adopt wait and see approach
