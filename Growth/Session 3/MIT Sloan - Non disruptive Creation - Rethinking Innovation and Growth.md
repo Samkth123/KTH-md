@@ -17,3 +17,8 @@ Nondisruptive creation is just as much a modern phenomenon. Microfinance, Viagra
 Disruption unlocks growth and creates compelling value for end users, but at painful adjustment costs for societies. It imposes a trade-off. Shuttered companies, lost jobs, and hurt communities are inherent by-products, as market creation and market destruction are inextricably linked
 
 Part of nondisruptive creation’s appeal is that it breaks this trade-off. It increases the economic pie with minimal to no social pain. It’s a positivesum approach to innovation, as opposed to the zero-sum nature of disruption.
+
+
+Most companies today focus their efforts on what it would take to disrupt existing markets. 
+- This narrows their vision and blinds them to the wealth of nondisruptive, market-creating innovations they could unlock. 
+- For established companies and startups alike, a nondisruptive approach creates several distinctive advantages:
