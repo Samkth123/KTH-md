@@ -26,3 +26,6 @@ Most companies today focus their efforts on what it would take to disrupt existi
 		- Disruption will kill your own industry if you are an established company there
 		- ex Kodak created the first digital camera but tried to withstand distruption so konkurs
 		- Management can put undue overhead or starve the disruptive sector of resources to not risk their jobs
+		- Nondisruptive innovation is more non threatening
+	- Offering a good counterresponse to disruption.
+		- Nondisruptive creation can be an effective way to respond to market disruptors.
