@@ -39,3 +39,8 @@ Despite the fact that six out of seven firms chose to make a strategic change at
 
 ### When is a firm's strategy at risk for change?
 
+When a team encountered new information that aligned with or confirmed their expectations, the firm continued with its activities unaffected. 
+
+When new information stimulated decision-makers to question their current strategy, they were prompted to engage in strategic decision-making. 
+- In these moments, decision-makers considered strategy change. 
+- Triggers that prompted strategy questions varied in the favorability of the potential impact on the firm
