@@ -49,10 +49,13 @@ Which innovation strategies drive disruption, and which drive nondisruptive crea
 - The answer comes down to the type of issue a company sets out to address as it launches its innovation strategies.
 
 There are three basic ways to pursue innovation. Companies can: 
-- Offer a breakthrough solution to an industry’s existing problem. 
+- **Offer a breakthrough solution to an industry’s existing problem. **
 	- This is distruptive
 	- ex: CDs mkaing storage and listening to many songs without cackling break like cassets, then ipods taking over from CDs, then smartphones effect on ipods
-- Identify and solve a brand-new problem or seize a brand-new opportunity.
-- Redefine an existing industry problem and solve the redefined problem. 
+- **Identify and solve a brand-new problem or seize a brand-new opportunity.**
+	- On the other end of the spectrum, we have nondisruptive creation
+	- Here, organizations that identify and solve brand-new problems or seize brand-new opportunities create new markets beyond industry boundaries, rather than eating at the margins or the core of existing industries.
+	- Viagra identified and solved a problem that had not been previously addressed, spawning all new demand
+- **Redefine an existing industry problem and solve the redefined problem. **
 
 Let’s look at how each approach strikes a different balance between disruptive and nondisruptive creation
