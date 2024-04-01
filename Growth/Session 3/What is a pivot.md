@@ -27,3 +27,9 @@ Second, examination of strategic change tends to equate change as positive, ofte
 
 When confronted with information triggers that prompted a new strategy question, decisionmakers considered strategic change. In these moments, entrepreneurs began to question their commitment to their current strategy—indicating some degree of receptivity to change (e.g., Gavetti & Rivkin, 2007). 
 - All firms encountered two types of triggers during the time of study: Problems and opportunities
+
+Despite the fact that six out of seven firms chose to make a strategic change at least once during the period of study, only three firms ultimately pivoted. 
+- However, a pivot did not occur as the product of one decision. When firm decision-makers chose to make a strategic change, they changed one element of their strategy at a time, but not the overall strategy. 
+- When pivots did occur, they unfolded through an accumulation of incremental strategic decisions, independently triggered by either problems or opportunities
+
+**Strategic Change** is considered any alteration in the firm's strategy, which can include changes in products, markets, technologies, or organizational processes. These changes can be prompted by new information that conflicts with the firm’s existing beliefs or expands upon them. Strategic changes can be incremental, involving the addition of new elements to the strategy (strategic additions) or the discontinuation of existing elements (strategic exits) without necessarily altering the overall strategic direction of the firm.
