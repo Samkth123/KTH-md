@@ -51,7 +51,7 @@ Which innovation strategies drive disruption, and which drive nondisruptive crea
 There are three basic ways to pursue innovation. Companies can: 
 - Offer a breakthrough solution to an industry’s existing problem. 
 	- This is distruptive
-	- ex: CDs mkaing storage and listening to many songs without cackling break like cassets, then ipods taking over from CDs, the
+	- ex: CDs mkaing storage and listening to many songs without cackling break like cassets, then ipods taking over from CDs, then smartphones effect on ipods
 - Identify and solve a brand-new problem or seize a brand-new opportunity.
 - Redefine an existing industry problem and solve the redefined problem. 
 
