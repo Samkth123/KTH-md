@@ -29,3 +29,7 @@ Most companies today focus their efforts on what it would take to disrupt existi
 		- Nondisruptive innovation is more non threatening
 	- Offering a good counterresponse to disruption.
 		- Nondisruptive creation can be an effective way to respond to market disruptors.
+		- Ex when planes became a thing, sea travel could not match price and speed
+		- The company that had sea travel instead started offering luxury cruises to public
+			- Cunard opened up the entire cruise tourism industry.
+	- Avoiding Goliath
