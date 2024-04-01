@@ -50,3 +50,6 @@ When new information stimulated decision-makers to question their current strate
 	- Triggers could also stem from organizational activities such as when a miscommunication within Gauss’ leadership triggered a question about quarterly and annual personnel and firm target metrics. 
 	- Finally, new supply chain information could also trigger strategic decisions such as when Coulomb's conversations with potential investors from across their industry prompted the team to question where in the industry's value chain Coulomb should position itself.
 	- The information presented by a trigger could pose either a problem or an opportunity for the firm's current strategy.
+
+
+### When do firms choose strategic change?
