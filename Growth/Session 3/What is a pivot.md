@@ -98,3 +98,12 @@ Firm strategies evolved as decision-makers made strategy exits and additions aft
 - When firms chose to make a strategic addition, they did not inherently redefine the direction of the firm with one decision. 
 
 Firms that pivoted did so through the gradual accumulation of multiple strategic decisions over time, adding and exiting elements to their strategy, rather than reorienting the firm's strategy with one decision
+
+
+Bästa förklarin
+- A pivot was not produced with a single decision to change the firm from one strategy to another, but rather the product of multiple independently triggered decisions that unfold over time.
+
+- A firm pivots by exiting and adding elements to a strategy one at a time, eventually producing a cumulative reallocation or restructuring of activities, resources, and attention
+
+- Our informants used the term only to refer to a strategy transition in retrospect
+-  This suggests that, for the entrepreneurial firms we studied, a pivot was not a single decision to change strategic orientation, but rather a way to make sense of the difference between two phases in the evolution of the firm's strategy.
