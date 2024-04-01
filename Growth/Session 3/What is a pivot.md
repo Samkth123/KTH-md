@@ -33,3 +33,9 @@ Despite the fact that six out of seven firms chose to make a strategic change at
 - When pivots did occur, they unfolded through an accumulation of incremental strategic decisions, independently triggered by either problems or opportunities
 
 **Strategic Change** is considered any alteration in the firm's strategy, which can include changes in products, markets, technologies, or organizational processes. These changes can be prompted by new information that conflicts with the firm’s existing beliefs or expands upon them. Strategic changes can be incremental, involving the addition of new elements to the strategy (strategic additions) or the discontinuation of existing elements (strategic exits) without necessarily altering the overall strategic direction of the firm.
+
+**A Pivot**, on the other hand, is defined as a significant change that reorients the firm's strategic direction. It involves a reallocation or restructuring of the firm’s activities, resources, and attention, leading to a new strategic course. A pivot is not achieved through a single decision or change but is the result of an accumulation of multiple strategic decisions over time. These decisions collectively lead to a substantial shift in the firm's strategy, moving it in a new direction.
+
+
+### When is a firm's strategy at risk for change?
+
