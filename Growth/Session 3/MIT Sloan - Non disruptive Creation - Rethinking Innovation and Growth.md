@@ -37,3 +37,4 @@ Most companies today focus their efforts on what it would take to disrupt existi
 	- Reducing conflicts with social interest groups and government agencies
 		- When the social costs incurred by disruption become too great, social interest groups and government agencies often lobby against, clamp down on, rein in, or tax the disruptor. 
 		- Consider how city after city has attempted to impose regulations and penalties to stymie Uber’s ability to maneuver and expand
+		- Since nondisruptive creation doesn’t displace existing businesses and livelihoods, it imposes minimal adjustment costs on society and allows companies to largely avoid these negative issues.
