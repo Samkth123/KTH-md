@@ -16,3 +16,6 @@ In other words, a learning-from-doing strategy may be more relevant to entrepren
 First, the strategic change literature theorizes that firms are motivated to change when new information illuminates a gap between a firm's target outcome and its expected performance
 - However, firms in uncertain contexts can amass volumes of data that elicit conflicting interpretations, so such comparisons can be unclear.
 - Identifying clear, concrete outcomes to compare a firm's performance in relation to its business environment is not easily done for any firm, but this is particularly true for entrepreneurial firms, which lack a long history of performance to form a basis for comparison
+
+Second, examination of strategic change tends to equate change as positive, often assuming that strategic change was the correct and necessary decision, rather than evaluating what prompted decision-makers to select or reject change contemporaneously. 
+- For example, Barr et al. (1992) define the alternative to strategic change as strategic decline
