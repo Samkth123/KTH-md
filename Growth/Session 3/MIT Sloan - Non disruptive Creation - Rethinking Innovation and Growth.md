@@ -75,3 +75,7 @@ Fundamentally, they follow three steps.
 - **First**, they tend to think deeply about burning but overlooked issues in the world, in their industry, or in their vocation that they truly care about and that people or organizations are struggling with. 
 	- Caring deeply is a fairly reliable indicator that an issue is of central importance, and if people or organizations are struggling with it, that suggests a gateway to an unaddressed problem or a brand-new opportunity.
 	- **Ask yourself this simple but profound question**: What burning but overlooked issue with which people or organizations are struggling in the world, in your industry, or in your vocation do you care deeply about?
+- **Step** two is to understand which organizations or industries would typically address the problem or opportunity and to figure out why they have overlooked it. Understanding why an issue is overlooked will often provide insight into what your innovation must address to unlock a nondisruptive market.
+
+
+### Areas Ripe for Nondisruptive Creation
