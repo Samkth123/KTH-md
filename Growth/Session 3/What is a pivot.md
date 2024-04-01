@@ -53,3 +53,6 @@ When new information stimulated decision-makers to question their current strate
 
 
 ### When do firms choose strategic change?
+
+
+"You would only want to bring in-house something where you have a differentiating core competency. If a subcontractor can do it anyway then what's the point of me replicating that in-house? What strategic advantage does that give me?
