@@ -57,5 +57,7 @@ There are three basic ways to pursue innovation. Companies can:
 	- Here, organizations that identify and solve brand-new problems or seize brand-new opportunities create new markets beyond industry boundaries, rather than eating at the margins or the core of existing industries.
 	- Viagra identified and solved a problem that had not been previously addressed, spawning all new demand
 - **Redefine an existing industry problem and solve the redefined problem. **
+	- Innovation strategies that redefine an existing industry problem and solve the redefined problem lead to both disruptive and nondisruptive creation. 
+	- Problem redefinition allows an organization to question long-held assumptions and shift industry boundaries in creative ways
 
 Let’s look at how each approach strikes a different balance between disruptive and nondisruptive creation
