@@ -107,3 +107,9 @@ Firms that pivoted did so through the gradual accumulation of multiple strategic
 
 - Our informants used the term only to refer to a strategy transition in retrospect
 -  This suggests that, for the entrepreneurial firms we studied, a pivot was not a single decision to change strategic orientation, but rather a way to make sense of the difference between two phases in the evolution of the firm's strategy.
+
+The term pivot implies a single choice to spin like a basketball player, keeping one foot planted while changing the direction the firm is facing—as if Stewart Butterfield spun around from an online-video game to Flickr in one swift move. Furthermore, stories of entrepreneurs like Butterfield who are serial, successful pivoters imply such actions are the norm for entrepreneurial firms. Yet, in our study, we found that pivots were not accomplished with one sweeping strategic decision or single catalyzing event, but rather through the accumulation of a series of decisions to either exit or add elements to the strategy over time.
+
+Pivoting firms made both strategic additions and strategic exits; while firms that did not pivot made only strategic additions.
+
+As suggested by the quote at the beginning of this article, pivot stories told by entrepreneurs and in the popular press often focus on the strategic exit: Each of the games in Stewart Butterfield's case was a strategic exit
