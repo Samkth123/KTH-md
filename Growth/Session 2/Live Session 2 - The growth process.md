@@ -241,9 +241,11 @@ Pros:
 - Circumvents trade barriers when expanding internationally
 
 Cons:
-- When the licensor agreement expires the company may have created a competitor
-- Licensee may  underperform and termination of the contract can be difficuly
-- License fees are usually a 
+- When the licensor agreement expires the company may have created a competitor (as after license is done the company may have know how of how to do the thing)
+- Licensee may  underperform and termination of the contract can be difficult
+- License fees are usually a small percent of turnover
+
+Usually patents are safe but if you have patent in europe you are not protected in USA, so its harder for smaller companies as they must apply for patents everywhere.
 
 DIfference betwen licensing and franchise: Franchise something acquired, but in licensing hello kity its often large company giving to smaller, but can also be small R&D pharmcacy that give patent to large company so can go both ways.
 
