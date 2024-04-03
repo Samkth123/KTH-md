@@ -9,9 +9,11 @@ Focus on problem rather than solution
 Måste förstå problemet först innan börjar kolla på den
 ### GROWTH
 
-6 ways to grow a company
+6 ways to grow a company - samma som förra anteckningarna
 
-In business model innovation you change 
+In business model innovation you change multiple points of the business ex IKEA having restaurant so people stay there more as well.
+
+
 
 
 
