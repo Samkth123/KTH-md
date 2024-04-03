@@ -14,9 +14,9 @@ Måste förstå problemet först innan börjar kolla på den
 In business model innovation you change multiple points of the business ex IKEA having restaurant so people stay there more as well.
 
 
-### Nondistruptive innovation
+### Nondisruptive innovation
 
-Nondistruptive innovation - innovation that creates new markets without disrupting much existing markets ex online dating or aspirin
+Nondisruptive innovation - innovation that creates new markets without disrupting much existing markets ex online dating or aspirin
 
 Disruptive is not the same as radical. Is radical if there is large difference to other products in market.
 
