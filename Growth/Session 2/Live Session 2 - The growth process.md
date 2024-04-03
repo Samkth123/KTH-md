@@ -160,6 +160,11 @@ Firms primarly use acquisitions to secure subsequent organic growth ie to
 - Gain acces to specific capabilities (ex apple buying beats for its music tech)
 
 
+Advantage:
+- Rapid growth, 
+- Easier - easier to buy a factory that produces something with trained employees than bulding it from scratch
+- You dont only get physical t
+
 
 ##### Other growth modes
 
@@ -187,6 +192,10 @@ Firms primarly use acquisitions to secure subsequent organic growth ie to
 	- Basically in industries where there is a recipe to replicate
 - Licensing also common for startup where you can give license of your product to larger company
 
+##### Acquisition
+- A growth mode that entails one firm (acquirer) buying another firm (target)
+- Generally the acquirer does not have ot but all shares of a target for the transaction to be considered an acquisition but rather 50% + 1 of voting rights (enough to gain control of decision making)
+- 
 
 ^^^ All these notes are pretty simplified
 #### Growth mode strategy
