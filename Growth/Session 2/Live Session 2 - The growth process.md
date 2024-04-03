@@ -228,7 +228,24 @@ Pros:
 
 Cons:
 - Search for competent franchisees can be expensive and time consuming
-- Lack of full control over franchisees
+- Lack of full control over franchisees operations (can suffer reputational damage if something bad happens at franchisee ex rat in subway of some guy)
+- Cost of protecting property rights
+
+##### Licensing
+- A licensing agreement is an arrangement wherein the licensor gives something of valuie to the license in exchange for a financial paymetnt ex patent
+- Object of a license agreement: patent, trademark (hellokity), manufacturing know-how not subject ot a patent
+
+Pros:
+- Increase income on products already developed
+- Locally made image may assist sales and dealing with authorities when expanding internationally
+- Circumvents trade barriers when expanding internationally
+
+Cons:
+- When the licensor agreement expires the company may have created a competitor
+- Licensee may  underperform and termination of the contract can be difficuly
+- License fees are usually a 
+
+DIfference betwen licensing and franchise: Franchise something acquired, but in licensing hello kity its often large company giving to smaller, but can also be small R&D pharmcacy that give patent to large company so can go both ways.
 
 ##### Acquisition
 - A growth mode that entails one firm (acquirer) buying another firm (target)
