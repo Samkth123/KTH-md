@@ -113,3 +113,7 @@ The term pivot implies a single choice to spin like a basketball player, keeping
 Pivoting firms made both strategic additions and strategic exits; while firms that did not pivot made only strategic additions.
 
 As suggested by the quote at the beginning of this article, pivot stories told by entrepreneurs and in the popular press often focus on the strategic exit: Each of the games in Stewart Butterfield's case was a strategic exit
+
+
+
+Pivot is more radical and entails multiple strategic changes, a pivot encompasses the changes
