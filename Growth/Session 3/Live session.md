@@ -4,8 +4,12 @@ In report - need to share data collection information, ex. 50 surveys from peopl
 
 Need to answer a research question the entrepreneur finds interesting.
 
+Focus on problem rather than solution
 
-### PIVOTING AND GROWTH
+Måste förstå problemet först innan börjar kolla på den
+### GROWTH
+
+6 ways to grow a company
 
 
 
