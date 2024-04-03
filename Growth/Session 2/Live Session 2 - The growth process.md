@@ -190,6 +190,8 @@ Cons:
 - Two or more firms create new business entity seperate from its parent
 - The parents firms share ownership of the net business entity
 
+Joint venture is its own legal entity, and if sued it is itself not the parent companies that get sued
+
 PROS:
 - Acess to expertise and contacts in local markets when expanding internaionally (International partner)
 - Reduce political risk
@@ -210,6 +212,23 @@ Cons
 - Licensing is more popular in creative industries and pharmaceutical industries
 	- Basically in industries where there is a recipe to replicate
 - Licensing also common for startup where you can give license of your product to larger company
+- Licensing often common when there is a visual thing or like pattents? ex hello kity
+
+##### Franchising
+- Franshisee operates the business under the name of another company
+- A business concept: the franchisor provides the right to use trademarks, operating system, equipment and continuous support systems like advertising, employee training, etc.
+- The franchisee paysa fee to start up operations
+- The franchisor typically takes a cut out of the sales (subway has 8% royalty plus and additional 4 percent for advertising (because you benefit from the marketing the franchisor does))
+
+Pros:
+- low risk and low cost
+- Usually highly motivated business contacts with local market knowledge
+- Economies of scale in marketing to international customers
+- Enables relatively rapid expansion in both domestic and foreign markets
+
+Cons:
+- Search for competent franchisees can be expensive and time consuming
+- Lack of full control over franchisees
 
 ##### Acquisition
 - A growth mode that entails one firm (acquirer) buying another firm (target)
