@@ -247,6 +247,8 @@ Cons:
 
 Usually patents are safe but if you have patent in europe you are not protected in USA, so its harder for smaller companies as they must apply for patents everywhere.
 
+After UK left EU: Furniture patents are longer in EU than UK, so many replica companies create nice furniture there as the patents that protect many furnitures are expired.
+
 DIfference betwen licensing and franchise: Franchise something acquired, but in licensing hello kity its often large company giving to smaller, but can also be small R&D pharmcacy that give patent to large company so can go both ways.
 
 ##### Acquisition
