@@ -28,8 +28,11 @@ Benefits of nondisruptive innovation for firms.
 - Less opposition from government agencies, unions and the civil society
 - Avoiding Goliath, the firms in the market you are disrupting
 
+### General discussion
 
 Easier to understand environmental impact of tangible objects like cars and fuel but less from like the internet and cryptocurrencies and stuff.
+
+Green business models - No value in it if the customer does not know about it
 
 
 
