@@ -163,7 +163,13 @@ Firms primarly use acquisitions to secure subsequent organic growth ie to
 Advantage:
 - Rapid growth, 
 - Easier - easier to buy a factory that produces something with trained employees than bulding it from scratch
-- You dont only get physical t
+- You dont only get physical things of the company, but rather to new connections especially in newer countries you get access to management that knows people (access to local management)
+- Reduces political risk when expanding internationally (outsider to country you might not know a lot of stuff in the company - especially if its in highly regulated market ex green energy)
+
+Cons:
+- High initial investments
+- Uncertain return on investment
+- Legacy of the acquired company. May be difficult to coordinate. Target firm can have different culture from yours, and integration might be hard if yours is very different. Ex fashion companies care less about integration because they want target to keep its vibe because that might be why they from the start acquired them.
 
 
 ##### Other growth modes
@@ -181,6 +187,7 @@ Advantage:
 - Sony Ericsson
 - Special type of alliance which are explicit in goal and in terms and conditions
 - Usually make it because you want to tex develop fuel cell technology and its very contractual in as how much u get and how long
+- 
 
 ##### Strategic alliances
 - Samsung and Spotify
