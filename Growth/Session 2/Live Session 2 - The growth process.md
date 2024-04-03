@@ -184,10 +184,22 @@ Cons:
 - one company buying some part in another company, ex ANT FINANCIAL bought small stake in Klarna
 
 ##### Joint ventures
-- Sony Ericsson
+- Sony Ericsson?, Marriott & Alibaba, Volvo & Daimler
 - Special type of alliance which are explicit in goal and in terms and conditions
 - Usually make it because you want to tex develop fuel cell technology and its very contractual in as how much u get and how long
-- 
+- Two or more firms create new business entity seperate from its parent
+- The parents firms share ownership of the net business entity
+
+PROS:
+- Acess to expertise and contacts in local markets when expanding internaionally (International partner)
+- Reduce political risk
+- Shared resources and risks
+- Possible win-win
+Cons
+- Potential conflict due to different objectives
+- The importance of the venture to each party may change over time (Might start in horizon 3 and one firm gets it to horizon 2, so might be clash here)
+- Cultural clashes
+- Lack of full control over the joint venture operations
 
 ##### Strategic alliances
 - Samsung and Spotify
