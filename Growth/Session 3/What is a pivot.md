@@ -117,3 +117,5 @@ As suggested by the quote at the beginning of this article, pivot stories told b
 
 
 Pivot is more radical and entails multiple strategic changes, a pivot encompasses the changes
+
+Problems and opportunities trigger pivots and strategic change
