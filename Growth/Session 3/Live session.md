@@ -11,5 +11,21 @@ Måste förstå problemet först innan börjar kolla på den
 
 6 ways to grow a company
 
+In business model innovation you change 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intship export sales
+
 
 
