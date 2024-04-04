@@ -131,3 +131,13 @@ If you have someone else doing sales for you or other channels doing it then its
 
 Dont be cheap - both of you need to make money
 - They should be profitable and growing 
+- Im not going to give you exclusivity, but give you yearly letter that you can sell only so i protect myself as well if you do not sell
+
+
+#### Negotiating an exit
+Earnouts är jobbiga för då måste man nå visa mål hela tiden för att komma ut
+te.x. jag vet inte om vi kmr komma till 100mkr eller inte
+
+Even large companies cheat så va försiktig
+
+Often when exit you will have an lock in as well, nothing you really can negotiate but you can negotiate it for your team.
