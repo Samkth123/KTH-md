@@ -164,8 +164,8 @@ In such companies, when the senior members want to sell and retire, it is hard b
 	- Capital is not needed to finance assets and surplus financial capital does not necessarily generate a high return on anything else
 - Senior partners might try to get a deal with consolidators to get some money out before they retire, but then put burden on the junior partners, who now both need to work more as the seniors reputation in the firm is gone as well as now share the cake with more stakeholders as consolidators have come in.
 
-Professional services firms often don't include "goodwill" (an intangible asset that may include reputation, client relationships, etc.) when they assess their company's equity value.
-^^This is a problem in such companies
+Professional services firms often don't include "**goodwill**" (an intangible asset that may include reputation, client relationships, etc.) when they assess their company's equity value.
+^^**This is a problem in such companies**
 
 
 ##### External shareholders
@@ -265,4 +265,4 @@ The third test is about management’s real understanding of the business.
 - How decentralised is decision-taking? 
 - Have controls been put in place to supervise the managers to whom authority has been delegated, or have senior management in effect confused delegation with abdication?
 
-The three rows in Figure 5.1 and each item within them are interlocking. High scores in all sections suggest a business that is growing fast, is becoming more complicated and is not under the control of management
+“The three rows in Figure 5.1 and each item within them are interlocking. High scores in all sections suggest a business that is growing fast, is becoming more complicated and is not under the control of management
