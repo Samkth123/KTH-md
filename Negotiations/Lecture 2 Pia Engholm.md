@@ -157,3 +157,8 @@ Should not do what you are passionate about, but rather be passionate about runn
 Strategi - know what you can give in ex when buying an house you know you cant give more than 2million. Be prepared to walk away.
 
 Mindset of thinking that i might not be able to deliver if i win the deal could ruin stuff
+
+
+### Saker som efter Pia ska tas upp av läraren
+Promotion vs prevention questions for women vs men
+Prvention is risk mitigation question which women get more while promotion is good questions men get
