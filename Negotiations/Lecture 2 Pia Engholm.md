@@ -86,3 +86,14 @@ First 10 employees are more founders than employees
 When first "real" employee comes it is differnet because before everyone is sleeping and living your company, but now someone comes and does not feel like a owner of the company in the same way others do. 
 When you give employees benefits, its very easy to give but very hard to take away.
 Its easy with the first ones to give benefits because they will work as hard as you, you tell them that they can take a day of if they want to because you know they work hard.
+
+When working with employees its important to keep culture building activites away from whats written in written form.
+
+In the beginning, you should fire the employees that are not working very quickly
+- if you dont believe in your vision or part of your culture you will regret not firing them
+- you cant afford to have the people on that take your time osv...
+- Pia: "tell employee to resign and we dont want you here and you will get benefits for doing so" 
+	- If the person does not leave can give them another job but keep them away from other people
+	- Men detta är fan sämsta advice ever å de e oschysst, bäst å bara säga att det är inte är bra match och att dom får ganska mycket pengar om dom lämnar
+
+There is gender benefit between how employees nego
