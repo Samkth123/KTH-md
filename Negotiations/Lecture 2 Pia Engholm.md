@@ -68,4 +68,9 @@ Pia:
 - If we cant agree i dont need you
 - Make your position stronger than it is even though it might not be
 - Think about the details of the contract
-- Dont want a 
+- Dont want a owner with too much power or be careful when someone starts acquiring shares
+
+Recognize and be away of and try to avoid dirty terms from VCs:
+- VCs often asks for preferential shares (whenever sale of company they get their money first, thye hsould get money before founders)
+	- So if you ahve pref shares in A,B and C round it gets really complicated and it will block stuff when things go bad
+	- 
