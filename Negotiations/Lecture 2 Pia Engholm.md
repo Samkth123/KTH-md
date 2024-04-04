@@ -108,3 +108,18 @@ If you do consulting work its important that you have IP rights for what you hav
 You can negotiate how you can protect something for your organisation something you build for them
 
 If done good sales job, they usually want your product
+
+Make yourself sound stronger than you are. 
+
+Dont be afraid to push back
+
+Thank you for your input, i need time to think about this
+
+When negotiating price, using anchoring effect, which is: If i tell you this icecream costs 30krs, this will be reference point of ice cream.
+
+So in the start if i tell you it costs 30kr, you will remember it. When i later tell you i sell ice cream for 20kr, you will think oh this is more cheap.
+
+
+Sometimes får du brösta, men acceptera inte om du inte måste. Låt inte någon annan sätta priset först.
+
+Dont start by negotiating with yourself - dont sit at home and look at the propo
