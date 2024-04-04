@@ -10,3 +10,11 @@ Difference between angel fund and vc is that angel fund/network are unofficial, 
 In DHS 25 angels have invested there. Individuals invest their own money and the part you get from the fund is your own moeny? Usually if my copartners invested i will help them because i have an indirect interest in the company going good. 
 
 If you have an organisation with not very strict rules then it will go away especially since interest will start to fade.
+
+
+#### An entrepreneurial skillset
+
+Sales, sales, sales
+- many people dont like sales
+- Every person in founding team must be able to sell
+- Not only to cu
