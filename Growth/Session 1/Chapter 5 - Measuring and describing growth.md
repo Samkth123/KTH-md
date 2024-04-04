@@ -243,7 +243,7 @@ The third test is about management’s real understanding of the business.
 - The third test is about managements capacity
 
 
-
+==What was the name of this model below?==
 **Growth.** 
 - To what extent are managers and staff under pressure to deliver? 
 - How fast is the company growing? 
