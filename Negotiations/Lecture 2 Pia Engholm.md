@@ -162,3 +162,12 @@ Mindset of thinking that i might not be able to deliver if i win the deal could 
 ### Saker som efter Pia ska tas upp av läraren
 Promotion vs prevention questions for women vs men
 Prvention is risk mitigation question which women get more while promotion is good questions men get
+
+When men want to start company in indsutry dominated by women its ok but not vice versa - there is study on this 
+
+Also both men and women investors bias agianst men more than women
+
+If you get a "PREVENTION" type quesiton, and answer in the same mode, your answer can be "Prevention" but even if you get prevetion type questions you should answer in promotion type terms. Kolla på sliden han la ut om promotion vs prevention. You basically should think about how to reframe things
+
+
+Last assignment is basically a summary of your notes. Its 6 pages long, anybody who wants to write anything must write 6 pages because if shorter they can bullshit, but its something that you can write in a reasonable time.
