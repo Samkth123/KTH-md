@@ -153,3 +153,7 @@ Investors are emotional, they are not rational, its all about falling in love wi
 FOMO
 
 Should not do what you are passionate about, but rather be passionate about running a company and making moneeeee
+
+Strategi - know what you can give in ex when buying an house you know you cant give more than 2million. Be prepared to walk away.
+
+Mindset of thinking that i might not be able to deliver if i win the deal could ruin stuff
