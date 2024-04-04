@@ -147,3 +147,7 @@ Often when exit you will have an lock in as well, nothing you really can negotia
 extra:
 Viktigare att få rätt investor än hög valuation
 Om valuation låg med någon du vill jobba med, så ska ta ner ticket size? i guess de betyder andelar och ta in mindre pengar.
+
+Investors are emotional, they are not rational, its all about falling in love with an idea and the team. When you fall out of love, you go to the next idea
+
+FOMO
