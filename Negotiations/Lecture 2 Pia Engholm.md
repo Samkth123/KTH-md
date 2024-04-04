@@ -96,4 +96,15 @@ In the beginning, you should fire the employees that are not working very quickl
 	- If the person does not leave can give them another job but keep them away from other people
 	- Men detta är fan sämsta advice ever å de e oschysst, bäst å bara säga att det är inte är bra match och att dom får ganska mycket pengar om dom lämnar
 
-There is gender benefit between how employees nego
+There is gender benefit between how employees negotiate
+- Males often try to push
+- Females do not as much
+
+But female entrepreneurs are more aggressive usually.
+
+
+#### Negotiating with large customers
+If you do consulting work its important that you have IP rights for what you have produced
+You can negotiate how you can protect something for your organisation something you build for them
+
+If done good sales job, they usually want your product
