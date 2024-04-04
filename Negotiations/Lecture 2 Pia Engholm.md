@@ -75,4 +75,6 @@ Recognize and be away of and try to avoid dirty terms from VCs:
 	- So if you ahve pref shares in A,B and C round it gets really complicated and it will block stuff when things go bad
 
 Dont tell investors different stories they know eachother
-F
+Find an ally, if one VC accepts a term the others will accept it as well
+
+Big difference between swedish and anglosaxan VCs - English and US VCs are much meaner and tougher. Swedish VCs are much nicer.
