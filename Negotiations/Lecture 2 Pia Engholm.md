@@ -33,7 +33,7 @@ Read, write and negotiate contracts
 - distributors
 - exit or merger
 
-Negotiating the SHA with co-founders (share holder agreement)
+**Negotiating the SHA with co-founders (share holder agreement)**
 - Viktigt, you will always fight
 - One person will always not like the decisions taken
 - Sign SHA when you are at founding stage
@@ -43,4 +43,10 @@ Negotiating the SHA with co-founders (share holder agreement)
 	- You do not want a former founder with large amount of shares not active in the company
 	- Want mechanisms in contract ex bad leaver or good leaver clauses
 	- ==startuptools.org for templates==
-	- 
+	- shareholder agreement if very important because investors want it to be good as well
+
+**Negotiating the SHA with angels:**
+
+3 Fs before angel investors: Friends, Family, Fools
+
+Angels dont want special treatment or for anything like minority investor protection
