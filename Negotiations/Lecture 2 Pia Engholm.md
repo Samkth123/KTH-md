@@ -122,4 +122,12 @@ So in the start if i tell you it costs 30kr, you will remember it. When i later 
 
 Sometimes får du brösta, men acceptera inte om du inte måste. Låt inte någon annan sätta priset först.
 
-Dont start by negotiating with yourself - dont sit at home and look at the propo
+Dont start by negotiating with yourself - dont sit at home and look at the proposal and pull it down all the time. Always start high on the price.
+
+Think of customer value rather than your own cost when deciding pricing point
+
+#### Negotiating with distributors
+If you have someone else doing sales for you or other channels doing it then its distributors
+
+Dont be cheap - both of you need to make money
+- They should be profitable and growing 
