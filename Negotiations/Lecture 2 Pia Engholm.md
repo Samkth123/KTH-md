@@ -141,3 +141,9 @@ te.x. jag vet inte om vi kmr komma till 100mkr eller inte
 Even large companies cheat så va försiktig
 
 Often when exit you will have an lock in as well, nothing you really can negotiate but you can negotiate it for your team.
+
+
+
+extra:
+Viktigare att få rätt investor än hög valuation
+Om valuation låg med någon du vill jobba med, så ska ta ner ticket size? i guess de betyder andelar och ta in mindre pengar.
