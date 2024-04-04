@@ -41,7 +41,7 @@ Despite the fact that six out of seven firms chose to make a strategic change at
 
 When a team encountered new information that aligned with or confirmed their expectations, the firm continued with its activities unaffected. 
 
-When new information stimulated decision-makers to question their current strategy, they were prompted to engage in strategic decision-making. 
+**When new information stimulated decision-makers to question their current strategy, they were prompted to engage in strategic decision-making.** 
 - In these moments, decision-makers considered strategy change. 
 - Triggers that prompted strategy questions varied in the favorability of the potential impact on the firm
 	- A trigger's content could refer to a firm's technology, such as when Joule's prototype literally exploded on the lab bench and prompted the team to question whether they should continue developing that product. 

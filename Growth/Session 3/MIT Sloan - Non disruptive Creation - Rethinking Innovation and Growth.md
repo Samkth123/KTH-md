@@ -22,19 +22,19 @@ Part of nondisruptive creation’s appeal is that it breaks this trade-off. It i
 Most companies today focus their efforts on what it would take to disrupt existing markets. 
 - This narrows their vision and blinds them to the wealth of nondisruptive, market-creating innovations they could unlock. 
 - For established companies and startups alike, a nondisruptive approach creates several distinctive advantages:
-	- Making execution emotionally and politically easier
+	- **Making execution emotionally and politically easier**
 		- Disruption will kill your own industry if you are an established company there
 		- ex Kodak created the first digital camera but tried to withstand distruption so konkurs
 		- Management can put undue overhead or starve the disruptive sector of resources to not risk their jobs
 		- Nondisruptive innovation is more non threatening
-	- Offering a good counterresponse to disruption.
+	- **Offering a good counterresponse to disruption.**
 		- Nondisruptive creation can be an effective way to respond to market disruptors.
 		- Ex when planes became a thing, sea travel could not match price and speed
 		- The company that had sea travel instead started offering luxury cruises to public
 			- Cunard opened up the entire cruise tourism industry.
-	- Avoiding Goliath
+	- **Avoiding Goliath**
 		- When companies — especially startups — set out to disrupt an existing market, they often face well-entrenched market leaders with far greater financial and marketing resources.
-	- Reducing conflicts with social interest groups and government agencies
+	- **Reducing conflicts with social interest groups and government agencies**
 		- When the social costs incurred by disruption become too great, social interest groups and government agencies often lobby against, clamp down on, rein in, or tax the disruptor. 
 		- Consider how city after city has attempted to impose regulations and penalties to stymie Uber’s ability to maneuver and expand
 		- Since nondisruptive creation doesn’t displace existing businesses and livelihoods, it imposes minimal adjustment costs on society and allows companies to largely avoid these negative issues.
@@ -49,7 +49,7 @@ Which innovation strategies drive disruption, and which drive nondisruptive crea
 - The answer comes down to the type of issue a company sets out to address as it launches its innovation strategies.
 
 There are three basic ways to pursue innovation. Companies can: 
-- **Offer a breakthrough solution to an industry’s existing problem. **
+- **Offer a breakthrough solution to an industry’s existing problem.**
 	- This is distruptive
 	- ex: CDs mkaing storage and listening to many songs without cackling break like cassets, then ipods taking over from CDs, then smartphones effect on ipods
 - **Identify and solve a brand-new problem or seize a brand-new opportunity.**
