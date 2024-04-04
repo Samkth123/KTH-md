@@ -38,4 +38,9 @@ Negotiating the SHA with co-founders (share holder agreement)
 - One person will always not like the decisions taken
 - Sign SHA when you are at founding stage
 - 2 importnat things
-- Vesting: Your share
+- Vesting: Your shares wont vest until you work for 4 years: so work 1 year u get 25%, 2 year next 25% osv... Normally 3-5 år
+	- Nobody wants a broken captable
+	- You do not want a former founder with large amount of shares not active in the company
+	- Want mechanisms in contract ex bad leaver or good leaver clauses
+	- ==startuptools.org for templates==
+	- 
