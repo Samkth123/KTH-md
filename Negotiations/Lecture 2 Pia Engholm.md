@@ -78,3 +78,11 @@ Dont tell investors different stories they know eachother
 Find an ally, if one VC accepts a term the others will accept it as well
 
 Big difference between swedish and anglosaxan VCs - English and US VCs are much meaner and tougher. Swedish VCs are much nicer.
+
+#### Negotiating with employees
+Have NDA
+Have in contract that anything an employee does belongs to you
+First 10 employees are more founders than employees
+When first "real" employee comes it is differnet because before everyone is sleeping and living your company, but now someone comes and does not feel like a owner of the company in the same way others do. 
+When you give employees benefits, its very easy to give but very hard to take away.
+Its easy with the first ones to give benefits because they will work as hard as you, you tell them that they can take a day of if they want to because you know they work hard.
