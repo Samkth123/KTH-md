@@ -73,4 +73,6 @@ Pia:
 Recognize and be away of and try to avoid dirty terms from VCs:
 - VCs often asks for preferential shares (whenever sale of company they get their money first, thye hsould get money before founders)
 	- So if you ahve pref shares in A,B and C round it gets really complicated and it will block stuff when things go bad
-	- 
+
+Dont tell investors different stories they know eachother
+F
