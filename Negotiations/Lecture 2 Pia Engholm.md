@@ -17,4 +17,25 @@ If you have an organisation with not very strict rules then it will go away espe
 Sales, sales, sales
 - many people dont like sales
 - Every person in founding team must be able to sell
-- Not only to cu
+- Not only to customers, but to potential talent and investors
+
+Recruit top talent and build high performing teams
+- Will the people pitching be able to build a high performing team?
+
+Read, write and negotiate contracts
+
+
+
+### Negotiating with:
+- cofounders and investors (termsheet/SHA)
+- Employees (employment contracts)
+- Customers (customer contract, saas(consiulting(product)))
+- distributors
+- exit or merger
+
+Negotiating the SHA with co-founders (share holder agreement)
+- Viktigt, you will always fight
+- One person will always not like the decisions taken
+- Sign SHA when you are at founding stage
+- 2 importnat things
+- Vesting: Your share
