@@ -253,7 +253,7 @@ DIfference betwen licensing and franchise: Franchise something acquired, but in 
 
 ##### Acquisition
 - A growth mode that entails one firm (acquirer) buying another firm (target)
-- Generally the acquirer does not have ot but all shares of a target for the transaction to be considered an acquisition but rather 50% + 1 of voting rights (enough to gain control of decision making)
+- Generally the acquirer does not have to buy all shares of a target for the transaction to be considered an acquisition but rather 50% + 1 of voting rights (enough to gain control of decision making)
 - 
 
 ^^^ All these notes are pretty simplified
