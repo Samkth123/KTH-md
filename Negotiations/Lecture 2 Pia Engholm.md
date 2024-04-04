@@ -62,3 +62,10 @@ Some VCs are good, some are bad
 Their business model is to find the unicorns and really spend their time and money with the unicorns
 Some of the VCs are happy with just a 3-4x return
 Could be one person in the VC that is really good which you want to work with which will put time for you
+
+Pia:
+- Try to create stronger position
+- If we cant agree i dont need you
+- Make your position stronger than it is even though it might not be
+- Think about the details of the contract
+- Dont want a 
