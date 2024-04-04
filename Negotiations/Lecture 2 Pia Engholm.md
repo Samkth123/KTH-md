@@ -151,3 +151,5 @@ Om valuation låg med någon du vill jobba med, så ska ta ner ticket size? i gu
 Investors are emotional, they are not rational, its all about falling in love with an idea and the team. When you fall out of love, you go to the next idea
 
 FOMO
+
+Should not do what you are passionate about, but rather be passionate about running a company and making moneeeee
