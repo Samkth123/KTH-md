@@ -50,3 +50,15 @@ Read, write and negotiate contracts
 3 Fs before angel investors: Friends, Family, Fools
 
 Angels dont want special treatment or for anything like minority investor protection
+
+VCs want to find starts and just make them succeed, they dont care about the other companies
+- They would rather not spend time on worse companies
+Angels will work really hard to make their company succeed, when they are on your side they really are on your side
+
+**Negotiating with VCs**
+
+Not easy
+Some VCs are good, some are bad
+Their business model is to find the unicorns and really spend their time and money with the unicorns
+Some of the VCs are happy with just a 3-4x return
+Could be one person in the VC that is really good which you want to work with which will put time for you
