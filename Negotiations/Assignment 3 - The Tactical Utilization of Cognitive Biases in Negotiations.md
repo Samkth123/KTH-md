@@ -55,4 +55,6 @@ ex: Car salespeople someone bought car 200k and add stereosystem for 10k extra
 The following tactic utilizes the fact that, due to loss aversion, people put a higher value on an object that they own than on an identical one which they do not
 
 
+The "cheap concession" tactic capitalizes on the psychological principle known as the **endowment effect**. This effect suggests that people tend to **assign more value** to things simply because they **own** them, compared to identical items they **don't own**. Loss aversion, a related concept, means that people prefer avoiding losses more than acquiring equivalent gains.
+
 The cheap concession: Make early concessions which only include items of low personal value.
