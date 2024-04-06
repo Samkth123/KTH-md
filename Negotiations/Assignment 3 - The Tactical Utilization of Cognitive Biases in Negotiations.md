@@ -40,3 +40,11 @@ The effectiveness of loss frames compared to gain frames has especially been sho
 Example of local power sales companies: The company offering products that help to insulate the home told one part of the homeowners that if they insulated their home, they would save a certain amount of dollar per day. Instead, another group was told the daily money amount they would lose if they failed to insulate their home.
 
 **Loss-framing**: Frame proposals in terms of what the other side will lose if they decline a proposal, instead of stating the proposal in terms of what the other side will gain if they accept it
+
+##### The unsought add-on
+The **unsought add-on tactic** draws upon the influence of reference points, loss-aversion, and mental accounting on bargainer's decision making.
+
+This is about having the add-ons at the end of a negotiation. If negotiated about something worth 1 million and done and both are happy, then adding another demand for something worth 1000 is less important at the end of the negotiation.
+
+
+**The unsought add-on**: When asking for a concession, frame the concession against the larger magnitude of the whole contract.
