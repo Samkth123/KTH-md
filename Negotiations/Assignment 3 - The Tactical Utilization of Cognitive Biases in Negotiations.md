@@ -140,3 +140,5 @@ Customers who might have been on the fence between online and print could now se
 The decoy also features the principle of loss aversion. Since Peter thought that the dominant options presented a bargain compared to the dominated option, he became afraid of missing out and loosing this seemingly unique opportunity. Thus, Victoria knew that Peter would be more likely to choose the renovated apartment (the dominating option) if she would also present him the not renovated one (the asymmetrically dominated option)
 
 **The decoy**: Include another fake-option (the decoy) when presenting two options to choose from in order to increase the probability that the more profitable one will be chosen.![[Screenshot 2024-04-06 at 15.02.44.png]]
+
+Tactics based on the utilization of cognitive biases distinguish themselves from other aggressive bargaining tactics through their subtleness. Therefore, though they might not be effective against hostile counterparts in purely distributive negotiations, they could be successfully employed in integrative negotiations without impeding the negotiators’ relationship.
