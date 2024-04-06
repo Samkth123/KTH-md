@@ -19,3 +19,4 @@ Negotiators are **vulnerable** to **psychological influence**, as their decision
 This paper develops tactics of psychological influence which neither alter the other party's incentives nor its information set
 - Instead, the **utilization** of **cognitive biases** is a kind of informational influence which entails **leveraging** an understanding of **psychological biases and heuristics** to frame ideas and proposals in such a way that they **increase their appeal** to the target.
 
+The fundamental **argument** of **research** on **cognitive biases** in negotiations is that **bargainers** suffer from fundamental *misperceptions* when judging the **risk**, the value of **gambles**, and other objects
