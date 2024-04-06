@@ -97,3 +97,13 @@ One should let out positive information piece by piece whereas bad updates shoul
 
 ##### Stonewalling
 The often displayed behavior of delaying and decelerating negotiations cannot only be attributed to a possibly insecure bargaining behavior. Instead, it is often used deliberately as a tactic which can increase the chance of the other party's escalation of commitment.
+
+The behavior of Sophia’s new employer was an example of the many occasions where individuals can become locked into a costly course of action, and even escalate their commitment to it. 
+
+After a negative feedback, individuals stick to their course of action because of the underlying mechanism of self-justification which describes the desire of individuals to justify their past behaviors and the choices to maintain positive, consistent self-perception
+
+Sales professionals often exploit this principle by inducing people to make an initial commitment which is consistent with the later requests they will ask for. A common example is the foot-in-the-door technique.
+- After bargainers ask for a small favor that is certainly granted, they continue with a request for a larger favor to which people might agree on in order to stay consistent with their prior course of action.
+
+##### The decoy
+The final tactic is based on another irregularity of human decision making. The inclusion of an additional, yet clearly unattractive option can cause a change in the choice behavior of individuals.
