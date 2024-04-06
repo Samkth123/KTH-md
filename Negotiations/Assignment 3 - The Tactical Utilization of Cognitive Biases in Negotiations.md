@@ -52,3 +52,7 @@ ex: Car salespeople someone bought car 200k and add stereosystem for 10k extra
 **The unsought add-on**: When asking for a concession, frame the concession against the larger magnitude of the whole contract.
 
 ##### The cheap concession
+The following tactic utilizes the fact that, due to loss aversion, people put a higher value on an object that they own than on an identical one which they do not
+
+
+The cheap concession: Make early concessions which only include items of low personal value.
