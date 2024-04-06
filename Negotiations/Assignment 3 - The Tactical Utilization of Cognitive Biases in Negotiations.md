@@ -57,4 +57,12 @@ The following tactic utilizes the fact that, due to loss aversion, people put a 
 
 The "cheap concession" tactic capitalizes on the psychological principle known as the **endowment effect**. This effect suggests that people tend to **assign more value** to things simply because they **own** them, compared to identical items they **don't own**. Loss aversion, a related concept, means that people prefer avoiding losses more than acquiring equivalent gains.
 
+During a negotiation process, parties constantly gain virtual possession on single attributes and afterwards feel entitled to the specific value on this attribute
+- Heyman et al. (2004) called this phenomenon of attachment to a not yet owned item the **quasi-endowment** effect.
+
+Mary uses the impact of the endowment effect by framing her proposal in a way that her concession is seen by her boss as a part of his endowment. Since giving up such a concession would be viewed as a loss, her boss puts a higher value on this item.
+- Chefen ser Mary ge upp SIN EGEN bil, vilket ses som mer värt då hon ger bort något som är hennes
+
+This circumstance alone does not foster Mary’s bargaining power. However, once parties start to make concession reciprocally, her boss becomes **attached** to the **earlier proposed concession**. Thus, he agrees upon the final deal which entails the same concession but with a huge improvement for Mary’s position
+
 The cheap concession: Make early concessions which only include items of low personal value.
