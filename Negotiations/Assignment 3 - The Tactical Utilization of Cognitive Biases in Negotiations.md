@@ -20,3 +20,11 @@ This paper develops tactics of psychological influence which neither alter the o
 - Instead, the **utilization** of **cognitive biases** is a kind of informational influence which entails **leveraging** an understanding of **psychological biases and heuristics** to frame ideas and proposals in such a way that they **increase their appeal** to the target.
 
 The fundamental **argument** of **research** on **cognitive biases** in negotiations is that **bargainers** suffer from fundamental *misperceptions* when judging the **risk**, the value of **gambles**, and other objects
+
+
+### Influence tactics utilizing cognitive biases
+
+##### Loss-framing
+The loss-framing tactic builds on people's tendency to pay particular attention to the announcement of negative news and their urge to avoid losses
+
+If want to build a new factory, in the presentation focus on the negatives if it is not built, instead of the po
