@@ -107,3 +107,33 @@ Sales professionals often exploit this principle by inducing people to make an i
 
 ##### The decoy
 The final tactic is based on another irregularity of human decision making. The inclusion of an additional, yet clearly unattractive option can cause a change in the choice behavior of individuals.
+
+
+It argues that individuals who heuristically examine the dominance relationships between alternatives also take irrelevant information into account when making a choice
+- This effect is also called the asymmetric dominance effect and describes the change in choice behavior when individuals are presented two options and another third which is completely dominated by one option and only partially dominated by the other
+
+**Example of the Asymmetric Dominance Effect**:
+**Scenario: Subscription Plans**
+
+Imagine a magazine company offers two subscription plans:
+
+- **Online Subscription**: $50/year (access to online content only)
+- **Print Subscription**: $100/year (access to print editions only)
+
+Faced with these choices, consumers might be divided, with some preferring the cheaper online subscription and others valuing the print edition enough to pay extra.
+
+**Introduction of a Decoy:**
+
+The company then introduces a third option:
+
+- **Print + Online Subscription**: $100/year (access to both print editions and online content)
+
+**Effect of the Decoy:**
+
+The third option asymmetrically dominates the Print Subscription because it offers everything the Print Subscription does (print edition access) plus additional value (online content access) at the same price. It doesn't dominate the Online Subscription directly because it's more expensive, but it makes the Print + Online Subscription seem like a much better value compared to just the Print Subscription.
+
+**Result:**
+
+Customers who might have been on the fence between online and print could now see the Print + Online Subscription as the best value, leading to an increased preference for it over just the Print Subscription. The presence of the decoy (the Print Subscription at $100) shifts customer preference towards the Print + Online option, despite the Online Subscription being the cheapest.
+
+The decoy also features the principle of loss aversion. Since Peter thought that the dominant options presented a bargain compared to the dominated option, he became afraid of missing out and loosing this seemingly unique opportunity. Thus, Victoria knew that Peter would be more likely to choose the renovated apartment (the dominating option) if she would also present him the not renovated one (the asymmetrically dominated option)
