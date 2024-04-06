@@ -81,3 +81,4 @@ Basically ge proposals i början som motparten inte bett om, ex säljer pizza ke
 value
 
 ##### Smart (de)aggregation
+The smart bundling tactic uses another insight of prospect theory. Since bargainers make decisions based on the potential value of losses and gains rather than on the ultimate result, their decisions are vulnerable to psychological influence
