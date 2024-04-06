@@ -65,4 +65,11 @@ Mary uses the impact of the endowment effect by framing her proposal in a way th
 
 This circumstance alone does not foster Mary’s bargaining power. However, once parties start to make concession reciprocally, her boss becomes **attached** to the **earlier proposed concession**. Thus, he agrees upon the final deal which entails the same concession but with a huge improvement for Mary’s position
 
+In general, negotiators should be **careful** to express proposals which promise the counterparty **items** which are **essential** for their own negotiation outcome. Since such a proposal increases the attachment of the counterparty to these items, negotiators will later have to **pay a lot more** in form of other concessions to win these attributes **back**.
+
 The cheap concession: Make early concessions which only include items of low personal value.
+
+Cheap concession tactic använder endowment effect på det sättet att din motpart ser dig ge upp något som är ditt, och därför tror sig att du gör en större uppoffring än du gör, även om det är något som inte betyder något för dig
+##### The Janus-faced present
+
+Similar to the cheap concession tactic, the next tactic also obtains its effectiveness because of the endowment effect.
