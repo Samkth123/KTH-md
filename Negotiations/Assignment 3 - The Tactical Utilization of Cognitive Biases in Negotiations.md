@@ -96,3 +96,4 @@ One should let out positive information piece by piece whereas bad updates shoul
 **Smart bundling**: In a proposal, include two or more small gains instead of one gain of equal magnitude.
 
 ##### Stonewalling
+The often displayed behavior of delaying and decelerating negotiations cannot only be attributed to a possibly insecure bargaining behavior. Instead, it is often used deliberately as a tactic which can increase the chance of the other party's escalation of commitment.
