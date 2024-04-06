@@ -137,3 +137,5 @@ The third option asymmetrically dominates the Print Subscription because it offe
 Customers who might have been on the fence between online and print could now see the Print + Online Subscription as the best value, leading to an increased preference for it over just the Print Subscription. The presence of the decoy (the Print Subscription at $100) shifts customer preference towards the Print + Online option, despite the Online Subscription being the cheapest.
 
 The decoy also features the principle of loss aversion. Since Peter thought that the dominant options presented a bargain compared to the dominated option, he became afraid of missing out and loosing this seemingly unique opportunity. Thus, Victoria knew that Peter would be more likely to choose the renovated apartment (the dominating option) if she would also present him the not renovated one (the asymmetrically dominated option)
+
+**The decoy**: Include another fake-option (the decoy) when presenting two options to choose from in order to increase the probability that the more profitable one will be chosen.![[Screenshot 2024-04-06 at 15.02.44.png]]
