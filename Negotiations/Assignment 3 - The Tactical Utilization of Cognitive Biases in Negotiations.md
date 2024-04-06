@@ -7,3 +7,5 @@ Anchoring is a heuristic in behavioral finance that describes the subconscious u
 ### Paper starts
 
 **Negotiation** is a synonym for **influence**.
+
+Negotiators are **vulnerable** to **psychological influence**, as their decision making is affected by **cognitive heuristics**
