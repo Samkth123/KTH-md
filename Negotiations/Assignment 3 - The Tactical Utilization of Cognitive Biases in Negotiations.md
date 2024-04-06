@@ -25,6 +25,18 @@ The fundamental **argument** of **research** on **cognitive biases** in negotiat
 ### Influence tactics utilizing cognitive biases
 
 ##### Loss-framing
-The loss-framing tactic builds on people's tendency to pay particular attention to the announcement of negative news and their urge to avoid losses
+The **loss-framing tactic** builds on people's **tendency** to pay particular **attention** to the announcement of **negative news** and their urge **to avoid losses**
 
-If want to build a new factory, in the presentation focus on the negatives if it is not built, instead of the po
+If want to build a new factory, in the presentation focus on the negatives if it is not built, instead of the positives of it being built
+- By focusing on the **negative effects** for the firms and its owners, you can utilize a main insight of prospect theory, that **losses loom larger than gains**
+
+People rather **strive** for **avoiding losses** than for **accumulating gains**
+
+If someone **frames** the exact **same** set of **information** as a **loss**, it will be **more** **influential** than when it is framed as a **gain**.
+
+The effectiveness of loss frames compared to gain frames has especially been shown in medical environments ex testing for HIV and such.
+- ex cardealers putting focus on risks of not having warranties
+
+Example of local power sales companies: The company offering products that help to insulate the home told one part of the homeowners that if they insulated their home, they would save a certain amount of dollar per day. Instead, another group was told the daily money amount they would lose if they failed to insulate their home.
+
+**Loss-framing**: Frame proposals in terms of what the other side will lose if they decline a proposal, instead of stating the proposal in terms of what the other side will gain if they accept it
