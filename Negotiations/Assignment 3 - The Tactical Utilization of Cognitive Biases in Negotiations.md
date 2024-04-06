@@ -73,3 +73,11 @@ Cheap concession tactic använder endowment effect på det sättet att din motpa
 ##### The Janus-faced present
 
 Similar to the cheap concession tactic, the next tactic also obtains its effectiveness because of the endowment effect.
+
+Basically ge proposals i början som motparten inte bett om, ex säljer pizza kedjor så lovar jag att inte gå in i marknaden igen. Dom kommer känna sig entitled till detta och i slutet kan man använda det typ jag kan komma ner till ert pris om vi inte har detta, annars kör vi mitt pris.
+
+
+**The Janus-faced present**: Make early proposals which include only concessions of low objective
+value
+
+##### Smart (de)aggregation
