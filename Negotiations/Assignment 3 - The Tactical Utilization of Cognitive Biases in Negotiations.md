@@ -46,5 +46,9 @@ The **unsought add-on tactic** draws upon the influence of reference points, los
 
 This is about having the add-ons at the end of a negotiation. If negotiated about something worth 1 million and done and both are happy, then adding another demand for something worth 1000 is less important at the end of the negotiation.
 
+ex: Car salespeople someone bought car 200k and add stereosystem for 10k extra
+
 
 **The unsought add-on**: When asking for a concession, frame the concession against the larger magnitude of the whole contract.
+
+##### The cheap concession
