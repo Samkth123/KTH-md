@@ -82,3 +82,17 @@ value
 
 ##### Smart (de)aggregation
 The smart bundling tactic uses another insight of prospect theory. Since bargainers make decisions based on the potential value of losses and gains rather than on the ultimate result, their decisions are vulnerable to psychological influence
+
+Ex: Josh sells turbines. Client will need to replace several turbines which is very costly. Instead Josh puts focus on the gain & cost-saving effects of each individual turbine rather than the sum of all turbines cost.
+
+How did Josh get his client to purchase the set of new turbines? Josh acknowledged that **individuals** prefer **receiving money** in **several payments** but **losing money all at one**.
+
+Due to diminishing marginal utility associated with gains and diminishing marginal disutility associated with losses, people view additional gains more pleasurable than the initial gain, and additional losses not as painful as the initial loss
+
+Thus, by focusing on the positive effects of each single turbine, Josh increased the associated value for his client.
+
+One should let out positive information piece by piece whereas bad updates should be bundled and reported all at once in order to (min)maximize the other party’s (dis)comfort.
+
+**Smart bundling**: In a proposal, include two or more small gains instead of one gain of equal magnitude.
+
+##### Stonewalling
