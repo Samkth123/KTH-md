@@ -34,4 +34,12 @@ Negative effects of management only become obvious when exceeding 25% growth rat
 ### Smart Growth
 
 A company needs to grow within the confinements of minimal and maximum growth
-Most importnat i
+Most importnat indicators were sustainable and competitive growth rates
+
+Companies that did not stay in their growth corridors did worse than those who did.
+- The ones who exceeded max threshold had worse profitability
+- The ones who went under the minimum threshold had short term profits but long term lost their competitive market positioning and longterm development
+
+Smart growers:
+- Had consistent and realistic targets for growth
+- Went after both growth in sales and profit growth simultaneously
