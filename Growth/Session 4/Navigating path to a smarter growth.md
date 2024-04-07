@@ -58,4 +58,8 @@ A company should grow depends on its situation
 			- These measures increases sustainable growth rate
 		- Once company reached a sustainable growth rate that exceeded competitive growth rate, they could "afford" to grow again and invest in market and product initiatives aimed at generating new growth
 - Growth laggards
+	- These have financial muscle to move in the market, which is shown through having sustainble growth rates above competitive growth rate
+	- However, sales increase have fallen behind of competitive growth rate
+		- consequently, they experience continuous erosion of their market share
+	- This is usually because of lacking innovation and resistance to change
 - Companies experiencing excessive growth
