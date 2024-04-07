@@ -67,3 +67,7 @@ A company should grow depends on its situation
 		- They experience organisation complexity, higher debt and risk of bankruptcy
 	- Companies that successfully managed to go back to smart growth had some type of stabilization program consisting of 3 steps:
 		- First, debt is a consequence of massive growth, and therefore they started retrenchment activities such as selling of assets, restructuring debt and cutting costs
+			- This helped increase run rate as well as increase sustainable growth rate and give some cash flow
+		- Simultaneously, the companies stopped with aggressive acquisitions and instead focused on more organic growth
+			- Adjusted growth targets which reduced sales growth to more sustainable levels
+		- Finally, made organizational adjustments to increase corporate control and integrate various businesses giving a better sense of companywide discipline and accountability
