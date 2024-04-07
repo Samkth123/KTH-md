@@ -63,3 +63,7 @@ A company should grow depends on its situation
 		- consequently, they experience continuous erosion of their market share
 	- This is usually because of lacking innovation and resistance to change
 - Companies experiencing excessive growth
+	- These companies have outgrown their competition, but grow so rapidly that their financials are stretched thin
+		- They experience organisation complexity, higher debt and risk of bankruptcy
+	- Companies that successfully managed to go back to smart growth had some type of stabilization program consisting of 3 steps:
+		- First, debt is a consequence of massive growth, and therefore they started retrenchment activities such as selling of assets, restructuring debt and cutting costs
