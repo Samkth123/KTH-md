@@ -43,3 +43,13 @@ Companies that did not stay in their growth corridors did worse than those who d
 Smart growers:
 - Had consistent and realistic targets for growth
 - Went after both growth in sales and profit growth simultaneously
+- Smart grower can usually improve operational efficiency (which leads to higher sustainable growth rates), which leads to cash being put into high growth areas of the market instead, which can result in higher growth rates over time
+- Smart growers also gradually increase their growth corridors and instead of focusing on short term growth that deplet resources unsustainably, they focus on their capacity to grow
+
+### Path to smart growth
+A company should grow depends on its situation 
+
+3 suboptimal growth situations:
+- Cash starved companies
+- Growth laggards
+- Companies experiencing excessive growth
