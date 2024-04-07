@@ -16,4 +16,10 @@ Competitive growth is the most important minimal growth rate, and is more realis
 
 
 ### Maximum growth
-Even though companies a minimum growth rate to stay competetive etc, they also 
+Even though companies a minimum growth rate to stay competitive etc, they also have an maximum threshold before growth starts causing too many problem.
+
+- Financial limits
+	- A proxy for **maximum long term growth** rate is **sustainable growth** rate which is basically how much you can increase sales and such impairing targets for debt, dividend payouts and return on working capital
+	- It is not uncommon for companies to go above this level, but should usually not do so
+- Managerial limits
+- Market limits
