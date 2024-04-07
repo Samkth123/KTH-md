@@ -22,4 +22,16 @@ Even though companies a minimum growth rate to stay competitive etc, they also h
 	- A proxy for **maximum long term growth** rate is **sustainable growth** rate which is basically how much you can increase sales and such impairing targets for debt, dividend payouts and return on working capital
 	- It is not uncommon for companies to go above this level, but should usually not do so
 - Managerial limits
+	- A companies growth is also limited by its ability to find, train and integrate new management of good quality at a fast pace
 - Market limits
+	- Escalating competition for marketshare can affect profitability negatively
+	- A company starts reaching its maximal growth when it starts purchasing shares at a cost of profitability
+
+Financial limits tend to be most important for larger companies
+Negative effects of management only become obvious when exceeding 25% growth rates
+
+
+### Smart Growth
+
+A company needs to grow within the confinements of minimal and maximum growth
+Most importnat i
