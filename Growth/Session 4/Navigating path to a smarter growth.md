@@ -51,5 +51,9 @@ A company should grow depends on its situation
 
 3 suboptimal growth situations:
 - Cash starved companies
+	- These companies lacked the cash to grow with the competition, which was shown through having a sustainable growth rate under their competitive growth rate
+	- Hobsons choice: Either grow at market rate and risk going bankrupt, or grow sustainably but loose market position
+	- Two-stage approach to get out of it:
+		- First increase cash flow and profitability by refocusing on core business, sell of noncore assets and take steps to improve operational efficiency
 - Growth laggards
 - Companies experiencing excessive growth
