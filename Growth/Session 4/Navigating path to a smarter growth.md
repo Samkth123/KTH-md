@@ -71,3 +71,12 @@ A company should grow depends on its situation
 		- Simultaneously, the companies stopped with aggressive acquisitions and instead focused on more organic growth
 			- Adjusted growth targets which reduced sales growth to more sustainable levels
 		- Finally, made organizational adjustments to increase corporate control and integrate various businesses giving a better sense of companywide discipline and accountability
+
+History shows that there is a fine line between aggressive expansion and overstepping the limits.
+- The business landscape is full of remains of previously high flying companies
+
+Smart growth needs to be within the bounds of a companies growth corridor.
+
+By defining the growth corridor, companies have an important benchmark for what they realistically can accomplish.
+
+As events unfold, a company's growth rate does not necessarily need to be in the growth corridor, but in the long run there should be made efforts to put it there.
