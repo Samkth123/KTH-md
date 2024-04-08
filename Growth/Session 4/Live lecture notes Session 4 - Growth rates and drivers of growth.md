@@ -29,3 +29,6 @@ CAGR > 40%
 Need to understand logic of growth corridor in test
 
 
+model is based on profit/equity aka return on profit
+
+### Estableished firms the frowh
