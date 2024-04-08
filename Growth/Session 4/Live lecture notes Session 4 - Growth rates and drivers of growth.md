@@ -28,12 +28,4 @@ CAGR > 40%
 #### GROWTH RATES: THE GROWTH CORRIDOR
 Need to understand logic of growth corridor in test
 
-Company needs to stay in something called a growth corridor for longterm sustainable growth. The upper limit is the maximal growth (should not be exceeded) and lower limit is the minimum growth (need to stay up to date with competitive growth rate, shareholders growth rate)
 
-A company should grow depends on its situation - and they speak about smart growth
-- Smart growth needs to be within the bounds of a companies growth corridor.
-
-The book says that there is a fine line between aggressive expansion and overstepping the limits.
-
-By defining the growth corridor, companies have an important benchmark for what they realistically can accomplish.
-- The paper is more like a guideline and nothing to die to follow

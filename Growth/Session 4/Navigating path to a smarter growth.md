@@ -84,4 +84,5 @@ As events unfold, a company's growth rate does not necessarily need to be in the
 
 Need to understand logic behind formula used: Depends on profit and your assets
 
-Upper rate pri
+Upper rate primarly determined by resources, authors use return on equity
+Lower limit depends on competitors, if grow slower than competitors you lose market share.
