@@ -69,7 +69,7 @@ The growth corridot: RICHEMONT CASE:
 - ==finns i appendix , all matte exempel finns på slidsen==
 - ==bra att gå igenom how to read financial statement å så samt MÅSTE VETA GROWTH CORRIDOR TILL PROVET==
 
-### SCALING AND EMPLOYEE BURN OUT AND SATISFACTION 1
+### SCALING AND EMPLOYEE BURN OUT AND SATISFACTION 
 
 RQ: How does scaling affect employee wellbeing (ie burnout and job satisfaction)
 Theory: Jobs demand control:
@@ -80,5 +80,9 @@ Contributions: employee perspective on scaling, focus on consequences (rather th
 
 a lot of papers on growth use a percentage of something ex sales in year 2 over slaes in year 1 
 but this paper uses scaling (deviation from a firms prior growth trajectory) ex if the company grows consistently 20% every year, they use some other way of measuring it but basically measured by looking at what growth can we predict for this firm based on prior growth, and see what it actually experiences and if it deviates a lot then it is unexpected growth and scaling. ex if company is stagnant many years then suddenly 40% growth then its sudden growth and it mgiht affect employee wellbeing and burnout
+
+They looked at managers also which assumption is they have more bestämande over your job so have less pressure from change and if you worked in startups before you become more chaos proof.
+
+
 
 ### GROWTH & EMPLOYEE WELLBEING
