@@ -53,10 +53,17 @@ cash starved:
 - lack the financial means to grow (SGR < CGR)
 - can either grow at CGR and go bankrujpt or grow at SGR and lose market share
 - typical resolution: a) sell of non core business and b) focus on efficiency in core
+- ex porsche and apple
 
 growth laggard:
 - outgrown by competitors and persistently lose market share (slaes growth < CGR)
 - typical resolution: organic growth through innocation (product/market/process)
+- ex ford and unilever
 
 Excessive growth
-- Grow beyond their means, l
+- Grow beyond their means, losing managerial and financial control
+- typical resolution: stabilization through retrenchment with debt resutrcturing, focus on organic growth and control and integration
+- ex vodafone and enron
+
+The growth corridot: RICHEMONT CASE:
+- ==finns i appendix , all matte exempel finns på slidsen==
