@@ -5,7 +5,7 @@ Better to target minimal growth as downsizing requires severence payouts and suc
 ### Minimal growth
 3 things influence a companies minimal growth rate:
 
-- Competitive growth
+- Competitive growth (dehär är viktigaste pga formeln använder bara detta)
 	- A company that can achieve competitive growth to its competitors in the market gives a good sign that it can also achieve minimal growth
 - Shareholders growth expectations
 	- Another requirement of a companies minimum growth rate is to meet long-term shareholder growth expectations other wise stock price might fall ex.
@@ -80,3 +80,8 @@ Smart growth needs to be within the bounds of a companies growth corridor.
 By defining the growth corridor, companies have an important benchmark for what they realistically can accomplish.
 
 As events unfold, a company's growth rate does not necessarily need to be in the growth corridor, but in the long run there should be made efforts to put it there.
+
+
+Need to understand logic behind formula used: Depends on profit and your assets
+
+Upper rate pri
