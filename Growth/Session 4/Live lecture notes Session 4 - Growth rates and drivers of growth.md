@@ -90,5 +90,13 @@ The soul of a start-up
 
 Link to the meanin of work: relational versus transactional
 Dimensions of the startup soul: business intent, customer connection
-- B
+- Business intent: reason for being
+- Customer connection: close bond with customers, alignment of business strategy with customer interests
+- Employee experience: employee creativity and autonomy, "freedom within a framework" " voice and choice"
+Threaths to the startup soul: bureaucracy entailed by growth " structure and discipline"
+Preserving the startup soul:
+- the soul can erode without deliberate action to preserve or restore it
+- culture and policies to foster voice and choice in a growing organization
+- pivoting while remaining aligned with the business intent (eg netflix)
+- Founder return to restore the soul (eg starbucks)
 
