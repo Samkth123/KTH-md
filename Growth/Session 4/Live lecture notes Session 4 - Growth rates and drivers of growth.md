@@ -85,4 +85,10 @@ They looked at managers also which assumption is they have more bestämande over
 
 
 
-### GROWTH & EMPLOYEE WELLBEING
+### GROWTH & SOUL
+The soul of a start-up
+
+Link to the meanin of work: relational versus transactional
+Dimensions of the startup soul: business intent, customer connection
+- B
+
