@@ -31,4 +31,32 @@ Need to understand logic of growth corridor in test
 
 model is based on profit/equity aka return on profit
 
-### Estableished firms the frowh
+### Estableished firms the frowht coridor
+
+Typically a established firm
+- is over 5 years old
+- hassttled in its core bussiness
+- is struggling to sustain growth
+how can and should such firms grow?
+growth corridor: follow upper limit (sustainable growth rate SGR) (return on equity -dividends) and lower limit ( competitive growth rate (CGR)) (avg sales gtrowht of key competitors)
+
+Useful formula on slide
+
+Possible growth situations:
+Different companies are on different stages of growth corridor, ex: cash starved, growth laggard, or excessive growth
+
+ex: BMW went from cash starved and growth laggard to smart growth
+
+AES went from excessive growth to smart growth
+
+cash starved:
+- lack the financial means to grow (SGR < CGR)
+- can either grow at CGR and go bankrujpt or grow at SGR and lose market share
+- typical resolution: a) sell of non core business and b) focus on efficiency in core
+
+growth laggard:
+- outgrown by competitors and persistently lose market share (slaes growth < CGR)
+- typical resolution: organic growth through innocation (product/market/process)
+
+Excessive growth
+- Grow beyond their means, l
