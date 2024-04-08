@@ -67,3 +67,13 @@ Excessive growth
 
 The growth corridot: RICHEMONT CASE:
 - ==finns i appendix , all matte exempel finns på slidsen==
+- ==bra att gå igenom how to read financial statement å så samt MÅSTE VETA GROWTH CORRIDOR TILL PROVET==
+
+### SCALING AND EMPLOYEE BURN OUT AND SATISFACTION 1
+
+RQ: How does scaling affect employee wellbeing (ie burnout and job satisfaction)
+Theory: Jobs demand control:
+- increases in job demands cause an increase in employee strain and decrease in employee wellbeing/satisfaction
+- employee (percieved) control can mitigate the above mentioned negative effects
+
+Contributions: employee perspective on scaling, focus on consequences (rather the antecedents) of scaling
