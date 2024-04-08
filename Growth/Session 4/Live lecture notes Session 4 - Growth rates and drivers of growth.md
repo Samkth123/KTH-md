@@ -77,3 +77,5 @@ Theory: Jobs demand control:
 - employee (percieved) control can mitigate the above mentioned negative effects
 
 Contributions: employee perspective on scaling, focus on consequences (rather the antecedents) of scaling
+
+### GROWTH & EMPLOYEE WELL
