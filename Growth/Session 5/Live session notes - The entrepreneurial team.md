@@ -64,7 +64,19 @@ THeory employed: (percieved) justice in organizational contexts
 Research question: how does the equity distribution in the entrepreneurial team shapes interactions among its members over time
 
 Key insights:
-- a key antecedent of perceived justice of equity distribution was equal equity distribution 5050
-- When perceived justice of equity distribution matched the cofounders percieved past and present octnbutions to the startup, an unequal split was also perceived as just
-- high/low perceived justice ofequity distribution trigger high/low team attraction (intra team trust and team cohesion) and low/high team repulsion (relationship conflict and social distancing)
-- w
+- a key antecedent of **perceived justice of equity distribution** was **equal** **equity distribution** 5050
+- When **perceived justice of equity distribution** matched the cofounders percieved **past and present octnbutions** to the startup, an unequal split was also perceived as just
+- high/low perceived justice ofequity distribution trigger **high/low team attraction** (intra team trust and team cohesion) and **low/high team repulsion** (relationship conflict and social distancing)
+- when the negative interaction spirals start, they further reduce the perceived justice of equity distribution and sometimes lead to cofunder exit
+- the positive/negative team interaction spirals positively/negatively affect team and firm performance
+- "injustice is like a corrosive solvent that can dissolve bonds within the community"
+
+practical recommendations for equity distributoins:
+- what may feel like a just/unjust. equity distrubtion to you mat not appear so to your coufner
+	- make sure your coufunder sees the equity distriuon as fiar to avoid trouble later. If someone accepts a deal it does not automatically mean heshe is happy with it
+	- if your cofouinder proposes a deal that you see as unjust voice your concerns
+- when you discuss contributions to the venture, consider also future conrtibution not only past and present ones
+- think about whether contingency contract would be useful, or at least have a discution about contigencies
+	- what happens if one cofounder wants to diminish hisher work contribution, to engage in antoher entrpeenerual project or employment
+	- what happens with the equity if one cofounder decides to elave
+	- how will you evaluate the company for a cofounder exit
