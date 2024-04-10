@@ -49,4 +49,4 @@ Equal split start seems to stay that way in the future as well
 - need to reward contributions to the company with equity
 	- good way to get even more contributions in the future
 - Investors can easier break up founding partners with less fair share
-- Most VCs want cofounder teams to succeed, reasons for investors aversions to equal splitters
+- Most VCs want cofounder teams to succeed, reasons for investors aversions to equal splitters because they are scared that the cofounders are hesitant to talk about difficult topics like equity distribution (because 50-50 could be not representative of the true distribution of workload) they will be scared of other things as well. Also that it might just be that the starters wanted a "partner in crime" and just wanted to have fun. More like the entrepreneurs might have not started this to become an unicorn.
