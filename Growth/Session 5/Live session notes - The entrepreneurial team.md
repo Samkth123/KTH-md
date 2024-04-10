@@ -32,12 +32,14 @@ Review papers: papers that summarise and interpret prior research on a specific 
 
 #### ENT TEAM DYNAMICS: THE SET UP
 Type of paper: quantitive paper
-Research question: How does quity split among start up co founders change over time?
+Research question: How does equity split among start up co founders change over time?
 
 Key insights:
 - Teams that start with an equal split (fairness logic) are less likely to change it over time
 - Equal splitters have fewer investment rounds, are less likely to attract VC money, and have lower premoney valuations. Close to equal spitters behave differently. (extra note: VC capital is often for startups that want to grow at a fast rate)
 - Trigger: a new financing round provides opportunities for recalibration. Relative founder stakes are more likely to change when a company raises investments.
 - Magnitude: larger rounds and lower valuations are associated with bigger changes in relative founder stakes
-- Why would a larger round of investment make a change of equity distribution more likely?
-	- 
+- Why would a larger round of investment make a change of equity distribution more likely? (ex 2 companies of same size but different size investments) (Large money raised, but lower valuations - this makes a change in equity split more likely - why?)
+	- Investors do not have a lot of reason to be driven by fairness but rather efficiency. So equity is driven by what you can bring to the table
+
+Discussion:
