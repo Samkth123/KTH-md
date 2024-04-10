@@ -47,3 +47,5 @@ Equal split start seems to stay that way in the future as well
 - being fair becomes effective because all want
 - but fair and equal does not need to be the same
 - need to reward contributions to the company with equity
+	- good way to get even more contributions in the future
+- Investors can easier break up founding partners with less fair share
