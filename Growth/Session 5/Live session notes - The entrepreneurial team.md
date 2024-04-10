@@ -52,3 +52,13 @@ Equal split start seems to stay that way in the future as well
 - Most VCs want cofounder teams to succeed, reasons for investors aversions to equal splitters because they are scared that the cofounders are hesitant to talk about difficult topics like equity distribution (because 50-50 could be not representative of the true distribution of workload) they will be scared of other things as well. Also that it might just be that the starters wanted a "partner in crime" and just wanted to have fun. More like the entrepreneurs might have not started this to become an unicorn.
 
 - equal split benefit is that the cofounders become equally committed to the venture
+
+### QUAL SIDE: ENT TEAM DYNAMICS
+#### How should we divide the pie: THE SET UP
+
+typ case studies
+interviews tracking ket events for periods after as well in this paper
+
+Purposeful sample: startups still managed by the founding team, located in business incubators in europ, some with equal, some with unequal equity distribution among the members of the entrepreneurial team, only startups with exactly 2 cofounders
+THeory employed: (percieved) justice in organizational contexts
+Research question: how does the equity distribution in the entrepreneurial team shapes interactions among its members over time
