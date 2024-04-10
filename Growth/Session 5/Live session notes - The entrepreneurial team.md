@@ -35,4 +35,9 @@ Type of paper: quantitive paper
 Research question: How does quity split among start up co founders change over time?
 
 Key insights:
-- Teams that start with an equal
+- Teams that start with an equal split (fairness logic) are less likely to change it over time
+- Equal splitters have fewer investment rounds, are less likely to attract VC money, and have lower premoney valuations. Close to equal spitters behave differently. (extra note: VC capital is often for startups that want to grow at a fast rate)
+- Trigger: a new financing round provides opportunities for recalibration. Relative founder stakes are more likely to change when a company raises investments.
+- Magnitude: larger rounds and lower valuations are associated with bigger changes in relative founder stakes
+- Why would a larger round of investment make a change of equity distribution more likely?
+	- 
