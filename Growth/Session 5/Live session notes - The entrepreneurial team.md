@@ -78,5 +78,5 @@ practical recommendations for equity distributoins:
 - when you discuss contributions to the venture, consider also future conrtibution not only past and present ones
 - think about whether contingency contract would be useful, or at least have a discution about contigencies
 	- what happens if one cofounder wants to diminish hisher work contribution, to engage in antoher entrpeenerual project or employment
-	- what happens with the equity if one cofounder decides to elave
+	- what happens with the equity if one cofounder decides to leave
 	- how will you evaluate the company for a cofounder exit
