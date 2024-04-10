@@ -24,4 +24,15 @@ Review papers: papers that summarise and interpret prior research on a specific 
 
 ##### The doulbe life cycle model
 - development of the life cycke of the team with the lifecycle of the firm
-- The ENT team life cycle is independent but emb
+- The ENT team life cycle is **independent** but **embedded** in the lifecycle of the firm
+- Research shows that many teams rarely survive in the initial composition of when they started the company
+
+
+### QUANT SIDE:
+
+#### ENT TEAM DYNAMICS: THE SET UP
+Type of paper: quantitive paper
+Research question: How does quity split among start up co founders change over time?
+
+Key insights:
+- Teams that start with an equal
