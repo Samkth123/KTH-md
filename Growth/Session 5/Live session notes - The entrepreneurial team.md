@@ -62,3 +62,9 @@ interviews tracking ket events for periods after as well in this paper
 Purposeful sample: startups still managed by the founding team, located in business incubators in europ, some with equal, some with unequal equity distribution among the members of the entrepreneurial team, only startups with exactly 2 cofounders
 THeory employed: (percieved) justice in organizational contexts
 Research question: how does the equity distribution in the entrepreneurial team shapes interactions among its members over time
+
+Key insights:
+- a key antecedent of perceived justice of equity distribution was equal equity distribution 5050
+- When perceived justice of equity distribution matched the cofounders percieved past and present octnbutions to the startup, an unequal split was also perceived as just
+- high/low perceived justice ofequity distribution trigger high/low team attraction (intra team trust and team cohesion) and low/high team repulsion (relationship conflict and social distancing)
+- w
