@@ -43,3 +43,7 @@ Key insights:
 	- Investors do not have a lot of reason to be driven by fairness but rather efficiency. So equity is driven by what you can bring to the table
 
 Discussion:
+Equal split start seems to stay that way in the future as well
+- being fair becomes effective because all want
+- but fair and equal does not need to be the same
+- need to reward contributions to the company with equity
