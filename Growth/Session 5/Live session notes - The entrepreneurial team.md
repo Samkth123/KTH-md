@@ -49,3 +49,4 @@ Equal split start seems to stay that way in the future as well
 - need to reward contributions to the company with equity
 	- good way to get even more contributions in the future
 - Investors can easier break up founding partners with less fair share
+- Most VCs want cofounder teams to succeed, reasons for investors aversions to equal splitters
