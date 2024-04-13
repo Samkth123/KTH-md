@@ -88,3 +88,23 @@ This partly reflects the characteristics of equity finance compared with debt fi
 
 ##### Venture capital and private equity
 Institutions that invest in early-stage companies are often called venture capitalists, and a typical venture-capital investment will be for a minority stake. When investments are made in established companies, or are used to fund the acquisition of a listed business (taking a company private), the investing institution usually talks about private equity, and the investment will more often be for a majority stake. When part-financed by a significant injection of debt finance, the deal will be called “leveraged”.
+
+
+### Private Equity
+
+**Private equity** refers to investment funds, typically managed by firms or individuals, that directly invest in private companies or engage in buyouts of public companies to take them private (hence the name "private" equity). The key characteristics of private equity investments are:
+
+- **Ownership Stakes**: Private equity investments often involve buying a significant, if not controlling, stake in a company. Unlike venture capital, which usually acquires minority stakes in early-stage companies, private equity often targets majority ownership.
+    
+- **Types of Companies**: While venture capital focuses on early-stage, high-growth potential startups, private equity firms typically invest in more established companies. They may seek to invest in underperforming or undervalued companies that they can turn around, streamline, or grow with the aim of selling them later for a profit.
+    
+- **Exit Strategies**: The goal of a private equity investment is to significantly improve a company's value over time and then exit the investment through means such as a sale to another company, a merger, or a public offering (IPO).
+
+**Leveraged** refers to the use of borrowed money (debt) to complete an investment transaction, typically a buyout, with the primary goal of increasing the potential return of the investment. In a **leveraged buyout (LBO)**, the assets of the company being acquired and often the assets of the acquiring company are used as collateral for the loans
+
+
+
+Even if the founders still own the majority of the shares in the business they have founded, they will have given up significant influence over their business as soon as they have said yes to external equity finance
+
+**Obtaining a listing for the first time** is known as a **flotation** or an **initial public offering (IPO).**
+Different markets in different jurisdictions have different rules and procedures for flotations and IPOs
