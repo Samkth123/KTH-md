@@ -7,3 +7,7 @@ According to our survey, more than 30% of deals come from leads from VCs’ form
 Few VCs use standard financial-analysis techniques to assess deals. The most commonly used metric is simply the cash returned from the deal as a multiple of the cash invested.
 
 One framework suggests that VCs favor either the “jockey” or the “horse. ” (The entrepreneurial team is the jockey, and the startup’s strategy and business model are the horse.) Our survey found that VCs believe both the jockey and the horse are necessary—but ultimately deem the founding management team to be more critical.
+
+
+After the Handshake 
+To aspiring entrepreneurs, the typical VC term sheet often seems to be written in a foreign language. Of course, it’s critical for company founders to understand these contracts. They’re designed to ensure that the entrepreneur will do very well financially if he or she performs but that investors can take control of the business if the entrepreneur doesn’t deliver.
