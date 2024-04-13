@@ -65,4 +65,14 @@ When structuring debt, the most common way a bank can make sure that its **posit
 ##### Cash flow lending
 An established business with a good track record may be able to take advantage of so-called cash flow lending. Rather than taking security against specific assets, a bank relies on the cash flow that the business expects to generate to give it the comfort it needs. The bank will seek safeguards in the form of warranties and covenants based on such measures as profitability, enterprise value and ratios comparing profit with interest.
 
-Enthusiasts for cash flow lending argue that it is more focused than asset-based lending on the ability of a business to repay its debts. Focusing on an assessment of future cash flows rather than assets that can be secured often increases the debt capacity of a business; it also increases the number of businesses able to raise debt finance.
+Enthusiasts for cash flow lending argue that it is more focused than asset-based lending on the ability of a business to repay its debts. Focusing on an assessment of future cash flows rather than assets that can be secured often increases the debt capacity of a business; it also increases the number of businesses able to raise debt finance. 
+(**Debt finance** refers to the process of raising capital by borrowing money that must be repaid over time, usually with interest)
+
+##### Corporate bonds and debentures
+Big, established businesses have other debt options. A corporate bond or debenture is a longer-term debt instrument with a maturity date, a redemption value and a coupon (an interest rate, usually fixed).
+
+##### Guarantees
+Small-business owners are often asked by banks for personal guarantees that put their own (as opposed to the company’s) assets at risk if the company is unable to pay back the loan, notwithstanding the limited liability status of the company. Personal guarantee documents are long and complicated, and are designed to protect the bank’s interests. But many of those asked to give personal guarantees pay insufficient attention to protecting their own positions before signing the documentation. A business owner should resist giving a personal guarantee and, if faced with no alternative, should take independent professional advice before agreeing to one
+
+
+### Equity finance
