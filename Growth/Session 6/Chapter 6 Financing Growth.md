@@ -76,3 +76,15 @@ Small-business owners are often asked by banks for personal guarantees that put 
 
 
 ### Equity finance
+*The other principal source of finance*, for businesses of all shapes and sizes, **is equity**, referred to as share ownership in the UK and stock ownership in the US. A shareholder owns a slice of the business. The other principal source of finance, for businesses of all shapes and sizes, is equity, referred to as share ownership in the UK and stock ownership in the US. A shareholder owns a slice of the business. The share entitles its owner to a share of the future income distributed by the business in the form of dividends, or to a return of capital when the business is sold.
+
+
+Once the entrepreneur’s own funds have been exhausted, new businesses often call on what cynics refer to as the “three Fs” (friends, family and fools) for initial funding.
+
+They often take advantage of tax breaks giving exemption from capital gains when investing, in the US, in qualified small business stock. Angels in the UK can use the Enterprise Investment Scheme when investing, giving them significant income and capital gains tax benefits as long as they are qualifying individuals investing in ordinary shares in qualifying companies based in the UK.
+
+This partly reflects the characteristics of equity finance compared with debt finance. In theory **debt finance is straightforward**. Can the company offer security? Can the business afford the interest and the repayments? If the answer to both these questions is yes, debt is relatively easy to find. **Equity financiers are not as comfortable with security**; they look instead at the robustness of the proposition, the quality of the opportunity, the return it will generate and the business’s ability to repay the investment, notwithstanding the lack of security. Such qualities are difficult to assess and the assessment process, called due diligence, takes time and costs money, which the investor must justify spending.
+
+
+##### Venture capital and private equity
+Institutions that invest in early-stage companies are often called venture capitalists, and a typical venture-capital investment will be for a minority stake. When investments are made in established companies, or are used to fund the acquisition of a listed business (taking a company private), the investing institution usually talks about private equity, and the investment will more often be for a majority stake. When part-financed by a significant injection of debt finance, the deal will be called “leveraged”.
