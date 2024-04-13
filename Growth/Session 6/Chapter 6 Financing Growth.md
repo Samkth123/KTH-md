@@ -23,5 +23,16 @@ Taking advantage of a purchase discount by paying suppliers quickly may improve 
 
 Growth is costly. In the long term it may be the only way to secure a sustainable business, but in the short term it will cost money. A growing business must reinvest in itself and will need increasing amounts of working capital (the amount of resources tied up in the balance sheet in the cash cycle).
 
-
 Many growing businesses, especially business-to-business ones with reliable customers, take advantage of asset-based finance, borrowing mainly against debtors and occasionally against inventory as well
+
+Neil Churchill and John Mullins in a 2001 article in Harvard Business Review:
+(it is possible to calculate to what extent cash constraints determined by cash flows in and out of a business will allow the business to grow):
+
+- A business that ties up cash unnecessarily on the balance sheet in the form of excess inventory or uncollected debtors is putting itself under unnecessary cash pressure.
+- A business that is paying its suppliers more quickly than necessary is putting itself under unnecessary cash pressure.
+- The higher a business’s margins, the greater its cash-generating capability is likely to be.
+- The faster a business grows, the more pressure it will put on its cash resources.
+
+### Growing too fast
+
+A business that is growing too fast is overtrading. As with many growth problems, it is ironic that the problem of overtrading is a product of success. In the simplest terms, a business that is overtrading is attempting to do too much with the cash resources at its disposal.
