@@ -16,3 +16,5 @@ They’re designed to ensure that the entrepreneur will do very well financially
 
 
 The VCs indicated that they were relatively inflexible on pro rata investment rights, liquidation preferences, and antidilution rights (which protect their potential economic upside) as well as on the vesting of the founders’ equity, the company’s valuation, and board control (which is often seen as the most important control mechanism)
+
+Intensive advisory activities are the main mechanism VCs use to add value to their portfolio companies. (Surveys reveal that this is also true for private equity investors.)
