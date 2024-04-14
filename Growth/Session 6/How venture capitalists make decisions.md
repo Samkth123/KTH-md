@@ -9,5 +9,10 @@ Few VCs use standard financial-analysis techniques to assess deals. The most com
 One framework suggests that VCs favor either the “jockey” or the “horse. ” (The entrepreneurial team is the jockey, and the startup’s strategy and business model are the horse.) Our survey found that VCs believe both the jockey and the horse are necessary—but ultimately deem the founding management team to be more critical.
 
 
-After the Handshake 
+**After the Handshake**
 To aspiring entrepreneurs, the typical VC term sheet often seems to be written in a foreign language. Of course, it’s critical for company founders to understand these contracts. They’re designed to ensure that the entrepreneur will do very well financially if he or she performs but that investors can take control of the business if the entrepreneur doesn’t deliver.
+
+They’re designed to ensure that the entrepreneur will do very well financially if he or she performs but that investors can take control of the business if the entrepreneur doesn’t deliver. Prior studies of VC investment terms show that VCs accomplish that through the careful allocation of cash flow rights (the financial upside that gives founders incentives to perform), control rights (the board and voting rights that allow VCs to intervene if needed), liquidation rights (the distribution of the payoff if the company flounders and has to be sold), and employment terms, particularly vesting (which gives entrepreneurs incentives both to perform and to stay at the company). In general, deals are structured so that entrepreneurs who hit specific milestones retain control and reap monetary rewards. If they miss those milestones, however, the VCs can bring in new management and change direction.
+
+
+The VCs indicated that they were relatively inflexible on pro rata investment rights, liquidation preferences, and antidilution rights (which protect their potential economic upside) as well as on the vesting of the founders’ equity, the company’s valuation, and board control (which is often seen as the most important control mechanism)
