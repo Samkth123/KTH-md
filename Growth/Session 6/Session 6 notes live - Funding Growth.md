@@ -19,3 +19,6 @@ Forecast to a readjusted size of USD 26490 million by 2028 with a CAGR of 4.9%
 
 need money for:
 European expansion - proof of concept in sweden and nordics, want to expand to germany and baltics.
+warehouses etc...
+
+extremly scaleable - ecommerce shop
