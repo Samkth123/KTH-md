@@ -5,19 +5,24 @@ Agenda today
 
 
 
-Warehouse for germany?
 
+Partyhallen
 A E-commerce store for festive decorations
 1 stop shop for everything
-short delivery time
+
+When preparing for a party, many 
+
+short delivery times and
+
+Market has a 5% forecasted CAGR oncoming years and we expect to gain a share of it
 
 Proof of concept with increasing sales across the entire nordics
 
-Extreme scaleability with low cost infrastructure and easy deployment in germany
+Looking for 100M SEK to deploy an online store in germany
 
-market size:
-Forecast to a readjusted size of USD 26490 million by 2028 with a CAGR of 4.9%
+**THE case**
+Extreme scaleability with low cost infrastructure and easy deployment in Germany where the competition also is lower
 
-European expansion - proof of concept in sweden and nordics, want to expand to germany and baltics.
-warehouses etc...
+
+
 
