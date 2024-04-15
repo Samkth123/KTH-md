@@ -44,17 +44,17 @@ A business that is growing too fast is overtrading. As with many growth problems
 - To slow growth down, which is also surprisingly difficult to achieve. It may require turning business away, and incurring the risk of disappointing sources of future business and upsetting customers and ambitious staff. One strategy may be to increase prices. This will have the effect of increasing the cash the business operations are generating as well as choking off some demand from customers who are unwilling to pay the higher price.
 - To seek external financing, probably equity finance, as debt capacity is likely to have been reached.
 
-Managers in successful, fast-growing businesses must look out for signs of overtrading. These include cash balances trending downwards, payment terms to suppliers lengthening and the overdraft facility being used more frequently. When the current ratio (current assets/current liabilities) is less than 1, questions should be asked about the business’s ability to pay its short-term creditors; in other words, its ability to keep going.
+Managers in successful, fast-growing businesses must look out for **signs of overtrading**. These include **cash balances trending downwards**, **payment terms to suppliers lengthening** and the **overdraft facility being used more frequently**. When the current ratio (current **assets/current liabilities**) is **less than 1, questions should be asked about the business’s ability to pay its short-term creditors**; in other words, its ability to keep going.
 
 ### External sources of finance
 External sources of finance are necessary when internal ones are not enough
 
 ### Debt finance
-Debt finance – borrowing the money – allows a company to raise cash without giving away any share capital or equity. The company can offset interest payments against tax (assuming it is making enough profit to incur tax), and thus there is good reason to expect debt finance to be relatively cheap.
+Debt finance – borrowing the money – **allows a company to raise cash without giving away any share capital or equity**. The company can **offset interest payments against tax** (assuming it is making enough profit to incur tax), and thus there is good reason to expect debt finance to be relatively cheap.
 
 If a business is looking for debt finance, especially when times are hard, it helps to understand how banks think, and thus avoid any unnecessary misunderstanding or disappointment. Banks lend their money in return for interest. A bank will lose a lot more if the company it has lent money to goes bust than it will earn from interest if it does well. If the company does spectacularly well, the bank will be a little better off. But it will need to earn a lot of interest from a lot of clients to recover what it has lost on a client that has gone bust, unless it can protect itself in some way.
 
-There are various types of debt finance:
+There are **various types of debt finance**:
 
 ##### Overdrafts
 Overdraft funding (sometimes known as a “revolver”) is risky for the bank and for the borrower. In any business, small or large, it should be used only to **fund short-term cash flow shortfalls** – helping to smooth out the ups and downs of the working capital cycle. An overdraft can be called in at any time, so it is a **high-risk strategy** for a business to rely on it for longer-term financing. From the bank’s point of view an overdraft is often unsecured, increasing its exposure. Even though a business pays interest on an overdraft only when it has one, interest **rates are high to reflect the risk**. **Longer-term appropriately structured debt financing is much cheaper.**
