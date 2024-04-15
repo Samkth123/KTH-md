@@ -10,18 +10,18 @@ Partyhallen
 A E-commerce store for festive decorations
 1 stop shop for everything
 
-When preparing for a party, many 
+When preparing for a party, it can often become a stressful process.
+With Partyhallen, you can ease some of this stress
 
-short delivery times and
+With everything you need at one digital place AND short delivery times
 
-Market has a 5% forecasted CAGR oncoming years and we expect to gain a share of it
+Festive decoration market has a 5% forecasted CAGR oncoming years and we expect to gain a share of it
 
 Proof of concept with increasing sales across the entire nordics
 
-Looking for 100M SEK to deploy an online store in germany
 
-**THE case**
-Extreme scaleability with low cost infrastructure and easy deployment in Germany where the competition also is lower
+**THE investment case**
+Extreme scaleability through low cost infrastructure and the business model allows for easy deployment in Germany where the competition also is lower
 
 
 
