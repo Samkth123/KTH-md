@@ -8,9 +8,18 @@ Bootstrapping - entrepreneurs (your own money), family and friends, customer and
 equity finance - private equity or IPO
 - private equity - equity crowdfunding, business angels, VCs, corporate venture capitalists
 
-depth finance - bank loans, lend based crowdfunding
+depth finance - bank loans (mer för större företag), lend based crowdfunding (entrepreneurs in develpoing coutrnies more use lendbased crowdfunding)
 
 
+#### The curse of too much capital
+Reward crowdfunding
+
+Definition: RCF enables entprerenues to raise financing from a large group of investors, who get a rewrad in return for their contribution
+
+Parties involded:
+- the entreprenur launching the crowdunding campaign to rise money for his/her startup firm
+- The backer who contributes money to the crowdfunding campagin in exchange for a reward
+- The reward crwodfunding plat
 
 
 
