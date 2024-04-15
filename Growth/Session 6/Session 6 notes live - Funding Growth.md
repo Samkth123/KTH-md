@@ -3,15 +3,12 @@ Agenda today
 2. Funding growth
 3. The curse of funding
 
+Bootstrapping - entrepreneurs (your own money), family and friends, customer and suppliers (ex preordering  crowdfunding osv...), siubscisdies, grants and awards (**not taking loans**)
 
+equity finance - private equity or IPO
+- private equity - equity crowdfunding, business angels, VCs, corporate venture capitalists
 
-
-
-
-
-
-
-
+depth finance - bank loans, lend based crowdfunding
 
 
 
