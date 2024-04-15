@@ -19,7 +19,12 @@ Definition: RCF enables entprerenues to raise financing from a large group of in
 Parties involded:
 - the entreprenur launching the crowdunding campaign to rise money for his/her startup firm
 - The backer who contributes money to the crowdfunding campagin in exchange for a reward
-- The reward crwodfunding plat
+- The reward crwodfunding platform hosting the campgin eg kickstarter
+
+==finns mer att hämta här==
+
+How does bounded vs unbobded claims influence firm long term performance (on time and on scope delivery)
+
 
 
 
