@@ -1,12 +1,14 @@
 **VAD VI VILL HA**
 Vi vill ha 8 modeller, worst case 6
 
-150 each model, total of 1200 each year (säg att vi vill ha mellan 1-1,4k)
+150 each model, total of 1200 each year (säg att vi vill ha mellan 800)
 
 Beta vill ha artificial vision research, vi vill bara ge om vi får allt annat. (vi vill få assembly tech)
 - Alpha already agreed on helping us, only right if we help them but we want more
 
-We pay 3%, only 7% if allt ovanför är bra
+We pay 3%, only 7% if allt ovanför är bra (säg 0,5% royalty)
+- you have supply chain and infrastructure, we have the distribution channels and sales engine.
+- 0,5% feels like reasonable rate
 
 **Resten**:
 How big marketshare does Beta inc have? Large market but you are R&D focused
