@@ -4,7 +4,11 @@ Notes:
 What **inferences** did you draw from the behavior?
 
 Where can we find culture(s)?
-- nations, industries, t.e
+- nations, industries t.ex. phd physics vs investment bankers differ, usually people who go into a new culture adjusts to that culture. Different big companies have different types of cultures. Boeing and mcdonald douglas had different cultures, and mcdonald douglas culture took over and therefore quality went down. Some VCs are nice to work with and some are less nice to work with, people who join those firms get different negotiation styles. Even in same company cultures differ ex sales vs engineers. 
+	- Important to anticipate differences in negotiation style/sources of misunderstandings 
+	- analyze intercultural differences and try to identify win-win opportunities (men måste också tänka på att en fransk å engelsk lawyer är mer lika än olika de oklart oftast)
+	- if get annoyed with other part maybe they want the deal but they are different culture and different way of negotiating
+	- could lead to no deal subconsiously if other party sees the other party as rude or 
 
 ----------
 
