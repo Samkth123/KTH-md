@@ -11,7 +11,16 @@ How big marketshare does Beta inc have? Large market but you are R&D focused
 - we are more sales and can help you sell
 
 They will give up the concesion of not entering alpha market
+- Beta want to come to our market
 
 Vi kan gå till 150 andra robotics companies if this is not good enough for us
 
 We will be able to produce robots in 2-3 years
+
+
+**In the last hypothethical meeting:**
+
+Agreed relationship will be for 5 years
+We will recieve fully manufactured robots
+Later on Alpha will be able to use robots using beta technology
+non exclusive
