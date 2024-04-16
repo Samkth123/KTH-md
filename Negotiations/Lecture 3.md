@@ -1,8 +1,10 @@
 
 Notes:
 
+What **inferences** did you draw from the behavior?
 
-
+Where can we find culture(s)?
+- nations, industries, t.e
 
 ----------
 
