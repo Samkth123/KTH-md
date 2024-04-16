@@ -1,5 +1,5 @@
 **VAD VI VILL HA**
-Vi vill ha 8 modeller, worst case 6
+Vi vill ha 8 modeller, worst case 6 ( want 10 )
 
 150 each model, total of 1200 each year (säg att vi vill ha mellan 800)
 
