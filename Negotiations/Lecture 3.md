@@ -10,6 +10,8 @@ We pay 3%, only 7% if allt ovanför är bra (säg 0,5% royalty)
 - you have supply chain and infrastructure, we have the distribution channels and sales engine.
 - 0,5% feels like reasonable rate
 
+dom vill expand
+
 **Resten**:
 How big marketshare does Beta inc have? Large market but you are R&D focused
 - we are more sales and can help you sell
