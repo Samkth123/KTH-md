@@ -8,7 +8,7 @@ Where can we find culture(s)?
 	- Important to anticipate differences in negotiation style/sources of misunderstandings 
 	- analyze intercultural differences and try to identify win-win opportunities (men måste också tänka på att en fransk å engelsk lawyer är mer lika än olika de oklart oftast)
 	- if get annoyed with other part maybe they want the deal but they are different culture and different way of negotiating
-	- could lead to no deal subconsiously if other party sees the other party as rude or 
+	- could lead to no deal subconsiously if other party sees the other party as rude or not trustworthy
 
 ----------
 
