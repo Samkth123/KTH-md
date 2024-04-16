@@ -1,1 +1,17 @@
-Vi vill ha 
+Vi vill ha 8 modeller, worst case 6
+
+150 each model, total of 1200 each year (säg att vi vill ha mellan 1-1,4k)
+
+Beta vill ha artificial vision research, vi vill bara ge om vi får allt annat.
+- Alpha already agreed on helping us, only right if we help them but we want more
+
+We pay 3%, only 7% if allt ovanför är bra
+
+How big marketshare does Beta inc have? Large market but you are R&D focused
+- we are more sales and can help you sell
+
+They will give up the concesion of not entering alpha market
+
+Vi kan gå till 150 andra robotics companies if this is not good enough for us
+
+We will be able to produce robots in 2-3 years
