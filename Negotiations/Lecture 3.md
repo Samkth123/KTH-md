@@ -1,3 +1,15 @@
+
+Notes:
+
+
+
+
+----------
+
+
+
+
+
 **VAD VI VILL HA**
 Vi vill ha 8 modeller, worst case 6 ( want 10 ) Dyrt för dom att ge 10 modeller
 
