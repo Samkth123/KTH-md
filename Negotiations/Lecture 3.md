@@ -1,5 +1,5 @@
 **VAD VI VILL HA**
-Vi vill ha 8 modeller, worst case 6 ( want 10 )
+Vi vill ha 8 modeller, worst case 6 ( want 10 ) Dyrt för dom att ge 10 modeller
 
 150 each model, total of 1200 each year (säg att vi vill ha mellan 800)
 
@@ -11,6 +11,7 @@ We pay 3%, only 7% if allt ovanför är bra (säg 0,5% royalty)
 - 0,5% feels like reasonable rate
 
 dom vill expand
+you do not have a lot of exports
 
 **Resten**:
 How big marketshare does Beta inc have? Large market but you are R&D focused
