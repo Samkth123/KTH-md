@@ -42,7 +42,7 @@ In a growing industry
 In a shrinking industry
 - Companies compete more about aggressive for smaller business
 - This puts pressure on sales prices
-- However some companies might be rushing to exit leaving those that stay to consolidate a stronger position buy buying up market share
+- However some companies might be rushing to exit leaving those that stay to consolidate a stronger position by buying up market share
 
 ### Profit/income gross net
 
