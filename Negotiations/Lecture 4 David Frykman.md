@@ -13,6 +13,8 @@ oftast 2 frågor: är marknaden stor nog å är entreprenören grym
 
 Söker oftast ett psykopat å någon som tänker på sitt företag 24/7 å som kastat bort allt annat för att satsa på sitt bolag
 
+om ta in angel kmr de va risky för VC kommer att vilja gå hardcore men angel kanske inte kommer de
+
 
 
 
@@ -34,4 +36,5 @@ IDE: ta in mått av personen för att hjälpa dom hitta perfekta kläder:
 - kan ta in märken man vill ha
 - kan ta in om de ska va rea eller inte
 - låter dig välja mellan tight fit, loose, medium, osv...
+- eller om inte vill skriva in så ska den skanna dig
 
