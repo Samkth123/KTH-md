@@ -29,6 +29,8 @@ Renogitating is not good for long term trust
 
 There is a difference between anchoring which is not a dirty tactic. Dont lie in negotiations
 
+Contracts are usually just signed and then thrown away and if someone breaches it the legal fees are so much not worth
+
 
 
 
