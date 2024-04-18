@@ -37,4 +37,7 @@ IDE: ta in mått av personen för att hjälpa dom hitta perfekta kläder:
 - kan ta in om de ska va rea eller inte
 - låter dig välja mellan tight fit, loose, medium, osv...
 - eller om inte vill skriva in så ska den skanna dig
+- samma med skor där så brukar man ha olika storlekar baserat på vilket märke det är - adidas å nike 44 är inte samma
 
+annan ide:
+sälja på folk blodprovsgrejer fast på stan å säga vad dom kan få av de
