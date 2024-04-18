@@ -21,6 +21,13 @@ people do anchoring and use psychological tricks but do not do it too bluntly
 
 sales people are good negotiatiors because they can reframe things
 
+In negotiations its important to see if its a one time negotiation or long term because they are too different games. Also if its distributive or package is also different because distributive is we will share the things while package is we will take what is important to us and u take what is important to you.
+
+if negotiate a package if you want something you need to give something.
+
+Renogitating is not good for long term trust
+
+There is a difference between anchoring which is not a dirty tactic.
 
 
 
