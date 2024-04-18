@@ -15,6 +15,11 @@ Söker oftast ett psykopat å någon som tänker på sitt företag 24/7 å som k
 
 om ta in angel kmr de va risky för VC kommer att vilja gå hardcore men angel kanske inte kommer de
 
+kialdini 7 principles of influence
+
+people do anchoring and use psychological tricks but do not do it too bluntly
+
+sales people are good negotiatiors because they can reframe things
 
 
 
