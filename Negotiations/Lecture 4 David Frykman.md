@@ -9,3 +9,10 @@ u never stop selling även om blir mer senior
 private equity är senare stage investing så om dom får 0 är de katastrof men 5x är grymt.
 VC är mer om vi får 0 är de ok för vi satsar på dom som ger 20x-100x
 
+oftast 2 frågor: är marknaden stor nog å är entreprenören grym
+
+IDE: ta in mått av personen för att hjälpa dom hitta perfekta kläder:
+- ska ge prisintervall man kan ta
+- kan ta in märken man vill ha
+- kan ta in om de ska va rea eller inte
+- låter ig
