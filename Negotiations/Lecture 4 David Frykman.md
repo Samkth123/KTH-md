@@ -27,7 +27,9 @@ if negotiate a package if you want something you need to give something.
 
 Renogitating is not good for long term trust
 
-There is a difference between anchoring which is not a dirty tactic.
+There is a difference between anchoring which is not a dirty tactic. Dont lie in negotiations
+
+
 
 
 
