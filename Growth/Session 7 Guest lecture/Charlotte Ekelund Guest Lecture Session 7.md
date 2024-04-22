@@ -35,6 +35,7 @@ How do you attract people when cant pay them well?
 - 100 day plan
 	- tell employees welcome but 80% of you wont be here in a few months because we keep the best only
 	- have deliverables first 3 months, and if they dont deliver it then they will step up their game
+	- also good plan as people will know what you expect from them
 - Hire admin people before hiring sales people
 
 3 ways of driving growth in saas
@@ -54,5 +55,7 @@ When gut tells hire is wrong:
 
 Firing people:
 - downsizing might happen
-- 
+
+
+Best to bootstrap and go for profitability first
 
