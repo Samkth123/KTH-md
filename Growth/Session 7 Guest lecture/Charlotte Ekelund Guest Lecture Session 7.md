@@ -72,3 +72,7 @@ When raise a VC round you usually pay for VC lawyers as well.
 
 I början man kanske kan lägga 70% pengar på tech, men efter ett tag kommer business delen att öka, och då måste man omdistribuera
 
+Questo/ teckningsoptioner
+
+
+
