@@ -42,7 +42,15 @@ How do you attract people when cant pay them well?
 - marketing growth - people see your stuff then in funnel
 - product like growth - everytime have an external meeting they get into your product ex teemco
 
-Sales led approach
+Need to know if we need marketing people or sales people first then the other
+- wait before hiring entire sales team
+
+Timing and role of a CPO:
+- product is intersection of marketing and technology
+- some people have cpo for product marketing and one for tech
+
+When gut tells hire is wrong:
+- fire people fast if need
 
 
 
