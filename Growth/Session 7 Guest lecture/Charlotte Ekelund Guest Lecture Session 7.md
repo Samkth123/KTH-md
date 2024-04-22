@@ -28,7 +28,21 @@ When stress for hiring people fast:
 - as ceo its best to do what you are good at ex selling
 
 How do you attract people when cant pay them well?
-- quick wins: flexible work, bonus scheme, 
+- quick wins: flexible work, bonus scheme (ex get part of increased sales), birthdays off
+- options:
+	- either only c-level or all first 20 employees
+	- Queso stock thing sweden? But does not work for remote workers
+- 100 day plan
+	- tell employees welcome but 80% of you wont be here in a few months because we keep the best only
+	- have deliverables first 3 months, and if they dont deliver it then they will step up their game
+- Hire admin people before hiring sales people
+
+3 ways of driving growth in saas
+- email and calling
+- marketing growth - people see your stuff then in funnel
+- product like growth - everytime have an external meeting they get into your product ex teemco
+
+Sales led approach
 
 
 
