@@ -22,6 +22,13 @@ But if you are pre revenue, you need to have atleast something to show for.
 The example would be that customers would sign a sheet that they would try you.
 
 
+When stress for hiring people fast:
+- good recruitment in a startup is an ongoing thing
+- important to hire operations person that can set up financial stuff etc
+- as ceo its best to do what you are good at ex selling
+
+How do you attract people when cant pay them well?
+- quick wins: flexible work, bonus scheme, 
 
 
 
