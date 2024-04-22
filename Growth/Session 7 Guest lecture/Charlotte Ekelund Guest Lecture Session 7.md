@@ -76,3 +76,6 @@ Questo/ teckningsoptioner
 
 
 
+min ide:
+säg att dom får rea ifall första som går med på att vara top visade kläder
+
