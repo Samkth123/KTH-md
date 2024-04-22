@@ -52,5 +52,7 @@ Timing and role of a CPO:
 When gut tells hire is wrong:
 - fire people fast if need
 
-
+Firing people:
+- downsizing might happen
+- 
 
