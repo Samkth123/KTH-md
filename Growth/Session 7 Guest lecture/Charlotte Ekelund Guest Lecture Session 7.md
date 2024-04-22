@@ -56,6 +56,11 @@ When gut tells hire is wrong:
 Firing people:
 - downsizing might happen
 
-
 Best to bootstrap and go for profitability first
+
+Mycket A/B testing om hur man ska sälja t.ex. try influencer, try social media, try real selling, and do it in a structured way. Kolla vad som funkar och vad som inte funkar
+
+cant always try more features in SaaS but need other htings, t.ex. hon la till guided meditation för alla kunder 1 gång i veckan
+
+workshop: varje medlem fick kolla på motståndaren, och sen pitcha för motståndaren om varför vi ska välja deras produkt
 
