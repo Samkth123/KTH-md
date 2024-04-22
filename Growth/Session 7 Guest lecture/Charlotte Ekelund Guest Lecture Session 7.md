@@ -64,3 +64,11 @@ cant always try more features in SaaS but need other htings, t.ex. hon la till g
 
 workshop: varje medlem fick kolla på motståndaren, och sen pitcha för motståndaren om varför vi ska välja deras produkt
 
+dumt att vara head of board om du e CEO också.
+
+When raise a VC round you usually pay for VC lawyers as well.
+- Would be really nice to get an angel investor on board that is also a lawyer
+
+
+I början man kanske kan lägga 70% pengar på tech, men efter ett tag kommer business delen att öka, och då måste man omdistribuera
+
