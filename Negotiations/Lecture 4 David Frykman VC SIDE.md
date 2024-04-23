@@ -1,3 +1,5 @@
+Detta var VC sidan med Pia var angel sida
+
 Financial times guide to corporate valuation
 
 invests in companies that try to solve one of UN SDGs
@@ -31,8 +33,7 @@ There is a difference between anchoring which is not a dirty tactic. Dont lie in
 
 Contracts are usually just signed and then thrown away and if someone breaches it the legal fees are so much not worth
 
-
-
+finns skillnad i hur tuff en negotiation kmr va baserat på ifall man ska ha longterm work tillsammans eller om bara one time thing
 
 
 
