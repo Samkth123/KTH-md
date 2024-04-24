@@ -32,6 +32,11 @@ Case 1 discussion:
 
 
 
+
+
+
+
+
 ide:
 LLM som gör mer
 - basically ska man kunna fråga den något: typ write me this assignment that hsould be this long:
