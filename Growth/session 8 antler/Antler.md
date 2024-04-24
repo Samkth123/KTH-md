@@ -15,3 +15,13 @@ måste vara stensäler på sin iede å ha grit och belief i den
 
 
 
+
+
+
+
+
+
+ide:
+LLM som gör mer
+- basically ska man kunna fråga den något: typ write me 
+
