@@ -5,5 +5,8 @@ Antler är day zero investing
 
 Hard to validate business idea
 
-What makes a great founder:
+good way of asking non leading question: question under 8 words
+
+hardest problem you ever had to solve and how you solved it?
+- viktigt att svara 
 
