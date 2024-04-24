@@ -13,6 +13,8 @@ hardest problem you ever had to solve and how you solved it?
 måste vara stensäker på sin iden å ha grit och belief i den
 
 
+Case 1 discussion:
+
 
 
 
