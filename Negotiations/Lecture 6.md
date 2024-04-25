@@ -51,7 +51,11 @@ You have different positions but interest says which one is most important
 
 Deals are only relevant if they are in oine with your interests
 
-parties might have an incentive to lie to you to close the deal t.ex. lämna ute saker osv...
+parties might have an incentive to misdirect/misrepresent the truth (=lie) in order to close the deal - but remember that you are then stuck with it
+
+In this case of bollard houses the buyers wanted to lie and misdirect so they can just buy it because it doesnt matter later as they will not be working together
+
+People tend to want to close as they have been in negotiations a long itme 
 
 
 
