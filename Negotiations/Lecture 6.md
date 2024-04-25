@@ -55,7 +55,7 @@ parties might have an incentive to misdirect/misrepresent the truth (=lie) in or
 
 In this case of bollard houses the buyers wanted to lie and misdirect so they can just buy it because it doesnt matter later as they will not be working together
 
-People tend to want to close as they have been in negotiations a long itme 
+People tend to want to close as they have been in negotiations a long time, but if you have other deals, you should find better deals
 
 
 
