@@ -49,7 +49,9 @@ you can prioritize 2 of these but miss out on one in the triangle.
 You have different positions but interest says which one is most important
 
 
+Deals are only relevant if they are in oine with your interests
 
+parties might have an incentive to lie to you to close the deal t.ex. lämna ute saker osv...
 
 
 
