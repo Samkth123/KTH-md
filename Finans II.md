@@ -140,3 +140,42 @@ Semistrong-form
 Strong-form
 –All relevant information is reflected in the price
 –Even information only available to insiders
+
+
+The term "Behavioral Bias – Here and Now" refers to the concept in behavioral finance where individuals make decisions based on the information immediately available to them, often ignoring the bigger picture or long-term consequences. The acronym WYSIATI, which stands for "What You See Is All There Is," encapsulates a common cognitive bias where people tend to focus on the information they have at hand while neglecting information that is not immediately visible. This can lead to a range of investment behaviors that might not align with rational financial decision-making:
+
+- **Mental Accounting**: Treating money differently depending on its source or intended use, rather than considering all personal funds as interchangeable.
+    
+- **Herding Mentality**: Following the crowd into popular investments without thorough analysis, assuming the majority knows best.
+    
+- **Abstract vs Tangible**: Favoring investments that are more tangible or understandable over those that are abstract, even if the latter are potentially more profitable.
+    
+- **Present vs Future**: Overvaluing immediate rewards at the expense of future benefits, often leading to underinvestment in long-term goals.
+
+Derivatives are financial instruments whose value is dependent on, or derived from, the value of an underlying asset or group of assets—the "derivatives" of prices from other securities. Here's a brief overview:
+
+### Types of Derivatives:
+
+1. **Options**: Give the holder the right, but not the obligation, to buy or sell an asset at a predetermined price within a specific time period.
+2. **Futures and Forward Contracts**: Obligate the buyer to purchase, and the seller to sell, an asset at a set price at a future date. Futures are standardized and traded on exchanges, while forwards are private agreements between parties.
+3. **Swaps**: Contracts to exchange cash flows or other financial instruments, often used to exchange one type of cash flow for another (e.g., fixed to floating interest rate).
+
+
+
+**Forward Contract vs. Futures Contract**
+
+**Forward Contract:**
+
+- **Customization**: Tailored to the specific needs of the two parties involved.
+- **Settlement**: Occurs at maturity of the contract; no daily settlement.
+- **Counterparty Risk**: Exists until the contract matures because it's a private agreement.
+- **Liquidity**: Generally illiquid due to the custom nature of the agreement.
+- **Early Termination**: Difficult to cancel or modify before maturity.
+
+**Futures Contract:**
+
+- **Standardization**: Features standardized specifications for commodity, quantity, quality, and settlement dates.
+- **Daily Settlement**: Profits and losses are tallied daily, with the margin account adjusted accordingly (marked to market).
+- **Marked to Market**: Each day's ending price is used to determine gains and losses.
+- **Liquidity**: Highly liquid as they are traded on an exchange.
+- **Flexibility**: Can be easily sold or rolled over before maturity.
