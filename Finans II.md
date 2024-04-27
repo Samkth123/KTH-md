@@ -113,4 +113,16 @@ Two-fund separation
 
 
 
-Main Takeaway:●If weuseMarkowitzmethod= fewassumptionsbutmanyestimates●If weusethe SingleIndex method= manyassumptionsbutfewestimates5
+Main Takeaway:
+●If weuseMarkowitzmethod= fewassumptionsbutmanyestimates
+●If weusethe SingleIndex method= manyassumptionsbutfewestimates
+
+
+
+Efficient Market Hypothesis (EMH)
+●Maurice Kendall (1953) found no predictable pattern in stock price changes.
+●EMH says stock prices already reflect all available information
+●A forecast about favorable futureperformance leads to favorable currentperformance, as market participants rush to trade on new information.
+–Result: Prices change until expected returns are exactly commensurate with risk.
+●New information is unpredictable; if it could be predicted, then the prediction would be part of today’s information.
+●Stock price changes follow a random walk.
