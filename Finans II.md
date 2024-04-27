@@ -97,3 +97,20 @@ To evaluate if the returns on a risky investment are worthwhile, you can use the
 
 
 Utility from an investment●The purposeofanyeconomicactivityis tomaximizeutility!●First, we need a utility function!●A reasonable utility function should:–increase with the returnof the investment–decrease with the risk–decrease with risk aversion
+
+![[Screenshot 2024-04-28 at 00.24.19.png]]
+
+Determining the optimal allocation:
+●Graphically, the solution is where the indifference curve touches the CAL.
+
+
+Two-fund separation
+●According to the separation property, you can solve the portfolio choice problem in two separate steps:
+1.Determine the optimal risky portfolio (P) and draw the Capital Allocation Line (CAL).
+2.Position your complete portfolio on the CALby combining Pwith the risk-free asset, so that you reach the highest indifference curve.
+●Both steps depend on mean-variance utility¨¨¨¨¨
+
+
+
+
+Main Takeaway:●If weuseMarkowitzmethod= fewassumptionsbutmanyestimates●If weusethe SingleIndex method= manyassumptionsbutfewestimates5
