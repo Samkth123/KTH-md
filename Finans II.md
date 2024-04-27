@@ -69,3 +69,24 @@ key differences and features of U.S. Treasury notes and bonds, which are critica
 
 
 Mortgage-backed securities are pass-through securitiesbecause the cash flows produced by homeowners paying off their mortgages are passed through to investors
+
+
+### What is a Mutual Fund?
+
+A mutual fund is an investment vehicle that pools money from many investors to purchase a diversified portfolio of stocks, bonds, or other securities. This allows individual investors access to a broad array of investments that would be difficult to manage on their own.
+
+### Key Facts About Mutual Funds:
+
+1. **Trading**: Shares are traded only once per day after the market closes, based on the fund's net asset value (NAV).
+    
+2. **Taxation**: The fund itself isn't taxed, but investors pay taxes on capital gains from selling shares and on income from fund distributions.
+    
+3. **Important Metrics**:
+    
+    - **Assets Under Management (AUM)**: Indicates the size of the fund.
+    - **Total Expense Ratio (TER)**: Shows the percentage of the fund's assets used for operational expenses.
+    - **Turnover Ratio**: Measures how frequently the fund buys and sells assets, indicating the activity level of the fund manager.
+
+
+- **Implication**: A high NAV suggests that the value of the fund's assets has increased. This could be due to positive market movements, successful investment strategies, or other factors that have appreciated the asset values within the fund.
+- **Investor Perspective**: For current investors, a decrease in NAV can be concerning as it reflects a loss in value. For new investors, a lower NAV might be seen as a more affordable entry point into the fund, assuming they believe the fund's performance will improve.
