@@ -94,3 +94,6 @@ A mutual fund is an investment vehicle that pools money from many investors to p
 
 
 To evaluate if the returns on a risky investment are worthwhile, you can use the Sharpe ratio, which measures excess return per unit of risk
+
+
+Utility from an investment●The purposeofanyeconomicactivityis tomaximizeutility!●First, we need a utility function!●A reasonable utility function should:–increase with the returnof the investment–decrease with the risk–decrease with risk aversion
