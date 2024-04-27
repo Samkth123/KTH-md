@@ -179,3 +179,35 @@ Derivatives are financial instruments whose value is dependent on, or derived fr
 - **Marked to Market**: Each day's ending price is used to determine gains and losses.
 - **Liquidity**: Highly liquid as they are traded on an exchange.
 - **Flexibility**: Can be easily sold or rolled over before maturity.
+
+
+**Open Interest and Reversing Trades**
+
+**Open Interest:**
+
+- **Definition**: Open interest refers to the total number of derivative contracts, such as futures or options, that are not settled and remain open.
+- **Significance**: It's a measure often used to gauge the liquidity or activity level of a particular contract or market.
+
+**Reversing Trades:**
+
+- **Closing Positions**: If you hold a long position and wish to close it, you can take an equal and opposite short position, which effectively cancels out the original position.
+- **Usage**: Most futures contracts are closed out prior to expiration through this method of reversing trades.
+- **Actual Delivery**: A very small percentage of futures contracts (typically 1-3%) lead to physical delivery of the underlying asset. Most participants use futures for hedging or speculative purposes rather than to exchange physical commodities
+
+
+**Margin and Trading Arrangements**
+
+**Initial Margin:**
+
+- **Definition**: The initial margin is the upfront payment made when entering into a futures contract. It's a percentage of the contract value and can be in cash or securities.
+- **Purpose**: It acts as a guarantee of the trader's ability to fulfill the contract.
+
+**Maintenance Margin:**
+
+- **Definition**: This is the minimum amount of equity that must be maintained in the margin account at all times.
+- **Function**: If the account balance falls below this level due to market movements, it triggers the need for additional funds to restore the initial margin level.
+
+**Margin Call:**
+
+- **Trigger**: When the account's balance drops to the maintenance margin level, the broker issues a margin call.
+- **Response Required**: The trader must deposit additional funds into the margin account to bring it back up to the initial margin requirement. If this is not done, the broker may close out the position to limit potential losses.
