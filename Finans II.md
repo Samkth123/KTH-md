@@ -90,3 +90,7 @@ A mutual fund is an investment vehicle that pools money from many investors to p
 
 - **Implication**: A high NAV suggests that the value of the fund's assets has increased. This could be due to positive market movements, successful investment strategies, or other factors that have appreciated the asset values within the fund.
 - **Investor Perspective**: For current investors, a decrease in NAV can be concerning as it reflects a loss in value. For new investors, a lower NAV might be seen as a more affordable entry point into the fund, assuming they believe the fund's performance will improve.
+
+
+
+To evaluate if the returns on a risky investment are worthwhile, you can use the Sharpe ratio, which measures excess return per unit of risk
