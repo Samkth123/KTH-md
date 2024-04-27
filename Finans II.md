@@ -51,3 +51,21 @@ The bond market - fixed income
 What is a bond?
 –When buying a bond, the investor pays a certain amount of money to the issuer (a firm, a government...).
 –In return, the issuerpromisestopayregularinterest(coupons) as wellas a lump sumat the end (face value)
+
+
+key differences and features of U.S. Treasury notes and bonds, which are critical components of the government debt market:
+
+1. **Maturity Differences**:
+    
+    - **Treasury Notes**: These have shorter maturities ranging up to 10 years.
+    - **Treasury Bonds**: These have longer maturities, from 10 years up to 30 years.
+2. **Common Features**:
+    
+    - Both types of securities have a par value of $1,000 and pay interest semiannually.
+3. **Liquidity and Safety**:
+    
+    - Treasury securities are among the most liquid financial instruments, meaning they can be easily bought and sold without significantly affecting their price.
+    - They are also considered to be the most secure investments, often referred to as a "flight to safety" asset. During times of economic uncertainty or crisis, investors tend to buy these government securities because of their low risk of default.
+
+
+Mortgage-backed securities are pass-through securitiesbecause the cash flows produced by homeowners paying off their mortgages are passed through to investors
