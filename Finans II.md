@@ -126,3 +126,17 @@ Efficient Market Hypothesis (EMH)
 –Result: Prices change until expected returns are exactly commensurate with risk.
 ●New information is unpredictable; if it could be predicted, then the prediction would be part of today’s information.
 ●Stock price changes follow a random walk.
+
+
+  
+Weak-form
+–Stock prices reflect all historical market information
+–Trend analysis, technical analysis is fruitless
+
+Semistrong-form
+–All publically available information is reflected in the price
+–Past price AND•Fundamental data of firms product line•Quality of management•Balance sheet composition•Patents held•Earnings forecast•Accounting practices
+
+Strong-form
+–All relevant information is reflected in the price
+–Even information only available to insiders
