@@ -31,3 +31,23 @@ Key features of RePo–“I promise to repurchase these securities tomorrow at a
 - **Security**: Although the transaction is structured as a sale and repurchase, it is essentially a collateralized short-term loan, where the securities sold are used as collateral, which reduces the credit risk.
 
 
+The bond market - fixed income
+
+1. **Fixed Income**: Bonds are typically categorized as fixed-income securities because they provide periodic income payments at fixed interest rates.
+    
+2. **T-bonds (Treasury Bonds)**: Long-term government securities issued by the U.S. Treasury. They have longer maturities, typically between 10 and 30 years, and offer periodic interest payments. Treasury bills are short term tho.
+    
+3. **Municipal Bonds**: Issued by states, cities, or other local government entities. Interest income is often exempt from federal taxes and sometimes from state and local taxes.
+    
+4. **MBS (Mortgage-Backed Securities) and ABS (Asset-Backed Securities)**: These are securities backed by mortgage loans (MBS) or other types of assets (ABS), like auto loans or credit card debt. They provide income streams from the underlying assets.
+    
+5. **Corporate Bonds**: Issued by corporations to fund operations, growth, or acquisitions. They are riskier than government bonds and thus pay higher interest rates.
+    
+6. **Credit Ratings**: Bonds are rated by credit rating agencies. Investment-grade bonds (rated AAA to BBB) are considered safer with lower yields, while bonds rated below BBB are known as high-yield or junk bonds, offering higher returns but with increased risk.
+    
+7. **Over-the-Counter (OTC) Trading**: Most bonds, unlike stocks, are traded over-the-counter, which means transactions occur directly between parties without the centralization of an exchange.
+
+
+What is a bond?
+–When buying a bond, the investor pays a certain amount of money to the issuer (a firm, a government...).
+–In return, the issuerpromisestopayregularinterest(coupons) as wellas a lump sumat the end (face value)
