@@ -211,3 +211,66 @@ Derivatives are financial instruments whose value is dependent on, or derived fr
 
 - **Trigger**: When the account's balance drops to the maintenance margin level, the broker issues a margin call.
 - **Response Required**: The trader must deposit additional funds into the margin account to bring it back up to the initial margin requirement. If this is not done, the broker may close out the position to limit potential losses.
+
+The priceofan option is calledpremium. This is the options valuetoday.
+
+
+**American vs European Options**
+
+**American Style Options:**
+
+- **Exercise**: Can be exercised at any point up to and including the expiration date.
+- **Premium**: Generally higher because of the added flexibility of early exercise.
+- **Naming Convention**: Often written with capital letters (Call or Put).
+- **Trading Venue**: Mostly traded on formal exchanges.
+
+**European Style Options:**
+
+- **Exercise**: Can only be exercised precisely on the expiration date, not before.
+- **Premium**: Typically lower due to the restriction on the exercise period.
+- **Naming Convention**: Often written in lowercase (call or put).
+- **Trading Venue**: Commonly found in Over The Counter (OTC) markets, which are less standardized.
+
+
+**Covered Call Strategy**
+
+The covered call is a popular options trading strategy that involves two main actions by the investor:
+
+1. **Owning the Underlying Stock**: The investor first needs to own the underlying stock.
+2. **Writing (Selling) Call Options**: The investor then writes call options for the same stock. This means they sell the right to another investor to buy their stock at a predetermined price (the strike price, X) before the option expires.
+
+### Key Points of a Covered Call:
+
+- **Giving Up Potential Gains**: By writing a call, the seller gives up any potential stock gains above the strike price (X) in exchange for receiving the option premium upfront. This premium is kept regardless of how the stock performs.
+    
+- **Motivation**: There are several reasons why an investor might choose to implement a covered call:
+    
+    - **Extra Income**: The immediate motivation is to earn additional income from the option premium, which can provide a small buffer against a decline in the stock price.
+    - **Sell Discipline**: If the investor was planning to sell the stock at a certain price level, writing a call at that strike price can help enforce this discipline—essentially setting a predetermined sell price.
+    - **Expectations of Market Conditions**: This strategy is particularly appealing if the investor believes that the stock price will not increase significantly before the option expires. It's less beneficial in a rapidly rising market because the investor would miss out on gains above the strike price.
+- **Downside Risk**: It’s important to note that while the premium provides some cushion, it does not eliminate the downside risk of holding the stock. If the stock price falls significantly, the losses could outweigh the income from the premium.
+    
+
+### Considerations:
+
+- **Risk vs. Reward**: The covered call limits the upside potential in return for immediate income. Investors need to balance their need for potential capital gains against the desire for current income.
+- **Market Outlook**: This strategy is best suited for a neutral to slightly bullish outlook on the underlying stock, as significant upward movements in the stock price could lead to missed opportunities.
+
+By using this strategy, investors can generate income from their stock holdings while potentially setting a target exit price for their shares. However, like all investment strategies, it comes with its own set of risks and rewards that need to be carefully considered.
+
+
+Straddle
+●The buyer of a straddle (long straddle) is betting the stock price will change much (in either direction)
+●Buy call and put with same exercise price and maturity
+●The straddle is a bet on volatility.
+–To make a profit, the change in stock price must be large enough to cover the cost of both options.
+–You need a strong change in stock price in either direction.
+●The writer of a straddle (short straddle) is betting the stock price will not change much.
+
+
+Spreads
+●A spread is a combination of two or more calls (or two or more puts) on the same stock with either different exercise price or different times to maturity.
+●Some options are bought, whereas others are sold
+●A bullish spread is a way to profit from stock price increases.
+●Motivation
+–Trade off extreme profits to cut cost
