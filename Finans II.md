@@ -304,3 +304,8 @@ The principles outlined in Malkiel's bond pricing relations provide important in
     - Bonds with lower coupon rates are more sensitive to changes in yields compared to higher coupon bonds. This is because the bulk of the return for lower coupon bonds comes from the principal payment at maturity rather than the periodic coupon payments, making their value more dependent on the discount rate (yield).
 
 
+
+
+The Fisher Equation provides a relationship between nominal interest rates, real interest rates, and inflation. The equation is typically stated as:
+
+1+�nominal=(1+�real)×(1+�)1+rnominal​=(1+rreal​)×(1+i)![[Screenshot 2024-04-28 at 22.25.18.png]]
