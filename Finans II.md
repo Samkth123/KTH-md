@@ -281,4 +281,26 @@ For the special case when the bond trades at a price equal to the face value, th
 ●Bonds that trade at a price larger than the face value, are called premium bonds.
 –this is usually the case when interest rates decrease. 
 ●Bonds that trade at a price smaller than the face value, are called discount bonds.
-–This is usually the case then interest rates increas
+–This is usually the case then interest rates increase
+
+
+The principles outlined in Malkiel's bond pricing relations provide important insights into how bond prices react to changes in market conditions, specifically in relation to yield, maturity, and coupon rates. Here’s a breakdown of each principle:
+
+1. **Bond Prices and Yields are Inversely Related**:
+    
+    - When yields increase, the price of existing bonds falls because new bonds are likely issued with higher yields, making older bonds with lower yields less attractive unless their price drops.
+    - Conversely, when yields decrease, the price of existing bonds increases because they offer higher returns compared to newly issued bonds with lower yields.
+2. **Asymmetric Price Sensitivity**:
+    
+    - A rise in a bond's yield to maturity causes a smaller price decline compared to the price increase caused by an equivalent drop in yield. This is due to the mathematical properties of bond price formulas where price moves are not linear.
+3. **Long-Term Bonds Are More Price Sensitive**:
+    
+    - Long-term bonds have greater price sensitivity (or volatility) than short-term bonds because they have longer periods until maturity, exposing them to more potential changes in interest rates.
+4. **Price Sensitivity Increases at a Decreasing Rate as Maturity Increases**:
+    
+    - While longer-term bonds are more sensitive to changes in yields, the rate of increase in sensitivity diminishes as maturity lengthens. This is because the present value of distant cash flows becomes less significant as the discounting effect grows stronger over time.
+5. **Lower Coupon Rate Increases Sensitivity to Yield Changes**:
+    
+    - Bonds with lower coupon rates are more sensitive to changes in yields compared to higher coupon bonds. This is because the bulk of the return for lower coupon bonds comes from the principal payment at maturity rather than the periodic coupon payments, making their value more dependent on the discount rate (yield).
+
+
