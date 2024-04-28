@@ -274,3 +274,11 @@ Spreads
 ●A bullish spread is a way to profit from stock price increases.
 ●Motivation
 –Trade off extreme profits to cut cost
+
+
+
+For the special case when the bond trades at a price equal to the face value, the bond is said to trade for par value. (Common when a bond is issued)
+●Bonds that trade at a price larger than the face value, are called premium bonds.
+–this is usually the case when interest rates decrease. 
+●Bonds that trade at a price smaller than the face value, are called discount bonds.
+–This is usually the case then interest rates increas
