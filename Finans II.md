@@ -309,3 +309,6 @@ The principles outlined in Malkiel's bond pricing relations provide important in
 The Fisher Equation provides a relationship between nominal interest rates, real interest rates, and inflation. The equation is typically stated as:
 
 1+�nominal=(1+�real)×(1+�)1+rnominal​=(1+rreal​)×(1+i)![[Screenshot 2024-04-28 at 22.25.18.png]]
+
+
+long position on future: you take deliviery on delivery date (commits to purchase the asset on the delivery date)
