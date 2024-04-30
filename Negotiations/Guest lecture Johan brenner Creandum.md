@@ -30,3 +30,8 @@ What qualities of founder?
 
 Always better to invest in a great founder and bad idea than a bad founder and great idea
 
+
+What creandum is looking for:
+- Amazing team
+- Great product
+- Huge market
