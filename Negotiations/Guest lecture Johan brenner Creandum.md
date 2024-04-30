@@ -40,3 +40,32 @@ tranche means invest in turns
 
 Hot list is good way of seeing if a company or not
 
+Early stage valuation is a mix of:
+- funds needed to aheive a milestone for next funding round - typically 12 to 18 months
+- 20% ownership target by VC
+- Enough ownership for founders/management
+- Likely next round valuation
+
+^^Here:
+- the team is the company
+- process and structures of the company loosely defined
+- none or limited historical data on performance
+- underlying market might not exist yet
+- main goald to find PMF and get traction going
+
+Need to have a good valuation that after seed you dont go down when doing A-series
+
+
+
+Typical terms:
+- money: invested amount and pre money valuation
+- preference shares: participating and non participating
+- safe notes: cap, discount 
+- option pool for management
+- reverse vesting of founder shares
+- drag and tag along
+- board representation
+- veto vatalogue
+- exclusivity
+- lock up
+- non compete
