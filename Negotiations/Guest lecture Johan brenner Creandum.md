@@ -35,3 +35,8 @@ What creandum is looking for:
 - Amazing team
 - Great product
 - Huge market
+
+tranche means invest in turns
+
+Hot list is good way of seeing if a company or not
+
