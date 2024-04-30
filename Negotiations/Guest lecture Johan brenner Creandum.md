@@ -28,4 +28,5 @@ What qualities of founder?
 - usually want 2 entrepreneurs in founding team than one solo
 - usually look at how someone pitchs - can you explain stuff in a concise and clear way? are you a salesperson? What people do you sorround yourself with and have you hired somebody yet? Do you show passion, perserverance, stamina, never give up and something that drives you?
 
+Always better to invest in a great founder and bad idea than a bad founder and great idea
 
