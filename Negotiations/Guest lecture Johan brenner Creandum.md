@@ -67,5 +67,10 @@ Typical terms:
 - board representation
 - veto vatalogue
 - exclusivity
-- lock up
+- lock up (ex dont let entrepreneurs sell any shares until 3-4 years)
 - non compete
+
+Creandum has visiting analyst program 
+
+The future of manufacturing - indsutry 4.0
+
