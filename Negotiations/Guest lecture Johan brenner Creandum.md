@@ -74,3 +74,19 @@ Creandum has visiting analyst program
 
 The future of manufacturing - indsutry 4.0
 - ser mycket potential här säger creandum
+Founder dos and donts
+
+Dos
+- try to get a warm intro which means try to see people around you and see who you know and stuff and get into through eferences
+- have a flawless product demo and not too long
+- know your numbers, industry and market
+- know what you dont know (admit if you dont know)
+- show your passion (why are you passionate, achievements in the past)
+- be prepared for a 15 min meeting (say in first 5 min what you want to get across)
+
+Donts:
+- Send generic intro emails to investors (try to contact investors in other way)
+- Undersestimeate the soft values and personal connection with investor
+- give out too much ownership early (but remember its better to own 1% of shell than 100% of a gas station) make sure you have not given away too much ownership if you can
+- exxagerate or makethings up
+- hide deal breakers before financ
