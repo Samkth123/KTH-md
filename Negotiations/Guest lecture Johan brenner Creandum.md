@@ -73,4 +73,4 @@ Typical terms:
 Creandum has visiting analyst program 
 
 The future of manufacturing - indsutry 4.0
-
+- ser mycket potential här säger creandum
