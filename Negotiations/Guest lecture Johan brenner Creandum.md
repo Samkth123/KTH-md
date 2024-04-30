@@ -89,4 +89,4 @@ Donts:
 - Undersestimeate the soft values and personal connection with investor
 - give out too much ownership early (but remember its better to own 1% of shell than 100% of a gas station) make sure you have not given away too much ownership if you can
 - exxagerate or makethings up
-- hide deal breakers before financ
+- hide deal breakers before financial/legal DD t.ex. kostnader är högre än presenterat elr revenues are less because it will be seen in the DD later
