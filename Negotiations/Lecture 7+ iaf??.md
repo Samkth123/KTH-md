@@ -3,5 +3,14 @@ Force Majeure
 - In law, many contracts have force majeure stuff
 - basically stuff that is out of your control
 
-Recap of last sessions:
 
+Negotiation exercise: Galbraith and Co
+
+- Consulting compnat 5 or 4 senior partners
+
+20 min instructions
+10 min introduction of yourself and issues
+
+18:15: 30 min break informal discussion in groups or pairs
+18:45 30 min formal meeting of executive comittee
+secret ballot voting
