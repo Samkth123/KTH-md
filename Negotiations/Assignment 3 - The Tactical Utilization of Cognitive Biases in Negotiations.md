@@ -1,5 +1,5 @@
 
-==Denna paper är väldigt bra för provet, speciellt sista delarna där han har diskussion å så==
+==Detta paper är väldigt bra för provet, speciellt sista delarna där han har diskussion å så==
 The paper conceptualizes the domain of psychological influence in negotiations and thereby proposes seven negotiations tactics which utilize the findings of cognitive bias research.
 
 The only thing that is being used a lot in negotiations right now is **anchoring**:
