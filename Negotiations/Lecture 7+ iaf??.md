@@ -14,3 +14,12 @@ Negotiation exercise: Galbraith and Co
 18:15: 30 min break informal discussion in groups or pairs
 18:45 30 min formal meeting of executive comittee
 secret ballot voting
+
+
+Takeaways:
+
+- Multiparty negotiations are won through coalitions
+- Major strategic decisions can be the result of (minor) individual agendas
+	- t.ex. politker som säger något inte dom bruakr kanske har dom trade med npgon
+- key skill: being able to build and manage coalitions
+	- importnat for all proffessional service firms, VCs, private equity, osv...
