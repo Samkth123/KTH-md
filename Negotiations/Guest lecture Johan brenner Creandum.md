@@ -1,4 +1,8 @@
 
+
+la mycket fokus på bra entreprenör istället för bra produkt
+
+
 low frequency and high conviction so very active in their companies
 
 At inception mostly you get angels, when you are early stage you get venture capital then growth is private equity then last stage is ip or m&a
