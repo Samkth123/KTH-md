@@ -2,6 +2,9 @@
 
 la mycket fokus på bra entreprenör istället för bra produkt
 
+warm intro important pga en vän hade inte rekommenderat någon dålig
+
+some VCs wait with investing because the companies will be in need of money even more making the VC have more leverage
 
 low frequency and high conviction so very active in their companies
 
