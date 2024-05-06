@@ -13,16 +13,3 @@ Hard to go through the stages here alone:
 ![[Screenshot 2024-05-06 at 17.30.19.png]]
 
 
-Everything i knew before founding startup:
-- learning skills
-- writing and public speaking
-- storytelling
-- time management
-- project managesment
-- design thinking
-- product r&d
-- conflict resolution
-- ....
-
-How she choose her co-founders/business partners
-- Went looking for people she already knew
