@@ -22,7 +22,7 @@ Everything i knew before founding startup:
 - design thinking
 - product r&d
 - conflict resolution
+- ....
 
-
-
-
+How she choose her co-founders/business partners
+- Went looking for people she already knew
