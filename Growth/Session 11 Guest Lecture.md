@@ -21,4 +21,17 @@ hiring first freelancers - look for right skillset (not people you can develop, 
 - Detta är ett väldigt bra sätt att att differentiera ett mindre företag genom bra marknadsföring fast från billiga frilansare
 
 Recruiting for growth
-- 
+- When have more cashflow and CEO wants to free up time to do tactical work and higher level thinking, working on partnerships, roadmap for growth and such
+- Here you recruit people you can develop
+- Important to have good onboarding session and important to handpick them
+- Have a long list of personality traits that are essential for the company culture want to develop, would recruit for personality and traits rather than technical skills
+
+How onboarded and trained for employees:
+- LPPL framework (developed by themselves)
+	- Learn (lär noobsen)
+	- Prepare (gör dom redo)
+	- Practice (practice in safe setting?)
+	- Listen (lyssna på folk?)
+	- ends with reiterate
+- People management är mycket workshops där man brainstormar men även lär sig en massa
+
