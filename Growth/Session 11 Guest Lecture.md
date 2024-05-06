@@ -48,4 +48,20 @@ How onboarded and trained for employees:
 - For the employees have frequent meetings but in team settings.
 - The tour guides fill out self assesment sheet after each tour and become self critical, and they tell you what they did wrong and want to fill up to their role, so as manager you just encourage them. They talk to eachother and give feedback to eachother, and the CEO/manager gives instead advice like a coach, instead of tkaing critique from the CEO.
 
-Gets 25% interview
+Gets 25% interview instead of 4%
+- encourages quantity
+- All tour guides get commission based om number of reviews instead of number of good reviews as 1 star reviews are much better than 5 star reviews.
+- At end of season the guide with most reviews gets bonus
+
+Customers are the most important
+
+Core values (embody them in everything you do and apply them in every situation of uncertainty) (10 C's):
+- Constructive collaboration
+- Curiosity and creativity
+- Commitment to circuilarity
+- Customized Connection
+- Continuous Care (i mitten av alla andra C's) ( make sure customers feel deeply cared for and like we understand their needs)
+
+Many CEOs talk about values but do not embody them. Its important to do it and make the team also do it.
+
+So if customer makes something unexpected that you are not prepared for, you can follow the values
