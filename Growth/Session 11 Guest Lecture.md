@@ -1,3 +1,6 @@
+Skriv till henne om verkligen gillade allt hon sa och vill jobba med growth hos henne
+- 30 min fika
+
 Key takeaways:
 - create a system that allow people to be self critical
 - once a week 1 hour one on one with business partners
@@ -65,3 +68,8 @@ Core values (embody them in everything you do and apply them in every situation 
 Many CEOs talk about values but do not embody them. Its important to do it and make the team also do it.
 
 So if customer makes something unexpected that you are not prepared for, you can follow the values
+
+missdiagnosis
+
+
+How self funded were you? Did you give your fir
