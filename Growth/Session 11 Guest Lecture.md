@@ -5,6 +5,7 @@ Key takeaways:
 - create a system that allow people to be self critical
 - once a week 1 hour one on one with business partners
 - Onboarding for employees LPPL
+- Management style: make people take and give feedback, both to me and to eachother (tries to be coach and not boss)
 
 
 
@@ -77,4 +78,6 @@ How did you price your product and how long to get first customer?
 - Gained insight from customers on where they book (they are on get your guide)
 - She had target audience but did not know how to find them
 - The QR code thing was extra after that
-- Diversified revenue streams, started with tours (now 60%) but also doing content creation now as they had
+- Diversified revenue streams, started with tours (now 60%) but also doing content creation now as they had strong content creation and after a while you will get followers there which can make you get revenue through affiliations and such
+- Now working on an app which is in incubator phase and could be its own thing?
+	- trying to bulletproof their business as there are many threats to travel so tries to diversify
