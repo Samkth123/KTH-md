@@ -13,3 +13,12 @@ Hard to go through the stages here alone:
 ![[Screenshot 2024-05-06 at 17.30.19.png]]
 
 
+good co foudners pick their battles and know when to be supportive and when to me critical
+
+hiring first freelancers - look for right skillset (not people you can develop, but who have the skills you need)
+- outsourced to portugal and china their social media management
+- look at their portfolio and such
+- Detta är ett väldigt bra sätt att att differentiera ett mindre företag genom bra marknadsföring fast från billiga frilansare
+
+Recruiting for growth
+- 
