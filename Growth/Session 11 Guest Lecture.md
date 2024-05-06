@@ -72,4 +72,9 @@ So if customer makes something unexpected that you are not prepared for, you can
 missdiagnosis
 
 
-How self funded were you? Did you give your fir
+How did you price your product and how long to get first customer?
+
+- Gained insight from customers on where they book (they are on get your guide)
+- She had target audience but did not know how to find them
+- The QR code thing was extra after that
+- Diversified revenue streams, started with tours (now 60%) but also doing content creation now as they had
