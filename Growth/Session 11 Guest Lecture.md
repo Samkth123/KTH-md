@@ -1,3 +1,9 @@
+Key takeaways:
+- create a system that allow people to be self critical
+- once a week 1 hour one on one with business partners
+- Onboarding for employees LPPL
+
+
 
 Francisca Leonardo
 Xperience Stoclholm
@@ -35,3 +41,11 @@ How onboarded and trained for employees:
 	- ends with reiterate
 - People management är mycket workshops där man brainstormar men även lär sig en massa
 
+**How i manage (everyone)**
+- importnat to be in the details but not micro manage
+- important for employees in small startups to report to you and to others
+- möter sina business partners/co foudners every week 1 hour to check if need help with anything and how stuff is going and make sure they are comfortable with coming with issues they need help with
+- For the employees have frequent meetings but in team settings.
+- The tour guides fill out self assesment sheet after each tour and become self critical, and they tell you what they did wrong and want to fill up to their role, so as manager you just encourage them. They talk to eachother and give feedback to eachother, and the CEO/manager gives instead advice like a coach, instead of tkaing critique from the CEO.
+
+Gets 25% interview
