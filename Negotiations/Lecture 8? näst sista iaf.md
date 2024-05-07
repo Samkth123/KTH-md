@@ -14,4 +14,5 @@ Coffe Contract - Ai Assisted
 prep until 18 with AI
 - note in preparation - what and how
 
-45 min negotiation 18-18:
+45 min negotiation 18-18:45 using AI support
+- note experience
