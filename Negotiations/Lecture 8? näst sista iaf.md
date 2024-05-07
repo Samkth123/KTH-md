@@ -37,4 +37,8 @@ jag var för aggresiv här, och borde ha kollat på att 7.4 var vår worst, å a
 Purpose of final assignement is importnat to understand
 - basicallt reflection on what you have learnt
 - Om det bara en summary av allt vi gått igenom på klasserna är den dålig
-- 
+- No more no less than 6 pages
+- 6 pages is long enough to say somethign that actually means something, but not short enough to be able to bullshit
+
+Last session is final case
+Next Tuesday
