@@ -77,8 +77,7 @@ Similar to the cheap concession tactic, the next tactic also obtains its effecti
 Basically ge proposals i början som motparten inte bett om, ex säljer pizza kedjor så lovar jag att inte gå in i marknaden igen. Dom kommer känna sig entitled till detta och i slutet kan man använda det typ jag kan komma ner till ert pris om vi inte har detta, annars kör vi mitt pris.
 
 
-**The Janus-faced present**: Make early proposals which include only concessions of low objective
-value
+**The Janus-faced present**: Make early proposals which include only concessions of low objective value
 
 ##### Smart (de)aggregation
 The smart bundling tactic uses another insight of prospect theory. Since bargainers make decisions based on the potential value of losses and gains rather than on the ultimate result, their decisions are vulnerable to psychological influence
