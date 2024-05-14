@@ -72,3 +72,4 @@ Course objective of this course is active and experiential learning to learn neg
 	- refers to a special type of practice that is purpuseful and systematic
 	- needs refelction (basically the whole purpose of  assignment 6)
 	- Viktigt att tänka på det som gjorts och ens egna thoughts about the process
+	- bra att skriva det så att du kan kolla tbx om 1 år och se vad du kmr ihåg
