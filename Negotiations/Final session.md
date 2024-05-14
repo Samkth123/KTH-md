@@ -25,7 +25,11 @@ To be negotiated:
 
 
 Grupp 6:
-7 runs 
-60k
+7 runs
+60k price
 juniors 20k
-50 30 20?
+50 25 25 financing
+
+
+This was negotiating your first term sheet
+60000 25000 are 
