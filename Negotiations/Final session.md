@@ -54,3 +54,21 @@ issue between ratings that each side have calculated.
 - ifall du inte når upp till dina expectations so kommer vi betala samma men ta ifrån er
 - classic entrepreneur earnout
 	- founders need to earnout buyouts over a few years instead of just suddenly getting the money
+
+
+Use of time: avoid (too) fast agreements
+- the goal of a negotiation is not a fast agreement the goal is the best possible agreement
+- if you have reached an agreement in priniple see if yoiu can find an. even better (win win) aggreement
+- image of negotiation: in the start its fist against fist but then towards the end its more as if we are partners, then it would be good to see if there are anything that is more importnat to the other group that is less important to us (interests)
+	- basically add cherry on top to get a good agreement for both parts
+
+If someone just agrees directly then heads out then that might be lite oroväckande för er
+
+
+Course objective of this course is active and experiential learning to learn negotiations
+
+10000hours to be master on something
+- needs. to be deliberate practice
+	- refers to a special type of practice that is purpuseful and systematic
+	- needs refelction (basically the whole purpose of  assignment 6)
+	- Viktigt att tänka på det som gjorts och ens egna thoughts about the process
