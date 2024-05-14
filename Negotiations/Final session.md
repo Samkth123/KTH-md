@@ -24,3 +24,8 @@ To be negotiated:
 - Other?
 
 
+Grupp 6:
+7 runs 
+60k
+juniors 20k
+50 30 20?
