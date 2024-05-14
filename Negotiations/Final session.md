@@ -42,3 +42,15 @@ positions and interest here:
 - Usually want to negotiate to the max each step
 
 Win-Win hack is to identify the priorities of the other party and then trade
+
+issue between ratings that each side have calculated.
+- Challenge to negotiate this because it is based on assumptions
+- If someone can övertala någon då är de winlose här
+- Way to do is is to bett of different expectations if then
+- so if ratings are <4 then WCHI recceives 1 MM rebate from Hollyville
+- If ratings are 5< then WCHI pays 1MM surcharge to Hollyville
+
+^^DETTA VAR VÄLDIGT BRA
+- ifall du inte når upp till dina expectations so kommer vi betala samma men ta ifrån er
+- classic entrepreneur earnout
+	- founders need to earnout buyouts over a few years instead of just suddenly getting the money
