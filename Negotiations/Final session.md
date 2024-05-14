@@ -32,4 +32,13 @@ juniors 20k
 
 
 This was negotiating your first term sheet
-60000 25000 are 
+60000 25000 are ZOPA
+
+Challenge on termsheet is you intuitievelly try to focus on big thing like the price, but might have noticed how the other terms have big impact on total value
+- so more important to go down?
+
+positions and interest here:
+- The runs are worth more to the buyer than financing cost but to seller the financing cost is more important
+- Usually want to negotiate to the max each step
+
+Win-Win hack is to identify the priorities of the other party and then trade
