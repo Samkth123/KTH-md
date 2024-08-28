@@ -43,10 +43,10 @@ läs materialet sen kom med frågor om har
 
 
 
+what is CI, what is hard in CI... FÖR PRESENTATIONEN
 
 
-
-
+How normal to fail task? fråga TA
 master thesis?
 When programmable society?
 research in software, how much theory is it and how much is implementation?
