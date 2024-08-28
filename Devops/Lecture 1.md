@@ -29,7 +29,14 @@ labsessions are inperson support sessions and are optional
 - TAs tell you about expectations and if what you have is good enough
 - verkar vara väldigt bra att gå på
 
-devops is the principle that development and operations should be integrated, so put them together with lots of automa
+devops is the principle that development and operations should be integrated, so put them together with lots of automation.
+
+CD-continious development
+
+**THIS IS CD - Continuous deployment??** inte development?
+Once code is merged, there is another CD process that will push it to production in a automated way
+
+Code review and CI is bare minimum om ska jobba med software
 
 
 
