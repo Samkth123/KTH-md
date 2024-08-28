@@ -41,12 +41,15 @@ Code review and CI is bare minimum om ska jobba med software
 läs materialet sen kom med frågor om har
 
 
-Pick sojething from issue - cintionous deployment /delivery /pipleines
+Pick something from issue - cintionous deployment /delivery /pipleines
 
 kan planera ahead
 
 what is CI, what is hard in CI... FÖR PRESENTATIONEN/DEMO
 
+week is only for synchronous tasks
+
+failing demos är enkla saker - ska vara really hard, took real time to understand and to do, things might fail but if you can explain why its ok and you pass.
 
 How normal to fail task? fråga TA
 master thesis?
