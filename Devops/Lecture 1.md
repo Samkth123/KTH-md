@@ -41,9 +41,11 @@ Code review and CI is bare minimum om ska jobba med software
 läs materialet sen kom med frågor om har
 
 
+Pick sojething from issue - cintionous deployment /delivery /pipleines
 
+kan planera ahead
 
-what is CI, what is hard in CI... FÖR PRESENTATIONEN
+what is CI, what is hard in CI... FÖR PRESENTATIONEN/DEMO
 
 
 How normal to fail task? fråga TA
