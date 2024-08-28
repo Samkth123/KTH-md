@@ -51,6 +51,17 @@ week is only for synchronous tasks
 
 failing demos är enkla saker - ska vara really hard, took real time to understand and to do, things might fail but if you can explain why its ok and you pass.
 
+måste vara väldigt teknisk annars fail
+
+1 slide reflection
+
+once sentence take home message
+
+
+
+
+
+
 How normal to fail task? fråga TA
 master thesis?
 When programmable society?
