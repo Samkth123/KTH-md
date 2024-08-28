@@ -29,7 +29,7 @@ labsessions are inperson support sessions and are optional
 - TAs tell you about expectations and if what you have is good enough
 - verkar vara väldigt bra att gå på
 
-MLops, LLMops, AIops osv...
+devops is the principle that development and operations should be integrated, so put them together with lots of automa
 
 
 
