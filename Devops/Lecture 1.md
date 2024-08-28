@@ -27,7 +27,9 @@ interact with TA's on github
 
 labsessions are inperson support sessions and are optional
 - TAs tell you about expectations and if what you have is good enough
-- 
+- verkar vara väldigt bra att gå på
+
+MLops, LLMops, AIops osv...
 
 
 
@@ -36,6 +38,8 @@ labsessions are inperson support sessions and are optional
 
 
 
+master thesis?
+When programmable society?
 research in software, how much theory is it and how much is implementation?
 
 
