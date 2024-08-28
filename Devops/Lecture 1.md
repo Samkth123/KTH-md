@@ -57,7 +57,9 @@ måste vara väldigt teknisk annars fail
 
 once sentence take home message
 
+mother of demos - 1967
 
+demo ska vara visually appealing så kanske kan göra någon frontend på det
 
 
 
