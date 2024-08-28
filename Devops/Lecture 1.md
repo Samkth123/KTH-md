@@ -56,7 +56,8 @@ master thesis?
 When programmable society?
 research in software, how much theory is it and how much is implementation?
 
-
+git cry
+memes
 
 
 
