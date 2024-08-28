@@ -21,6 +21,7 @@ Static testing can be checked if all functions are documented, if your methods a
 
 **Spoon** is best code analysis for java
 
+Aman gillar att automate fråga han om någit
 
 
 
