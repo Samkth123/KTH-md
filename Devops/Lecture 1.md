@@ -38,7 +38,7 @@ Once code is merged, there is another CD process that will push it to production
 
 Code review and CI is bare minimum om ska jobba med software
 
-
+läs materialet sen kom med frågor om har
 
 
 
