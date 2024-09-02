@@ -15,8 +15,18 @@ Tools:
 
 People say things but dont say the entire thing. They might not even know what they want to say.
 
-- Best to do is active listening with presence. Your brain automatically starts asking questions. 
+- **Best to do is active listening with presence. Your brain automatically starts asking questions.** 
 	- If you genuinly try to be interested in people, your brain will come up with so many questions. For example
 	- "I cut my hand on Sunday while working on a car"
 	- Questions then pop up:
-		- What kind of 
+		- What kind of car?
+		- How did you cut your hand
+		- Do you usually work on cars?
+		- Is it a normal sunday thing or only now
+		- Why did you need to do work on it at all?
+		- What cars do you like? 
+- Develop personality using interests of stuff people speak about (ahh inte min grej detta)
+	- Mer att man kan istället vara humble och fråga om dessa sakerna istället
+- Curious questions when have nothing to say
+	- how tall are you, do you mow the lawn, osv...
+	- Ask stuff that lets you get a better picture of that person, and the converstaion will start going in another direction which indirectly becomes fun
