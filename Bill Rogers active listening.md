@@ -42,3 +42,5 @@ A - Ask (om namn inte hört, what does it mean osv, named after someone? Ex: Me 
 
 V - VIsualize (ex guy named Matt, think doormat because his tie locks like it, or Mary then married ex think her in weeding dress she wants to get married and name is Mary)
 
+E - End (End conversation with their name)
+
