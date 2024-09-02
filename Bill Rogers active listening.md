@@ -30,3 +30,15 @@ People say things but dont say the entire thing. They might not even know what t
 - Curious questions when have nothing to say
 	- how tall are you, do you mow the lawn, osv...
 	- Ask stuff that lets you get a better picture of that person, and the converstaion will start going in another direction which indirectly becomes fun
+
+Remeber names:
+Suave
+
+S - Say (repeat the name first time you heard it)
+
+U - Use (Use the name, but not abuse.)
+
+A - Ask (om namn inte hört, what does it mean osv, named after someone? Ex: Me after Shahname, Adam after bible)
+
+V - VIsualize (ex guy named Matt, think doormat because his tie locks like it, or Mary then married ex think her in weeding dress she wants to get married and name is Mary)
+
