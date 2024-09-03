@@ -24,5 +24,7 @@ starta chips - vet exakt vad som ska has
 
 The opportunity
 - venture specific information about supply and demand combinations
-- imitative
+- imitative (Do something someone else does but better.)
+	- ex Kinnevik killen såg att de fanns gratis ad-based newspapper in NY, and did the same in sweden (Metro)
 - innovative
+
