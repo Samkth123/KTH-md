@@ -5,3 +5,7 @@ What teacher looks for
 **Presentation** - clarity & how persuasive presentation is
 
 Useful stuff på sidan - how to read an article
+
+Steven Brandt enrepreneuring - get a good team that can work good together
+- if team gets problem bad
+
