@@ -28,3 +28,5 @@ The opportunity
 	- ex Kinnevik killen såg att de fanns gratis ad-based newspapper in NY, and did the same in sweden (Metro)
 - innovative
 
+
+If a market is very profitable, someone might enter it and imitate current players to then lower price in the Equilibrium graph on lecture 1.
