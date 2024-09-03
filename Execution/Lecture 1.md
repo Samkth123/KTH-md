@@ -9,3 +9,5 @@ Useful stuff på sidan - how to read an article
 Steven Brandt enrepreneuring - get a good team that can work good together
 - if team gets problem bad
 
+Övning i klassen: Hur mycket lika tycker man?
+- We usually think people think like us, but this exercise showed its wrong
