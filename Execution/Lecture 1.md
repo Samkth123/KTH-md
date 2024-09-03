@@ -30,3 +30,6 @@ The opportunity
 
 
 If a market is very profitable, someone might enter it and imitate current players to then lower price in the Equilibrium graph on lecture 1.
+
+Governing model - The fractal structure of maturing markets
+- 
