@@ -15,3 +15,8 @@ Steven Brandt enrepreneuring - get a good team that can work good together
 Most importnat having fun in a group
 - Are we having fun? ask if fighting
 
+svenska lantchips special needs barn
+
+starta chips - vet exakt vad som ska has
+- bra bacon chips
+	flavorfull
