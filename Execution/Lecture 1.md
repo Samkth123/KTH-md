@@ -11,3 +11,7 @@ Steven Brandt enrepreneuring - get a good team that can work good together
 
 Övning i klassen: Hur mycket lika tycker man?
 - We usually think people think like us, but this exercise showed its wrong
+
+Most importnat having fun in a group
+- Are we having fun? ask if fighting
+
