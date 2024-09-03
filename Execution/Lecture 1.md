@@ -36,5 +36,10 @@ Governing model - The fractal structure of maturing markets
 The "Aneurism effect"
 - When lots of cellphones, they all had same ringtone, so somebody started doing special ringtones and someone else selling them. This was aneurism from phone development. other examples are cases and headphones.
 
-Porters value chain - This is good if you take over a company and want to improve it
-- Also this is especially good if you use this to look at other companies and analyse it using this thing and then when you find somet
+#### ==**Porters value chain - This is good if you take over a company and want to improve it (sök upp och förstå denna själv)**==
+- Also this is especially good if you use this to look at other companies and analyse it using this thing and then when you find something they do bad you basically do that better but then starting your company
+
+
+**==Unbundling==**:
+20 years ago, banks did everything in finance. Now basically there are many different companies doing the different things, ex Klarna took part of banking and took that business and created a company, and are now challenging the banks.
+
