@@ -43,3 +43,4 @@ The "Aneurism effect"
 **==Unbundling==**:
 20 years ago, banks did everything in finance. Now basically there are many different companies doing the different things, ex Klarna took part of banking and took that business and created a company, and are now challenging the banks.
 
+Motorola - "stolen with pride"
