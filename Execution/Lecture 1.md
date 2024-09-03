@@ -32,4 +32,9 @@ The opportunity
 If a market is very profitable, someone might enter it and imitate current players to then lower price in the Equilibrium graph on lecture 1.
 
 Governing model - The fractal structure of maturing markets
-- 
+
+The "Aneurism effect"
+- When lots of cellphones, they all had same ringtone, so somebody started doing special ringtones and someone else selling them. This was aneurism from phone development. other examples are cases and headphones.
+
+Porters value chain - This is good if you take over a company and want to improve it
+- Also this is especially good if you use this to look at other companies and analyse it using this thing and then when you find somet
