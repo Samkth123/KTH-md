@@ -20,3 +20,9 @@ svenska lantchips special needs barn
 starta chips - vet exakt vad som ska has
 - bra bacon chips
 	flavorfull
+
+
+The opportunity
+- venture specific information about supply and demand combinations
+- imitative
+- innovative
