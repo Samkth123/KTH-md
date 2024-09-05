@@ -96,18 +96,22 @@ What is branding:
 	- push what you are good at
 - Values
 - Culture
+	- Harley davidson
 - User
-- Manufacturer brand
-- Distributor/Private brand
-- Licensed brands 
+- Manufacturer brand (Volvo, Sony)
+- Distributor/Private brand (ICA, H&M)
+- Licensed brands (Disney, CocaCola)
 
 
 #### HOW DO YOU DO IT ? 
 
 1. Brand extension
-2. -
-3. Line extension
-4. Multibrands
-5. New brands
-6. Brand repositioning
-7. Cobranding
+	1. Brand extension or brand stretching
+		1. a firm marketing a product with a well-developed image
+		2. uses the same brand name
+		3. in a different product category.
+2. Line extension
+3. Multibrands
+4. New brands
+5. Brand repositioning
+6. Cobranding
