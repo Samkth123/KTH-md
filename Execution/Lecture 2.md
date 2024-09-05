@@ -74,3 +74,27 @@ Landing page for optimizing for Google Ads
 
 ![[Screenshot 2024-09-05 at 19.27.31.png]]
 
+
+#### Branding
+
+What is branding:
+- A brand is a name, term, sign, symbol or design, or a combination of these.....” 
+- “...intended to identify the goods or services of one seller or group of sellers..” 
+- “....and to differentiate them from those of competitors.”
+
+-Kotler 
+
+#### Branding strategy
+
+- Story telling
+	- Ex: Patagonia-french guy who created a company that is good about nature osv osv...
+	- O
+- “Tag line” 
+- Personality
+- Advantages
+- Values
+- Culture
+- User
+- Manufacturer brand
+- Distributor/Private brand
+- Licensed brands 
