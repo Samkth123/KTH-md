@@ -115,3 +115,7 @@ What is branding:
 4. New brands
 5. Brand repositioning
 6. Cobranding
+
+Ladies coca cola light, men coca cola zero ex on the advertisements
+## Summary of important things
+
