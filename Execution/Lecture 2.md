@@ -35,7 +35,13 @@ Important to have a good MVP to show to get investors, as well as show early ado
 
 ### Lecture start - Prototyping / Branding
 
+![[Screenshot 2024-09-05 at 18.22.06.png]]
 
 
 
+Läraren tycker att basically det som behövs i en business plan är:
+What you sell, to whom, why, what price, and 1 more thing
 
+![[Screenshot 2024-09-05 at 18.23.06.png]]
+
+^ External and 
