@@ -26,4 +26,6 @@ They use **==Monserat==** as font.
 Colors and hues important
 
 Illustrations
-- Try to keep the same look and feel of 
+- Try to keep the same look and feel of the illustrations and use CTT colors
+
+Can use Humaaans open library and editable.
