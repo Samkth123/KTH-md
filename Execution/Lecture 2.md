@@ -34,6 +34,7 @@ Important to have a good MVP to show to get investors, as well as show early ado
 
 
 ### Lecture start - Prototyping / Branding
+#### Intro in where prototyping comes in the business plan
 
 ![[Screenshot 2024-09-05 at 18.22.06.png]]
 
@@ -44,4 +45,19 @@ What you sell, to whom, why, what price, and 1 more thing
 
 ![[Screenshot 2024-09-05 at 18.23.06.png]]
 
-^ External and 
+^ External and Internal not that important only academic thing
+
+
+The nature of product/service evelopment
+
+Sophisticated customers in fragmented markets
+- people have lots of info
+![[Screenshot 2024-09-05 at 18.25.07.png]]![[Screenshot 2024-09-05 at 18.25.15.png]]
+^ Bra för HPE?
+
+#### Prototyping today
+
+- A prototype is an early sample, model, or release of a  product built to test a concept or process or to act as a thing to be replicated or learned from.  
+- Prototyping is generally used to evaluate a new design to enhance precision by system analysts and users  
+- Prototyping serves to provide specifications for a real, working system rather than a theoretical one
+
