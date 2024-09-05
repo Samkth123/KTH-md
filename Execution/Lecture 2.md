@@ -31,3 +31,11 @@ Illustrations
 Can use Humaaans open library and editable.
 
 Important to have a good MVP to show to get investors, as well as show early adopters you have
+
+
+### Lecture start - Prototyping / Branding
+
+
+
+
+
