@@ -70,3 +70,5 @@ Sophisticated customers in fragmented markets
 ##### Example
 Management consultancy with B2B sales
 
+Landing page for optimizing for Google Ads
+
