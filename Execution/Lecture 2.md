@@ -72,3 +72,5 @@ Management consultancy with B2B sales
 
 Landing page for optimizing for Google Ads
 
+![[Screenshot 2024-09-05 at 19.27.31.png]]
+
