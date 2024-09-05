@@ -88,13 +88,26 @@ What is branding:
 
 - Story telling
 	- Ex: Patagonia-french guy who created a company that is good about nature osv osv...
-	- O
+	- Daniel Wellington - met cool brittish guy in australia who had cool watch he made himself so he was inspired so he created that kind of watch
 - “Tag line” 
 - Personality
+	- American express - if you have it you are successfull
 - Advantages
+	- push what you are good at
 - Values
 - Culture
 - User
 - Manufacturer brand
 - Distributor/Private brand
 - Licensed brands 
+
+
+#### HOW DO YOU DO IT ? 
+
+1. Brand extension
+2. -
+3. Line extension
+4. Multibrands
+5. New brands
+6. Brand repositioning
+7. Cobranding
