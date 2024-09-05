@@ -29,3 +29,5 @@ Illustrations
 - Try to keep the same look and feel of the illustrations and use CTT colors
 
 Can use Humaaans open library and editable.
+
+Important to have a good MVP to show to get investors, as well as show early adopters you have
