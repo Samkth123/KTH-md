@@ -61,3 +61,6 @@ Sophisticated customers in fragmented markets
 - Prototyping is generally used to evaluate a new design to enhance precision by system analysts and users  
 - Prototyping serves to provide specifications for a real, working system rather than a theoretical one
 
+![[Screenshot 2024-09-05 at 18.28.39.png]]
+
+
