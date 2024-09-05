@@ -63,4 +63,7 @@ Sophisticated customers in fragmented markets
 
 ![[Screenshot 2024-09-05 at 18.28.39.png]]
 
+##### Use prototypes as/instead of market research:
+- In the early days of an organization, there is high uncertainty about exactly what you should create and exactly what customers want. In these times, traditional market research is useless—there is no survey or focus group that can predict customer acceptance for a product or service that you may barely be able to describe. 
+- Would you buy a new computer with no software, no hard disk, and no color that simulates the real world— including a trash can?
 
