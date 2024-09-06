@@ -36,15 +36,15 @@ Attach - upfront försäljning av produkt/lösning
 
  Next, ask questions to help you understand if what kind of support experience your customer is looking for.
 
- Do you want to handle repairs yourself?
+ **Do you want to handle repairs yourself?**
 
  With paid HPE Operational Services, parts are stocked at local hubs to ensure quick replacement, and customers can request that a certified engineer install replacement parts onsite. Customers can retain defective media instead of being charged for replacement parts that are not returned within 90 days if they choose the appropriate service add on.
 
- Are the components covered by the same warranty? 
+ **Are the components covered by the same warranty?** 
 
  Different components within products may have different warranty levels and durations  . With paid HPE Operational Services the entire device is covered at the same level and duration resolving any mixed warranty issues or charges for options that are out of warranty.
 
- What about software?
+ **What about software?**
 
  HPE software warranty is limited to 90 days and only provides replacement for defective software media. With paid HPE Operational Services customers are entitled to unlimited technical software support and updates along with collaborative support for third-party software they have under contract with other vendors.
 ## HPE Services Value Propositions
@@ -116,7 +116,8 @@ When we see a problem once, we can identify other systems that might be vulnerab
 We can plug skills gaps in your on-site IT team, bringing new technologies to your businesses faster, or train your IT team.
 
 
-FRÅGA: MULTIVENDOR SUPPORT IS THIS COMPLETE CARE OR ANOTHER STEP UP?
+==FRÅGA: MULTIVENDOR SUPPORT IS THIS COMPLETE CARE OR ANOTHER STEP UP?==
+- You can have multivendor without complete care
 
 HPE COMPLETE CARE IS FLEXIBLE
 It can expand as your needs expand to include:
@@ -170,13 +171,192 @@ This part gives you all the above as well as:
 - All optional solution blocks
 - all optional proactive services
 
+==Fråga: The optional services, what is the cost? So if you have entry you cant buy the basic ones?==
+##### Optional Services provided
+
+###### Entry
+- Service credits
+- HPE Education credits
+- Team day
+- ==Implementing recommendations (select Compute/Store/Edge)==
+- Operating system patch analysis (Compute)
+- Server firmware and software analysis (Compute)
+- System health check (Compute)
+- SAN supportability assessment (Storage)
+- Storage/SAN firmware and software analysis (Storage)
+- High-availability technical assessment (Storage)
+- Network firmware and software analysis (Edge)
+
+###### Basic
+All the above, but also includes:
+
+- Business planing and review (ITSM)
+- Risk identification and benchmarking (ITSM)
+- Service failure analysis (ITSM)
+- Service improvement planning (ITSM)
+- Improvement scorecard (ITSM)
+- Customer vision and goal setting (ITSM)
+
+###### Standard
+All the above, but also includes:
+- Assigned customer Engineer (Select standard/off-hours)
+- Solution lifecycle planning service (Solutions)
+- Project management
+
+
+==Here multivendor can be added==
+These are the customizable parts for the customer needs. ==These cost extra moneey? Eller är det entry som kostar extra, samma med basic osv... Eller är detta bara val som går att lägga till när man har exempelvis basic customer care package?==
+
+==Svar: Verkar som att allt ingår då technology specialist ingår... men msåte fråga?!!!==
+##### Optional solution blocks
+
+Allt detta är HPE Complete Care Service
+###### Entry
+- COE Service for SAP
+- Expert support for SAP HANA
+- Multivendor
+- Spares Management Service
+
+###### Basic
+All above, as well as:
+- Storage Performance Optimization
+- Storage Solution Lifecycle Management
+- HPC Performance Optimization
+- Storage Solution Lifecycle Management
+- HPC Performance Optimization 
+- Performance Optimization for SAP
+- Assigned Technology Specialist
+- Energy and Emissions Reporting
+- Software Asset Management
+
+###### Standard
+All above, as well as:
+- HPE NonStop and HPE Virtualized NonStop
+- Aruba
+- Cray EX
+- Secure Locations
+- ITOps
 
 
 
+#### Brochure - Technology can be complicated
+
+##### Statistics about Complete Care
+HPE Complete Care Service by the numbers
+- Easier — 60% reduction in incident management time, and 80% reduction in time spent managing vendors
+- Cheaper — 28% more efficient IT operations management
+- Safer — 35% of after-hours incidents proactively prevented
+- 98% of customers agree their assigned team was valuable in reducing risk in their environment
+
+##### HPE Complete Care Service core service offerings
+
+###### Enhanced incident management
+
+To provide an outstanding incident management experience, this set of integrated and accelerated reactive and proactive processes is designed to address hardware and software incidents
+
+- Environment profiling and awareness
+- Multichannel access to know-me experts
+- Personalized phone experience
+- Remote 24/7 rapid response
+- Priority access
+- Seamless expert col laboration for resolving complex issues
+- Accelerated escalation management
+- Personalized digital experience
+- Expanded coverage options
+- Global call management (optional)
+- Discovery and Dashboarding
 
 
+##### Service relationship management (SRM)
+Three experience levels (entry, basic, standard) - including assigned HPE resources to understand your business and IT objectives and work to ensure your needs are met
+
+- Assigned account team - your advocate and SPOC for both operational and technical needs
+- Account support planning
+- Service implementation management
+- Inventory management
+- Service planning and review
+- SUpport activity review or incident report
+- Operational and technical advice or operational assitance
+- HPE Support Center
+- HPE education planning and assistance
+- HPE Digital Learner Starter Pack for HPE Complete Care Service
+- 24x7 access to the ITOps service platform which is maintaned by HPE through customers console
+- 24x7 access to experts to address **reactive** service incidents. Access to **proactive** services during regular business days and regular business hours.
+
+##### Modular solution blocks
+In addition to the core services, HPE Complete Care Service also **offers outcome-specific modular solution blocks designed to help you optimize and modernize your IT environment** and achieve your **business goals**. Currently available solution blocks include:
+- THESE ARE INCLUDED IN PREVIOUS SECTIONS
+
+##### Optional proactive services
+
+As a complete solution for your entire IT ecosystem, HPE Complete Care Service can be personalized to include additional proactive services, based on your individual needs.
+
+- Environment services
+	- Purchase additional expert time for any project or management task with Team days or Assigned Customer Engineer days.
+- ITSM services
+	- Improve and enhance your organization’s ITSM maturity level with the ultimate goal of improving both effectiveness and your ability to meet ever-increasing demands for enhanced service levels and performance.
+- Compute services
+	- Services include OS patch analysis and management, server firmware and software analysis and management, and system health check.
+- Storage services
+	- Experience storage firmware and software analysis and management, high-availability technical assessment, SAN supportability assessment, and implementation of storage recommendations.
+- Network services
+	- These services include network firmware and software analysis and management and implementation of network recommendations.
+- HPE Service Credits
+	- Flexibly and quickly choose from a variety of specialized service activities including assessments, performance analyses, firmware management, professional services, and much more.
+- HPE Managed Services — Expand HPE Complete Care Service with full IT management. HPE Managed Services monitors, manages, and delivers the holistic insights your company needs to optimize operations across the full IT landscape. Leveraging a broad range of deep domain expertise and automation, HPE Managed Services helps speed your digital transformation. Whether taking on the day-to-day operations of running IT to free up time for innovation or delivering on innovation strategies from core to cloud to edge, HPE Managed Services helps IT become a better partner to the business.
+
+#### HPE Complete Care Service Structure (FROM HPE Complete Care Service - HPE Contractual Support Service)
+
+In event of incident, HPE Complete Care Service provides access to HPE Product experts that can help to resolve customer issues. By providing:
+
+- Cost effective modular support solution tailored to Customers exact requirements and environment
+- Proactive issue identification and advice on mitigation of risks
+- Access to HPE experts
+- Flexible reactive support options
+- Prio access to HPE experts who are aware of Customers environment
+- Flexible proactive support options
+- Advanced remote tech and tools designed to reduce downtime 
+- Assigned account team focused on Customers IT environment and business objectives that provide SPOC within HPE.
 
 
+==Fråga: Ingår base tech support under Complete Care?==
+##### Service structure
+==Titta på PDFen==
+
+###### Service feature summary
 
 
+Base product support (required), Either:
+- HPE Tech Care Service (recommended)
+- HPE Legacy support
+- HPE warranty
 
+
+##### **ITOps**
+is a service for HPE Complete Care Service Customers. It helps them monitor, manage, and operate their entire IT environment regardless of the location of those IT assets — on-premises or cloud native.
+
+The service collects and enriches inventory data while allowing Customers to optimize their implementation processes. The service observes incidents and actions, helping drive the best outcomes for the business.
+
+HPE Complete Care Service — ITOps provides a base number of nodes to implement the service and the ability to purchase additional capabilities and capacity. It is packed as having differnet nodes it can look at.
+
+For the purpose of this service, a node is defined as any physical asset (such as servers, network switches, and routers) or virtual asset (such as VMs, cloud instances, storage buckets, and databases) that has been assigned a node identification on the service. Examples of these nodes and how they are metered for this service can be found [here](https://www.hpe.com/psnow/doc/a50009182enw)
+
+##### HPE Service credits
+The goal of HPE Service Credits is to provide the flexibility that Customers need by filling resource gaps and providing specialized expertise whenever it is required. 
+
+Customers have the flexibility to choose from a variety of service activities ranging from virtualization, storage data management, infrastructure optimization, power and cooling, assessments, security, performance analysis, and firmware management. These service activities cover a broad spectrum of IT technology domains, including servers, blades, OSs, storage, SANs, networks, and ISV software.
+
+##### HPE Team Day Service
+Basically hire someone for 8 hours to teach you stuff
+
+##### Expert on demand (EOD)
+HPE Services Expert on Demand (EOD) is a short-duration, micro-consulting proactive service where Customers can engage HPE technical experts to supplement their in-house knowledge beyond what standard reactive break-fix technical support provides. HPE Services EOD is available as a standalone service purchased through HPE Service Credits or HPE Services EOD days as an optional service attached with any HPE support contract
+- **Note**: HPE Services EOD service is available for supported components of HPE Compute, Microsoft Azure Stack HCI, Microsoft Azure public cloud, VMware®, VMware NSX-T, HPE ConvergedSystem technologies.
+##### ACE Day
+The ACE provides strong knowledge of hardware, network, OS, and technical change management processes and implementation. The ACE assists with the inventory management deliverable for devices to be covered by EIM, delivers reactive and proactive hardware support, coordinates repair and installation, as well as provides technical advice and guidance.
+
+==FRÅGA: Vad är skillnaden på ACE, EOD==
+
+==FRÅGA: förstår fortfarande inte riktigt vad en solution block är - är det bara basically det som ingår i ex Standard? Eller är det extra kostnader att få till dom men att du bara får tillgång till att köpa till dessa? ==
+
+# IMPORTANT: NOTES HÄR ÄR EGENTLIGEN INGET JÄMFÖRT MED DATABLADET OM COMPLETE CARE!!!
