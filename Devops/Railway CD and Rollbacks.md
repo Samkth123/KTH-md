@@ -35,7 +35,6 @@ Software development extends far beyond code deployment. Railway's feature set i
 - **[Dashboard](https://docs.railway.app/overview/the-basics#dashboard--projects)** - Main entrypoint for all projects under your account.
 - **[Project](https://docs.railway.app/overview/the-basics#project--project-canvas)** - A collection of services under the same network.
     - **[Project Settings](https://docs.railway.app/overview/the-basics#project-settings)** - Contains all project-level settings.
-    - Projects contain your services and environments
 - **[Service](https://docs.railway.app/overview/the-basics#services)** - A target for a deployment source (e.g. Web Application).
     - **[Service Variables](https://docs.railway.app/overview/the-basics#service-variables)** - A collection of configurations and secrets.
     - **[Service Metrics](https://docs.railway.app/overview/the-basics#service-metrics)** - Rundown of metrics for a service.
@@ -45,4 +44,24 @@ Software development extends far beyond code deployment. Railway's feature set i
     - **[Volume Metrics](https://docs.railway.app/overview/the-basics#volume-metrics)** - Rundown of metrics for volumes (e.g. disk usage over time).
     - **[Volume Settings](https://docs.railway.app/overview/the-basics#volume-settings)** - Contains all volume-level settings.
 
-##
+#### Dashboard
+Dashboard is the main entrypoint to Railway where all projects are shown in the order they where last opened
+
+Projects contain your services and environments
+
+#### Project / Project Canvas
+
+A project represents a capsule for compsing infrastructure in Railway. Think of a project as an application stack, a service group, or even a collection of service groups.
+
+Services within a project are automatically joined to a private network scoped to that project
+##### Project setting
+Page that contain all the project level settings.
+Common project settings are:
+- **Transfer project** - transfer your project between workspaces
+- **Environments** - Manage various setting regarding environments
+- **Members** - Add or remove members to collaborate on your project
+==- **Danger** - Remove individual services or delete the entire project==
+
+#### Services
+
+A Railway service is a deployment target for your deploy
