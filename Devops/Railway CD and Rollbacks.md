@@ -64,4 +64,12 @@ Common project settings are:
 
 #### Services
 
-A Railway service is a deployment target for your deploy
+A Railway service is a deployment target for your deployment source. Deployment sourves can be **code repositories** or Docker images. ==Once you create a service and choosen a source, Railway will analyze the source, build a Docker image (if you source is a code repository) and deploy it to the service==
+
+Out of the box, your service is deployed with a set of default configurations which can be overridden as needed
+
+#### Service Variables
+
+Service Variables provide a powerful way to manage configuration and screts across services in Railway
+
+You can configure variables scoped to services or to projects to be shared amongst all services
