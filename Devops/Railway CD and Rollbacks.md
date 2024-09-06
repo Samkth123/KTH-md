@@ -86,4 +86,19 @@ This tab contains all the service level settings
 - Custom Build Command - Here you can configure a custom build command if you need to overwrite the default, only applicable with Nixpacks based builds
 - Custom Start Command - Here you can configure a custom start command if you need to overwrite the default.
 
-## 
+## Advanced Usage
+
+### Deploy Options
+
+Deployments are created with some default options that can be overridden. Some of the options available are -
+
+- Replicas: By default, your deployment will go out with a single instance. With replicas, you have the ability to scale up your deployment instances
+- Deployment Region: ==Deployments are pushed to the 'us-west1' region unless a different region is specified==
+- Scheduled Execution...
+- App Sleep: Services are serverful and always-on. You can control this behavior, to spin down resources when they are not being used, by enabling App Sleep.
+
+
+### Networking
+
+#### Private Netoworking
+Private networking is a feature within R
