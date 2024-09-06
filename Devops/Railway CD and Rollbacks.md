@@ -106,4 +106,29 @@ Private networking is a feature within Railway that will open network communicat
 All private netowrking enabled and services are assigned a DNS name under 'railway-internal' domain. The DNS name resolves to the internal IPv6 address of the services in a project
 
 #### Railway-Provided Domains
-With a click of a button, Railway will expose your service to the internet and provide you with a domain. To make this work, you must configure your application appropriately to ensure we know the port it is listening on. These are the instructios for that
+With a click of a button, Railway will expose your service to the internet and provide you with a domain. To make this work, you must configure your application appropriately to ensure we know the port it is listening on. These are the instructions for that
+
+##### Port Variable
+
+==An essential part of connecting your service to the internet, is properly handling the `PORT` variable.==
+
+The easiest way to get up and running is by using the Railway-provided port.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
