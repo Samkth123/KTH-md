@@ -101,4 +101,9 @@ Deployments are created with some default options that can be overridden. Some o
 ### Networking
 
 #### Private Netoworking
-Private networking is a feature within R
+Private networking is a feature within Railway that will open network communication throughIPv6 only accessible to your Railway services within a project.
+
+All private netowrking enabled and services are assigned a DNS name under 'railway-internal' domain. The DNS name resolves to the internal IPv6 address of the services in a project
+
+#### Railway-Provided Domains
+With a click of a button, Railway will expose your service to the internet and provide you with a domain. To make this work, you must configure your application appropriately to ensure we know the port it is listening on. These are the instructios for that
