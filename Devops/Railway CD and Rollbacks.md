@@ -70,6 +70,18 @@ Out of the box, your service is deployed with a set of default configurations wh
 
 #### Service Variables
 
-Service Variables provide a powerful way to manage configuration and screts across services in Railway
+Service Variables provide a powerful way to manage configuration and secrets across services in Railway
 
 You can configure variables scoped to services or to projects to be shared amongst all services
+
+#### Service Metrics
+
+==Service Metrics provide an essential overview of CPU, memory, and network usage for a given service==
+
+#### Service Settings
+This tab contains all the service level settings
+
+- ==Source - Here you can configure the deployment source ,which can be either a GitHub repository== with a specific branch or an image with optional credentials
+- ==Networking - Generate a Railway-provided domain== or add your custom one
+- Custom Build Command - Here you can configure a custom build command if you need to overwrite the default, only applicable with Nixpacks based builds
+- Custom Start Command - Here you can configure a custom start command if you need to overwrite the default.
