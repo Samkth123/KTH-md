@@ -114,7 +114,9 @@ With a click of a button, Railway will expose your service to the internet and p
 
 The easiest way to get up and running is by using the Railway-provided port.
 
+If you prefer to explicitly set a port, you _must_ set the `PORT` variable in your service variables to the port on which your service is listening.
 
+#### Railway-Provided Domain
 
 
 
