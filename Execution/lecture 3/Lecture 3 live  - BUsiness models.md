@@ -44,11 +44,19 @@ What **value proposition** do you ==offer==, to which **customer segments**?
  Value:
  - Gemenskap
  - entertainment
- - 
+ - monetary?
 
 How do you reach your customers?
+- channels
+	- streaming
+	- tv
+	- live
 
 How do you build your relationships?
+- merch
+- sponsors
+- success
+- 
 
 How do you earn your money with this business model+
 
