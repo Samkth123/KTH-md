@@ -20,5 +20,26 @@ distribution strategy)
 
 They communicate a business
 
+This is the mapping of how you can see a business
+
 
 ![[Screenshot 2024-09-10 at 17.52.17.png]]
+^^
+What **value proposition** do you ==offer==, to which **customer segments**?
+
+How do you reach your customers?
+
+How do you build your relationships?
+
+How do you earn your money with this business model+
+
+Case:
+You are owner of soccer club.
+What **value proposition** do you ==offer==, to which **customer segments**?
+
+How do you reach your customers?
+
+How do you build your relationships?
+
+How do you earn your money with this business model+
+
