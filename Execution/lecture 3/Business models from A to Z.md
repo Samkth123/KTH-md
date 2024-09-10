@@ -23,3 +23,17 @@ Network effects were used as justification for some of the business models for d
 A good example of this strategy was that deployed by Mirabilis, the Israeli start-up which pioneered instant messaging ("IM") and was bought by America Online. By giving away their ICQ product for free and preventing interoperability between their client software and other products, they were able to corner the market for instant messaging. Because of the network effect, new IM users gained much more value by choosing to use the Mirabilis system (and join its large network of users) than they would using a competing system. As was typical for that era, the company never made any attempt to generate profits from their dominant position before selling out.
 
 Network effects become significant after a certain subscription percentage has been achieved, called **==critical mass==**. At the critical mass point, the value obtained from the good or service is greater than or equal to the price paid for the good or service. As the value of the good is determined by the user base, this implies that after a certain number of people have subscribed to the service or purchased the good, additional people will subscribe to the service or purchase the good due to the positive utility:price ratio. Until this point has been achieved, however, only early adopters will subscribe.
+
+**Network effects are commonly mistaken for economies of scale**, which result from business size rather than interoperability (see also natural monopoly). To help clarify the distinction people speak of demand side vs. supply side economies of scale. Classical economies of scale are on the production side, while network effects arise on the demand side. Network effects are also mistaken for economies of scope.
+
+There are very strong network effects operating in the market for widely-used computer software. Take for example Microsoft Office. For many people choosing an office suite, prime considerations include how valuable having learned that office suite will prove to potential employers, and how well the software interoperates with other users. That is, since learning to use an office suite takes many hours, they want to invest that time learning the office suite that will make them most attractive to potential employers (or consulting clients, etc), and they also want to be able to share documents
+
+
+
+
+
+
+
+
+
+
