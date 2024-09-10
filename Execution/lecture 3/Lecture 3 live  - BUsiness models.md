@@ -41,7 +41,7 @@ How do you earn your money with this business model+
 
 ![[Screenshot 2024-09-10 at 18.49.07.png]]
 
-
+![[Screenshot 2024-09-10 at 18.49.22.png]]
 
 
 
