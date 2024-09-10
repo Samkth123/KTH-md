@@ -32,8 +32,20 @@ How do you reach your customers?
 How do you build your relationships?
 
 How do you earn your money with this business model+
+![[Screenshot 2024-09-10 at 18.47.48.png]]
 
-Case:
+![[Screenshot 2024-09-10 at 18.48.35.png]]
+
+![[Screenshot 2024-09-10 at 18.48.45.png]]
+
+
+![[Screenshot 2024-09-10 at 18.49.07.png]]
+
+
+
+
+
+case:
 You are owner of soccer club.
 What **value proposition** do you ==offer==, to which **customer segments**?
 
