@@ -37,6 +37,15 @@ Case:
 You are owner of soccer club.
 What **value proposition** do you ==offer==, to which **customer segments**?
 
+ Customer segments:
+ - Men
+ - 20-45
+ - Middle class
+ Value:
+ - Gemenskap
+ - entertainment
+ - 
+
 How do you reach your customers?
 
 How do you build your relationships?
