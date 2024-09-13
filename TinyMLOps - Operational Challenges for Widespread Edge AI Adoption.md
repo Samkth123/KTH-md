@@ -86,6 +86,8 @@ Common technique for TinyML model optimiazation is reduced precision operations.
 	- special supprot from hardware is needed to obtain an increased throughput or reduced energy consumption
 	- as different hardware platforms support differnet set of operations and bit widths - we might need to develop different versions of a model each targeting specific platform
 
+All examples above show that number of models that need to be managed by TinyMLOps system is much larger than numer of corresponeding on centralized deployment (==basically i cloud så har du ju bara ett environment, men på telefon,dator, osv.. allt som är edge är ju allting annorlunda och därflr svårare  att optimera gentemot den plattformen==)
+
 
 
 
