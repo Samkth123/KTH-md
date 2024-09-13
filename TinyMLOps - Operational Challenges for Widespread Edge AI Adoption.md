@@ -113,7 +113,9 @@ Similar to observability, this is trivial to implement on cloud as all API are p
 
 Even though end-user carries computational cost of model inference, the app developer still needs to be compensated for cost of developing and training a model.
 
-
+THis is hard to do on model that is replicated on a large number of end users devices that might not even be connected to internet.
+- Instead, could offer prepaid packages where user purchases the right to perform certain number of model calls.
+- The app has to keep track of how many requests user has executed and will deny access if this exceeds the number of requests the user has paid for. ==Doing this in a secure offline way on untrusted hardware is not trivial and would be very useful feature for a TinyMLOps solution==
 
 
 
