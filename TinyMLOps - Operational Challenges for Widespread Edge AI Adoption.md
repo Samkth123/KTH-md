@@ -88,6 +88,16 @@ Common technique for TinyML model optimiazation is reduced precision operations.
 
 All examples above show that number of models that need to be managed by TinyMLOps system is much larger than numer of corresponeding on centralized deployment (==basically i cloud så har du ju bara ett environment, men på telefon,dator, osv.. allt som är edge är ju allting annorlunda och därflr svårare  att optimera gentemot den plattformen==)
 
+##### B. Observability
+
+ML models used increasingly in consumer facing applications - monitoring and observability are key to ensuring model keeps performing as expected
+
+Relatively straight forward to implement model observability on cloud platform as all input data is centralized.
+
+Less trivial if model is deployed on edge
+
+Benefit of edge deployment is that no data needs to leave device, which provides stronger privacy guarantees than cloud processing
+- argument would be rendered invalid if periodically shared data with cloud for analyssi and re-training
 
 
 
