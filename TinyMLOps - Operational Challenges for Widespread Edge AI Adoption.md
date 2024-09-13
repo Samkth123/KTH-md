@@ -144,7 +144,16 @@ Several challenges arise when implementing Federated Learning on TinyML setting.
 		- Could be possible to store some of the data locally and calculate the model updates when the device is idle or connected to a charger
 
 Most Federated Learning approaches make assumption that labelled data is available. This might be realistic in certain settings such as medical use where doctors annotate medical records but nor realistic for TinyML setting. Even if user can be asked to provide label its most likely low quality.
+- Several techniques have been developed that can use unlabelled local data to improve glbal model either in semi supervised or unsupervised way.
 
+We do not either need to necessarily aggregate all local updates to the model into the global model.
+- By deploying model to edge device, model will usually only process data belonging ot a single usr or generated in a single location.
+- This can be exploited to triain specialized models that are overfitted to s specific user or location
+- ex could be peronsalized auto complete functionality or anomaly detection model trained for predictive maintenece of tine learns characteristics of single machine or sensor
+
+==Kritki av oss? A/B testing?==
+
+### IV. Targeting a Fragmented IoT Landscape
 
 
 
