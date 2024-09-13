@@ -98,7 +98,20 @@ Less trivial if model is deployed on edge
 
 Benefit of edge deployment is that no data needs to leave device, which provides stronger privacy guarantees than cloud processing
 - argument would be rendered invalid if periodically shared data with cloud for analyssi and re-training
+- could record basic statistics locally and share with cloud anonymously but depends on app if its useless or not
+- also interested in monitoring number of requests user has made and the execution time of model.
+	- Different users have different hardware platforms with different computational resources - its interesting to record actual execution time, memory and energy consumption on end user device
+	- These telemtry data can signal performance issues that might neccessitate further perofrmance optimizations of the model.
+	- Store this info locally then give to cloud anonymously when connected to wifi and user gives permissoin.
+	- All this needs to be considered with implementing ==TinyMLOps observability functionality==
 
+
+##### C. Pay-per-query business model
+Common business model for ML apps is pay per query. EX Google cloud vision API charge 1,5dollars per 1000 requests for tasks such as face detection.
+
+Similar to observability, this is trivial to implement on cloud as all API are processed at the samt endpoint.
+
+Even though end-user carries computational cost of model inference, the app developer still needs to be compensated for cost of developing and training a model.
 
 
 
