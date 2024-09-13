@@ -161,6 +161,10 @@ Cloud infrastructure for ML tasks is uniform
 - There is currently a trend towards custom hardware accelerators that support ML applications in more energy efficient ways, which in turn makes it so that fragmentation will only increase in the future.
 - ==Clearly, this is a major challenge for a TinyMLOps platform==
 	- To deploy the application on a new device, we will first need to check that all required operations are supported by the underlying platform.
+	- We then might need to quantize the model or perform further vendor specific optimizations
+	- At the same time, ML engineers might use different software frameworks to develop models, and not every framework will support every deployment target 
+		- a lack of standardization in this area will make it difficult for developers to support the increasing number of different types of devices.
+			- Some efforts like Open Neural Network Exchange format (ONNX) and the Neaural Netwrok Exchange Format (NNEF) that represents
 
 
 
