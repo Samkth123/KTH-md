@@ -121,8 +121,19 @@ THis is hard to do on model that is replicated on a large number of end users de
 
 Modern ML apps are not static anymore, they are updated continuously as new data has been observed.
 
+On cloud, this is computationally expensive but still easy as all is centralized
 
+Edge-based, it is far from trivial
 
+Major benefit of edge based app is that data stays on local device
+- attractive form privacy point of view
+- also means though its impossible to centralize data to train new models without invalidating privacy argument
+- Instead, have to rely on Federated Learning to update the model
+
+==Federated Learning===
+- a user downloads the current model and updates it locally with his own data
+- The updates to the model are sent to the cloud where it is averaged with out users updates to improve the shared model
+- Periodically, the updated global model is pushed to each device, allowing invidual user to benefit from the experience of the model on other device
 
 
 
