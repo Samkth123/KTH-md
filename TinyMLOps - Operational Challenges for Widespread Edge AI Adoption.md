@@ -183,7 +183,11 @@ Modern cloud applications are developed using a cloud native approach emphasizin
 
 ##### V. Protecting the Model's Intellectual Property
 A trained ML model can represent significant intellectual value for the owner.
-- Part of value comes from highly specialized skillset of developer that spent large amount of trial and error developing and tuning the model, especially if the models needs to be optimized for edge deployment.
+- Part of value comes from highly specialized skillset of developer that spent large amount of trial and error developing and tuning the model, especially if the models needs to be optimized for edge deployment. 
+	- Also the training of the model most likely required access to powerful compute resources
+	- It is not uncommon to trian models for days or weeks on high-end GPU hardware
+	- extreme example: GPT3 training on cloud infrastructure cost 4,6M dollars.
+		- also they had to collect and manually label large amounts of data
 
 
 
