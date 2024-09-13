@@ -217,7 +217,9 @@ There are several protection mechanisms that might be considered to protect agai
 - A pragmatic solution is to evaluate only a part of the model on the trusted environment
 
 Watermarking is another solution. Additional info is stored in the weights, and they can prove theft but not prevent it.
-- there are many 
+- there are many different ways of watermarking, and thet are often compared in terms of the tradeoff between fidelity, robustness and capacity
+- Here, fidelity refers to the impact on the model’s performance on the original task. Robustness describes the resilience of the watermark against distortions such as those caused by pruning, finetuning or deliberately overwriting the watermark. Finally, capacity indicates the size of the information that can be stored in the watermark itself.
+- Either you use static or dynamic water marking
 
 
 
