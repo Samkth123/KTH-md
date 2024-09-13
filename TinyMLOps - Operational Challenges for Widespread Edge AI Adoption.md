@@ -117,6 +117,33 @@ THis is hard to do on model that is replicated on a large number of end users de
 - Instead, could offer prepaid packages where user purchases the right to perform certain number of model calls.
 - The app has to keep track of how many requests user has executed and will deny access if this exceeds the number of requests the user has paid for. ==Doing this in a secure offline way on untrusted hardware is not trivial and would be very useful feature for a TinyMLOps solution==
 
+##### D. Retraining and personalizing models
+
+Modern ML apps are not static anymore, they are updated continuously as new data has been observed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
