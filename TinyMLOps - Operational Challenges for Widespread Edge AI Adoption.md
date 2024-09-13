@@ -41,8 +41,23 @@ Some of these can only reach full potential if they have support of hardware pla
 Past decade, seen explosion of ML techniques applied in various domains.
 These made ad-hoc and complicated, so hard to deploy in production. 85% of corporate AI initiatives struggle to move past test stages (estimation).
 
-Even if estimation, you can say theat integration ML models in complex user facing apps reqire lots of forethought and continuous maintanence (especially if )
+Even if estimation, you can say theat integration ML models in complex user facing apps reqire lots of forethought and continuous maintanence (especially if model updated over time with new data)
 
+Technical dept exists - with ML its increased
+- Addition to updating source code also need
+- new training data
+- better feature definitions
+- hyper parameter settings
+- new model architectures
+All the above trigger update of application,
+
+Also difficuly to:
+- keep track of dependencies model has
+- performance of model
+- detect when it goes wrong
+- detect when model is making potentially expensive mistakes
+
+All the above give rise to MLOps - extension of devops
 
 
 
