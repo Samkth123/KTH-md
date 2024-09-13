@@ -188,7 +188,21 @@ A trained ML model can represent significant intellectual value for the owner.
 	- It is not uncommon to trian models for days or weeks on high-end GPU hardware
 	- extreme example: GPT3 training on cloud infrastructure cost 4,6M dollars.
 		- also they had to collect and manually label large amounts of data
+	- Therefore not weird that people might want to steal 
 
+In this paper, distinguish between two threat models: direct and indirect ML model stealing.
+ - ==Direct stealing==
+	 - Attacker somehow able to obtain exact trained weights of model
+		 - Can then use these to instantiate his own copy, and not paying any fees or pay per request billing
+		 - Might even be able to extract training data that could be privacy sensitive
+	- Even if atacker is not able to obtain exact weights, he might extract valuable intellectual property using indirect model stealing
+- ==Indirect model== stealing
+	- Here trained model is ocnsidered black box and attacker can only query model
+		- but by making repeat queries to model, each time providing an input data point and recording the prediction of the model, he is able to construct a labelled data set over time
+			- then can use this to train his own ML model that mimics the behaviour of the original model
+			- even though the obtained weights and architecture might differ from original model, this approach still allows attacker to train a similar model at fraction of cost of training of original model
+
+Even though these attacks can target cloud based deployment, they are easier to pull off in edge deployment
 
 
 
