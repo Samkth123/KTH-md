@@ -159,7 +159,7 @@ Cloud infrastructure for ML tasks is uniform
 - Usually high end Linux servers equipped with NVIDIA hardware accelerators
 - Edge landscape is however much more fragmented with a wide range of different devices from different vendors, each with different software support and hardware capabilities.
 - There is currently a trend towards custom hardware accelerators that support ML applications in more energy efficient ways, which in turn makes it so that fragmentation will only increase in the future.
-- 
+- ==Clearly, this is a major challenge for a TinyMLOps platform==
 
 
 
