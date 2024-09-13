@@ -169,6 +169,8 @@ Cloud infrastructure for ML tasks is uniform
 				- However, since these formats are relatively new and ML field moves quickly, not all operations are readily supported by these formats and it is not trivial to use them for more exotic or novel models
 			- Apache TVM is in similar sense that it supports models developed in different frameworks
 
+Modern cloud applications are developed using a cloud native approach emphasizing a
+
 
 
 
