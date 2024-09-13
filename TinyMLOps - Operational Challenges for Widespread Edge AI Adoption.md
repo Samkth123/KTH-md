@@ -71,7 +71,20 @@ Decentralized edge based app
 - different users have different devices with different computational resources, storage and network connectivity
 - therefore instead of one model being trained need to support multiple models each with own computational cost and accuracy trade off
 	- allows us to push smaller efficcient model to device with limited resources
-	- or large more accurate to 
+	- or large more accurate to powerful devices
+	- To complicate more, best model for given device depends on other factors as well, ex external factors.
+		- if device connceted to charging point, energy consumption less of an issue, so a different model might be prefered depending on battery level.
+		- Similarly depending on sitatuon, user might prefer slower accurate modelr
+		- or faster less acurate model
+		- or model that is fast to download on slow network compared to large model on wifi
+
+Common technique for TinyML model optimiazation is reduced precision operations.
+- traditionally NN require 32 bit numerical operations for training & evaluation
+- but can do with 8,3,2, or even 1 (binary) weight and opretioans.
+- training model more difficuly but has owrked with 4 bit weights.
+- low precision operations do not however guarantee faster and more efficient models on all hardware platforms.
+	- special supprot from hardware is needed to obtain an increased throughput or reduced energy consumption
+	- as different hardware platforms support differnet set of operations and bit widths - we might need to develop different versions of a model each targeting specific platform
 
 
 
