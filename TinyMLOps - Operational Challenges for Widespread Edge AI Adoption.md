@@ -182,6 +182,8 @@ Modern cloud applications are developed using a cloud native approach emphasizin
 	- This virtualization could also enable hybrid edge-cloud applications where the model can depending on resource be evaluated either on edge or cloud.
 
 ##### V. Protecting the Model's Intellectual Property
+A trained ML model can represent significant intellectual value for the owner.
+- Part of value comes from highly specialized skillset of developer 
 
 
 
