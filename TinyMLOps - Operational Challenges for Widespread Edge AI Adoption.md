@@ -63,6 +63,16 @@ This paper argues for the extension of MLOps to TinyMLOps.
 - Move form centralized cloud app to dexentralized edge based deployment
 	- new challenges arise
 
+##### A. Managing model versions
+Centralizzed cloud based app
+- sufficient to have single mode for all users (simply latest and greatest architecture for task at hand)
+Decentralized edge based app
+- model will be deployed on end users device
+- different users have different devices with different computational resources, storage and network connectivity
+- therefore instead of one model being trained need to support multiple models each with own computational cost and accuracy trade off
+	- allows us to push smaller efficcient model to device with limited resources
+	- or large more accurate to 
+
 
 
 
