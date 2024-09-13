@@ -27,4 +27,4 @@ TinyML - refers to use of ML models on resource constrained edge devices.
 	- section VI validate the result of a model
 	- section VII conlude and give pointers for future work
 
-### II - The comp
+### II - The computaional aspect of TinyML
