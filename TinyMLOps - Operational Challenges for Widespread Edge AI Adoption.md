@@ -203,6 +203,9 @@ In this paper, distinguish between two threat models: direct and indirect ML mod
 			- even though the obtained weights and architecture might differ from original model, this approach still allows attacker to train a similar model at fraction of cost of training of original model
 
 Even though these attacks can target cloud based deployment, they are easier to pull off in edge deployment
+- direct attacks would make the attacker have to get access to server infrastructure in case of cloud deployment, but in edge deployment the weights of model are already downloaded on device.
+- Indirect model stealing also possible with cloud deployments but much more feasible with edge deployments as now, atacker does not need to launch thousands of network requests to query the model, instead he just evaluates the model locally.
+- ==This attack might go detected in case of cloud deployment because of high volume of requests, but likely undetected in case of edge deployment?== (WHAT MAKES NO SENSE???)
 
 
 
