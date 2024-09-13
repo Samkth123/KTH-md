@@ -169,7 +169,12 @@ Cloud infrastructure for ML tasks is uniform
 				- However, since these formats are relatively new and ML field moves quickly, not all operations are readily supported by these formats and it is not trivial to use them for more exotic or novel models
 			- Apache TVM is in similar sense that it supports models developed in different frameworks
 
-Modern cloud applications are developed using a cloud native approach emphasizing a
+Modern cloud applications are developed using a cloud native approach emphasizing agility. Software is packed in loosely-coupled microservices running as containers, which allows developers to easily update and scale their application.
+- These principles can be applied to edge computing where virtualization can support portable machine learning containers
+- The containers could then be easily deployed to different target devices, solving the fragmentation issue.
+- ==By running the containers in isolated sandbox, we can restrict access to parts of the operating system or external sensors, improving the security of the whole system==
+- As a next step, the containers could be controlled by an orchestration framework that automatically deploys updated models or that distributes an application over multiple services.
+- Then we can see a marketplace where every device in the network can potentially execture a certain machine learning workload.
 
 
 
