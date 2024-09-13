@@ -175,6 +175,13 @@ Modern cloud applications are developed using a cloud native approach emphasizin
 - ==By running the containers in isolated sandbox, we can restrict access to parts of the operating system or external sensors, improving the security of the whole system==
 - As a next step, the containers could be controlled by an orchestration framework that automatically deploys updated models or that distributes an application over multiple services.
 - Then we can see a marketplace where every device in the network can potentially execture a certain machine learning workload.
+- Depending on the requirements, a certain target is chosen and the container is transmitted to that device for execution.
+- Owners of the device will be incentivized to run workloads as they reciev a monetary compensation (==Förstår inte dessa delarna i punkerna här==)
+- Ex: A smartphone app can offload its computations to the powerful GPU of a self driving car while the user is inside.
+	- Or seamlessly move the container to an edge server if it is available.
+	- This virtualization could also enable hybrid edge-cloud applications where the model can depending on resource be evaluated either on edge or cloud.
+
+##### V. Protecting the Model's Intellectual Property
 
 
 
