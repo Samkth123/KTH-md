@@ -207,7 +207,17 @@ Even though these attacks can target cloud based deployment, they are easier to 
 - Indirect model stealing also possible with cloud deployments but much more feasible with edge deployments as now, atacker does not need to launch thousands of network requests to query the model, instead he just evaluates the model locally.
 - ==This attack might go detected in case of cloud deployment because of high volume of requests, but likely undetected in case of edge deployment?== (WHAT MAKES NO SENSE???)
 
+There are several protection mechanisms that might be considered to protect against model stealing attacks.
+- You can encrypt the model that is downloaded or stores in device, and decrypt it when loaded into memory, right before being used.
+	- Apple CoreML and OpenVino toolkit support this
+	- This makes it hard for direct model stealing
+	- Disadvantage is increased computational cost of encrypting/decrypting
+- Most secure approach is Secure Processing Environement (SPE) to handle modle decrypting and evaluation in an isolated protected subsystem on the device.
+	- However not available on low end edge devices and if its available, the isolation guarantees come at price in terms of performance
+- A pragmatic solution is to evaluate only a part of the model on the trusted environment
 
+Watermarking is another solution. Additional info is stored in the weights, and they can prove theft but not prevent it.
+- there are many 
 
 
 
