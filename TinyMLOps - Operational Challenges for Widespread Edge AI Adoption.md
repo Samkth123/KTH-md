@@ -59,6 +59,10 @@ Also difficuly to:
 
 All the above give rise to MLOps - extension of devops
 
+This paper argues for the extension of MLOps to TinyMLOps.
+- Move form centralized cloud app to dexentralized edge based deployment
+	- new challenges arise
+
 
 
 
