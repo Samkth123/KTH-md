@@ -28,3 +28,48 @@ TinyML - refers to use of ML models on resource constrained edge devices.
 	- section VII conlude and give pointers for future work
 
 ### II - The computaional aspect of TinyML
+
+Despite short history of TinyML, exists many techniques for reduce computational cost, memory footprint and energy consumption of ML models targeting edge deployment
+- pruning
+- model quantization
+- knowledge distiallation
+- adaptive computation
+- automated neural architecture search
+Some of these can only reach full potential if they have support of hardware platform they're deployed on
+
+### III - MLOps and the need for TinyMLOps
+Past decade, seen explosion of ML techniques applied in various domains.
+These made ad-hoc and complicated, so hard to deploy in production. 85% of corporate AI initiatives struggle to move past test stages (estimation).
+
+Even if estimation, you can say theat integration ML models in complex user facing apps reqire lots of forethought and continuous maintanence (especially if )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
