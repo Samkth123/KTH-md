@@ -165,6 +165,9 @@ Cloud infrastructure for ML tasks is uniform
 	- At the same time, ML engineers might use different software frameworks to develop models, and not every framework will support every deployment target 
 		- a lack of standardization in this area will make it difficult for developers to support the increasing number of different types of devices.
 			- Some efforts like Open Neural Network Exchange format (ONNX) and the Neaural Netwrok Exchange Format (NNEF) that represents
+			- Basically different development frameworks can export trained models to these formats that can then be loaded and executed on different hardware platforms.
+				- However, since these formats are relatively new and ML field moves quickly, not all operations are readily supported by these formats and it is not trivial to use them for more exotic or novel models
+			- Apache TVM is in similar sense that it supports models developed in different frameworks
 
 
 
