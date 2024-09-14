@@ -234,7 +234,15 @@ Watermarking does not offer protection against indirect model stealing where att
 - There are two common families of solutions to protect against this:
 	- Detecting stealing queries patterns
 	- predictions poisoning
-- Detecting stealing queries pattering is a form of observabili
+- Detecting stealing queries pattering is a form of observability.
+	- There are different techniques that analyze the distribution of sequential queries, or that measure the information gain from differnet queries to try to detect indirect model stealing.
+- Prediction poisoning on the other hand takes a proactive apporach by actively perturbing the outputs of the model that is returned to the user.
+	- The perturbations are carefully designed to retain the model accuracy while introducing sufficient noise to disturb the training process of a derivative model. 
+	- Prediction poisoning can be as simple as rounding the confidence values
+	- More complicated approaches perturb the prediction in a way to guide the training process of the derivative model in the wrong direction
+	- ==The authors argue that the risk of indirect model stealing is higher for edge based applications than for cloud based applications==, and the models owners might benefit greatly from protecting their intellectual property from these types of attacks. Altough it is not supported yet by any of the TinyML frameworks, it seems feasible to perform stealing queries patterns detection and prediction poisoning on edge devices
+
+Other types of approaches to protect intellectual property of ML models rely on homomorphic encryption, weight scramblind or des
 
 
 
