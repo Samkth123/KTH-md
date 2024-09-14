@@ -231,6 +231,10 @@ Watermarking is another solution. Additional info is stored in the weights, and 
 	- TinyMLOps platforms therefore have to keep track of different versions of the model to associate different watermarks with different users
 
 Watermarking does not offer protection against indirect model stealing where attacker repeatedly queries the model to generate data pairs for his own model.
+- There are two common families of solutions to protect against this:
+	- Detecting stealing queries patterns
+	- predictions poisoning
+- Detecting stealing queries pattering is a form of observabili
 
 
 
