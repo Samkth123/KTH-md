@@ -263,7 +263,19 @@ This becomes less trivial if the model is offloaded on to edge devices.
 		- A major difficulty when implementing such a verification step in TinyML is the overhead caused by generating the proof.
 		- Sometimes the ovehead can be larger than the time needed to evaluate the original function.
 
+Alternative solutions: MLCapsule??
 
+==**Similar to model confidentiality techniques from previous section, these techniques are not trivial to implement securely. A TinyMLOps platform that automatically generates verifiable modules would therefore be of great value.**==
+
+VII: Conclusion and Future Work
+
+Paper gave an overview of challenges that might arise when a developer opts for an edge based deployment of his ML application as compared to cloud based deployment.
+
+Focus on operational side and listed several challenges that are either caused by the distributed edge deployment or that are complicated by it.
+
+As a field, TinyML is still young and most tools and frameworks still are in early stages.
+
+This paper hopes to inspire and guide development of TinyMLOps platforms that will make TinyML more accessible to developers and scalable to billions of edge devices.
 
 
 
