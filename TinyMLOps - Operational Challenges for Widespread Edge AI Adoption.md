@@ -254,7 +254,14 @@ In large scale applications, the ML model is only a small part of the pipeline. 
 If the model is evaluated on cloud infrastructure controlled by developers, we know for sure that we are working with the true predictions of the model.
 
 This becomes less trivial if the model is offloaded on to edge devices.
-- A malicious user might have changed the model or the predictions to trick the system into thinking certain conditions are met.
+- ==A malicious user might have changed the model or the predictions to trick the system into thinking certain conditions are met.==
+- If this is a realistic concern for your application, it might be worthwhile to implement a verifiable computation (VC) component.
+	- This allows an agent to provably and cheaply verify that an untrusted party has performed the computations correctly.
+		- Many ways to do this, but most interesting approach involves providing small (in terms of number of bits) mathematical proof of the correctness of the result.
+		- The next stage of the pipline (ex component that authorizes the payment) can the nuse this to verify that this was indeed the result of an unmodified model
+		- This does not guarantee accuracy of prediction, but it does gurantee that the prediction was indeed the result of the unmodified model.
+		- A major difficulty when implementing such a verification step in TinyML is the overhead caused by generating the proof.
+		- Sometimes the ovehead can be larger than the time needed to evaluate the original function.
 
 
 
