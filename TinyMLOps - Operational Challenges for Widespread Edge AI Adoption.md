@@ -242,9 +242,19 @@ Watermarking does not offer protection against indirect model stealing where att
 	- More complicated approaches perturb the prediction in a way to guide the training process of the derivative model in the wrong direction
 	- ==The authors argue that the risk of indirect model stealing is higher for edge based applications than for cloud based applications==, and the models owners might benefit greatly from protecting their intellectual property from these types of attacks. Altough it is not supported yet by any of the TinyML frameworks, it seems feasible to perform stealing queries patterns detection and prediction poisoning on edge devices
 
-Other types of approaches to protect intellectual property of ML models rely on homomorphic encryption, weight scramblind or des
+Other types of approaches to protect intellectual property of ML models rely on homomorphic encryption, weight scramblind or designing models that require a secret key to operate at their full potential.
 
+###### viktigaste delen av presentationen::::
+==**All these types of protection mechanisms are tricky to implement and application developers might not have the time or background to implement them. They would therefore be a very valuable functioanlity of a TinyMLOps platform**==
 
+##### VI. Verifiable Execution on Untrusted Devices
+
+In large scale applications, the ML model is only a small part of the pipeline. The predictions of the model might be used to trigger other actions, ex face recognition to authorize a payment.
+
+If the model is evaluated on cloud infrastructure controlled by developers, we know for sure that we are working with the true predictions of the model.
+
+This becomes less trivial if the model is offloaded on to edge devices.
+- A malicious user might have changed the model or the predictions to trick the system into thinking certain conditions are met.
 
 
 
