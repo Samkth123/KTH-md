@@ -222,7 +222,15 @@ Watermarking is another solution. Additional info is stored in the weights, and 
 - Either you use static or dynamic water marking
 - Static watermarking 
 	- embed the weights of the model during training
-	- Means that we need white box a
+	- Means that we need white box access to model to retreive watermark data itself
+- Dynamic watermarking techniques on the other hand embed the watermark implicitly by training the model to behave in a specific way for a carefully designed set of trigger inputs
+	- This benefit of only needing black box access to the output of the model.
+- Watermarking only provide limited protection to prove a model was stolen, they do not prevent theft.
+- ==For edge based deployment, benefit of watermarking is that it does not incur penalty in terms of computational cost or memory usage of model==
+	- disadvantage is however that the technique has to be already applied during model training.
+	- TinyMLOps platforms therefore have to keep track of different versions of the model to associate different watermarks with different users
+
+Watermarking does not offer protection against indirect model stealing where attacker repeatedly queries the model to generate data pairs for his own model.
 
 
 
