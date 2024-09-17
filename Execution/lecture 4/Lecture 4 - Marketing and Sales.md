@@ -101,9 +101,9 @@ extra: satisfaction
 
 
 
+##### The promotional mix
 
-
-
+![[Screenshot 2024-09-17 at 19.35.35.png]]
 
 
 
