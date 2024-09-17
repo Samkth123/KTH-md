@@ -65,14 +65,25 @@ finns också governemtn, industry, osv...
 
 
 
+##### Positioning
+
+![[Screenshot 2024-09-17 at 18.53.41.png]]
+
+Adams is low price low quality percieved.
+
+Adams move to better quality than others but went to higher quality
+- ex IKEA known to have inexpensive products and poor quality before, but then decided to up the quality.
 
 
 
 
+##### ADDED CUSTOMER VALUE
 
-
-
-
+- Experience – repeated good experience give simple decision process when faced with several choices
+- Reference groups - personality is ascribed to a brand and consumer projects the brand as part of the group he/she wishes to belong to
+- Opinion - the consumer can be convinced that a certain product is better than others and this is also experienced.
+- Brand packaging - exclusive packaging affects perception of product being exclusive, etc.
+--> ==HPE säljer bra service inte bara produkten== 
 
 
 
