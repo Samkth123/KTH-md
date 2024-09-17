@@ -1,3 +1,45 @@
-Guest lecture Andning Med - Annellie Hultman (Hade inget me)
+Guest lecture Andning Med - Annelie Hultman (Hade inget med dagens topic att göra)
 - inte med i lecture men gav uphov till andra ideer när hon berätta om att dom vill dela datat med nurse å så av hur folk tar medicinen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
