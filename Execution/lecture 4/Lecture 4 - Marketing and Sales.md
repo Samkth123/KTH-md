@@ -52,6 +52,9 @@ If you cant know, educate the market (ex products that have come out we did not 
 
 ![[Screenshot 2024-09-17 at 18.40.17.png]]
 
+##### Consumer Market segmentation
+....Consumer, industrial government...
+
 
 
 
