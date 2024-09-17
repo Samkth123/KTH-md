@@ -110,14 +110,16 @@ extra: satisfaction
 
 
 
+##### Sell the concept
+
+• Prepare • Contact • Isolate the need/problem • Offer solution/value • Argue benefits • Meet objections • Close • Feed-back
 
 
+![[Screenshot 2024-09-17 at 19.44.39.png]]
 
 
-
-
-
-
+Think in term of both feature and benefit if you are sales person
+![[Screenshot 2024-09-17 at 19.45.57.png]]
 
 
 
