@@ -127,7 +127,7 @@ Think in term of both feature and benefit if you are sales person
 
 
 
-
+##### The sales process (denna var bra anteckna ner )
 
 
 
