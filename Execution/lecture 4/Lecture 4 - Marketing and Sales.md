@@ -86,7 +86,18 @@ Adams move to better quality than others but went to higher quality
 --> ==HPE säljer bra service inte bara produkten== 
 
 
+##### Communication steps
 
+
+###### AIDA
+Attention
+Interest
+Desire
+Action
+extra: satisfaction
+
+- has been critized for not having feedback loop
+	- you sell ship and forget
 
 
 
