@@ -42,21 +42,45 @@ Psychology studies show that when participants are given something new to learn,
     - Well being 
     - Sense of fulfillment
 
-##
+#### APR
+Awareness  Pause Reframe
+
+Be aware of your mindset, then understand how to change it then change it
+
+##### Practicing APR
+
+The beauty of APR is that it can be utilized at any time to shift your mindset in subtle or bold ways. Let’s take two minutes to practice it right now.  
+
+- **Awareness**: Think of something you have been finding challenging. What does it make you think and feel? What are your mindsets?
+- **Pause**: Take a pause in this very moment to center yourself. Maybe take a few deep breaths or plant your feet on the floor.
+- **Reframe**: What opportunities would there be if you were to shift your mindset?
+
+**Questions to reframe from fixed to growth**
+
+- How can this challenge be an opportunity?
+- What could be possible if I learn and develop from this experience?
+
+**Questions to reframe from expert to curious**
+
+- What questions, new perspectives, or opportunities do I want to explore?
+- If I approach this with fresh eyes, forgetting for now what I already know, what would I get curious about?
+- What would be possible if I could embrace the struggles that come with learning something new?
+
+**Questions to reframe from victim to agent**
+
+- What are the various ways I can influence the situation?
+- What do I already have going for me? What capabilities, ideas, or resources could I access to successfully navigate this challenge?
 
 
+**Questions to reframe from certainty to exploration**
+
+- What is the smallest thing I can do to try out a different approach and learn fast?
+- What are three other perspectives on potential solutions to this problem?
 
 
-
-
-
-
-
-
-
-
-
-
+###### How to help others get same mindset:
+**Prime them**  
+Using phrases is a great way to prime others. For example, to get others into an abundance mindset you might ask, “What is the win-win here?” For a growth mindset you could try, “What can we learn from this?”
 
 
 
