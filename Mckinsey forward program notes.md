@@ -86,8 +86,20 @@ Using phrases is a great way to prime others. For example, to get others into an
 
 
 
+### Learning
 
+##### Preparation
+- Set an intention and start small
+- plan regular practice
+- imagine challenges you might face before starting activity
 
+##### Execution
+- Practice something challenging but not too hard
+- Teach others
+- Be mindful and pay close attention
+
+##### Reflection
+...
 
 
 
