@@ -32,7 +32,17 @@ Neuroscience confirms that exploration and curiosity feel great—so setting and
 
 Psychology studies show that when participants are given something new to learn, focusing on the journey rather than the outcome appears to improve both enjoyment and attention, two things associated with high-quality learning. If you find yourself framing learning as a burdensome investment that pays off later, try to flip your thinking and focus on enjoying the learning itself, right now.
 
+### Mindset
 
+- In a landmark experiment, 80-year-old men primed to be in “the mindset of a 50-year-old” took an eyesight test and outperformed 80-year-old men who were primed to remember that they were 80 years old. 
+- A US-based experiment showed that a training on growth mindset was more likely to improve the grade point average (GPA) of high school students than a general training about the brain.  
+- The following feelings improve when an individual adopts resilient mindsets (such as growth, beginner, or creative mindsets): 
+    - Job performance 
+    - Academic achievement
+    - Well being 
+    - Sense of fulfillment
+
+##
 
 
 
