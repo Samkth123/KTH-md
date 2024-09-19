@@ -15,3 +15,10 @@ Det var en fråga om vi ska vara EQUAL shareholders - first i was no because my 
 
 
 understand importance of mentor osv...
+
+phases of team development
+
+- forming
+- storming
+- norming
+- performing
