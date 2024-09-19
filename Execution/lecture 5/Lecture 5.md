@@ -25,3 +25,7 @@ phases of team development
 - norming
 	- delegations, feedbacks, communicating (==EARLIER THAN THIS WE WORK TOGETHER; NOW WE DELEGATE==)
 - performing
+
+
+
+
