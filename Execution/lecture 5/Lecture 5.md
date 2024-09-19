@@ -19,6 +19,9 @@ understand importance of mentor osv...
 phases of team development
 
 - forming
+	- forming team
 - storming
+	- brain storming and problemt solving, decision making process, collaborative team efforts
 - norming
+	- delegations, feedbacks, communicating (==EARLIER THAN THIS WE WORK TOGETHER; NOW WE DELEGATE==)
 - performing
