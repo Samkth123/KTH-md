@@ -12,3 +12,6 @@ then funding
 
 
 Det var en fråga om vi ska vara EQUAL shareholders - first i was no because my comapny 90/10 but then chagne opinion, it should be equal shareholders equal to how much you put in
+
+
+understand importance of mentor osv...
