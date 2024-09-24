@@ -55,6 +55,8 @@ Sell company or operations
 - operations then you sell part of the company?
 	- ex intel selling chips and designing chips
 	- if sell company and shares that person takes over all responsibility so if company is being sued new owner takes on that. Tex ABB on combustionengines company 
+	- If you are industrial buyer you want to buy the operations not the company, because you do not want the liability and such, but if you are selling then you want someone to take it all.
+- Can also sell contracts to deliver and such
 
 
 
