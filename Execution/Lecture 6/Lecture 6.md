@@ -23,3 +23,43 @@ Exits
 - costs money
 - personal consequences
 - How to avoid the most common mistakes
+
+Selling business
+- Value driver
+	- Turnover, customers and profit
+
+
+
+In order to make company valuable:
+![[Screenshot 2024-09-24 at 18.47.27.png]]
+after prototype, there is not only you and team who believe in the product, you also have reference customers who believe in the product. This then leads to multiple buying custo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
