@@ -82,7 +82,20 @@ IP protection (==notes för exercise: rädsla för mig tidigare osvosvosvos==)
 - most entrepreneurs overly concerned
 	- The acid test of the quality is the market
 
+Speed of execution - first mover advantege
+- often most important IP protection
+- get to market before competitors
+- capture the market
+- other ways
+	- location
+	- lock ins in tech products
+	- market shares, growth
 
+
+
+
+Have shareholder agreement when starting company
+- The busin
 
 
 
