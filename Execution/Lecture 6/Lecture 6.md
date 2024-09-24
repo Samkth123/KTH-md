@@ -77,10 +77,11 @@ Timeline
 
 Cash is king, order is queen
 
-IP protection
+IP protection (==notes för exercise: rädsla för mig tidigare osvosvosvos==)
 - conflict getting known vs protecting idea
 - most entrepreneurs overly concerned
 	- The acid test of the quality is the market
+
 
 
 
