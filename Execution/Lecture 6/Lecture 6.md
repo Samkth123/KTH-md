@@ -95,10 +95,30 @@ Speed of execution - first mover advantege
 
 
 Have shareholder agreement when starting company
-- The busin
+- The business and the management
+- The management - limitations and restrictions
+- Shareholders - rights and obligations
+- Distribution rigjhts (Rights of sharing shares to other people)
+- What heppsn when selling company
+	- Sales of shares in the company
+		- Tag along
+			- a clause that allows minor shareholders to tag along with a larger shareholder or group of sharelholders if they find a butyer for their shares
+		- Offer round
+			- everyone gets same offers något sånt
+		- Lock in
+			- Cant sell shars for certain amount of time
+		- Drag along
+			- If majority shareholders sell their stake, the prospective owner have the right ot force the remaing shareholders to join the deal
+		- and
+		- Competing with the business
+		- recruiting staff from the business
+		- taking customers and supplies from the business
 
 
-
+How to proceed with legal part
+startuptools.org is good reliable source 
+Do not tinker with own formulations if you dont have a legal background
+If feel uncertain take legal advice 
 
 
 
