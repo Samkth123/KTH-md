@@ -63,7 +63,24 @@ Sell company or operations
 Bankruptcy 
 - Can happen to profitable company too
 - If you have so many bills to pay you can go into bankruptcy
-- if 50% of own capital is gone - file for 
+- if 50% of own capital is gone - file for control balance sheet
+- Can be peronsally liable if not done by the law even for LC
+
+Liquidation
+- Voluntary bankruptcy
+
+Timeline
+- Sell 6-12 months
+- Bankruptcy 6-36 months
+- Liquidation same ^^
+
+
+Cash is king, order is queen
+
+IP protection
+- conflict getting known vs protecting idea
+- most entrepreneurs overly concerned
+	- The acid test of the quality is the market
 
 
 
