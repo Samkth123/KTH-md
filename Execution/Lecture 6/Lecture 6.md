@@ -44,8 +44,17 @@ More value driver
 - Qualified majority among owners
 
 
+Buyers perspective
+- Different view in opportunity
+- valuation is psychology - why are you sellung or buying
+- buyers keep synergies to themselves
+- Sophisticated sellers want to know about your plans and negotiate synergy premium for themselves
 
-
+Sell company or operations
+- sell company you sell all shares
+- operations then you sell part of the company?
+	- ex intel selling chips and designing chips
+	- if sell company and shares that person takes over all responsibility so if company is being sued new owner takes on that. Tex ABB on combustionengines company 
 
 
 
