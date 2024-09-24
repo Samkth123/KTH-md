@@ -60,6 +60,10 @@ Sell company or operations
 
 
 
+Bankruptcy 
+- Can happen to profitable company too
+- If you have so many bills to pay you can go into bankruptcy
+- if 50% of own capital is gone - file for 
 
 
 
