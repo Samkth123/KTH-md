@@ -118,7 +118,7 @@ Have shareholder agreement when starting company
 How to proceed with legal part
 startuptools.org is good reliable source 
 Do not tinker with own formulations if you dont have a legal background
-If feel uncertain take legal advice 
+If feel uncertain take legal advice (is expensive though)
 
 
 
