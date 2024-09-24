@@ -11,3 +11,15 @@ AI that listens in on google meet samtal and takes notes and remembers stuff the
 
 
 ### Legal issues
+
+When creating a business, when need board of directors?
+When small company - create advisory board, you get good things out of getting competence in company but is also easier to do as its a group of qualified members to support the business. They will also be more open to accepting advisor position rather than accept being a director (mainly because of the responsibility).
+- jobbigt att vara med i board of directors, men enklare att vara advisor board
+
+
+Exits
+- if dont know how to exit dont start a company
+- Takes time to exit
+- costs money
+- personal consequences
+- How to avoid the most common mistakes
