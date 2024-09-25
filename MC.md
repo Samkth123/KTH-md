@@ -1,6 +1,8 @@
 NEW notes:
+**Increasing profitability/ becoming profitable**:
 - när frågar om grow profitability - fråga vilket timeline det är. Vill dom nu nu eller inom 3 år?
 	- kolla på vad som gått upp och ner och fråga kring det
+- Kan dom öka profit med enbart det utbud dom har nu eller kommer vi behlva lägga till nya tjänster/hitta nya kunder?
 
 
 
