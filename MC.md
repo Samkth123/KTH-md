@@ -1,3 +1,8 @@
+NEW notes:
+- när frågar om grow profitability - fråga vilket timeline det är. Vill dom nu nu eller inom 3 år?
+	- kolla på vad som gått upp och ner och fråga kring det
+
+
 
 preplounge
 
