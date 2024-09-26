@@ -128,7 +128,22 @@ Does this make sense?
 	- ex bubble gum want to know average yearly consumption per consumer
 		- I chew 5 pieces a day, high frequency chew maybe 15 a day and low frequency 1-2 a day, and low frequency much more normal
 	- This is IMPORTANT as it shows that you can build a quantitative model easily and even if the numbers are not that important it shows that you can understand stuff from data. 
-	- 
+- Focus on what matters
+	- Show consultant that you focus on things that matter actually
+	- If something is not that important, do not put too much time on it
+		- ex penetration rate of bubble gum: Just come up with an answer and give rationalle behind it
+			- if its something that is not intuitive, then you should just come up with something
+- Get creative
+	- as long as you use data and logic and structure
+	- not hard and actually a bit fun
+- Its OK to ask
+	- ex if you do not know population of a specific country or such
+	- if they say no then use a country of similar size or such
+
+#### Calculate
+- precise and efficient
+	- dont make mistakes, but if make them need to catch them
+	- take shortcuts
 
 
 
