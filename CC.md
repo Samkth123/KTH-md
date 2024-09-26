@@ -155,7 +155,10 @@ This makes you standout from 95% of candidatees
 		- Lets say we come up with 5B
 		- Then we can compare it to maybe whey market
 		- OR
-		- Lets say 5B means 
+		- Lets say 5B means each American spend 1500 dollars a year on high protein chips, that makes no sense
+- If have to change variables, go for variables that can change more!
+	- Those also have the chance of being wrong more
+	- in our ex: Bubble game penetrrat
 
 
 
