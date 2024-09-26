@@ -33,6 +33,8 @@ This is a simplified path.
 
 
 
+Often obvious which building block the interviewers question is in, so very easy for you.
+
 
 
 
