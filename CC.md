@@ -8,7 +8,11 @@ These can be learnt in isolation.
 
 #### Brainstorming
 Use issue tree to build a structured list of hypotheses and ideas, not throwing out random list of ideas or hypotheses without structure or priority.
+
+Ex: Iron mining company seen revenue drop 30% last year despite heavy investments, what could explain that?
+
 #### Frameworks
+Frameworks are decision making plans - a list of questions you need to answered to make a decision and a systematic way of making sense of them.
 #### Hypothesis testing
 
 ### Analysis-related Building blocks
