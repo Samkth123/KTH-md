@@ -75,7 +75,7 @@ Goal of estimation case is not to just pass it, but to show that you think as th
 	1. does it make sense? Compare to something else
 
 
-
+#### Example
 ![[Screenshot 2024-09-26 at 09.27.02.png]]
 
 My approach:
@@ -85,16 +85,27 @@ My approach:
 4. How often does each segment chew bubble gum
 5. add it all together
 
+
 Interviewer:
 
 Clarify scope: FÖRSTÅ ALLTID NÅGOT OM MARKNADEN
 - Only bubble gum like candy or also nicotine gum and such?
 
+Interviewers approach:
+
+![[Screenshot 2024-09-26 at 09.35.32.png]]
 
 
+Does this make sense?
+- If market is 9,2B and us population is 320 M, then each american spend approximately 30 dollars per year on bubble gum, which is between 1-3 meals a year
+- Makes sense
 
 
+### In depth
 
+#### Clarify scope
+
+- What unit does Is market size nr of customer of nr of dollars? What unit 
 
 
 
