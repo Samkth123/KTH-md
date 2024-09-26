@@ -251,7 +251,10 @@ The approach to be better than other candidates who just come up with random lis
 	1. Take context and numbers in case into consideration
 	2. Think which driver have highest impact
 	3. Think which driver has higher likelihood / feasibility of working
-3. **Generate hypotheses.**
+3. **Generate hypotheses.** (Usually, candidates start here, which is a mistake) 
+	1. State the obvious (because often clients ask about obvious things)
+	2. Think outside the box
+	3. Stay practical when you give an idea. Creative ideas are useless if they cant be implemented in reality.
 
 **Example**:
 MAD, a local Martial Arts Dojo has recently seen its revenue decline sharply. What could have happened?
@@ -271,7 +274,7 @@ MAD, a local Martial Arts Dojo has recently seen its revenue decline sharply. Wh
 2. MECE (basically own buckets osv) ^^
 3. Usually you use price * quantity for revenue, but need to adjust it here so its problem specific. **MUST DO THIS EVERYTIME TO NOT BE REPETITIVE AND JUST SAY GENERIC FRAMEWORK and shows business sense** 
 ![[Screenshot 2024-09-26 at 20.05.50.png]]
-**2.Prioritize driver**
+**2.Prioritize driver** (**==ALWAYS ASK FOR DATA, IF NOT GIVEN DATA SAY THAT YOU WISH YOU WOULD HAVE DATA OTHERWISE THEY WILL THINK YOU ARE ASSUMING TOO MUCH==**)
 1. Importnat because you can be 80/20
 2. At 4 drivers at end of tree, which ones are more important?
 3. Revenues have dropped really fast, so what could make it drop so fast?
@@ -283,10 +286,20 @@ MAD, a local Martial Arts Dojo has recently seen its revenue decline sharply. Wh
 5. If our customers are leaving more often, this could be due to
 	1. Them leaving for our customers
 	2. Them going to other exercise
-	3. Or just stopped excersizing al
+	3. Or just stopped excersizing altogether
 
+IMPORTANT:
+- Give ratioanle why you are prioritizing specific bucket
+- Dont say that cause is not in other buckets, but that you want to investigate this one first
 
+![[Screenshot 2024-09-26 at 20.11.32.png]]
 
+**3.Generate hypothesis**
+Start by priority buckets, but then generate others for the other buckets as well.
+
+Ex:
+For competition bucket: 
+- We might have new competitor which are clients are glocking to because of new
 
 
 
