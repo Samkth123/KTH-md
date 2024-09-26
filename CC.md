@@ -35,7 +35,19 @@ This is a simplified path.
 
 Often obvious which building block the interviewers question is in, so very easy for you.
 
+### Mindset
 
+Keep notes 
+
+- You can get right answer but get rejected. You need to build a strong argument, not find one answer.
+- Preparation is a case itself
+	- Not use only easy cases to prepare, do the hard ones
+- Be curious and ask why
+	- interviewer loves curious candidates
+	- Feeling by minute 5 of case should be i know i will get to answer, not hopefully figure out.
+	- Thinking should be made before presenting framework not after
+		- ask yourself why this segment why that, osv...
+		- keep curiosity up and think about problem with why
 
 
 
