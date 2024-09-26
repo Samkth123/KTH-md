@@ -213,7 +213,7 @@ Its impossible to get offer from top consulting firm is because they cant struct
 - **With good hypotheses / ideas**
 
 Ex: Iron ore mining company has seen revenues drop 30% in last year despite heavy investments, what are plausible hypotheses that could explain that?
-
+##### Example - good and bad answers
 **==Bad answer:==**
 Maybe
 - demand has dropped
@@ -224,10 +224,30 @@ Maybe
 
 This answer does have good ideas, but they dont contain the hypothesis that could be confirmed. If you answer brainstorming like this, you wont get offer.
 
-Good price
+==**Good answer:**==
+Could be Volume or Avg Price dropping.
+If volume, could be 3 things
+- not producing enough
+- market buying less so demand is down*
+- market share is down and buying from competitors
+
+if avg price down could be 
+- maybe average market price down**
+- maybe product mix changed from high value to low value prudcts
+- maybe company doesnt have market price
+
+Because market is cyclicle, i believe that the reason could be because of the demand * and that market price is down ** and we are heading into a recession. Do we have data on this?
 
 
+The approach to be better than other candidates who just come up with random lists. Our goal is a structured prioriteized list of good ideas and hypotheses.
 
+1. Define and structure
+2. Prioritize drivers
+3. Generate hypotheses.
+
+**Example**:
+MAD, a local Martial Arts Dojo has recently seen its revenue decline sharply. What could have happened?
+- (Basically saying can you come up wi)
 
 
 
