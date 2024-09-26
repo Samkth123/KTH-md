@@ -254,6 +254,22 @@ The approach to be better than other candidates who just come up with random lis
 MAD, a local Martial Arts Dojo has recently seen its revenue decline sharply. What could have happened?
 - (Basically saying can you come up with a structured list of hypotheses?)
 
+**1.DEFINE AND STRUCTURE**
+1. Define 
+	1. Revenue is from subscription and gear right?
+	2. MECE tree
+		1. Drop in # customers or drop in cash per customer
+			1. # customers (Might have more churn than new customers)
+				1. if customers down either customers leave more often or 
+				2. we get less customers (cant make up for customers lost)
+			2. drop in cash per customer
+				1. drop in average monthly fees or
+				2. drop in cash from gear sold per customer
+2. MECE (basically own buckets osv) ^^
+3. Usually you use price * quantity for revenue, but need to adjust it here so its problem specific. **MUST DO THIS EVERYTIME TO NOT BE REPETITIVE AND JUST SAY GENERIC FRAMEWORK and shows business sense** 
+![[Screenshot 2024-09-26 at 20.05.50.png]]
+**2.Prioritize driver**
+1. Importnat bec
 
 
 
