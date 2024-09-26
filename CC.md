@@ -27,4 +27,5 @@ See charts from already done analysis. Great candidates find more insights, comm
 
 ### How to tie together
 
-EX: An engineering firm just developed a sensor that predicts mechanical problems in cars following a 
+(product launch frame)
+EX: An engineering firm just developed a sensor that predicts mechanical problems in cars following a series of driving data. Should they launch it?
