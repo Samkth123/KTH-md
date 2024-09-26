@@ -313,8 +313,28 @@ Now go to other buckets based on priority.
 
 #### How to finish question
 How would you transform the hypothesis into solution?
+Two ways:
 
-1. Quantit
+1. Quantitive analysis + hypothesis testing 
+	1. So lets say in the MMA example we went through all brainstorming.
+	2. We would then say that we want to collect data to which revenue driver dropped, and that i want to see new customers, customer acquisitions, etc.
+	3. When we know which is the reason ex if we are losing customers
+		1. we would then go try and understand why they are going to others
+		2. ex call them and ask or use surveys to see why
+2. Interviewer tells you that you are right about hypothesis and now you need to find solution, so you need new brainstorming then.
+	1. Lets say interviewer says that yes its fad market
+		1. then we ask how many of current customers are going to leave too, and how will we keep them from leaving us
+		2. Also how can we expand our business to fad business osv..
+
+So we test the hypothesis before we even start brainstorming.
+
+
+#### Frequently asked questions
+1. when to use brainstorming?
+	1. When interviewr asks for list
+	2. or when asked open "why do you think" or "what "
+2. how to handle what else questions?
+3. no time to think? No paper allowed? just say whats on my mind? Should i still be structurd
 
 
 
