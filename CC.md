@@ -248,6 +248,9 @@ The approach to be better than other candidates who just come up with random lis
 		1. If you can, make the problem a metric. ex: If want help to make product better, what is better? 
 		2. If cant reduce to metric (a number), what does better mean? Is it faster, stronger?
 2. **Prioritize drivers**
+	1. Take context and numbers in case into consideration
+	2. Think which driver have highest impact
+	3. Think which driver has higher likelihood / feasibility of working
 3. **Generate hypotheses.**
 
 **Example**:
@@ -269,7 +272,18 @@ MAD, a local Martial Arts Dojo has recently seen its revenue decline sharply. Wh
 3. Usually you use price * quantity for revenue, but need to adjust it here so its problem specific. **MUST DO THIS EVERYTIME TO NOT BE REPETITIVE AND JUST SAY GENERIC FRAMEWORK and shows business sense** 
 ![[Screenshot 2024-09-26 at 20.05.50.png]]
 **2.Prioritize driver**
-1. Importnat bec
+1. Importnat because you can be 80/20
+2. At 4 drivers at end of tree, which ones are more important?
+3. Revenues have dropped really fast, so what could make it drop so fast?
+	1. all 4 (3 tho) buckets are important but not the gear sale part
+	2. Most likely that customer acquisition dropped really bad is jot the case (because even if we did bad job at marketing we would still have our customers)
+	3. Also changing prices should not have such a drastic effect
+	4. Hypothesis is that bunch of our drivers dropped out for some reason
+4. So say to interviewer that if we dont have data, we should not be loosing that much revenue even if no new customers or gear sales.
+5. If our customers are leaving more often, this could be due to
+	1. Them leaving for our customers
+	2. Them going to other exercise
+	3. Or just stopped excersizing al
 
 
 
