@@ -331,10 +331,21 @@ So we test the hypothesis before we even start brainstorming.
 
 #### Frequently asked questions
 1. when to use brainstorming?
-	1. When interviewr asks for list
-	2. or when asked open "why do you think" or "what "
+	1. When interviewr asks for list (they dont want list they want structure)
+	2. or when asked open "why do you think" or "what do you think" questions
 2. how to handle what else questions?
-3. no time to think? No paper allowed? just say whats on my mind? Should i still be structurd
+	1. Interviewers press you. If they just want lots of volume, just give it to them
+	2. Practice for "what else" questions by generating 30 ideas for every brainstorming you practice.
+3. no time to think? No paper allowed? just say whats on my mind dont be structured? Should i still be structured?
+	1. This is a trap, you will get declined if you answer unstructured
+	2. ALWAYS be structured even if they tell you not to
+	3. As you get better, learn how to brainstorm on the fly (especially for final round interviews)
+
+When to not brainstorm:
+- If interviewer answers your questions
+- If you can get data if you ask for it (dont just assume stuff)
+-  Dont give opinions, only hypothesis and data
+
 
 
 
