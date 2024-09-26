@@ -105,7 +105,25 @@ Does this make sense?
 
 #### Clarify scope
 
-- What unit does Is market size nr of customer of nr of dollars? What unit 
+- What unit does interviewer want you to estimate in?
+	- Is market size nr of customer of nr of dollars?
+	- If ask too late then interviewer will see you as consultant which wastes time by not asking right questions
+- Beware of grey areas in the scope
+	- ex Bubble gum only or also other utility gum in this question
+	- Other example is TV market size
+		- Common to look at how many TVs exist, replacement rate and get TV market size
+		- But if you dont ask then you dont know if maybe TVs sold to businesses too or something like that too and not only consumers.
+			- This is a important characteristic of a consultant
+
+#### Structure problem
+
+- Have interviewer understand full logic of what you are going to do before start estimating.
+	- They can evaluate you properly on whatever they want to and you are on same team here, you need to try to help them and they will help you
+
+- Use top down structures to make sure you are not leaving anything out and that the interviewer understands your ideas easily
+
+
+
 
 
 
