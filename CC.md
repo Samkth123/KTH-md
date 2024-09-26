@@ -144,6 +144,18 @@ Does this make sense?
 - precise and efficient
 	- dont make mistakes, but if make them need to catch them
 	- take shortcuts
+- Always reality check before start calculating
+
+#### Check answer
+This makes you standout from 95% of candidatees
+- most people dont even know to do this
+
+- Compare your value to something to get an idea of whether it makes sense or not
+	- ex potential market for high protein potato chips
+		- Lets say we come up with 5B
+		- Then we can compare it to maybe whey market
+		- OR
+		- Lets say 5B means 
 
 
 
