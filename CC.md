@@ -181,3 +181,12 @@ Need to explain growth and replacement rate if use
 
 
 ![[Screenshot 2024-09-26 at 10.23.18.png]]
+
+Mistakes include not doing comparisons:
+- ex reality check with different stuff
+	- How much of the market divided by population is the average persons spending on this?
+		- Does that make sense?
+	- What is minimum wage in brazil? Does it make sense to that
+
+Drivers for sales of many things are the replacement rates and growth rates
+- ==ALWAYS COMPARE IN THE REALITY CHECK==
