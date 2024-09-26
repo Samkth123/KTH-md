@@ -299,7 +299,22 @@ Start by priority buckets, but then generate others for the other buckets as wel
 
 Ex:
 For competition bucket: 
-- We might have new competitor which are clients are glocking to because of new
+- We might have new competitor which are clients are glocking to because of best trainer
+- Maybe our business has changed and we fired a trainer which everyone loved or changed location
+For physical exercise
+- maybe was just a trend to do martials arts
+- Something maybe happened and parents scared of martial arts
+
+Stopped paying for exercise:
+- economic crisis
+- pandemic
+
+Now go to other buckets based on priority.
+
+#### How to finish question
+How would you transform the hypothesis into solution?
+
+1. Quantit
 
 
 
