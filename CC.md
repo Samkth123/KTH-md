@@ -27,5 +27,42 @@ See charts from already done analysis. Great candidates find more insights, comm
 
 ### How to tie together
 
-(product launch frame)
-EX: An engineering firm just developed a sensor that predicts mechanical problems in cars following a series of driving data. Should they launch it?
+This is a simplified path.
+
+![[Screenshot 2024-09-26 at 08.52.26.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
