@@ -19,5 +19,12 @@ Serveres to test the hypotheses you organized and prioritized when brainstorming
 ### Analysis-related Building blocks
 #### Estimations
 Market sizing etc...
+What is market size of road maintenance in the US?
 #### Quantitative Analyses
+Getting the right number is the minimum - how you do this and what you do after you find it is as important. Also sometimes interviewer might hide data from you and you need to ask for it.
 #### Chart Interpretation
+See charts from already done analysis. Great candidates find more insights, communicate them better and develop better next steps.
+
+### How to tie together
+
+EX: An engineering firm just developed a sensor that predicts mechanical problems in cars following a 
