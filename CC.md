@@ -180,4 +180,4 @@ Need to explain growth and replacement rate if use
 ![[Screenshot 2024-09-26 at 10.22.30.png]]
 
 
-![
+![[Screenshot 2024-09-26 at 10.23.18.png]]
