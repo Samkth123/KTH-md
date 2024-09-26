@@ -121,6 +121,14 @@ Does this make sense?
 	- They can evaluate you properly on whatever they want to and you are on same team here, you need to try to help them and they will help you
 
 - Use top down structures to make sure you are not leaving anything out and that the interviewer understands your ideas easily
+- Explicitly state the algebra in your structure
+
+#### Choose assumptions
+- Based on logic and data
+	- ex bubble gum want to know average yearly consumption per consumer
+		- I chew 5 pieces a day, high frequency chew maybe 15 a day and low frequency 1-2 a day, and low frequency much more normal
+	- This is IMPORTANT as it shows that you can build a quantitative model easily and even if the numbers are not that important it shows that you can understand stuff from data. 
+	- 
 
 
 
