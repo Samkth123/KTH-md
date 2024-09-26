@@ -63,11 +63,20 @@ Goal of estimation case is not to just pass it, but to show that you think as th
 
 ### Estimations (market sizing): The 5 step approach
 
+1. Clarify scope
+	1. Make sure you knwo what to estimate
+2. Structure problem
+	1. No numbers yet just say what you will do
+3. Choose assumptions
+	1. assign values to variables
+4. Calculate
+	1. get to answer
+5. Check answer
+	1. does it make sense? Compare to something else
 
 
 
-
-
+![[Screenshot 2024-09-26 at 09.27.02.png]]
 
 
 
