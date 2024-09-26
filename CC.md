@@ -201,12 +201,30 @@ ALWAYS STRUCTURED IN CONSULTING.
 Always 3-4 brainstorming questions in cases, and important to be creative but having structure is much more important.
 - So if ideas or hypothesis they want you to present, must be structured.
 
-Its the first bulding block of the 6, and relates to s
+Its the first bulding block of the 6, and first of the structure ones
 ### The 3 step approach
 See it as "Hypothesis generation question"
 
 Its impossible to get offer from top consulting firm is because they cant structure their brainstorming well
 
+==Generating a list of hypotheses (or ideas) needs to be==
+- **structured**
+- **prioritized**
+- **With good hypotheses / ideas**
+
+Ex: Iron ore mining company has seen revenues drop 30% in last year despite heavy investments, what are plausible hypotheses that could explain that?
+
+**==Bad answer:==**
+Maybe
+- demand has dropped
+- there is a recesion going on
+- steel mills arnt buying much because they accumulated inventory
+- sales force is not doing a good job
+- prices have dropped
+
+This answer does have good ideas, but they dont contain the hypothesis that could be confirmed. If you answer brainstorming like this, you wont get offer.
+
+Good price
 
 
 
