@@ -78,6 +78,18 @@ Goal of estimation case is not to just pass it, but to show that you think as th
 
 ![[Screenshot 2024-09-26 at 09.27.02.png]]
 
+My approach:
+1. US population
+2. Segment by age
+3. Percentage of those who chew bubble gum
+4. How often does each segment chew bubble gum
+5. add it all together
+
+Interviewer:
+
+Clarify scope: FÖRSTÅ ALLTID NÅGOT OM MARKNADEN
+- Only bubble gum like candy or also nicotine gum and such?
+
 
 
 
