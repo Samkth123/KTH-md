@@ -158,7 +158,10 @@ This makes you standout from 95% of candidatees
 		- Lets say 5B means each American spend 1500 dollars a year on high protein chips, that makes no sense
 - If have to change variables, go for variables that can change more!
 	- Those also have the chance of being wrong more
-	- in our ex: Bubble game penetrrat
+	- in our ex: Bubble game penetration
+- When interviewer asks you to check answer
+	- dont check math only
+	- use creativity and reality check your answer
 
 
 
