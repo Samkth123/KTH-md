@@ -165,18 +165,15 @@ This makes you standout from 95% of candidatees
 
 
 
+### Drill 1 - nr of beds in brazil in dolalrs
+
+
+
+![[Screenshot 2024-09-26 at 10.12.05.png]]
 
 
 
 
-
-
-
-
-
-
-
-
-
+Need to explain growth and replacement rate if use
 
 
