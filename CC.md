@@ -241,13 +241,18 @@ Because market is cyclicle, i believe that the reason could be because of the de
 
 The approach to be better than other candidates who just come up with random lists. Our goal is a structured prioriteized list of good ideas and hypotheses.
 
-1. Define and structure
-2. Prioritize drivers
-3. Generate hypotheses.
+1. **Define and structure**
+	1. Define specifically
+	2. Structure with MECE issue trees
+	3. Make structure problem-specific.
+		1. If you can, make the problem a metric. ex: If want help to make product better, what is better? 
+		2. If cant reduce to metric (a number), what does better mean? Is it faster, stronger?
+2. **Prioritize drivers**
+3. **Generate hypotheses.**
 
 **Example**:
 MAD, a local Martial Arts Dojo has recently seen its revenue decline sharply. What could have happened?
-- (Basically saying can you come up wi)
+- (Basically saying can you come up with a structured list of hypotheses?)
 
 
 
