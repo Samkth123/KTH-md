@@ -37,7 +37,7 @@ Often obvious which building block the interviewers question is in, so very easy
 
 ### Mindset
 
-Keep notes 
+- Keep notes 
 
 - You can get right answer but get rejected. You need to build a strong argument, not find one answer.
 - Preparation is a case itself
@@ -48,11 +48,20 @@ Keep notes
 	- Thinking should be made before presenting framework not after
 		- ask yourself why this segment why that, osv...
 		- keep curiosity up and think about problem with why
+- Be curious about feedback
+	- dont take it at face value
+	- why and how
 
 
 
 
+## Estimations
 
+Goal of estimation case is not to just pass it, but to show that you think as the consultant does.
+- Also not unnormal for consultants to discuss an industry with someone much more experienced than them in it
+- Therefore they need to understand it better
+
+### Estimations (market sizing): The 5 step approach
 
 
 
