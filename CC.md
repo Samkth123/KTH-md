@@ -201,6 +201,11 @@ ALWAYS STRUCTURED IN CONSULTING.
 Always 3-4 brainstorming questions in cases, and important to be creative but having structure is much more important.
 - So if ideas or hypothesis they want you to present, must be structured.
 
+Its the first bulding block of the 6, and relates to s
+### The 3 step approach
+See it as "Hypothesis generation question"
+
+Its impossible to get offer from top consulting firm is because they cant structure their brainstorming well
 
 
 
