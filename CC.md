@@ -453,10 +453,9 @@ The third issue with this structure is the reuse of the 4Ps – it is used to br
 
 These three shortcomings are aspects of underlying reasons that make the first structure good and the second structure poor, even if both are MECE...
 
+**Example**: Drill: Telco Merger Synergies
 
-
-
-
+![[Screenshot 2024-09-27 at 17.49.32.png]]
 
 
 
