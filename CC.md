@@ -388,6 +388,13 @@ For example, imagine you need to find reasons why the manufacturing cost of a w
 ![[Screenshot 2024-09-27 at 10.45.39.png]]
 Notice how breaking down the process forces you to think “outside of the box” and be thorough
 
+##### Conceptual frameworks
+3Cs
+4Ps
+McKinsey:
+People, Process, Systems
+- Any simple organizational problem can be pinned down into a problem with People, a problem with (or lack of) Processes or a problem with (or lack of) Systems
+
 
 
 
