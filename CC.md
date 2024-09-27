@@ -376,15 +376,17 @@ Segmentations
 
 
 #### 5 ways to be MECE
-Algebraic structures always work
+##### Algebraic structures always work
 
 ![[Screenshot 2024-09-27 at 10.41.31.png]]
 Notice how these structures are like an equation. “# of hires” * “Cost per hire” = “Hiring Costs”. “New hires to replace leaving employees” + “New hires to grow the company” = “# of hires”. Finally, the “Cost per hire” = “Cost to bring in a new candidate” + the “Cost to select new candidates”.
 
+##### Process structures
+Think of anything big businesses and governments repeatedly do as a process: **manufacturing**, **logistics**, **maintenance**, **sales**, **hiring**… The list goes on.
 
-
-
-
+For example, imagine you need to find reasons why the manufacturing cost of a widget has increased. You can break this problem down to each manufacturing step, check if the cost has gone up in that step and if so, examine why. If manufacturing cost as a whole has gone up, at least one step’s cost must have gone up as well. Same if you need to find ways to increase sales efficiency: just break down the sales process into its steps and find ways to increase efficiency in each step. Or even eliminate a whole, useless step.
+![[Screenshot 2024-09-27 at 10.45.39.png]]
+Notice how breaking down the process forces you to think “outside of the box” and be thorough
 
 
 
