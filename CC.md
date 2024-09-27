@@ -346,7 +346,7 @@ When to not brainstorm:
 - If you can get data if you ask for it (dont just assume stuff)
 -  Dont give opinions, only hypothesis and data
 
-
+Ex: Bike utilization rate
 
 
 
