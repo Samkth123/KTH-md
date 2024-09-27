@@ -21,7 +21,7 @@ Also good that took time to come up with structure
 - 400k customers
 - Just dont say answer, but say what does it mean for the customer 
 - Wanted that we go back to information in the beginning and say that theese new numbers were 2% of our total customers 
-- always put numbers in relation to other tihngs
+- always put numbers in relation to other things
 
   
 
