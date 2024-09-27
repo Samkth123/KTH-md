@@ -1,3 +1,9 @@
+Pointers:
+- When building brainstorming 
+	- Be structured and use Algebraic, process, conceptual (3C, 4P), segment and opposite words
+	- First layer should allow for solution and give good insights
+
+
 ## The 6 building blocks of cases
 
 mastering each building block is important.
