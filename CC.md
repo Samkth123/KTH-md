@@ -422,27 +422,28 @@ Say you have a 1-layer or 2-layer structure to answer a question. You can always
 
 Opposite words are the last trick of the arsenal.
 
-##### Bringing it all together
+##### Bringing it all together (IMPORTANT)
 
 To build the second layer, you pick each part of your 1-layer structure and break it down again. _You can do this using the same technique or a different one than the first level._ For example, if on the first layer you broke it down using an Algebraic structure, you can do the second layer using Conceptual structures. You can even use different techniques in different parts of the same layer. There are no hard rules as long as you keep each breakdown MECE.
 
+![[Screenshot 2024-09-27 at 11.08.12.png]]
 
-![[Screenshot 2024-09-27 at 11.07.01.png]]
+**Positives**:
+The first positive is that the first breakdown uses the algebraic technique in an elegant way. This is highly useful because (i) it leads to some insight (that the market share problem could be caused by a problem in selling devices as well as capsules) and (ii) it is quantifiable. Because it is quantifiable, the interviewer _knows_ with just a little bit of data you could pinpoint the source of the problem and _ignore_ the other half of the problem
 
+Another interesting (and positive) aspect of this structure is the double structure within machine share: I segment by market to quantify, but let the interviewer know I will use a conceptual (3Cs) structure to analyze _why_ there was a share drop in any segment that’s performing poorly. I’ve chosen the 3Cs because these segments have different demands and competition
 
-
-
-
-
-
-
+A third cool feature of this structure is that it uses 4 of the 5 techniques. The core techniques tend to be to the left (on the upper layers, because they tend to be more insightful). But I also use “segmentations” and “opposite words” to make the issues more granular to the right side of the tree, where problems are more specific.
 
 
+This is a bad breakdown even if it is MECE:
+![[Screenshot 2024-09-27 at 11.10.04.png]]
 
+First, the initial breakdown brings neither the ability to focus nor insight on the nature of the problem. On the last structure, the first breakdown was not only quantifiable (which helps you focus), but also insightful (it showed market share depended on share of machines AND share of capsules, two completely different things). This one is neither. Internal vs. External can be used to almost any problem, and thus it isn’t the best option to any.
 
+The second issue with this structure are the random segmentations. Why dividing product attractiveness by business segment? Do customers change the type of product they prefer is they consume at home vs. in the office vs. in a restaurant? Perhaps, but not likely. Is there any evidence or logic behind segmenting a change in consumer’s preferences or behaviour by income level? I don’t know, it seems to me age or other factors could be equally important. The pattern you choose to segment your structure with should lead to an insightful hypothesis, otherwise it is just random (which will give you random chances of doing well in your cases).
 
-
-
+The third issue with this structure is the reuse of the 4Ps – it is used to break down “Internal factors”, and a modified version is used to break down “Competitors have changed”. While this isn’t as critical as the last two reasons, it shows the candidate could’ve reorganized the structure better to avoid redundancy
 
 
 
