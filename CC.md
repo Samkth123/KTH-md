@@ -410,6 +410,31 @@ If they build a conceptual structure, they can’t see how it would connect to a
 
 In the next two parts you’ll learn about Segmentations and Opposite words, two techniques to add flavor to your interview. They are great _complements_ to the three staples. Segmentations are like spices: they add nuance. Opposite words, in contrast, are like olive oil, they’ll make just about anything taste better (until you use too much of it).
 
+##### Segmenting
+Do this enough times and your interviewer will grow bored with the impression you’re guessing with no systematic approach. You’ll get mentally rejected soon enough.
+
+
+##### Opposite words
+
+![[Screenshot 2024-09-27 at 11.03.52.png]]
+
+Say you have a 1-layer or 2-layer structure to answer a question. You can always add an extra layer with little effort by using opposite words. This extra layer is a nice-to-have, and it’s really nice to have it. You should use all resources at hand to improve the interviewer’s perception of how structured you are.
+
+Opposite words are the last trick of the arsenal.
+
+##### Bringing it all together
+
+To build the second layer, you pick each part of your 1-layer structure and break it down again. _You can do this using the same technique or a different one than the first level._ For example, if on the first layer you broke it down using an Algebraic structure, you can do the second layer using Conceptual structures. You can even use different techniques in different parts of the same layer. There are no hard rules as long as you keep each breakdown MECE.
+
+
+![[Screenshot 2024-09-27 at 11.07.01.png]]
+
+
+
+
+
+
+
 
 
 
