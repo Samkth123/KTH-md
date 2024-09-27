@@ -458,9 +458,9 @@ These three shortcomings are aspects of underlying reasons that make the first s
 ![[Screenshot 2024-09-27 at 17.49.32.png]]
 
 
+**Example**: Risks associated with McDonalds allowing order customization
 
-
-
+![[Screenshot 2024-09-27 at 18.01.44.png]]
 
 
 
