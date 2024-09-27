@@ -400,14 +400,15 @@ Should BMW start uber thingy
 
 ![[Screenshot 2024-09-27 at 10.56.25.png]]
 
+Using a poorly adapted framework will get your interviewer asking you questions. You better know how to answer them.
 
+![[Screenshot 2024-09-27 at 10.57.24.png]]
 
+Also, if your framework is ex conceptual and the interviewer is looking for something calculcation oriented, you can change it no worries.
 
+If they build a conceptual structure, they can’t see how it would connect to an algebraic issue tree. If there’s an underlying process, they can’t see it unless they’ve chosen to use a Process structure. Having the mental flexibility to switch structures at will is critical when working with other people, both in case interviews and in real projects.
 
-
-
-
-
+In the next two parts you’ll learn about Segmentations and Opposite words, two techniques to add flavor to your interview. They are great _complements_ to the three staples. Segmentations are like spices: they add nuance. Opposite words, in contrast, are like olive oil, they’ll make just about anything taste better (until you use too much of it).
 
 
 
