@@ -366,7 +366,42 @@ Process structures
 	- ex coffe capsule market sahre  can be seen as hourney customer goes through tochoose your capsules in the store.
 
 Conceptual frameworks (qualitative frameworks)
-- 3C's - Custom
+- 3C's - Customer, Company and Competition
+- 4P's - Product, Pricing, Placement and Promotion
+
+Can also use little bit weaker:
+Segmentations
+- Basically use in collab with other three up there
+	- Nespresso problem ex: might loose customers in business segments but not consumer
+
+
+#### 5 ways to be MECE
+Algebraic structures always work
+
+![[Screenshot 2024-09-27 at 10.41.31.png]]
+Notice how these structures are like an equation. “# of hires” * “Cost per hire” = “Hiring Costs”. “New hires to replace leaving employees” + “New hires to grow the company” = “# of hires”. Finally, the “Cost per hire” = “Cost to bring in a new candidate” + the “Cost to select new candidates”.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
