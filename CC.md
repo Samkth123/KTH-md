@@ -350,11 +350,23 @@ When to not brainstorm:
 ![[Screenshot 2024-09-27 at 10.29.45.png]]
 
 
-If forget something, like here the redistribution bucket of putting back bikes at where they were.
+If forget something, like here the redistribution bucket of putting back bikes at where they were, its no problem as you can just go back and mention it 
 
-##
+###### FRAMEWORK FOR PRODUCT BRAINSTORMING ^^
+If its not being used - is it providing enough value (MECE down to actual value and perception of product)?
+If it is providing value, how much hassle is it to use it?
 
+### How to be MECE in brainstorming
 
+Algebraic structures 
+- simply break down into revenues and costs = profits
+
+Process structures
+- process with a beginning, middle and end
+	- ex coffe capsule market sahre  can be seen as hourney customer goes through tochoose your capsules in the store.
+
+Conceptual frameworks (qualitative frameworks)
+- 3C's - Custom
 
 
 
