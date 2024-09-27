@@ -395,6 +395,11 @@ McKinsey:
 People, Process, Systems
 - Any simple organizational problem can be pinned down into a problem with People, a problem with (or lack of) Processes or a problem with (or lack of) Systems
 
+Conceptual framework:
+Should BMW start uber thingy
+
+![[Screenshot 2024-09-27 at 10.56.25.png]]
+
 
 
 
