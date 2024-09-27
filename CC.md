@@ -445,8 +445,7 @@ The second issue with this structure are the random segmentations. Why dividing 
 
 The third issue with this structure is the reuse of the 4Ps – it is used to break down “Internal factors”, and a modified version is used to break down “Competitors have changed”. While this isn’t as critical as the last two reasons, it shows the candidate could’ve reorganized the structure better to avoid redundancy
 
-
-
+These three shortcomings are aspects of underlying reasons that make the first structure good and the second structure poor, even if both are MECE...
 
 
 
