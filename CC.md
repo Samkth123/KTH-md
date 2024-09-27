@@ -346,7 +346,35 @@ When to not brainstorm:
 - If you can get data if you ask for it (dont just assume stuff)
 -  Dont give opinions, only hypothesis and data
 
-Ex: Bike utilization rate
+###### Ex: Bike utilization rate
+![[Screenshot 2024-09-27 at 10.29.45.png]]
+
+
+If forget something, like here the redistribution bucket of putting back bikes at where they were.
+
+##
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
