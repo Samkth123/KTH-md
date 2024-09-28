@@ -474,7 +474,8 @@ These three shortcomings are aspects of underlying reasons that make the first s
 See framework as a map that will help you solve your problem and a travel route along the map.
 
 
-
+Context driven frameworks:
+- Ex: 4P
 
 
 
