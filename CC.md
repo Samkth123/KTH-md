@@ -570,7 +570,21 @@ Keep it still riskfree tho, for example say What are my competitors key resource
 Basically if you say too few its ok, but you do not want your interveiwer to ask you about it...
 
 Mostly, questions can be regarding the industry the client is in. But you can dig deeper too. Example, If Mining:
-Some
+Some minerals are only in a few places in the world:
+- ==**Concentrated industry**==: 
+	- Can our competitors control prices as reaction to our actions? (if few players in the market)
+- Mineral have plastic substitutes - What are our plastic competitors facilities, production capabilities osv..
+- ==Mineral has few buyers==:
+	- What are competitors relationship with buyers like?
+
+Think of types of products sold, country, goals of client, and context (ex if in recesion)
+
+5 characteristics in list of key questions for each category:
+1. Make them problem specific
+2. Have the obvious issues
+3. Have som non-obvious issues
+4. Be as exhaustive as possible (comprehensive questions)
+5. Raise the few critical non-obvious issues (most important to get but hard because they really are case dependant and differ each time)
 
 
 
