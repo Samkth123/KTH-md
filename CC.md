@@ -593,11 +593,25 @@ Think of types of products sold, country, goals of client, and context (ex if in
 	- If you answer why you need to understand each question thats good
 - It helps you get more specific into the question so you can answer it in a testable, data-driven way
 
-Airline strategy case:
-Issue: What are the key segments within Business and Leisure travel and how large is each in terms of number of seats and revenues
+**Airline strategy case:**
+**Issue**: What are the key segments within Business and Leisure travel and how large is each in terms of number of seats and revenues
 
+^^ You need to show why you want to know this: 
 
+**Hypothesis**: There must be at least one highly profitable segment that is poorly served by us and our competitors that we can target from now on.
 
+This hypothesis:
+1. makes the issue relevant
+2. is testable
+3. has potential to drive the case forward
+
+##### 4. Create tests for hypothesis
+Only when prompted by interviewer.
+
+Hypothesis testing plan:
+- I would build a list of segments with market size (nr of seats, dollar value) amd price sensitivity (price per ticket vs avg) /==im looking for high price and high volume segment== /
+	- ex last minute exectuives
+- 
 
 
 
