@@ -530,14 +530,23 @@ You DONT want to solve the problem yet, you just want enough info to get to be a
 
 ##### 2. Raise key issues
 
-Ask insightful questions using 5W2H... In a ==PROBLEM-SPECIFIC== way FOR THE SPECIFIC CASE!!!
+Ask insightful questions using 5W2H... In a ==PROBLEM-SPECIFIC== way FOR THE SPECIFIC CASE!!! <-- **==VIKTIGT==**!!
 - Never ask generic questions but rather problem specific ones.
 ==Example for airline strategy:==
 **Instead of asking:**
 - Who are my customers and how much do they buy?
-Ask in a PROBLEM-SPECIFIC way:
-- What are the key segments within Business and Leisure travel, and how large 
+==**Ask in a PROBLEM-SPECIFIC way:**==
+- What are the key segments within Business and Leisure travel, and how large is each in terms of # of seats sold and revenues
 
+**Instead of asking:**
+- What products do they buy and what do they want?
+==**Ask in a PROBLEM-SPECIFIC way:**==
+- What routes and add-on services are in large/growing demand and what are their main complaints?
+
+**Instead of asking:**
+- Where and when do they buy
+==**Ask in a PROBLEM-SPECIFIC way:**==
+- What main channels do they use to buy tickets and how price sensitive are they regarding to when they buy?
 
 
 
