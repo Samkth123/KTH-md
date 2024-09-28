@@ -466,8 +466,10 @@ These three shortcomings are aspects of underlying reasons that make the first s
 
 
 ## Frameworks
+![[Screenshot 2024-09-28 at 17.31.41.png]]
+^structure that will follow
 
-
+### The fundamentals of frameworks
 
 
 
