@@ -471,6 +471,7 @@ These three shortcomings are aspects of underlying reasons that make the first s
 
 ### The fundamentals of frameworks
 
+==Basically 3C's==
 See framework as a map that will help you solve your problem and a travel route along the map.
 
 
@@ -492,7 +493,18 @@ Consulting is having common sense and curiousity to understand why things are th
 ![[Screenshot 2024-09-28 at 19.04.38.png]]
 
 
+### The 4-step approach
 
+1. **Define and structure problem**
+2. **Raise key issues for each category**
+	1. Just like when you go to the doctor, even if you explain your problem, they will still ask you more to completely understand it. Ex. I have had headache, but for how long have you had it?
+3. **Create hypotheses for each key issue**
+	1. Each question doctor asks is to prove or disprove their hypotheses 
+4. **Create tests for hypotheses**
+	1. Confirm or disprove something based on data or doctor results
+	2. An untestable hypotheses is not good
+
+#####
 
 
 
