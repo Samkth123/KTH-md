@@ -520,6 +520,23 @@ Consulting is having common sense and curiousity to understand why things are th
 	- Understand how business generates revenues and how it operates (manufactur and transport stuff)
 - Questions that give specififcs to general statements (numbers, definintions, etc.)
 
+Density matter!
+- You dont want to ask 10 different questions, you want every question to count and that are well formulated.
+
+Explicitly say you are going to clarify before you structure the case.
+
+You DONT want to solve the problem yet, you just want enough info to get to be able to start doing a structure
+
+
+##### 2. Raise key issues
+
+Ask insightful questions using 5W2H... In a ==PROBLEM-SPECIFIC== way FOR THE SPECIFIC CASE!!!
+- Never ask generic questions but rather problem specific ones.
+==Example for airline strategy:==
+**Instead of asking:**
+- Who are my customers and how much do they buy?
+Ask in a PROBLEM-SPECIFIC way:
+- What are the key segments within Business and Leisure travel, and how large 
 
 
 
