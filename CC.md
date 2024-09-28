@@ -504,7 +504,21 @@ Consulting is having common sense and curiousity to understand why things are th
 	1. Confirm or disprove something based on data or doctor results
 	2. An untestable hypotheses is not good
 
-#####
+##### 1. Define and structure
+
+**Problem definition should be clear**
+- Critical for poorly defined cases 
+- Use clarifying questions
+	- This is so that you can actually build your framework
+- Aim for 3-5 questions maximum
+
+**Guidelines for good clarifying questions**
+==3 types of useful clarifying questions==
+- Questions that lets interviewer explain the objective in detail
+	- ex if case is just CEO walked in bank and its too crowded... You should ask if he is concerned with customer retention or what could be
+- Questions that lets interviewer explain the business model
+	- Understand how business generates revenues and how it operates (manufactur and transport stuff)
+- Questions that give specififcs to general statements (numbers, definintions, etc.)
 
 
 
