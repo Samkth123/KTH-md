@@ -480,6 +480,17 @@ See framework as a map that will help you solve your problem and a travel route 
 Ex: Break down a fotball match:
 Components are Team A, B, referee, rules infrastructure, crowd.
 
+3C's is the first widespread business strategy framework:
+Customers, Competition, Company
+
+3C's will be used as baseline for everything else.
+
+Demand side:
+- Customer
+Supply side:
+- Competition 
+- Company
+
 
 
 
