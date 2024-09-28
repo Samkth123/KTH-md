@@ -557,13 +557,20 @@ If it was Generic:
 - What are my competitors key resources?
 
 If it was in Mining?
-- Where are my competitors mines located and how are they different from others?
+- What are my competitors mines and how are they different from others?
 
 If it was Retailing?
-- Where are my competitors brands, store locations and suppliers contracts
+- what are my competitors brands, store locations and suppliers contracts
 
 If it was Pharma?
-- Where are my competitors brands, pate
+- What are my competitors brands, patents and R&D pipeline?
+
+Keep it still riskfree tho, for example say What are my competitors key resources, for example where are their competitors mines located and how do they differentitate from others.
+
+Basically if you say too few its ok, but you do not want your interveiwer to ask you about it...
+
+Mostly, questions can be regarding the industry the client is in. But you can dig deeper too. Example, If Mining:
+Some
 
 
 
