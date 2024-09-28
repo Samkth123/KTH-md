@@ -560,7 +560,47 @@ If it was in Mining?
 - Where are my competitors mines located and how are they different from others?
 
 If it was Retailing?
-- Where are my competitors stores
+- Where are my competitors brands, store locations and suppliers contracts
+
+If it was Pharma?
+- Where are my competitors brands, pate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
