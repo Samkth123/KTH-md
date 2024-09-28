@@ -485,15 +485,11 @@ Customers, Competition, Company
 
 3C's will be used as baseline for everything else.
 
-Demand side:
-- Customer
-Supply side:
-- Competition 
-- Company
+![[Screenshot 2024-09-28 at 19.03.27.png]]
 
+Consulting is having common sense and curiousity to understand why things are the way they are.
 
-
-
+![[Screenshot 2024-09-28 at 19.04.38.png]]
 
 
 
