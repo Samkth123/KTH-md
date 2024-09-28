@@ -549,9 +549,18 @@ Ask insightful questions using 5W2H... In a ==PROBLEM-SPECIFIC== way FOR THE SPE
 - What main channels do they use to buy tickets and how price sensitive are they regarding to when they buy?
 
 
+==**The problem specific questions only work in airline, not just generic and a framework robot...**==
 
+If its a competitor analysis.
 
+If it was Generic:
+- What are my competitors key resources?
 
+If it was in Mining?
+- Where are my competitors mines located and how are they different from others?
+
+If it was Retailing?
+- Where are my competitors stores
 
 
 
