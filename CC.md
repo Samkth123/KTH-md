@@ -584,7 +584,58 @@ Think of types of products sold, country, goals of client, and context (ex if in
 2. Have the obvious issues
 3. Have som non-obvious issues
 4. Be as exhaustive as possible (comprehensive questions)
-5. Raise the few critical non-obvious issues (most important to get but hard because they really are case dependant and differ each time)
+5. ==Raise the few critical non-obvious issues== (most important to get but hard because they really are case dependant and differ each time)
+
+##### 3. Create hypotheses
+
+**Two reasons you need hypotheses:**
+- Each question you ask must have a purpose
+	- If you answer why you need to understand each question thats good
+- It helps you get more specific into the question so you can answer it in a testable, data-driven way
+
+Airline strategy case:
+Issue: What are the key segments within Business and Leisure travel and how large is each in terms of number of seats and revenues
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
