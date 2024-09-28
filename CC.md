@@ -611,7 +611,12 @@ Only when prompted by interviewer.
 Hypothesis testing plan:
 - I would build a list of segments with market size (nr of seats, dollar value) amd price sensitivity (price per ticket vs avg) /==im looking for high price and high volume segment== /
 	- ex last minute exectuives
-- 
+- Survey customers form promising segments to see what are their main frustrations and desires (looking for segment with frustrations and unfulfilled desires)
+- Determine what segment our company can serve better
+
+HOW DO THIS ALL IN 2-3 minutes?????
+1. Create main categories (ex 3 C's...) (15-30s)
+2. Think about key issues for each category (in short form, what are key questions want to ask then read long version through head )
 
 
 
