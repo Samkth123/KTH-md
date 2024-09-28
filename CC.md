@@ -614,11 +614,18 @@ Hypothesis testing plan:
 - Survey customers form promising segments to see what are their main frustrations and desires (looking for segment with frustrations and unfulfilled desires)
 - Determine what segment our company can serve better
 
-HOW DO THIS ALL IN 2-3 minutes?????
+==**HOW DO THIS ALL IN 2-3 minutes?????**==
 1. Create main categories (ex 3 C's...) (15-30s)
-2. Think about key issues for each category (in short form, what are key questions want to ask then read long version through head )
+2. Think about key issues for each category (in short form, what are key questions want to ask then read long version through head ) (5-10s per issue (12-15 issues))
+3. Also think about underlying hypothesis about each issue (What is logic behind these questions - mind will come up with it so dont need to write down, and not important to think about tests right now )
 
+In the beginning this takes more than 2-3 min, thats why you practice this in isolation before...
 
+Worth taking 3 min tbh, if interviewer says start talking then you can just do that
+
+Communication is:
+1. Walkthrough each category before talking about issues and say why they are importnat
+2. Go through each issue (for the important issues you want to present hypothesis (NOT ALL) for the interviewer)
 
 
 
