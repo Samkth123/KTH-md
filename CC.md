@@ -641,8 +641,23 @@ Worth taking 3 min tbh, if interviewer says start talking then you can just do t
 
 ### How to ADAPT your Frameworks / adapt the 3C's framework to any business situation
 
+#### Ways to make your framework problem specific
+Adding NEW RELEVANT categories (adapting the 3Cs)
+or
+Making your issues PROBLEM-SPECIFIC
 
+##### Adding NEW RELEVANT categories (adapting the 3Cs)
 
+###### Other Key Decision Makers
+Any market has supply side that makes products and demand side that buys them.
+Always on supply side we have Company and Competition.
+Always on Demand side we have Customers.
+
+Many other cases need to understand Distribution Channels as well.
+
+###### Direct interfaces between decision makers
+
+###### Structural Factors (Rules of the game)
 
 
 
