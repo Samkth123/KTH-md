@@ -654,8 +654,25 @@ Always on supply side we have Company and Competition.
 Always on Demand side we have Customers.
 
 Many other cases need to understand Distribution Channels as well.
+- Maybe important if airline where 3rd party sells tickets
+- Less important for SaaS as they have their own salesforce
 
-###### Direct interfaces between decision makers
+Other cases have Suppliers on Supply side too, ex automanufacturer (som i sin tur inte har viktigt med distribution channel)
+
+Supply side also has Employees for some companies (knowledge osv...)
+
+Government also important as decision maker in som markets (sitting between Supply and Demand side)
+
+Investors in supply side startups
+
+Academia maybe for som biotech companies
+
+Demand side has Customers customer as well
+![[Screenshot 2024-09-29 at 10.33.42.png]]
+
+###### Direct interfaces (between decision makers)
+Critical ways decision makers (company and ) are in contact with eachother.
+
 
 ###### Structural Factors (Rules of the game)
 
