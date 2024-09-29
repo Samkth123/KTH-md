@@ -669,15 +669,26 @@ Academia maybe for som biotech companies
 
 Demand side has Customers customer as well
 ![[Screenshot 2024-09-29 at 10.33.42.png]]
-
+![[Screenshot 2024-09-29 at 19.45.30.png]]
 ###### Direct interfaces (between decision makers)
 Critical ways decision makers (company and competition and customer) are in contact with eachother.
 
 If want to add product as own bucket, it should be a major part of the problem.
 
-Unions could also be included w
+Unions could also be included when it comes to cutting down workers because of costs.
+
+Also if oil company, good to think about cartels.
+
+Or Regulatory agencies imght be important to know
 ###### Structural Factors (Rules of the game)
 
+Broader world: Look at:
+- Technology
+- Infrastructure
+- Environment (if buy land think about climate change)
+- Economy
+- Law
+- Culture and Social beliefs (ex if you are twitter, and want to change something must think of the social belief that its a free speech platform)
 
 
 
