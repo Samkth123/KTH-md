@@ -691,9 +691,32 @@ Broader world: Look at:
 - Culture and Social beliefs (ex if you are twitter, and want to change something must think of the social belief that its a free speech platform)
 
 
+#### Making your category even more specific
+Ex:
+Traditional --> Expanded/specific meaning
+Competitors --> Direct and indirect competitors
+- If plastic packaging company, our direct competitors are other plastic packaging companies but indirect competitors are for example alumiunium packaging company
+--> New entrants
+--> Name of your major competitor if in industry with one competitor
+
+Products --> substitutes
+
+Customer --> Purchasing decision maker (mabye not end customer)
+
+Distribution Channels --> Media, influencers
+
+The less generic and more specific you are the better your clients will view you.
+
+#### Concerns:
+How to prioritize everything?
+How many categories should you have?
+Will the framework be MECE?
 
 
+##### Concerns answered
 
+There are three thing to build on top of the 3C's:
+- Key decision makers
 
 
 
