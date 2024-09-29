@@ -673,9 +673,9 @@ Demand side has Customers customer as well
 ###### Direct interfaces (between decision makers)
 Critical ways decision makers (company and competition and customer) are in contact with eachother.
 
-For example the product. In some cases its important to take in the
+If want to add product as own bucket, it should be a major part of the problem.
 
-
+Unions could also be included w
 ###### Structural Factors (Rules of the game)
 
 
