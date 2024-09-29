@@ -717,6 +717,11 @@ Will the framework be MECE?
 
 There are three thing to build on top of the 3C's:
 - Key decision makers
+- direct interface between the decision makers
+- underlying structural factors
+
+![[Screenshot 2024-09-29 at 19.58.47.png]]
+
 
 
 
