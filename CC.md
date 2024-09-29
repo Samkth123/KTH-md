@@ -671,7 +671,9 @@ Demand side has Customers customer as well
 ![[Screenshot 2024-09-29 at 10.33.42.png]]
 
 ###### Direct interfaces (between decision makers)
-Critical ways decision makers (company and ) are in contact with eachother.
+Critical ways decision makers (company and competition and customer) are in contact with eachother.
+
+For example the product. In some cases its important to take in the
 
 
 ###### Structural Factors (Rules of the game)
