@@ -636,6 +636,11 @@ Worth taking 3 min tbh, if interviewer says start talking then you can just do t
 ![[Screenshot 2024-09-28 at 20.08.57.png]]
 
 
+![[Screenshot 2024-09-29 at 10.22.09.png]]
+
+
+### How to ADAPT your Frameworks / adapt the 3C's framework to any business situation
+
 
 
 
