@@ -724,7 +724,7 @@ There are three thing to build on top of the 3C's:
 
 
 
-
+==Varje bucket ska vara en fråga (kan heta customers men...) men ska svara på "would customers appreciate this?". Så istället att säga till intervjuaren "i want to analyze customers" säger man att man undrar om dom ahde gillar de i första när man ba går igenomt==
 
 
 
