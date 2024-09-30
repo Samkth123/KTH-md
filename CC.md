@@ -728,7 +728,9 @@ There are three thing to build on top of the 3C's:
 
 
 
-### The landscape tec
+### The landscape technique to create frameworks from scratch
+
+Basically look at a landscape then break it down into i
 
 
 
