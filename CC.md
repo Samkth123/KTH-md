@@ -730,10 +730,16 @@ There are three thing to build on top of the 3C's:
 
 ### The landscape technique to create frameworks from scratch
 
-Basically look at a landscape then break it down into i
+Basically look at a landscape then break it down into its parts.
+![[Screenshot 2024-09-30 at 18.00.26.png]]
 
+Basically you can break down a case by breaking it down into its parts.
 
+==**This is the landscape of basically any problem**==
 
+![[Screenshot 2024-09-30 at 18.00.57.png]]
+
+Understand role of each part by 5W2H's
 
 
 
