@@ -741,6 +741,11 @@ Basically you can break down a case by breaking it down into its parts.
 
 Understand role of each part by 5W2H's
 
+ex city cleaning project:
+
+![[Screenshot 2024-09-30 at 18.14.10.png]]
+
+
 
 
 
