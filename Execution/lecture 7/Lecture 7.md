@@ -35,9 +35,11 @@ Porter 5 forces exercise
 	- ex not everyone has a car but know about ex Volvo and such==
 
 How can a venture develop sustianable competitive advantage
+- carve out uniqueness - do something unique
+- building barriers - make it difficult for other people to move in 
 
 
-
+firms build SCA based on how they deploy resources and people (you people are you resourc)
 
 
 
