@@ -34,7 +34,7 @@ Porter 5 forces exercise
 ==- electric bike market we know has many players, because if there only was lik 2 big players we would most likely know their names
 	- ex not everyone has a car but know about ex Volvo and such==
 
-
+How can a venture develop sustianable competitive advantage
 
 
 
