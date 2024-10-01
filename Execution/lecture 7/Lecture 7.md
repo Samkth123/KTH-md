@@ -39,8 +39,21 @@ How can a venture develop sustianable competitive advantage
 - building barriers - make it difficult for other people to move in 
 
 
-firms build SCA based on how they deploy resources and people (you people are you resourc)
+firms build SCA based on how they deploy resources and people (you people are you resources)
 
+Attributes of resources and capabilities that can provide SCA
+- valuable (what is valuable in what we do)
+- rare
+- hard to copy
+- nonsubstitiutable
+- organized
+six categories of resources and capabilites
+- physical
+- reputational
+- organizational (McDonalds - organized in a way that new hires can start teaching others after 3 sessions)
+- financial
+- intellectual and human 
+- technological
 
 
 
