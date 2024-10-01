@@ -66,7 +66,10 @@ Hard to copy resources
 
 Finns bild på slidsen på Support activities and primary activities graph thing
 
-Volvo buys inbound logistics, then puts together in operations then in outbound logistics they 
+Volvo buys inbound logistics, then puts together in operations then in outbound logistics they give it to retailers and sales, then they do marketing and sales then service the cars
+Then you have things you do for all these things, you do procurement (buying the things), tech development you do in all, you then have human resource management where you recruit people and managethem, and lastly you have firm infrastructure like phones computer offices etc...
+
+
 
 
 
