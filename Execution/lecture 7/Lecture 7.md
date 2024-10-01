@@ -24,6 +24,13 @@ The pyramid of CST_
 - Legal is next to most important thing
 	- play by the rules of the game
 - ethical
+	- do what is right and fair
+	- ex child labour bad but maybe in vietnam its ok?
+	- for example people who move companies to other countries to not have taxes?
+		- it is legal and follow laws, but is it ethical that we use public funded stuff in sweden but dont want to pay taxes
+- Philantropic is the top, so you contribute resources to improve life of others
+
+
 
 
 
