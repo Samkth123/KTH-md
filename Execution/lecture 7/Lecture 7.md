@@ -17,3 +17,32 @@ Corporate sustainability
 
 Changing expectations
 - going from shareholder value to corporate responsibility shared value
+
+The pyramid of CST_
+- foundation is profitable - can have lots of discussions if this should be the foundation or not - maybe for NGOs, but view professor has then being profitable means you are using resources in right way and can show that you can use them correctly.
+	- so if you really want to contribute to society in a way is to generate profit in your company then give away the money
+- Legal is next to most important thing
+	- play by the rules of the game
+- ethical
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
