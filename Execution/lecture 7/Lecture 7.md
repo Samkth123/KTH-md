@@ -30,7 +30,10 @@ The pyramid of CST_
 		- it is legal and follow laws, but is it ethical that we use public funded stuff in sweden but dont want to pay taxes
 - Philantropic is the top, so you contribute resources to improve life of others
 
-
+Porter 5 forces exercise
+- electric bike market we know has many players, because if there only was lik 2 big players we would most likely know their names
+	- ex not everyone has a car but know about ex Volvo and such
+	- 
 
 
 
