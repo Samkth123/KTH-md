@@ -114,8 +114,22 @@ MEET checklist
 	- CSR issues (working hours, how see smoking ex if you are in robacco industry because people in some countries dont like msoking, osv...)
 - host demand characteristics and segments
 
+- host indsutry and reactions
+	- host entry barriers
+	- ==history of retaliation of entry== (has anyone else entered this market and what happened to them? For example what do existing companies do to new entrants? ex swedish banks did not retaliate against klarna now they are so big)
+	- host vertical structure
+- Host cluster environemnt
+	- network and relationships?
+		- ex certain religion, or some specific family? do suppliers want to work with you or will give you unfair conditions because of their rleationships to existing people
 
-
+Gate openers (to get into host industry)
+- vantage point
+	- you are skilled at what you do ex IKEA knows well to set up new store and have supply chains, so they can enter any market without bigger issue.
+- De novo entrant
+	- Means that you are completely new but you are doing it anyway.
+	- Basically a company with a lot of money that know nothing about telekom (3 sverige) and decides to buy all services and competence and start such a company
+- Gate opener
+	- Volvo decided to team up with renault because saw that there was product fit
 
 
 
