@@ -75,11 +75,44 @@ operations is having everything going, so making the product, if you are getting
 
 
 New Markets - New industry entries - Entry strategies (well documented in a book he will post in the modules)
-Called the ==Radio Model== WBMH
+Called the ==Radio Model== WBMH (why? bring? meet? how?)
 Summary
 - entry strategies
 - entry barriers
 - gate openers
+
+Why? (why go to new market ex)
+- Profits
+	- but how?
+	- and when?
+	- and does it fit with overall strategy?
+
+BRING checklist
+- products and concepts
+	- compare to locally offered
+	- improved
+	- unique new offer
+- organizational competencies
+- brand (is our brand good for the market we are entering?)
+	- ex starbucks thought they were a big brand name when entering the swedish market but failed
+- patented techs and firm specific capabilities
+- Manufacturing capacity
+- capital
+
+MEET
+- entry strategies
+- entry barriers and retaliation
+- gate openers
+
+MEET checklist
+- host regulations
+	- technical standards
+		- Sweden created tap standard that keeps out outside EU competitors previously
+	- ==tariff and non tariff trade barriers==
+		- taxes to important and such
+- host culture and norms
+	- CSR issues (working hours, how see smoking ex if you are in robacco industry because people in some countries dont like msoking, osv...)
+- host demand characteristics and segments
 
 
 
