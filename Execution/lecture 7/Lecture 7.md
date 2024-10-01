@@ -55,6 +55,38 @@ six categories of resources and capabilites
 - intellectual and human 
 - technological
 
+Control of resoureces
+- not available to competitors
+
+Hard to copy resources
+- through propreity rights
+- complex social relatonships
+	- orgnaizational culture
+	- ----
+
+Finns bild på slidsen på Support activities and primary activities graph thing
+
+Volvo buys inbound logistics, then puts together in operations then in outbound logistics they 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
