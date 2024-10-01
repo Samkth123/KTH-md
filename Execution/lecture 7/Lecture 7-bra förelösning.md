@@ -122,16 +122,16 @@ MEET checklist
 	- network and relationships?
 		- ex certain religion, or some specific family? do suppliers want to work with you or will give you unfair conditions because of their rleationships to existing people
 
-Gate openers (to get into host industry)
+==Gate openers== (to get into host industry)
 - vantage point
 	- you are skilled at what you do ex IKEA knows well to set up new store and have supply chains, so they can enter any market without bigger issue.
 - De novo entrant
 	- Means that you are completely new but you are doing it anyway.
 	- Basically a company with a lot of money that know nothing about telekom (3 sverige) and decides to buy all services and competence and start such a company
-- Gate opener
-	- Volvo decided to team up with renault because saw that there was product fit
+- ==Gate opener==
+	- Volvo decided to team up with renault because saw that there was product fit and they agreed to be gate opener on swedish market for renault and in return renault opened up french market for volvo
 
-
+finns mycket mer på föreläsningsslidsen
 
 
 
