@@ -8,3 +8,12 @@ Ola Haddad - Aquasomething
 - i struggle much with not starting from 0, but she changed my mind that it is ok and not be too proud
 
 has job if want
+
+
+# Resources and Sustainable Competitive Advantage
+
+Corporate sustainability
+- embedd sustainability strategies into their business model through adopting new governance strategies osv...
+
+Changing expectations
+- going from shareholder value to corporate responsibility shared value
