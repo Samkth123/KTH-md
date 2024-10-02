@@ -760,6 +760,10 @@ These are not math questions - most important part here is not math, its about h
 - Structuring analysis important and modelling the data
 
 
+3k stores
+
+
+
 
 
 
