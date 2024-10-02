@@ -775,6 +775,7 @@ Next we could
 
 #### 4 step approach to Quantitative Analysis
 1. Structure the problem
+	1. show full plan to interviewer so they can agree or not with step by step how to get answer
 2. Ask for data you need
 3. Calculate
 4. Lead from the insights
@@ -787,8 +788,14 @@ total cost per cofee is 1 dollar
 operating costs 200000dollars
 how many cups of cope to breakeven in 2 years
 
-cofee x SalesCost = totcost x cofee + 
+coffee x 3,75 = 1 x coffee +  150000 + 200000*2
 
+Basically, one easy way to structure is to think of just one thing you need to be on way to answer, when you have that, think of the next thing you need to be able to get closer to answer, and continue like this till you get the answer.
+
+So in example:
+I need number of cups sold * price
+this would be equal to cups sold * cost per cup + starting costs + operating cost per year * years
+These should be equal to eachother,
 
 
 
