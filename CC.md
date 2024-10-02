@@ -757,7 +757,7 @@ These are not math questions - most important part here is not math, its about h
 - ex: if i say that revenue of client this year was 20B it says nothing because last years revenue could be 5B or 50B. So the number should let you reach a conclusion
 - important to know what comparisons to do and if you can interpret the number
 - And also turning insights into action
-- Structuing 
+- Structuring analysis important and modelling the data
 
 
 
