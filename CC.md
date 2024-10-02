@@ -767,7 +767,13 @@ Ex Calculating revenue synergies from introducing your competitors products into
 3. Account for cannibalization and price increase (if there is any)
 
 This would actually help solve a problem, not just get to the number. Basically, find the number then know what to do given the number and what to do next
+Next we could 
+- what % of target profits this is
+- ptoential cost savings in manufacturing due to volume increase
+- ptoential price increase (due to larger volume sold to starbucks)
+- can targets capacity be easily increased?
 
+#### 4 step approach to Quantitative Analysis
 
 
 
