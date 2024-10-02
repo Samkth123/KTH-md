@@ -761,7 +761,12 @@ These are not math questions - most important part here is not math, its about h
 
 
 
+Ex Calculating revenue synergies from introducing your competitors products into starbucks stores after ana acquisition
+1. Check revenue increase per store
+2. Total revenue increase
+3. Account for cannibalization and price increase (if there is any)
 
+This would actually help solve a problem, not just get to the number. Basically, find the number then know what to do given the number and what to do next
 
 
 
