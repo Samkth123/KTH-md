@@ -749,6 +749,12 @@ ex city cleaning project:
 
 ## Analyses
 
+### Quantitative Analysis
+The 4 step approach
+
+These are not math questions - most important part here is not math, its about how you get to the number and what you do with it
+- Basi
+
 
 
 
