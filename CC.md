@@ -777,6 +777,7 @@ Next we could
 1. Structure the problem
 	1. show full plan to interviewer so they can agree or not with step by step how to get answer
 2. Ask for data you need
+	1. Also ask about issues that werent mentioned but might affect the answer 
 3. Calculate
 4. Lead from the insights
 
