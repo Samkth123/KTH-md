@@ -774,7 +774,20 @@ Next we could
 - can targets capacity be easily increased?
 
 #### 4 step approach to Quantitative Analysis
+1. Structure the problem
+2. Ask for data you need
+3. Calculate
+4. Lead from the insights
 
+ex: Friend wants create high end cofee shop microkiosk (2m^2) in airports.
+data:
+price per cofee is 3,75dollars
+total cost per cofee is 1 dollar
+150000 dollars for opening
+operating costs 200000dollars
+how many cups of cope to breakeven in 2 years
+
+cofee x SalesCost = totcost x cofee + 
 
 
 
