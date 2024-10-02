@@ -777,8 +777,9 @@ Next we could
 1. Structure the problem
 	1. show full plan to interviewer so they can agree or not with step by step how to get answer
 2. Ask for data you need
-	1. Also ask about issues that werent mentioned but might affect the answer 
+	1. Also ask about issues that werent mentioned but might affect the answer ex do we sell something else?
 3. Calculate
+	1. if rounding can help ask to round
 4. Lead from the insights
 
 ex: Friend wants create high end cofee shop microkiosk (2m^2) in airports.
@@ -798,6 +799,7 @@ I need number of cups sold * price
 this would be equal to cups sold * cost per cup + starting costs + operating cost per year * years
 These should be equal to eachother,
 
+also ask do we sell something else?
 
 
 
