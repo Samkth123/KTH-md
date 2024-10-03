@@ -12,6 +12,11 @@ Supply chain risk management AI
 - även kunder till företaget å vad som kan ske för problem för dom
 	- då kan dom maximera värde för sina kunder?
 
+tips:
+talk to more customers before you start
+
+
+
 
 
 
