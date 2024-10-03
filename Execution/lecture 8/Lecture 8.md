@@ -15,8 +15,11 @@ Supply chain risk management AI
 tips:
 talk to more customers before you start
 
+Everything that could be a problem will be a problem - do the boring stuff
+- write shareholder agreements osv (**==det som hände med mig å krille skriv på reflection==**)
+- easier to get divorced than rid of a founder
 
-the mom test - how to do early customer interviews
+==the mom test - how to do early customer interviews==
 
 - Hur pratade med större kunder
 	- hade kontakter med ericsson hm å så? eller skrev bara till folk för att få till möte
