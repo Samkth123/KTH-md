@@ -109,7 +109,33 @@ When add the one which is more expensive, more people buy the middle one.
 
 
 
-#####
+##### Factors influencing pricing
+Value
+- Need B2C vs Pain B2B
+- REturn on investment ROI
+- Must have vs nice to have
+
+Cost
+- variable cost
+- fixed cost
+- internal cost structure
+
+CLient alternatives
+- doing nothing is #1 alternative
+- alternative is often the use of excel
+
+Market
+- typ and length of contracts
+- competiton
+- regulation
+
+Costs
+- trader
+	- for a trader selling is buying
+	- the purchase cost drives 80% of the sales price
+- Manufacturer 
+	- For a manu
+
 
 #####
 
