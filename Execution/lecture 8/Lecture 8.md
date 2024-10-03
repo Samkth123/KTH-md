@@ -23,9 +23,11 @@ pivots work when going from one domain to a domain you know well
 
 ==the mom test - how to do early customer interviews==
 
-- Hur pratade med större kunder
-	- hade kontakter med ericsson hm å så? eller skrev bara till folk för att få till möte
+If its a small company and new idea: Put up a Ideal Customer Profile (ICP) and have a group of them so that you can have as pilot customers
 
+You can basically just call CEO and say hey we have this company would you be able to try it as pilot for free? It complements your business in this this this ways...
+
+targets EU companies but also companies with many geo locations that could be affected by many bad things
 
 
 
