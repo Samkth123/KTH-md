@@ -65,11 +65,11 @@ PESTLE analysis
 - Mactro trend - more sweeping trends that affect society
 - Mega trend and Giga trends - larger
 
-Trenspotting for beginners
+Trenspotting for beginners - onödigt
 1. adopt a beginerrs mind
 2. why what how
 3. move in mysterious ways
-4. beware of the peacock
+4. beware of the peacock - fake signs
 5. dont judge
 6. count your blessings
 7. look for shifts rather than novelties
