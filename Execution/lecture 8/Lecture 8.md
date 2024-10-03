@@ -78,7 +78,14 @@ Trenspotting for beginners - onödigt
 
 
 
-##### 
+##### Pricing
+Either have many customers lower price and smaller margin
+or
+Few customers high price, fatter margin
+
+Potential number of customers
+- TAM - Total addressable market
+- SAM
 
 
 #####
