@@ -56,9 +56,29 @@ PESTLE analysis
 ^^nothing you can control
 
 ##### Trendspotting
+- Seeing the future in the present
+- Keeping abreast of trends and/or predicting them
+- is fun
+	- looking at world and trying to understand it is fun
+- is used to reflect about the future and events that may influence org in any way
+- Micro trends - trending right now, little things or clues and weak signals about future
+- Mactro trend - more sweeping trends that affect society
+- Mega trend and Giga trends - larger
+
+Trenspotting for beginners
+1. adopt a beginerrs mind
+2. why what how
+3. move in mysterious ways
+4. beware of the peacock
+5. dont judge
+6. count your blessings
+7. look for shifts rather than novelties
+8. spot the combos
+9. there a reason - find it
 
 
-#####
+
+##### 
 
 
 #####
