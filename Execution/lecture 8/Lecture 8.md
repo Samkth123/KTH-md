@@ -98,9 +98,14 @@ PriceGain AB - specialized in helping customers with pricing
 Which icecream do you choose? 
 30kr 1 ball and 50kr 2 balls
 showed that 57% wanted 1 ball and 43% wanted two
-What if add sprinkles to the one with 2 balls but buy 
+What if add sprinkles to the one with 2 balls but buy for 60kr?
 
-#####
+When add the one which is more expensive, more people buy the middle one.
+
+- When presented 3 alternatives you tend to buy the middle one often
+
+
+##### Pricing determines your market position
 
 #####
 
