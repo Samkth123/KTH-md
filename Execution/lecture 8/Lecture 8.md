@@ -36,11 +36,38 @@ targets EU companies but also companies with many geo locations that could be af
 Look at different metrics, ex if you are comfortable car or sporty - ex ferrari is high price and sporty but rolls royce is comfortable but also pricey
 
 
+##### competitor analysis:
+- sometimes useful to subdividve industries into stagiegic group ie groups of firms that pursue similar strategies with similar resources
+
+Compare quality, cost, timeliness, if agressive or what makes competitors stand out and how much market share they have
 
 
 
 
+##### Environmental factors
 
+PESTLE analysis
+- Politcal
+- Economic
+- Social
+- Technological
+- Legal
+- Environmental
+^^nothing you can control
+
+##### Trendspotting
+
+
+#####
+
+
+#####
+
+#####
+
+#####
+
+#####
 
 
 
