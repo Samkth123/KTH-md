@@ -107,6 +107,8 @@ When add the one which is more expensive, more people buy the middle one.
 
 ##### Pricing determines your market position
 
+
+
 #####
 
 #####
