@@ -140,7 +140,7 @@ Costs - onödig
 	- For products based on IP such as sotware Saas and web services cost is driven by two major factors: cost of sales and level of support you want to provide
 
 
-##### Pricing methods
+##### Pricing methods 
 
 - sillicon valley rule of thumb
 	- price because customer gets at least 10 times the value
@@ -156,8 +156,17 @@ Costs - onödig
 	- compare to something expensive
 - Decoy effect
 	- ex:
+- Buy vs build psychology
+	- annual basis for 10 years vs customer build themselves
+	- e
+- Pricing distribution fit
+	- calculate distributors need for margins
+- compettion
+	- position vs competitor
+- ==industry average==
 
-
+##### The freemium approach
+viral
 
 
 
