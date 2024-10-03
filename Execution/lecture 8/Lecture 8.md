@@ -84,11 +84,21 @@ or
 Few customers high price, fatter margin
 
 Potential number of customers
+- Coverage and resources for coverage determine the potential
 - TAM - Total addressable market
-- SAM
+- SAM - Service addressable market
+- SOM - Service obtainable market
+
+Lets say we have a product and we want to go to India - we want 0.5% of market and we will be successfull- but we wont get that honestly. So of course there is a total adressable market which is 1,4B people. What is the addressable market for our product? Maybe people who live in big cities and are middle class - maybe 500M. Then lastly, how many can we obtain of these people? This is SOM. To get this we need to have coverage (to know who are our customers) and how many resources do we have to get to these people? (Coverage and resources for coverage determine the potential). Basically how many sales people do we have how much business can they make a week osv...
 
 
-#####
+##### Basic pricing psychology
+PriceGain AB - specialized in helping customers with pricing
+
+Which icecream do you choose? 
+30kr 1 ball and 50kr 2 balls
+showed that 57% wanted 1 ball and 43% wanted two
+What if add sprinkles to the one with 2 balls but buy 
 
 #####
 
