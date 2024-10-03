@@ -16,8 +16,10 @@ tips:
 talk to more customers before you start
 
 
+the mom test - how to do early customer interviews
 
-
+- Hur pratade med större kunder
+	- hade kontakter med ericsson hm å så? eller skrev bara till folk för att få till möte
 
 
 
