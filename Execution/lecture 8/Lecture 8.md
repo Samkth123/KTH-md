@@ -31,9 +31,9 @@ targets EU companies but also companies with many geo locations that could be af
 
 
 
+### Competition and environment - pricing for start-ups
 
-
-
+Look at different metrics, ex if you are comfortable car or sporty - ex ferrari is high price and sporty but rolls royce is comfortable but also pricey
 
 
 
