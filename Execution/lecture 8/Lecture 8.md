@@ -112,7 +112,7 @@ When add the one which is more expensive, more people buy the middle one.
 ##### Factors influencing pricing
 Value
 - Need B2C vs Pain B2B
-- REturn on investment ROI
+- Return on investment ROI
 - Must have vs nice to have
 
 Cost
@@ -129,15 +129,33 @@ Market
 - competiton
 - regulation
 
-Costs
+Costs - onödig
 - trader
 	- for a trader selling is buying
 	- the purchase cost drives 80% of the sales price
 - Manufacturer 
-	- For a manu
+	- For a manufacturer selling is production-efficiency.
+	- The production cost drives 80% of the sales price
+- Intellectual property
+	- For products based on IP such as sotware Saas and web services cost is driven by two major factors: cost of sales and level of support you want to provide
 
 
-#####
+##### Pricing methods
+
+- sillicon valley rule of thumb
+	- price because customer gets at least 10 times the value
+- Customer interviews
+	- basically how much would you pay
+	- But will customers give you honest or tactical answer?
+- Industry benchmark
+	- license 3-5 times saas model for lifetime licence
+- Break even point
+- Google ads
+	- look up cost per click. Add estimate for sales funnel costs
+- Anchoring benchmark
+	- compare to something expensive
+- Decoy effect
+	- ex:
 
 
 
