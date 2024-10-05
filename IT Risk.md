@@ -1,6 +1,19 @@
+##### FAIR (bra struktur)
+The key components of the FAIR model include:
 
-Nist cybersecurity framework:
-- organise and prioritize what actions to take to reduce cyber secuirity risks and manage risks that might still be present
+1. **Asset**: The resource or data that is being protected (e.g., information, systems).
+    
+2. **Threat**: Any potential danger that could exploit a vulnerability (e.g., cyber attacks, natural disasters).
+    
+3. **Vulnerability**: Weaknesses in an asset that can be exploited by threats (e.g., software flaws, configuration issues).
+    
+4. **Event Frequency**: The estimated frequency of adverse events occurring (e.g., how often a specific threat might materialize).
+    
+5. **Loss Magnitude**: The potential impact or financial loss associated with an adverse event (e.g., costs from data breaches, recovery expenses).
+    
+6. **Risk**: The combination of event frequency and loss magnitude, representing the overall risk level.
+    
+7. **Controls**: Measures in place to reduce vulnerabilities or mitigate the impact of threats (e.g., firewalls, encryption).
 
 
 Hey, thank u! I did have a case interview. It’s not as daunting as it sounds. For my case, they essentially give me a few pages to read. The case company had a few problems and I had to come up with solutions on how I would tackle them. The interviewer just wants to know how you think/logic. So be sure to explain like
