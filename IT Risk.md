@@ -29,7 +29,18 @@ Hey, thank u! I did have a case interview. It’s not as daunting as it sounds. 
 2. Reasons to move
 3. Microservices vs Legacy code (technical debt if move fix this if have legacy code)
 4. Regulations
-5. 
+5. Security risks in transfer of info (should encrypt)
+	1. In transit encryption (TLS)
+	2. Data at rest encryption (AES-256)
+	3. Role based access control (RW, W, osv..)
+	4. 2FA
+6. Downtime and business continuity
+	1. solved by:
+		1. Gradual migration
+		2. pilot migration
+		3. Downtime scheduling (migrate on off-hours)
+7. Backups in case something goes wrong
+8. Incident response plan
 ##### Public Cloud
 
 - **Definition**: Services offered over the public internet, shared across multiple organizations.
