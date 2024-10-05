@@ -21,7 +21,16 @@ Hey, thank u! I did have a case interview. It’s not as daunting as it sounds. 
 2. How you would solve it e.g. you want to implement a software
 3. (Arguably most important imo) say how you would implement it. E.g. pilot roll out in a department first to fix issues then expand.
 
-### Public Cloud
+
+
+##### Migration risks to think about
+
+1. Costs (migration costs, running costs, Total cost of ownership comparison)
+2. Reasons to move
+3. Microservices vs Legacy code (technical debt if move fix this if have legacy code)
+4. Regulations
+5. 
+##### Public Cloud
 
 - **Definition**: Services offered over the public internet, shared across multiple organizations.
 - **Examples**: AWS, Google Cloud, Microsoft Azure.
@@ -30,7 +39,7 @@ Hey, thank u! I did have a case interview. It’s not as daunting as it sounds. 
 - **Security**: Security managed by the provider; might not meet specific regulatory requirements for sensitive data.
 - **Use Cases**: Best for non-sensitive data, web applications, and startups needing flexibility.
 
-### Private Cloud
+##### Private Cloud
 
 - **Definition**: Exclusive cloud infrastructure dedicated to a single organization.
 - **Examples**: On-premises servers, hosted private cloud services.
@@ -39,7 +48,7 @@ Hey, thank u! I did have a case interview. It’s not as daunting as it sounds. 
 - **Security**: Enhanced security and control, often compliant with regulatory requirements.
 - **Use Cases**: Ideal for businesses with strict security needs, such as finance and healthcare.
 
-### Hybrid Cloud
+##### Hybrid Cloud
 
 - **Definition**: Combines public and private clouds, allowing data and applications to be shared between them.
 - **Examples**: Utilizing public cloud services for less sensitive operations while keeping critical data in a private cloud.
