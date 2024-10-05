@@ -49,11 +49,13 @@ Hey, thank u! I did have a case interview. It’s not as daunting as it sounds. 
 2. Reasons to move
 3. Microservices vs Legacy code (technical debt if move fix this if have legacy code)
 4. Regulations
-5. Security risks in transfer of info (should encrypt)
+5. Security risks in transfer of info (should encrypt) (Data integrity)
 	1. In transit encryption (TLS)
 	2. Data at rest encryption (AES-256)
 	3. Role based access control (RW, W, osv..)
 	4. 2FA
+	5. Data mapping 
+		1. Data Mapping is the process of defining how data from one system (such as the old ERP) will correspond to data in another system (like the new ERP). It helps ensure that data is accurately transferred, maintains its integrity, and meets the new system's structure and requirements
 6. Downtime and business continuity
 	1. solved by:
 		1. Gradual migration
