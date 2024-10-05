@@ -1,4 +1,6 @@
 ##### FAIR (bra struktur)
+
+
 The key components of the FAIR model include:
 
 1. **Asset**: The resource or data that is being protected (e.g., information, systems).
@@ -41,7 +43,7 @@ Hey, thank u! I did have a case interview. It’s not as daunting as it sounds. 
 		3. Downtime scheduling (migrate on off-hours)
 7. Backups in case something goes wrong
 8. Incident response plan
-9. Third party risks - How will new vendors introduce new risks?
+9. Third party risks How will new vendors introduce new risks?
 ##### Public Cloud
 
 - **Definition**: Services offered over the public internet, shared across multiple organizations.
