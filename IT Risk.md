@@ -41,14 +41,24 @@ Hey, thank u! I did have a case interview. It’s not as daunting as it sounds. 
 2. How you would solve it e.g. you want to implement a software
 3. (Arguably most important imo) say how you would implement it. E.g. pilot roll out in a department first to fix issues then expand.
 
+**Key Components of a Contingency Plan:**
 
+1. **Risk Assessment:** Identify potential risks or disruptions (e.g., system failures, data breaches, natural disasters) and their potential impact.
+    
+2. **Response Strategies:** Outline specific actions to take when a risk materializes, including roles and responsibilities of team members.
+    
+3. **Communication Plan:** Define how to communicate with stakeholders during an incident, ensuring clear and timely updates.
+    
+4. **Resource Allocation:** Identify necessary resources (e.g., backup systems, personnel) needed to execute the plan effectively.
+    
+5. **Testing and Training:** Regularly test the plan through drills and training to ensure that everyone knows their roles and can respond effectively when needed.
 
 ##### Migration risks to think about
 
 1. Costs (migration costs, running costs, Total cost of ownership comparison)
 2. Reasons to move
 3. Microservices vs Legacy code (technical debt if move fix this if have legacy code)
-4. Regulations
+4. Regulations & compliance (for new provider and for ourselves)
 5. Security risks in transfer of info (should encrypt) (Data integrity)
 	1. In transit encryption (TLS)
 	2. Data at rest encryption (AES-256)
@@ -64,6 +74,12 @@ Hey, thank u! I did have a case interview. It’s not as daunting as it sounds. 
 7. Backups in case something goes wrong
 8. Incident response plan
 9. Third party risks How will new vendors introduce new risks?
+10. Have contingency plan in mind
+11. Integration problem with current dependencies
+12. User adoption (cultural impact of changing systems)
+13. Performance risks of new system - can it handle peak loads?
+14. Scalability - typ onprem inte skalbart fysiskt men cloud kanske inte skalbart pengar mässigt
+15. Post integration - training
 ##### Public Cloud
 
 - **Definition**: Services offered over the public internet, shared across multiple organizations.
