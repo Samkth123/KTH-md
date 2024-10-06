@@ -94,7 +94,13 @@ Example: Assessing the security of a web application before a product launch.
 Description: Focuses on assessing the potential impact of technology-related disruptions on business operations, continuity, and recovery. 
 Example: Determining the criticality of different systems to prioritize disaster recovery planning.
 
-Compliance Assessment Ensures that an organization adheres to relevant regulatory requirements and industry standards for data protection and security. Assessing an organization's compliance with GDPR or HIPAA regulations.
+**Compliance Assessment** 
+Definition: Ensures that an organization adheres to relevant regulatory requirements and industry standards for data protection and security. 
+Example: Assessing an organization's compliance with GDPR or HIPAA regulations.
+
+**Security Risk Matrices** 
+Definition: Utilizes matrices to evaluate and prioritize risks based on likelihood and impact, often using a scoring system. 
+Example Prioritizing security risks and vulnerabilities for mitigation based on their severity.
 ##### Public Cloud
 
 - **Definition**: Services offered over the public internet, shared across multiple organizations.
