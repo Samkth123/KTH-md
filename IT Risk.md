@@ -27,7 +27,26 @@ Solution:
 	1. Map IT infrastructure to supply chain and business function for holistic view
 	2. Relevant dimensions of analysis could be:
 		1. impact (business critical or not)
+		2. Severity (high/medium/low) of the identified issues in terms of stability, scalability, high TTM (time-to-market)
+		3. Type of application (e.g., custom vs. standard software)
+2. Describe approach I want to take to do the assesment
+	1. Look at documentation (Old incident reports to see stability issues, application map/inventory)
+	2. Interviews with key stakeholders (CIO, Head of IT Ops) to complement information
+3. Define drivers to prioritize deep dives and recommendations
 
+**Question 2:** What are the main technological levers that can be used to address the pain points raised by the CIO?
+Basically here you should tackle painpoints 1 by 1.
+
+1. Pain point "Stability"
+	1. Hypotheses on root causes 
+		1. Buggy/Badly written custom code (e.g., due to various changes over time) with limited or no documentation 
+		2. Outdated/out-of-support applications 
+		3. Excessive customization of packaged SW 
+	2. Suggested technical lever 
+		1. Refactoring of custom applications into a modular and de-coupled architecture: Adjusting current applications would be too complex. It might be easier to re-write entire/pieces of custom applications using new technologies and most importantly with a modular approach (e.g. "microservices architecture") that enables easier isolation of failures, allowing unaffected functionalities to carry on working, hence increasing overall stability
+		2. CI/CD implementation (mer scalability tho)
+		3. minimze technological debt
+2. Pain point "Scalability"
 
 ##### FAIR (bra struktur)
 The key components of the FAIR model include:
