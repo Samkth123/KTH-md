@@ -80,6 +80,21 @@ Hey, thank u! I did have a case interview. It’s not as daunting as it sounds. 
 13. Performance risks of new system - can it handle peak loads?
 14. Scalability - typ onprem inte skalbart fysiskt men cloud kanske inte skalbart pengar mässigt
 15. Post integration - training
+16. Congestion
+
+**Vulnerability Scanning**
+Description: Automated tools scan systems and applications to identify known vulnerabilities, such as missing patches or misconfigurations.
+Example of use: Regular scans of network infrastructure to identify and remediate vulnerabilities.
+
+**Penetration testing**
+Description: Ethical hackers simulate cyberattacks to identify weaknesses in a system's security defenses, helping to uncover unknown vulnerabilities.
+Example: Assessing the security of a web application before a product launch.
+
+**Business Impact Analysis** 
+Description: Focuses on assessing the potential impact of technology-related disruptions on business operations, continuity, and recovery. 
+Example: Determining the criticality of different systems to prioritize disaster recovery planning.
+
+Compliance Assessment Ensures that an organization adheres to relevant regulatory requirements and industry standards for data protection and security. Assessing an organization's compliance with GDPR or HIPAA regulations.
 ##### Public Cloud
 
 - **Definition**: Services offered over the public internet, shared across multiple organizations.
