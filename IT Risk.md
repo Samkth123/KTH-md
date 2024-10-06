@@ -1,6 +1,5 @@
 
 ##### How to approach the case
-
 - **Structure Your Analysis:**
     - **Identify Risks:** Categorize potential risks (e.g., operational, strategic, compliance, financial).
     - **Assess Impact and Likelihood:** Evaluate the severity and probability of each risk.
@@ -16,9 +15,21 @@
     - **Use Visual Aids:** If possible, incorporate diagrams or charts to illustrate points.
     - **Align with Business Goals:** Emphasize how your solutions support the client's overall objectives.
 
+
+
+
+##### BCG Platinion case
+
+**Question 1:** What is a possible approach for a quick assessment of the IT application landscape and how can we prioritize the areas of intervention?
+
+Solution:
+1. Define framework to drive assessment
+	1. Map IT infrastructure to supply chain and business function for holistic view
+	2. Relevant dimensions of analysis could be:
+		1. impact (business critical or not)
+
+
 ##### FAIR (bra struktur)
-
-
 The key components of the FAIR model include:
 
 1. **Asset**: The resource or data that is being protected (e.g., information, systems).
@@ -103,9 +114,9 @@ Definition: Utilizes matrices to evaluate and prioritize risks based on likeliho
 Example Prioritizing security risks and vulnerabilities for mitigation based on their severity.
 
 
-SaaS: Microsoft 365, salesforce
-PaaS: AWS, google cloud
-IaaS: Gives full place for developing: Heroku
+**SaaS**: Microsoft 365, salesforce
+**PaaS**: AWS, google cloud
+**IaaS**: Gives full place for developing: Heroku
 ##### Public Cloud
 
 - **Definition**: Services offered over the public internet, shared across multiple organizations.
