@@ -105,7 +105,7 @@ Example Prioritizing security risks and vulnerabilities for mitigation based on 
 
 SaaS: Microsoft 365, salesforce
 PaaS: AWS, google cloud
-IaaS: Gives 
+IaaS: Gives full place for developing: Heroku
 ##### Public Cloud
 
 - **Definition**: Services offered over the public internet, shared across multiple organizations.
