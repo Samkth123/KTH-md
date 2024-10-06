@@ -101,6 +101,11 @@ Example: Assessing an organization's compliance with GDPR or HIPAA regulations.
 **Security Risk Matrices** 
 Definition: Utilizes matrices to evaluate and prioritize risks based on likelihood and impact, often using a scoring system. 
 Example Prioritizing security risks and vulnerabilities for mitigation based on their severity.
+
+
+SaaS: Microsoft 365, salesforce
+PaaS: AWS, google cloud
+IaaS: Gives 
 ##### Public Cloud
 
 - **Definition**: Services offered over the public internet, shared across multiple organizations.
