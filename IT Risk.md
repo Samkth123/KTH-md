@@ -18,7 +18,7 @@
 
 
 
-##### BCG Platinion case
+##### BCG Platinion case (==DETTA FINNS JU BARA PÅ PDFEN ISTÄLLET...==)
 
 **Question 1:** What is a possible approach for a quick assessment of the IT application landscape and how can we prioritize the areas of intervention?
 
