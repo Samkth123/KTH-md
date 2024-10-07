@@ -864,6 +864,17 @@ How to practice (ok if it takes time)
 - Get good before you get fast
 - Enjoy: you will be laughing in excitement once you get a chart interpretation question
 
+Learnings:
+
+==Mot slutet: Guide team/client towards exactly what need to do further==
+- what data will you need and what will you do with it?
+- if you need to talk to someone, who is it? And what are you going to say?
+- What exactly are you going to do and how will you do it?
+
+When coming up with next steps, your framework is your closest ally
+
+Quantify your answers
+
 
 
 
