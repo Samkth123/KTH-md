@@ -821,7 +821,7 @@ Data-driven hypothesis testing
 
 
 ### 4 step approach to Chart interpretation
-
+==**AMAZING**==
 1. Map the territory
 	1. Forget the data, udnerstand what the chart can say
 	2. Basically chart can tell you if its good market or bad market
@@ -846,9 +846,23 @@ Data-driven hypothesis testing
 		1. Take framework paper and put it beside your insights
 		2. Draw arrows from insights and see what they answer from the case
 		3. Can work chart insights as answers to framework
-	2. Create next steps (super important a)
+	2. Create next steps for you, your team and your client(super important and also easy if you done previous steps well)
+		1. Four possible paths:
+			1. Finish the same branch of the framework
+			2. Move on to next branch
+			3. Create new branch
+			4. Close case and move on to execute 
+	3. Quantify your arguments (==easy points==)
+		1. Dont say A is larger than B
+		2. Say A is 30% larger than B
+		3. Dont say A grows faster than B
+		4. Say A grows 2x faster than B, or B will reach A in 2 years
 ![[Screenshot 2024-10-07 at 20.18.02.png]]
 
+How to practice (ok if it takes time)
+- Have a great framework at hand
+- Get good before you get fast
+- Enjoy: you will be laughing in excitement once you get a chart interpretation question
 
 
 
