@@ -813,9 +813,24 @@ Data-driven hypothesis testing
 	- Anyone can see what it shows
 	- We need to say what it shows and what it means - that is how we show value
 - ==Need to connect exhibit and case objective==
+	- bias towards action and give case related insights
 - ==Need to understand exhibit fully==
 	- normal to get chart you have not seen before
+	- Ask questions about everything you do not understand
 - ==Need to have next steps== (good way to impress interviewer)
+
+
+### 4 step approach to Chart interpretation
+
+1. Map the territory
+	1. Forget the data, udnerstand what the chart can say
+	2. Basically chart can tell you if its good market or bad market
+	3. Does not need to be what info is there
+	4. Think to yourself, how would the chart look like for each message it could send?
+	5. Basically looking at empty chart and see what the different parts would mean
+2. Read the nuance
+	1. The footnotes, labels, legends, are all there because they are important!!!
+	2. Can not ignore these, 
 
 
 
