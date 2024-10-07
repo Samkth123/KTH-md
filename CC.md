@@ -812,6 +812,10 @@ Data-driven hypothesis testing
 	- But this is not what client wants to hear
 	- Anyone can see what it shows
 	- We need to say what it shows and what it means - that is how we show value
+- ==Need to connect exhibit and case objective==
+- ==Need to understand exhibit fully==
+	- normal to get chart you have not seen before
+- ==Need to have next steps== (good way to impress interviewer)
 
 
 
