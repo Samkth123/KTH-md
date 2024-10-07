@@ -830,8 +830,24 @@ Data-driven hypothesis testing
 	5. Basically looking at empty chart and see what the different parts would mean
 2. Read the nuance
 	1. The footnotes, labels, legends, are all there because they are important!!!
-	2. Can not ignore these, 
-
+	2. Can not ignore these, you need to read everything on the chart that is not the middle stuff and axis you have read
+	3. Basically so you do not take conclusions based on data you do not understand
+	4. Here ask questions if you need to - do not be scared to ask questions and come up with half assed stuff - consultants need to understand everything before giving an answer specially because person on other end usually has lots of more experience than you and will see through random jargon and stuff you say
+	5. If not sure what a term or acronym mean on chart - ask
+3. Read the data 
+	1. Take numerical conclusions from the data
+	2. List these conclusions and synthetize them when possible, ex:
+		1. D best positioned BU: star
+		2. insight #2
+		3. insight #3
+		4. insight #4
+4. Interpret the data
+	1. Connect insights (from point 3) to framework
+		1. Take framework paper and put it beside your insights
+		2. Draw arrows from insights and see what they answer from the case
+		3. Can work chart insights as answers to framework
+	2. Create next steps (super important a)
+![[Screenshot 2024-10-07 at 20.18.02.png]]
 
 
 
