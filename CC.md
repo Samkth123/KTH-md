@@ -822,26 +822,26 @@ Data-driven hypothesis testing
 
 ### 4 step approach to Chart interpretation
 ==**AMAZING**==
-1. Map the territory
+1. **Map the territory**
 	1. Forget the data, udnerstand what the chart can say
 	2. Basically chart can tell you if its good market or bad market
 	3. Does not need to be what info is there
 	4. Think to yourself, how would the chart look like for each message it could send?
 	5. Basically looking at empty chart and see what the different parts would mean
-2. Read the nuance
+2. **Read the nuance**
 	1. The footnotes, labels, legends, are all there because they are important!!!
 	2. Can not ignore these, you need to read everything on the chart that is not the middle stuff and axis you have read
 	3. Basically so you do not take conclusions based on data you do not understand
 	4. Here ask questions if you need to - do not be scared to ask questions and come up with half assed stuff - consultants need to understand everything before giving an answer specially because person on other end usually has lots of more experience than you and will see through random jargon and stuff you say
 	5. If not sure what a term or acronym mean on chart - ask
-3. Read the data 
+3. **Read the data** 
 	1. Take numerical conclusions from the data
 	2. List these conclusions and synthetize them when possible, ex:
 		1. D best positioned BU: star
 		2. insight #2
 		3. insight #3
 		4. insight #4
-4. Interpret the data
+4. **Interpret the data**
 	1. Connect insights (from point 3) to framework
 		1. Take framework paper and put it beside your insights
 		2. Draw arrows from insights and see what they answer from the case
