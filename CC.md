@@ -803,8 +803,15 @@ also ask do we sell something else?
 
 
 
+## Chart Interpratation
 
-
+Data-driven hypothesis testing
+- exhibits are product of analysis done
+- need to make conclusion from chart
+- Most people say what they see - ex A is more than B
+	- But this is not what client wants to hear
+	- Anyone can see what it shows
+	- We need to say what it shows and what it means - that is how we show value
 
 
 
