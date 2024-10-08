@@ -94,7 +94,17 @@ Five C's when borrowing money
 
 evergreen fund goes on forever, closed end fund stops after a while
 
+syndication - co investment
+- people invest together and diversify risk
+- not only me who is stupid but other people as well
 
+
+Business model of PE firms
+
+distribution waterfall
+- prefered return: a minimum rate of return ex 8% which must be achieved before ant carried interest
+- carried inteerst share of profitcs above preffered return ex 20%
+management fees
 
 
 
