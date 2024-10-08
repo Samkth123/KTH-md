@@ -50,7 +50,7 @@ Three types of financing sources
 - bootstrapping
 	- owner
 	- family,friends
-	- customers, suppliers
+	- customers, suppliers (can ask custaomers to pay early, ==JAG GÖR + tar inte ut salary==)
 	- subsidies
 - Equity financing
 	- private equity (business angels, ventuer capital, buy out capital)
@@ -63,9 +63,9 @@ Three types of financing sources
 	- incubators
 
 
-
-
-
+Shares vs own work
+- concept is worth 600 k sek
+- i work iwthout salry could earn 35k per month which is 20k per month after tax. 18
 
 
 
