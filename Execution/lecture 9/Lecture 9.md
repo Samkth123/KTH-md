@@ -143,6 +143,13 @@ Royalty financing
 - it can exceed what you borrow but they do take risk
 
 
+**What i valued when?**
+early (transaction multiples ex 5xEBITDA) - expansion (market multiples) - mature (discounted cash flow)
+management -> business idea -> industry specific -> revenues -> cash flows
+
+
+
+
 
 
 
