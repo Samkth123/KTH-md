@@ -81,6 +81,12 @@ Ibbe Gnem method
 
 
 
+Catch 22 
+- impossible situation basically
+- banks will lend y
+
+
+
 
 
 
