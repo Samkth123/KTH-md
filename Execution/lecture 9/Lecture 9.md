@@ -13,6 +13,8 @@ doesnt hire people until absolutely have to - headcount is headache
 - ==när jag starta trodde jag jag skulle ha vissa uppgifter å inte andra men man har alla uppgifter i eget de va chock oxå å bra å höra om här==
 
 
+### Funding for Startups
+
 
 
 
