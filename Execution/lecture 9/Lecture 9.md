@@ -63,10 +63,21 @@ Three types of financing sources
 	- incubators
 
 
-Shares vs own work
+Shares vs own work (your time is worth something, ==berötta om delningen med krille==)
 - concept is worth 600 k sek
-- i work iwthout salry could earn 35k per month which is 20k per month after tax. 18
+- i work iwthout salry could earn 35k per month which is 20k per month after tax. 18 months 20 k = 360k
+- offer: familt/Friends 20% of compant for 240 k sek
+- shares
+	- entreprenur 960k (80%)
+	- familyfienrsd 240k 20%
+	- 1200k total
 
+
+Ibbe Gnem method
+- work for salary
+- save 50% of disposable income
+- After 6 months you can work on startup for 6 months without salary
+- After 12 months you ahve 12 months to go
 
 
 
