@@ -15,8 +15,15 @@ doesnt hire people until absolutely have to - headcount is headache
 
 ### Funding for Startups
 
+3 things that need to be balanced in triangle:
+- resources
+- time (deadline)
+- quality 
 
 
+When started business you have cash situation
+
+- Need to have a cash fl
 
 
 
