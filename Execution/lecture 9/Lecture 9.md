@@ -83,13 +83,16 @@ Ibbe Gnem method
 
 Catch 22 
 - impossible situation basically
-- banks will lend y
+- banks will lend you umbrella when its sunny outside, but want it back when its rainy
+
+Five C's when borrowing money
+- Capacity (company, personla, ability to pay back loan)
+- Capital (personal financial sgetnrhe)
+- ...
 
 
 
-
-
-
+evergreen fund goes on forever, closed end fund stops after a while
 
 
 
