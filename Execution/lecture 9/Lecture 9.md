@@ -1,4 +1,4 @@
-
+sources viktigt i reflection papar
 ##### Gästföreläsare
 Anna Lukins
 
@@ -107,7 +107,29 @@ distribution waterfall
 management fees
 
 
+How do i find
+- business angels
+	- No directory or website
+	- Go via different incubators
+	- Eric could direct to couple of people
+	- Get lots of requests - have dealflow that is disturbing to them - difficult to get their interest - best to find someone who has relation with them
+	- would like to have business angels who are into your area and worked in it before
+- venture capital companies
+	- sweden venture capital association
+	- Here everyone who is into PE is a member
+	- Also get many requests
 
+
+The pecking order theory
+- entrepreneurs prefer to use internal funding over debt funding
+
+the theory of asymmetric informtaion
+- you know more about your company than investors do, but they know more about general market than you do - so never equal distribution of information between you
+
+What to include in VC pitching
+- 5 key questions (basically business plan)
+	- 
+	- 
 
 
 
