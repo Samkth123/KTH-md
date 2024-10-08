@@ -128,9 +128,19 @@ the theory of asymmetric informtaion
 
 What to include in VC pitching
 - 5 key questions (basically business plan)
-	- 
-	- 
+	- Who sells
+	- what
+	- to whom
+	- why
+	- and at what price?
+- What more?
 
+Bring a 1 or 2 pager to VC as well
+
+
+Royalty financing
+- we believe in you and get money back by getting royalty from what you are selling
+- it can exceed what you borrow but they do take risk
 
 
 
