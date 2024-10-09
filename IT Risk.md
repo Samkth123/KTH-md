@@ -185,4 +185,15 @@ noSQL - horisontal scaling (Adding more computers)
 - unstructured & semi structured - good for images, JSON, osv
 - food for big data and ML - because can ingest and process lots of data quickly
 - Document databse MONGOdb - timeseries data, 
-- Column storage - Cassandra - good for distributed scaling & horizon
+- Column storage - Cassandra - good for distributed scaling horizontally
+- Graph database - good for complex relations - ex social netowrks (Neo4j) - flexible schema - slower on simple lookups compared to key value stores
+
+
+
+ETL (Extract, transform, load) - (better for structured data)
+retreievd from databse, transform data (clean), load into analysis
+Used alot in data warehouses or databse analysis
+
+ELT (Extract, load, transform) - (unstrusctured data)
+extract, load into target, then transform by power of target system
+Used alot in cloud where target platform can efficiently handle large columes of raw data
