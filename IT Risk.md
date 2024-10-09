@@ -206,7 +206,14 @@ Used alot in cloud where target platform can efficiently handle large columes of
 Ex: 
 Duplicate hardware components (e.g., servers, disks) so that if one fails, another can immediately handle the workload.
 
-Scalability
+**Scalability**
+- Vertical scaling (scaling up)
+	- Adding more resources to current hardware (GPU, storage, osv...)
+	- Benefits
+		- Easy to implement and manage
+	- Drawbacks
+		- Limited in how much scaling can do limited by hardware
+		- Introduces single p
 
 
 
