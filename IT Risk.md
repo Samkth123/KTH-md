@@ -69,46 +69,46 @@ The key components of the FAIR model include:
 Hey, thank u! I did have a case interview. It’s not as daunting as it sounds. For my case, they essentially give me a few pages to read. The case company had a few problems and I had to come up with solutions on how I would tackle them. The interviewer just wants to know how you think/logic. So be sure to explain like
 1. The problem e.g. the company is scaling and needs better centralization
 2. How you would solve it e.g. you want to implement a software
-3. (Arguably most important imo) say how you would implement it. E.g. pilot roll out in a department first to fix issues then expand.
+3. (Arguably most important imo) say how you would implement it. E.g. ==pilot roll out== in a department first to fix issues then expand.
 
-**Key Components of a Contingency Plan:**
+**Key Components of a ==Contingency Plan==:**
 
-1. **Risk Assessment:** Identify potential risks or disruptions (e.g., system failures, data breaches, natural disasters) and their potential impact.
+1. **==Risk Assessment==:** Identify potential risks or disruptions (e.g., system failures, data breaches, natural disasters) and their potential impact.
     
-2. **Response Strategies:** Outline specific actions to take when a risk materializes, including roles and responsibilities of team members.
+2. **==Response Strategies==:** Outline specific actions to take when a risk materializes, including roles and responsibilities of team members.
     
-3. **Communication Plan:** Define how to communicate with stakeholders during an incident, ensuring clear and timely updates.
+3. **==Communication Plan==:** Define how to communicate with stakeholders during an incident, ensuring clear and timely updates.
     
-4. **Resource Allocation:** Identify necessary resources (e.g., backup systems, personnel) needed to execute the plan effectively.
+4. **==Resource Allocation==:** Identify necessary resources (e.g., backup systems, personnel) needed to execute the plan effectively.
     
 5. **Testing and Training:** Regularly test the plan through drills and training to ensure that everyone knows their roles and can respond effectively when needed.
 
-##### Migration risks to think about
+##### ==Migration risks== to think about
 
-1. Costs (migration costs, running costs, Total cost of ownership comparison)
-2. Reasons to move
-3. Microservices vs Legacy code (technical debt if move fix this if have legacy code)
-4. Regulations & compliance (for new provider and for ourselves)
-5. Security risks in transfer of info (should encrypt) (Data integrity)
+1. ==Costs== (migration costs, running costs, Total cost of ownership comparison)
+2. ==Reasons== to move
+3. ==Microservices== vs Legacy code (technical debt if move fix this if have legacy code)
+4. ==Regulations & compliance== (for new provider and for ourselves)
+5.== Security risks in transfer== of info (should encrypt) (Data integrity)
 	1. In transit encryption (TLS)
 	2. Data at rest encryption (AES-256)
 	3. Role based access control (RW, W, osv..)
 	4. 2FA
-	5. Data mapping 
+	5. ==Data mapping== 
 		1. Data Mapping is the process of defining how data from one system (such as the old ERP) will correspond to data in another system (like the new ERP). It helps ensure that data is accurately transferred, maintains its integrity, and meets the new system's structure and requirements
-6. Downtime and business continuity
+6. ==Downtime and business continuity==
 	1. solved by:
-		1. Gradual migration
-		2. pilot migration
-		3. Downtime scheduling (migrate on off-hours)
-7. Backups in case something goes wrong
+		1. ==Gradual migration==
+		2. ==pilot migration==
+		3. ==Downtime scheduling== (migrate on off-hours)
+7. ==Backups== in case something goes wrong
 8. Incident response plan
-9. Third party risks How will new vendors introduce new risks?
+9. ==Third party risks== How will new vendors introduce new risks?
 10. Have contingency plan in mind
-11. Integration problem with current dependencies
-12. User adoption (cultural impact of changing systems)
-13. Performance risks of new system - can it handle peak loads?
-14. Scalability - typ onprem inte skalbart fysiskt men cloud kanske inte skalbart pengar mässigt
+11. ==Integration problem== with ==current dependencies==
+12. ==User adoption (cultural impact== of changing systems)
+13. ==Performance risks== of new system - ==can it handle peak loads==?
+14. ==Scalability== - typ onprem inte skalbart fysiskt men cloud kanske inte skalbart pengar mässigt
 15. Post integration - training
 16. Congestion
 
@@ -121,11 +121,11 @@ Description: Ethical hackers simulate cyberattacks to identify weaknesses in a s
 Example: Assessing the security of a web application before a product launch.
 
 **Business Impact Analysis** 
-Description: Focuses on assessing the potential impact of technology-related disruptions on business operations, continuity, and recovery. 
+Description: Focuses on assessing the ==potential impact of technology-related disruptions== on business operations, continuity, and recovery. 
 Example: Determining the criticality of different systems to prioritize disaster recovery planning.
 
 **Compliance Assessment** 
-Definition: Ensures that an organization adheres to relevant regulatory requirements and industry standards for data protection and security. 
+Definition: Ensures that an organization ==adheres to relevant regulatory requirements== and industry standards for data protection and security. 
 Example: Assessing an organization's compliance with GDPR or HIPAA regulations.
 
 **Security Risk Matrices** 
@@ -134,8 +134,8 @@ Example Prioritizing security risks and vulnerabilities for mitigation based on 
 
 
 **SaaS**: Microsoft 365, salesforce
-**PaaS**: AWS, google cloud
-**IaaS**: Gives full place for developing: Heroku
+**==PaaS==**: AWS, google cloud
+**==IaaS==**: Gives full place for developing: Heroku
 ##### Public Cloud
 
 - **Definition**: Services offered over the public internet, shared across multiple organizations.
@@ -269,8 +269,11 @@ Collaboration
 
 CI/CD pipeline
 - automated testing and deployment - minimize human error risk
-- faster push to production
-- 
+- more frequent iterations and faster pushes to production
+
+Culture
+- devops built on testing and being innovative
+- feedback loops and devops makes mistakes more kind to take care of 
 
 rollbacks - mistakes happen
 
