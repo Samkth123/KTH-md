@@ -167,4 +167,13 @@ Example Prioritizing security risks and vulnerabilities for mitigation based on 
 
 - **Public Cloud**: Cost-effective and scalable but less secure.
 - **Private Cloud**: More secure and controlled but at a higher cost.
-- **Hybrid Cloud**: Flexible, allowing a mix of both, catering to various needs and workloads.
+- **Hybrid Cloud**: Flexible, allowing a mix of both, catering to various needs and workloads.'
+
+
+**ACID**:
+**Atomicity** - either full transaction or no transacition
+**Consistency** - database goes from 1 consitent state to another consistent state
+**Isolation** - Transactions happen concurrently, but will be made in isolation so they are stable
+**Durability** - Once transaction committed, remains committed even if system failure (power outage or crash)
+
+While **horizontal scaling refers to adding additional nodes, vertical scaling describes adding more power to your current machines**
