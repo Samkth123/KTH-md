@@ -202,6 +202,10 @@ Used alot in cloud where target platform can efficiently handle large columes of
 
 ### System design challenges
 
+**Redundancy** refers to the inclusion of additional components or systems that can take over in case of a failure, ensuring continuous operation and minimizing downtime. 
+Ex: 
+Duplicate hardware components (e.g., servers, disks) so that if one fails, another can immediately handle the workload.
+
 Scalability
 
 
