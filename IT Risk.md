@@ -213,7 +213,33 @@ Duplicate hardware components (e.g., servers, disks) so that if one fails, anoth
 		- Easy to implement and manage
 	- Drawbacks
 		- Limited in how much scaling can do limited by hardware
-		- Introduces single p
+		- Introduces single point of failure
+- Horizontal scaling (scaling out)
+	- Add computers or hardware for distributed computing and handle load
+	- Benefits
+		- Can do it infinitely basically
+		- Adds redundancy
+	- Drawbacks
+		- Complex to manage
+		- Data synchronization problems
+		- Hard to balance traffic across nodes
+
+**Reliability**
+- Load balancers
+	- Distribute traffic onto different servers
+- Failover strategies
+	- Active Passive servers - one active server and one passive on standby
+	- Active Active servers - many servers that take load, if one fails, put load on the others
+- Backups and recovery
+	- On and offsite data backups
+	- Disaster and contingency plan
+	- Metrics such as recovery time per incident and recovery objectives
+
+Security
+- Network segmentation
+	- Segment network so if one part fails all does not fail
+- Pen testing
+	- test a
 
 
 
