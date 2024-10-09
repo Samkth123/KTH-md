@@ -208,6 +208,17 @@ Scalability
 
 
 
+### Devops
+
+rollbacks - mistakes happen
+
+culture - have process in place with devops mindset - not do easy & fast fixes - leads to technical debt
+
+
+
+
+
+
 
 
 
