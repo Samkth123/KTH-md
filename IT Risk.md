@@ -176,4 +176,13 @@ Example Prioritizing security risks and vulnerabilities for mitigation based on 
 **Isolation** - Transactions happen concurrently, but will be made in isolation so they are stable
 **Durability** - Once transaction committed, remains committed even if system failure (power outage or crash)
 
-While **horizontal scaling refers to adding additional nodes, vertical scaling describes adding more power to your current machines**
+While horizontal scaling refers to adding additional nodes, vertical scaling describes adding more power to your current machines
+
+SQL - vertical scaling (more power to same device) - but harder for horizontal scaling
+- fast reads as well pga structure
+- 
+noSQL - horisontal scaling (Adding more computers)
+- unstructured & semi structured - good for images, JSON, osv
+- food for big data and ML - because can ingest and process lots of data quickly
+- Document databse MONGOdb - timeseries data, 
+- Column storage - Cassandra - good for distributed scaling & horizon
