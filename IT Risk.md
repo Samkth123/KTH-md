@@ -1,4 +1,13 @@
 
+To perform a technology gap analysis, start by defining your current technology landscape and documenting existing systems and processes. Next, identify your desired future state—what technology or capabilities you need. Then, compare the two to identify gaps in functionality, performance, or compliance. Finally, prioritize these gaps based on their impact on your goals and develop a roadmap for addressing them. 
+
+- current tech landscape and systems and processes
+- desired future state - what tech capabilities need
+- compare two to find gaps in
+	- functionality
+	- performance
+	- compliance
+- prioriteze gaps based on impact on goals & develop roadmap to adress
 ##### How to approach the case
 - **Structure Your Analysis:**
     - **Identify Risks:** Categorize potential risks (e.g., operational, strategic, compliance, financial).
