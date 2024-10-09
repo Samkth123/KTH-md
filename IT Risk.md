@@ -245,6 +245,12 @@ Security
 
 
 ### Digitalization
+Transformative impact
+- organisational - automate processes
+- Analytics - monitoring and being data driven
+- Customer strategy - A/B testing, websites showcase customer journeys
+- Sales and CS - CRM systems
+- 
 
 
 
