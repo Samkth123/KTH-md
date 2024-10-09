@@ -299,7 +299,16 @@ chaos engineering
 
 
 
-
+==Microservices== to think about:
+- good for 
+	- business critical
+	- high frequency of fail
+	- Other stuff dependent on 
+==Cloud==:
+- good for dynamic traffic stuff
+- bad for if need low latency
+- technical compatability with legacy code
+	
 
 
 
