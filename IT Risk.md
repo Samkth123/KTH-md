@@ -1,6 +1,6 @@
 
-To perform a technology gap analysis, start by defining your current technology landscape and documenting existing systems and processes. Next, identify your desired future state—what technology or capabilities you need. Then, compare the two to identify gaps in functionality, performance, or compliance. Finally, prioritize these gaps based on their impact on your goals and develop a roadmap for addressing them. 
-
+To perform a technology ==gap analysis==, start by defining your current technology landscape and documenting existing systems and processes. Next, identify your desired future state—what technology or capabilities you need. Then, compare the two to identify gaps in functionality, performance, or compliance. Finally, prioritize these gaps based on their impact on your goals and develop a roadmap for addressing them. 
+**==gap==**
 - current tech landscape and systems and processes
 - desired future state - what tech capabilities need
 - compare two to find gaps in
