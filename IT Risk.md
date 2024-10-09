@@ -239,8 +239,12 @@ Security
 - Network segmentation
 	- Segment network so if one part fails all does not fail
 - Pen testing
-	- test a
+	- test netowrk
+- Zero trust architecture
+	- Access controls, culture of threat could be from inside and outside, continuous monitoring, verify requests, check backdoors and such
 
+
+### Digitalization
 
 
 
