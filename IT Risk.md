@@ -190,10 +190,10 @@ noSQL - horisontal scaling (Adding more computers)
 
 
 
-ETL (Extract, transform, load) - (better for structured data)
+**ETL** (Extract, transform, load) - (better for structured data)
 retreievd from databse, transform data (clean), load into analysis
 Used alot in data warehouses or databse analysis
 
-ELT (Extract, load, transform) - (unstrusctured data)
+**ELT** (Extract, load, transform) - (unstrusctured data)
 extract, load into target, then transform by power of target system
 Used alot in cloud where target platform can efficiently handle large columes of raw data
