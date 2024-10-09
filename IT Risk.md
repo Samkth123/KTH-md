@@ -264,6 +264,12 @@ Duplicate hardware components (e.g., servers, disks) so that if one fails, anoth
 - ==Change management== - training programs, culture shifts, demostrate benefits to overcome resiliance, communication
 
 
+### Risks in AI
+- Not much historical data
+- Complex training we do not know how behave
+- Young regulation environment & standardization for risks
+- Ethical problems like bias
+
 ### Mergers
 
 Cultures - Two differnet cultures, do team building to get teams together, open communication between two different groups
