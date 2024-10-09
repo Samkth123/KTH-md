@@ -263,6 +263,15 @@ Workforce impact - be transparent about shifts in roles, help people re skill et
 
 ### Devops
 
+Collaboration
+- IT and Operations team
+- cross functional teams
+
+CI/CD pipeline
+- automated testing and deployment - minimize human error risk
+- faster push to production
+- 
+
 rollbacks - mistakes happen
 
 culture - have process in place with devops mindset - not do easy & fast fixes - leads to technical debt
