@@ -206,25 +206,25 @@ Used alot in cloud where target platform can efficiently handle large columes of
 Ex: 
 Duplicate hardware components (e.g., servers, disks) so that if one fails, another can immediately handle the workload.
 
-**Scalability**
+**==Scalability==**
 - Vertical scaling (scaling up)
 	- Adding more resources to current hardware (GPU, storage, osv...)
 	- Benefits
 		- Easy to implement and manage
 	- Drawbacks
 		- Limited in how much scaling can do limited by hardware
-		- Introduces single point of failure
+		- ==Introduces single point of failure==
 - Horizontal scaling (scaling out)
 	- Add computers or hardware for distributed computing and handle load
-	- Benefits
+	- ==Benefits==
 		- Can do it infinitely basically
 		- Adds redundancy
-	- Drawbacks
+	- ==Drawbacks==
 		- Complex to manage
 		- Data synchronization problems
 		- Hard to balance traffic across nodes
 
-**Reliability**
+**==Reliability==**
 - Load balancers
 	- Distribute traffic onto different servers
 - Failover strategies
@@ -235,7 +235,7 @@ Duplicate hardware components (e.g., servers, disks) so that if one fails, anoth
 	- Disaster and contingency plan
 	- Metrics such as recovery time per incident and recovery objectives
 
-Security
+==Security==
 - Network segmentation
 	- Segment network so if one part fails all does not fail
 - Pen testing
@@ -246,13 +246,13 @@ Security
 
 ### Digitalization
 **Transformative impact**
-- organisational - automate processes, ERP
-- Analytics - monitoring and being data driven
-- Customer strategy - A/B testing, websites showcase customer journeys
-- Sales and CS - CRM systems
+- ==organisational== - automate processes, ERP
+- ==Analytics== - monitoring and being data driven
+- ==Customer strategy== - A/B testing, websites showcase customer journeys
+- ==Sales and CS== - CRM systems
 **Challenges**:
-- Legacy system migration or integration
-- Change management - training programs, culture shifts, demostrate benefits to overcome resiliance, communication
+- ==Legacy== system migration or integration
+- ==Change management== - training programs, culture shifts, demostrate benefits to overcome resiliance, communication
 
 
 ### Mergers
