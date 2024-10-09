@@ -245,15 +245,21 @@ Security
 
 
 ### Digitalization
-Transformative impact
-- organisational - automate processes
+**Transformative impact**
+- organisational - automate processes, ERP
 - Analytics - monitoring and being data driven
 - Customer strategy - A/B testing, websites showcase customer journeys
 - Sales and CS - CRM systems
-- 
+**Challenges**:
+- Legacy system migration or integration
+- Change management - training programs, culture shifts, demostrate benefits to overcome resiliance, communication
 
 
+### Mergers
 
+Cultures - Two differnet cultures, do team building to get teams together, open communication between two different groups
+Integrating tech stacks - slowly and piloting, create roadmap
+Workforce impact - be transparent about shifts in roles, help people re skill etc
 
 ### Devops
 
