@@ -170,6 +170,8 @@ Example Prioritizing security risks and vulnerabilities for mitigation based on 
 - **Hybrid Cloud**: Flexible, allowing a mix of both, catering to various needs and workloads.'
 
 
+
+### Databases
 **ACID**:
 **Atomicity** - either full transaction or no transacition
 **Consistency** - database goes from 1 consitent state to another consistent state
@@ -188,8 +190,6 @@ noSQL - horisontal scaling (Adding more computers)
 - Column storage - Cassandra - good for distributed scaling horizontally
 - Graph database - good for complex relations - ex social netowrks (Neo4j) - flexible schema - slower on simple lookups compared to key value stores
 
-
-
 **ETL** (Extract, transform, load) - (better for structured data)
 retreievd from databse, transform data (clean), load into analysis
 Used alot in data warehouses or databse analysis
@@ -197,3 +197,29 @@ Used alot in data warehouses or databse analysis
 **ELT** (Extract, load, transform) - (unstrusctured data)
 extract, load into target, then transform by power of target system
 Used alot in cloud where target platform can efficiently handle large columes of raw data
+
+
+
+### System design challenges
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
