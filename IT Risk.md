@@ -172,7 +172,7 @@ Example Prioritizing security risks and vulnerabilities for mitigation based on 
 
 
 ### Databases
-**ACID**:
+**==ACID==**:
 **Atomicity** - either full transaction or no transacition
 **Consistency** - database goes from 1 consitent state to another consistent state
 **Isolation** - Transactions happen concurrently, but will be made in isolation so they are stable
@@ -188,7 +188,7 @@ noSQL - horisontal scaling (Adding more computers)
 - food for big data and ML - because can ingest and process lots of data quickly
 - Document databse MONGOdb - timeseries data, 
 - Column storage - Cassandra - good for distributed scaling horizontally
-- Graph database - good for complex relations - ex social netowrks (Neo4j) - flexible schema - slower on simple lookups compared to key value stores
+- ==Graph database== - good for complex relations - ex social netowrks (Neo4j) - flexible schema - slower on simple lookups compared to key value stores
 
 **ETL** (Extract, transform, load) - (better for structured data)
 retreievd from databse, transform data (clean), load into analysis
