@@ -297,7 +297,8 @@ culture - have process in place with devops mindset - not do easy & fast fixes -
 chaos engineering
 
 
-
+What is ==Infrastructure as code== (IaC)?
+- Many of the real challenges don’t emerge until teams hit the ground in actual delivery. This is why it's so important to use infrastructure as code. IaC can be integrated seamlessly with testing and monitoring tools. This allows you to validate infrastructure changes through automated testing, perform continuous integration and delivery (CI/CD), and monitor the infrastructure's performance and health in real-time. IaC helps facilitate such integrations and ensures that infrastructure changes are thoroughly tested and monitored.
 
 ==Microservices== to think about:
 - good for 
