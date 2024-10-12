@@ -98,7 +98,7 @@ Hey, thank u! I did have a case interview. It’s not as daunting as it sounds. 
 2. ==Reasons== to move
 3. ==Microservices== vs Legacy code (technical debt if move fix this if have legacy code)
 4. ==Regulations & compliance== (for new provider and for ourselves)
-5.== Security risks in transfer== of info (should encrypt) (Data integrity)
+5.==Security risks in transfer== of info (should encrypt) (Data integrity)
 	1. In transit encryption (TLS)
 	2. Data at rest encryption (AES-256)
 	3. Role based access control (RW, W, osv..)
