@@ -1,7 +1,7 @@
 
 #### Industries:
 1. Banking and Financial Services
-2. Retail
+2. Retail - 1
 3. Consumer Packaged Goods (CPG)
 4. Technology
 5. Healthcare Providers – Doctors, etc.
@@ -18,7 +18,7 @@
 #### Case types
 
 1. Profit Improvement
-2. Market Entry
+2. Market Entry - 1
 3. Opportunity Assessment
 4. Increasing Sales
 5. Merger / Acquisition
