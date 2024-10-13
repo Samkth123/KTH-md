@@ -162,7 +162,14 @@ What are the easy multipliers to look. These are a good start:
 - If you know 66% of the market is X, you can multiply X against 1.5
 
 
+### Percentages
+##### Percentages: Simplifying percentages calculations
 
+Occasionally, you're faced with messy percentages and you'll be asked to find a precise answer, instead of an estimate which will often suffice. For example, consider the problem what is 43% of $52M in top line revenues?
+
+A helpful approach to solving this problem is to break it down into two components. So the first step is to re-write this problem as (40% * $52M) + (3% * $52M). Once you've got the problem broken down, you can set upon solving each component. This reduces to $20.8M + $1.56M and once you sum those, you have $22.36M.
+
+If the one of the terms in the equation is still too messy, consider breaking it down further. You can do this with for both terms if necessary, or just for one. For example, if the latter term was still too messy, (3% x $52M), could be re-written as (3 * (1% * $52M)). This would yield (3 * $520K), which results is $1.56M.
 
 
 
