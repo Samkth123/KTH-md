@@ -170,13 +170,28 @@ Occasionally, you're faced with messy percentages and you'll be asked to find a 
 A helpful approach to solving this problem is to break it down into two components. So the first step is to re-write this problem as (40% * $52M) + (3% * $52M). Once you've got the problem broken down, you can set upon solving each component. This reduces to $20.8M + $1.56M and once you sum those, you have $22.36M.
 
 If the one of the terms in the equation is still too messy, consider breaking it down further. You can do this with for both terms if necessary, or just for one. For example, if the latter term was still too messy, (3% x $52M), could be re-written as (3 * (1% * $52M)). This would yield (3 * $520K), which results is $1.56M.
+##### Estimating: Key principles of estimation
+
+Estimating is a critical skill in and of itself, and will save you loads of unnecessary stress in mental math problems. It's useful across any type of case math problem and you should always be on the lookout for opportunities to make smart estimations.
+
+For example, say you're working through a profitability case and you come to a point where you're calculating the absolute cost of a certain component. You know that this cost is 19% of overall revenues, and overall revenues are $569M. Arriving at the specific answer here would be difficult, but estimations will help dramatically.
+
+The two estimating principles to keep in mind: 1) round to the nearest, "clean" numbers divisible by 5 or 10 number (eg rounding 19% to 18% isn't going to help at all, but 19% to 20% will) and 2) be cognizant of the scale of the estimation you're making (eg, rounding 19% to 20% is scaling up by about 5%, since 1/19 is 5.2%).
+
+So for the problem at hand, keeping the above principles in mind, round 19% to 20%, which is scaling up about 5% and round $569 up to $570M, which is a negligible change percentage wise. The resulting estimated answer is $114M, which you'll know is a roughly 5% over estimation. And indeed, $114M is 5.2% higher than the actual answer of $108.1M.
 
 
+##### Estimating: Balancing over and under swings
 
+When estimating, there will be times when getting to the nearest clean number will mean scaling both numbers up or it won't simplify the math enough to be useful.
 
+In these cases, it is still helpful to estimate but look for opportunities to balance the the scale of the estimations you're making. For example, if you round one number up by 10%, see if it's possible to round down the other by 10% or something in the same ballpark.
 
+For example, if you have the problem 8,378 * 9,472, you might have an initial inclination to quickly round to 8,400 * 9,500. This would create some benefit because the numbers are cleaner but there are two problems: you've scaled both numbers up and it's still not a super simple problem to solve.
 
+An alternative would be to recognize that you could round 8,378 down to 8,000 which is a roughly 5% scaling down and then round 9,472 up to 10,000, which is a roughly 5% scaling up. The advantage here is that 8,000 * 10,000 is a much easier problem and since you're scaling by 5% up and then 5% down, the estimate will be fairly accurate.
 
+Indeed, the exact answer here is 79,356,416 and our estimate is 80,000,000, so the estimate is only off by roughly 0.8% - pretty good!
 
 
 
