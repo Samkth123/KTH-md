@@ -139,7 +139,7 @@ If growth over 2 years, and small growth rate, can understand that 10% over two 
 
 ###### Rule of 72
 divide 72 by growth and you will see when double the revenue or number
-Good for gut check, as if 100 with growth 10% per year the investment will double in 
+Good for gut check, as if 100 with growth 10% per year the investment will double in 7.2years, but it should increase 50% in 3,6 years, 25% in 1,8y osv
 
 
 
