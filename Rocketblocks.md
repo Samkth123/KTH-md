@@ -63,6 +63,88 @@ Factoring both: Take the problem 210 / 42. This can be factored into (30 * 7) / 
 - Identify canceling numbers
 - Divide remaining numbers
 
+##### ==Division: Handy fractions and rules==
+
+Walking through some of the common fractions can be helpful to anchor yourself because those ratios will pop up as you're working through division problems.
+
+- 1/2 is 0.5
+- 1/3 is ~0.33 (repeating)
+- 1/4 is 0.25
+- 1/5 is 0.20
+- 1/6 is ~0.16 (repeating)
+- 1/7 is ~0.14
+- 1/8 is 0.125
+- 1/9 is ~0.11 (repeating)
+
+Här blir det enkelt, ex 729/8 = 720/8 är 90 + 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
