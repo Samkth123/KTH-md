@@ -13,6 +13,7 @@
 
 ### Maths
 
+#### Multiplication
 **The magic "10" crutch technique**
 
 The “10” crutch rule: finally, there is one last handy dividing trick related to the number 10. If you need to divide something by 5, you can use division by 10 as a crutch. Instead of dividing directly by 5, divide the number by 10, then multiply times 2.
@@ -22,11 +23,45 @@ For example, 5,890 / 5 can be converted into (5,890 / 10) * 2. So in this case, 
 **==TÄNK PÅ ATT DET ÄR /10 SEN x2 inte /2!!!==**
 
 
+#### Division
 
+##### **==Simplifying with subtraction==**
+If you’ve got a messy division problem, you can also break apart the dividend into two components which when subtracted from each equal the original dividend and are more easily divided by the divisor. Then, divide each by the divisor and subtract them.
 
+For example, take 740 / 5. At first glance, this might seem messy to solve but if you can break it up into (800 - 60) / 5, which is the same as (800 / 5) - (60 / 5), the problem becomes easier. Solve each separately, (800 / 5) = 160 and (60 / 5) = 12. Then subtract them, 160 - 12 = 148.
 
+**Technique recap**
 
+- Break apart the dividend
+- Solve for each component
+- Subtract the results
 
+##### Division: Simplifying with addition
+If you’ve got a messy division problem, you can break apart the dividend into two components which add together to the original dividend. Then, again, you can divide each by the divisor and add them together.
+
+For example, take 11,124 / 3. You can first split the dividend into (11,100 + 24) / 3. This helps since 24 / 3 is 8, but the first part is still messy. Re-apply the rule so you get (9,000 + 2,100 + 24) / 3. Now you’ve got numbers easily divisible by three throughout the dividend: (9,000 / 3) + (2,100 / 3) + (24/3) = 3,000 + 700 + 8, so the answer is 3,708!
+
+**Technique recap**
+
+- Break apart the dividend
+- Solve for each component
+- Add the results
+
+##### Division: Magic of factoring
+
+This is the key to simplifying a lot of messy division problems and you can use it on the numerator or denominator. You can factor the numerator, the denominator or both!
+
+Factoring the numerator: If you’ve got a messy problem like 500 / 4, you could factor this into 5 * (100 / 4) and solve. (100 / 4 ) = 25, so 5 * 25 = 125.
+
+Factoring the denominator: Take the problem 500 / 4 again. ==Another approach is to attack the denominator and say dividing by 4 is really like dividing by 2 twice (eg dividing by 2 and then immediately dividing by 2 again).== So 500 / 4 is really 500 / 2 / 2 or 500 / 2 = 250 and 250 / 2 = 125.
+
+Factoring both: Take the problem 210 / 42. This can be factored into (30 * 7) / (6 * 7). The 7s will cancel out leaving you with 30 / 6, so the answer is 5.
+
+**Technique recap**
+
+- Factor the dividend and divider
+- Identify canceling numbers
+- Divide remaining numbers
 
 
 
