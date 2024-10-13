@@ -97,8 +97,13 @@ Multiplying smaller numbers: One way to simplify the madness of keeping track of
 
 For example, take the problem 250 * 400. Start by counting and then removing the zeros. There are three zeros, so you should remove them and make a mental note that your answer must be multiplied by a zeroes placeholder. In this case, that zeroes placeholder is 1,000, to account for those three zeros. So now you’ve got (25 * 4) * 1,000, which equates to 100 * 1,000, which is 100,000.
 
+##### ==Handling loooots of zeros==
 
-
+Multiply 45,000 by 600,000
+- 45k x 600k 
+- 45k x 6k x 100
+- 45x2x3 = 90x3 = 270
+- 270 x k x k x 100 = 27000000000 = 27B
 
 
 
