@@ -91,7 +91,11 @@ In a similar vein, there are a handful of key divisibility rules you can keep in
 
 ### Multiplication
 
+##### Multiplication: Handling zeroes
 
+Multiplying smaller numbers: One way to simplify the madness of keeping track of zeroes is to simply count the zeros, assign it a multiplier, do the non-zero math and then remember to multiply that answer times the multiplier you stored a second earlier.
+
+For example, take the problem 250 * 400. Start by counting and then removing the zeros. There are three zeros, so you should remove them and make a mental note that your answer must be multiplied by a zeroes placeholder. In this case, that zeroes placeholder is 1,000, to account for those three zeros. So now you’ve got (25 * 4) * 1,000, which equates to 100 * 1,000, which is 100,000.
 
 
 
