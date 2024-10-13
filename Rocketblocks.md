@@ -142,8 +142,24 @@ divide 72 by growth and you will see when double the revenue or number
 Good for gut check, as if 100 with growth 10% per year the investment will double in 7.2years, but it should increase 50% in 3,6 years, 25% in 1,8y osv
 
 
+##### Dealing with variable growth figures
+
+Rate change = 1 + rateQuantity + ratePrice + (rateQuantity * ratePrice)
+
+rateQuantity sales growth
+ratePrice is price change
 
 
+### Market math
+
+What are the easy multipliers to look. These are a good start:
+
+- If you know 5% of the market is X, you can multiply X against 20
+- If you know 10% of the market is X, you can multiply X against 10
+- If you know 25% of the market is X, you can multiply X against 4
+- If you know 50% of the market is X, you can multiply X against 2
+- If you know 33% of the market is X, you can multiply X against 3
+- If you know 66% of the market is X, you can multiply X against 1.5
 
 
 
