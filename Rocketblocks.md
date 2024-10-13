@@ -105,7 +105,15 @@ Multiply 45,000 by 600,000
 - 45x2x3 = 90x3 = 270
 - 270 x k x k x 100 = 27000000000 = 27B
 
+##### ==Multiplication: Techniques for multiplying by 5 and 25==
 
+Multiplying by 5: Multiply by 10 and then divide the result by 2. This can simplify multiplication problems where 5 is the multiplier.
+
+For example: Take the problem, 6,400 * 5. You can translate that to (6,400 * 10) / 2, and that’s a much easier problem to solve. As 64,000 / 2 = 32,000. 
+
+Multiplying by 25: Multiply by 100 and then divide the result by 4. Again, this can help simplify things when 25 is the multiplier.
+
+==**For example**==: Take the problem 2,420 * 25. You can translate this into (2,420 * 100) / 4. So now you’ve got 242,000 / 4. This might seem daunting but if you re-use what you learned in division you know you can factor this to (242 * 1,000) / 4, which would be (242 / 4) * 1,000. Again, from earlier you know that 242 / 4 can be simplified to 242 / 2 / 2 so 121 / 2 = 60.5 and 60.5 * 1,000 = 60,500.
 
 
 
