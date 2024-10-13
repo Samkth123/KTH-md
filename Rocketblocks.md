@@ -115,7 +115,11 @@ Multiplying by 25: Multiply by 100 and then divide the result by 4. Again, this 
 
 ==**For example**==: Take the problem 2,420 * 25. You can translate this into (2,420 * 100) / 4. So now you’ve got 242,000 / 4. This might seem daunting but if you re-use what you learned in division you know you can factor this to (242 * 1,000) / 4, which would be (242 / 4) * 1,000. Again, from earlier you know that 242 / 4 can be simplified to 242 / 2 / 2 so 121 / 2 = 60.5 and 60.5 * 1,000 = 60,500.
 
+##### ==Multiplication: Dealing with messy multipliers==
 
+The distributive law is your friend. Multiplying messy numbers can be simplified by breaking down the problem using the distributive law and addition.
+
+For example, if the problem is 530 x 200, you can break this down into (500 + 30) * 200, which is a much easier problem. Now you’ve got (500 * 200) + (30 * 200) as the problem. You can use the small multiplication techniques to get 100,000 for the first term and 6,000 for the second term, so add them together for the answer which is 106,000.
 
 
 
