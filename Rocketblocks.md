@@ -134,7 +134,8 @@ Now solve the algebraic equation for units. To make it easier, try factoring M i
 
 You can cancel out a single K on top and bottom, leaving you with ($90 / $27) * K. $90 / $27 reduces to 10 / 3, if you divide each by 9. So now you’ve got 10/3 or 3.333 * K, so the answer is 3,333.
 
-
+### Growth
+If growth over 2 years, and small growth rate, can understand that 10% over two years is 1.1x1.1 =1.21 but also can be seen as 1.1+1.1 = 1.2 which is almost same
 
 
 
