@@ -122,7 +122,17 @@ The distributive law is your friend. Multiplying messy numbers can be simplified
 For example, if the problem is 530 x 200, you can break this down into (500 + 30) * 200, which is a much easier problem. Now you’ve got (500 * 200) + (30 * 200) as the problem. You can use the small multiplication techniques to get 100,000 for the first term and 6,000 for the second term, so add them together for the answer which is 106,000.
 
 
+### Breakevens
 
+##### Breakevens: Dealing with messy, large numbers
+
+One more example: Say the upfront cost to train personnel and create a new servicing unit for the enterprise arm of a large Canadian telecoms company is $90,000,000, service cost is $63,000 and expected service price is $90,000.
+
+How many service installations do they need to breakeven? Setup the formula first: $90,000,000 = ($90,000 - $63,000) * units. Here, given the large numbers, it makes sense to use placeholders to simplify, so you can re-write the equation: $90M = ($90K - $63K) * units. Now, calculate unit margin so you’ve got $90M = $27K * units.
+
+Now solve the algebraic equation for units. To make it easier, try factoring M into K * K (see placeholder above if forgot this). So now you’ve got: $90 * K * K / $27 * K.
+
+You can cancel out a single K on top and bottom, leaving you with ($90 / $27) * K. $90 / $27 reduces to 10 / 3, if you divide each by 9. So now you’ve got 10/3 or 3.333 * K, so the answer is 3,333.
 
 
 
