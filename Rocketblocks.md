@@ -137,6 +137,10 @@ You can cancel out a single K on top and bottom, leaving you with ($90 / $27) * 
 ### Growth
 If growth over 2 years, and small growth rate, can understand that 10% over two years is 1.1x1.1 =1.21 but also can be seen as 1.1+1.1 = 1.2 which is almost same
 
+###### Rule of 72
+divide 72 by growth and you will see when double the revenue or number
+Good for gut check, as if 100 with growth 10% per year the investment will double in 
+
 
 
 
