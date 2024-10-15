@@ -346,9 +346,55 @@ Here are the pros and cons of **==APIs==**:
 
 
 
+Common stacks:
+###### 1. **MEAN Stack**
+- **Components:**
+    - **MongoDB:** NoSQL database for storing data in JSON-like documents.
+    - **Express.js:** Web application framework for Node.js, simplifying server-side development.
+    - **Angular:** Frontend framework for building dynamic single-page applications.
+    - **Node.js:** JavaScript runtime for server-side programming.
+- **Use Cases:** Ideal for full-stack JavaScript applications, particularly real-time applications like chat apps.
+    
+###### 2. **MERN Stack**
+- **Components:**
+    - **MongoDB:** Same as above.
+    - **Express.js:** Same as above.
+    - **React:** JavaScript library for building user interfaces, focusing on component-based architecture.
+    - **Node.js:** Same as above.
+- **Use Cases:** Excellent for projects requiring a responsive and high-performing frontend, like dashboards and social media platforms.
+    
+###### 3. **LAMP Stack**
+- **Components:**
+    - **Linux:** Operating system that supports the stack.
+    - **Apache:** Web server for serving web applications.
+    - **MySQL:** Relational database management system for structured data.
+    - **PHP:** Server-side scripting language for dynamic web content.
+- **Use Cases:** Traditional web applications, content management systems (like WordPress), and e-commerce sites.
+    
+###### 4. **Django Stack**
+- **Components:**
+    - **Django:** High-level Python web framework that encourages rapid development.
+    - **PostgreSQL:** Advanced relational database for data storage.
+    - **HTML/CSS/JavaScript:** Standard languages for structuring and styling web content.
+- **Use Cases:** Ideal for data-driven applications, APIs, and sites requiring strong security features, like financial apps.
+    
+###### 5. **.NET Stack**
+- **Components:**
+    - **ASP.NET:** Framework for building web applications and services with .NET.
+    - **C#:** Programming language commonly used with .NET for server-side development.
+    - **SQL Server:** Relational database management system by Microsoft.
+- **Use Cases:** Enterprise-level applications, particularly in sectors requiring robust security and scalability, like healthcare and finance.
+###### 6. **Serverless Stack**
 
+- **Components:**
+    
+    - **AWS Lambda:** Serverless compute service that runs code in response to events.
+    - **API Gateway:** Service for creating and managing APIs.
+    - **DynamoDB:** NoSQL database service for fast and flexible data storage.
+- **Use Cases:** Highly scalable applications, microservices, and applications with variable workloads, such as mobile backends.
+    
 
-
+---
 
 
 
