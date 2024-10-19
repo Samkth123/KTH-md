@@ -396,7 +396,9 @@ Common stacks:
 
 ---
 
+Api integration hard against Banks where need real time uppdaterad and such
 
+Creatre webapp witth python shit kolla luren
 
 
 
