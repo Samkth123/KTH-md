@@ -2,7 +2,7 @@ sources viktigt i reflection papar
 ##### Gästföreläsare
 Anna Lukins
 
-doesnt hire people until absolutely have to - headcount is headache
+k
 - would rather put moneyon automating solutions rather than hiring people
 - company always has been lean which has been to advantage
 - ==JÄmför med eget där jag anställde massa å gjorde escape room utan framåt ide, borde fokuserat på en person å get massa resurser till den personen==
