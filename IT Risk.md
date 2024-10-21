@@ -57,24 +57,6 @@ Basically here you should tackle painpoints 1 by 1.
 		3. minimze technological debt
 2. Pain point "Scalability"
 
-##### FAIR (bra struktur)
-The key components of the FAIR model include:
-
-1. **Asset**: The resource or data that is being protected (e.g., information, systems).
-    
-2. **Threat**: Any potential danger that could exploit a vulnerability (e.g., cyber attacks, natural disasters).
-    
-3. **Vulnerability**: Weaknesses in an asset that can be exploited by threats (e.g., software flaws, configuration issues).
-    
-4. **Event Frequency**: The estimated frequency of adverse events occurring (e.g., how often a specific threat might materialize).
-    
-5. **Loss Magnitude**: The potential impact or financial loss associated with an adverse event (e.g., costs from data breaches, recovery expenses).
-    
-6. **Risk**: The combination of event frequency and loss magnitude, representing the overall risk level.
-    
-7. **Controls**: Measures in place to reduce vulnerabilities or mitigate the impact of threats (e.g., firewalls, encryption).
-
-
 Hey, thank u! I did have a case interview. It’s not as daunting as it sounds. For my case, they essentially give me a few pages to read. The case company had a few problems and I had to come up with solutions on how I would tackle them. The interviewer just wants to know how you think/logic. So be sure to explain like
 1. The problem e.g. the company is scaling and needs better centralization
 2. How you would solve it e.g. you want to implement a software
@@ -98,7 +80,7 @@ Hey, thank u! I did have a case interview. It’s not as daunting as it sounds. 
 2. ==Reasons== to move
 3. ==Microservices== vs Legacy code (technical debt if move fix this if have legacy code)
 4. ==Regulations & compliance== (for new provider and for ourselves)
-5.==Security risks in transfer== of info (should encrypt) (Data integrity)
+5. ==Security risks in transfer== of info (should encrypt) (Data integrity)
 	1. In transit encryption (TLS)
 	2. Data at rest encryption (AES-256)
 	3. Role based access control (RW, W, osv..)
