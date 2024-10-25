@@ -34,14 +34,7 @@ In order to make company valuable:
 ![[Screenshot 2024-09-24 at 18.47.27.png]]
 after prototype, there is not only you and team who believe in the product, you also have reference customers who believe in the product. This then leads to multiple buying customers. Biggest value when have positive cash flow which shows that you bring in more moeny than you spend.
 
-More value driver
-- independent of owner (==Berätta i rapporten att mitt bolag har detta problem jag orkar inte konsulta längre men då får jag låta de dö ner pga man själv är hela bolaget==)
-- Competition among buyers (==HPE, juniper networks, aruba, osv...==)
--  Timing
-- Growth potential/scalable
-- Fit with industry structure
-- Orders
-- Qualified majority among owners
+
 
 
 Buyers perspective
