@@ -9,7 +9,7 @@ Ola Haddad - Aquasomething
 
 has job if want
 
-
+Lecture 7
 # Resources and Sustainable Competitive Advantage
 
 Corporate sustainability
