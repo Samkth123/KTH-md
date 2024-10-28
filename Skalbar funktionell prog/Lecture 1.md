@@ -12,3 +12,4 @@ Book: Structure and implementation of computer programs MIT
 
 persistent data structures - a data structure that always preserves the previous version of itself when it is modified
 - always immutable - if add something to a array i want a new array 
+
