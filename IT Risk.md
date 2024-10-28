@@ -374,7 +374,19 @@ Common stacks:
     - **API Gateway:** Service for creating and managing APIs.
     - **DynamoDB:** NoSQL database service for fast and flexible data storage.
 - **Use Cases:** Highly scalable applications, microservices, and applications with variable workloads, such as mobile backends.
-    
+
+Resilience:
+- Ability to handle and recover form failures gracefully
+- Detect failure then recover from it
+
+
+
+
+
+
+
+
+
 
 ---
 
