@@ -381,7 +381,47 @@ Resilience:
 
 
 
+**Cap Theorem**
 
+Consistency, Availability and Partition tolerance
+
+- can only give 2/3 of these
+
+  
+
+Consistency means every read recieves the latest info written.
+
+Availability means every request recieves a non error resposne.
+
+Partition tolerance is that the system continues to work even if some nodes have gone down if network failure. 
+
+  
+
+Choiches:
+
+CP, AP or CA
+
+  
+
+But we must have P.
+
+SO either CP or AP.
+
+So consitency or availability?
+
+  
+
+Failure in system, and node goes down, lets say we get a request, either we give stale data which is not consistent but available, or have consistent data but which is not available.
+
+  
+
+Example:
+
+Online shopping. Listing module and order taking module where inventory is managed. Lets say these talk to eachother, and inventory might not be updated good and cant say how many products are available. Here you can either tell customer that they cant use it (no availability), or you can let them use it but have stuff that might not be in stock (no consistency), but you can try to solve this problem later by getting the things in instead.
+
+  
+
+So Amazon as a company choose availability over consistency. But in banking, maybe consistency is more important than availablitiy (check back later to see your balance etc…)
 
 
 
