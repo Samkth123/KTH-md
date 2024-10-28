@@ -387,15 +387,17 @@ Consistency, Availability and Partition tolerance
 
 - can only give 2/3 of these
 
-  
-
 Consistency means every read recieves the latest info written.
 
 Availability means every request recieves a non error resposne.
 
 Partition tolerance is that the system continues to work even if some nodes have gone down if network failure. 
 
-  
+**Scalability**
+Scalability: Increasing the capacity to meet the increasing workload
+Elasticity: increasing or reducint the capacity to meet the increasing or reducing workload
+Aspects of scalability:
+Scale up or scale down
 
 Choiches:
 
