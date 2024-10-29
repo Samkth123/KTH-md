@@ -399,11 +399,9 @@ Elasticity: increasing or reducint the capacity to meet the increasing or reduci
 Aspects of scalability:
 Scale up or scale down
 
-Choiches:
+Choices:
 
 CP, AP or CA
-
-  
 
 But we must have P.
 
@@ -411,21 +409,31 @@ SO either CP or AP.
 
 So consitency or availability?
 
-  
-
 Failure in system, and node goes down, lets say we get a request, either we give stale data which is not consistent but available, or have consistent data but which is not available.
 
-  
-
 Example:
-
 Online shopping. Listing module and order taking module where inventory is managed. Lets say these talk to eachother, and inventory might not be updated good and cant say how many products are available. Here you can either tell customer that they cant use it (no availability), or you can let them use it but have stuff that might not be in stock (no consistency), but you can try to solve this problem later by getting the things in instead.
-
-  
 
 So Amazon as a company choose availability over consistency. But in banking, maybe consistency is more important than availablitiy (check back later to see your balance etc…)
 
+Partitioning
+Dela upp data i mindre delar. Ex. lets say we partition employee data by age. Then we need to access specific partions of that age which makes it faster to query. So benefit is reduces maintenance if we have larger table, as well as lower latency in queries. Also good for memory saving as data required to be loaded into memory for executing a query is lower. Also benefit is high availability as if we have multiple partitions we have replicas of them too so overall system availability is higher.
 
+We have vertical partitioning (dela på column) och horizontal partitioning (dela på row)
+
+
+A **reverse proxy** is a server that sits in front of web servers and forwards client (e.g. web browser) requests to those web servers.
+Reverse proxy basically if somethign comes from the outside it is sent to the inside things.
+
+Protection from attacks
+If a hacker knows the IP address of your origin server, they can check one very big item off their attack checklist. Having a reverse proxy prevents malicious actors from directly targeting your origin server using its IP address because they do not know what it is.
+
+
+**NGINX**: Why use NGINX in a system? Can work as a proxy server for email protocols. (defending your IP)
+Can also be used as a load balancer.
+
+
+**Load balancing**: Round robin is asimple balancing algorithm where requests are distributed across a group of servers in a sequence. Kan också load balansea med hash
 
 
 
