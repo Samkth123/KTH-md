@@ -16,7 +16,24 @@
     - **Approach**: Considers how established traditions and external pressures influence organizational structures and practices.
     - **Characteristics**: Highlights the significance of informal norms, social legitimacy, and the adaptation of organizations to their environments.
 
+Keywords:
 
+1. **Bounded Rationality**: The idea that decision-makers have limited cognitive resources, which restricts their ability to analyze all possible options and outcomes when making decisions, and they use a simplified version of the world.
+
+1. **Instrumental Perspective**: A viewpoint that emphasizes rational decision-making, political control, and the effectiveness of formal structures in achieving organizational goals.
+    
+3. **Institutional Perspective**: Focuses on the influence of cultural norms, historical legacies, and external environments on organizational behavior and decision-making.
+    
+7. **Political Governance**: The processes by which decisions are made and implemented in a democratic context, considering the role of political authority and stakeholder interests.
+    
+8. **Administrative Structures**: The formal organization of roles, responsibilities, and procedures within public organizations.
+    
+9. **Organizational Culture**: The shared values, beliefs, and norms that influence how members of an organization behave and interact.
+    
+10. **Myth Perspective**: An approach that highlights how organizations adapt to societal beliefs and values, often to gain legitimacy.
+
+### Understanding Decision-Making as the Main Dependent Variable
+The book identifies decision-making as the primary dependent variable, emphasizing its critical role in both public and private organizations. In public organizations, decision-making can be directed externally (impacting citizens and stakeholders) or internally (affecting organizational structure and processes). The complexity of decision-making in public organizations arises from the need to navigate political contexts, stakeholder interests, and accountability requirements, making it a central focus of analysis in understanding how public organizations function.
 
 
 
