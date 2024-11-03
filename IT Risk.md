@@ -456,6 +456,8 @@ In oil and gas company thing US is a chokepoint/bottleneck because many tickets 
 
 excel bad IT support system because: changetracking hard, simultaneous access ,reporting and management
 
+if benefit in something, ex relocation - what is then the costs of setting everything up? When breakeven? Do we have the cash at hand?
+
 
 ---
 
