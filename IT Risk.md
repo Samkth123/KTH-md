@@ -460,6 +460,13 @@ if benefit in something, ex relocation - what is then the costs of setting every
 
 BCP roles refer to the specific responsibilities assigned to individuals or teams involved in Business Continuity Planning (BCP). BCP is the process of creating systems of prevention and recovery to deal with potential threats to a company
 
+**Data steaming** good if system needs to be updated continously, can be made cheaper as well if send in batches. 
+**Point to point integration** is everything talks to everything which is good if small system but exponentially more complex when scaled
+**APIs**: Structured way of communicating
+**Event drive integration** - If an event triggers that needs to comunicate with other system, message brokers/busses take the info to the other system
+
+
+
 ====PRINTS:====
 
 
