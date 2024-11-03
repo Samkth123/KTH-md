@@ -458,6 +458,27 @@ excel bad IT support system because: changetracking hard, simultaneous access ,r
 
 if benefit in something, ex relocation - what is then the costs of setting everything up? When breakeven? Do we have the cash at hand?
 
+BCP roles refer to the specific responsibilities assigned to individuals or teams involved in Business Continuity Planning (BCP). BCP is the process of creating systems of prevention and recovery to deal with potential threats to a company
+
+
+**The Software Development Life Cycle (SDLC) is a structured process for developing software applications. Here’s a breakdown of each phase you mentioned:**
+
+1. **Requirements Gathering & Analysis**:
+    - **Objective**: Identify what the software should achieve.
+    - **Activities**: Engaging stakeholders to collect requirements through interviews, surveys, and workshops. Analysing these requirements to understand their feasibility and prioritise them.
+2. **Design Phase**:
+    - **Objective**: Define how the software will be built.
+    - **Activities**: Creating detailed design documents that outline the architecture, interfaces, data structures, and components of the software. This phase may include creating prototypes or mockups.
+3. **Development**:
+    - **Objective**: Actual coding of the software.
+    - **Activities**: Developers write code based on the design specifications. This phase also involves version control and regular updates to ensure collaboration and integration among team members.
+4. **Testing**:
+    - **Objective**: Ensure the software functions correctly and meets requirements.
+    - **Activities**: Conducting various tests (unit, integration, system, acceptance) to identify and fix bugs or issues. Testing may also involve validating performance and security requirements.
+5. **Production**:
+    - **Objective**: Deploy the software for end-users.
+    - **Activities**: Releasing the software into a live environment. This phase includes monitoring for issues, providing support, and planning for future updates or maintenance.
+
 
 ---
 
