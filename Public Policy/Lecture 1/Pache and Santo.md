@@ -22,3 +22,18 @@ Unlike compromising (finding a middle ground between logics)
 The paper reveals that organizations entering the field with low legitimacy (e.g., those with a commercial background entering the social sector) tend to adopt more elements from the dominant logic of the field they're entering. This is referred to as the "Trojan horse" pattern.
 
 Selective coupling allows hybrid organizations to manage the inherent contradictions between competing logics more effectively than previously theorized strategies.
+
+
+**Decoupling** has traditionally referred to the process through which organizations separate their normative or prescriptive structures from their operational structures. In other terms, it refers to instances in which "organizations conform closely to the meanings and categories ritually defined by the environment, but do not attempt seriously to implement them at the operational level" (Scott, 2003: 279). Organizations thus create and maintain gaps between symbolically adopted policies and actual organizational behavior
+
+## Decoupling vs. Selective Coupling
+
+- **Decoupling**:
+    - Organizations symbolically adopt practices from one logic while actually implementing practices from another logic.
+    - It involves creating a gap between what an organization says it does and what it actually does.
+    - This can be seen as hypocritical if discovered, as the organization is essentially pretending to follow certain rules or practices.
+    
+- **Selective Coupling**:
+    - Organizations choose and implement specific elements from multiple competing logics.
+    - They genuinely adopt and integrate these selected elements into their operations.
+    - This approach allows organizations to satisfy different stakeholders without being deceptive.
