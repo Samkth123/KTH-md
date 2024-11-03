@@ -436,6 +436,25 @@ Can also be used as a load balancer.
 **Load balancing**: Round robin is asimple balancing algorithm where requests are distributed across a group of servers in a sequence. Kan också load balansea med hash
 
 
+**Platinion**
+
+Hybrid cloud - take advantage of public cloud infrastructure 
+
+Data center consolidation part of digital transformation
+- need to provide new techs and solutions and renew infrastructure (8-9y old Solaris machines)
+
+Political issues in a certain place so should not have data centers there.
+
+Data center certification T2 bsT4 
+
+T4 higher checks and more secure 
+- if move from T2 you do not have same level of constraints as on T4
+
+Open backend with microservices
+
+In oil and gas company thing US is a chokepoint/bottleneck because many tickets are there and waiting as many different countries with different priorities send there
+
+excel bad IT support system because: changetracking hard, simultaneous access ,reporting and management
 
 
 ---
