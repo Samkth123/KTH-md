@@ -1,0 +1,6 @@
+INSIDE THE HYBRID ORGANIZATION: SELECTIVE COUPLING AS A RESPONSE TO
+COMPETING INSTITUTIONAL LOGICS
+
+Hybrid organisations incorporate elements from different institutional logics, hybrids are by nature arenas of contradiction. Ex social enterprises have social mission goal but caught between competing demands of market logic and social welfare lgoic
+
+Social enterprises, for instance, whose goal is to achieve a social mission through commercial activities, are caught between the competing demands of the market logic and the social welfare logic that they combine: should they incorporate as for-profit or as not-for-profit enti- ties? Should they distribute profit to their owners or reinvest it in their social mission? Should they mobilize paid professionals prioritizing efficiency concerns or volunteers favoring a deep commit- ment to the mission? Just as social enterprises need to address these dilemmas to operate, all hybrids need to find ways to deal with the multiple de- mands to which they are exp
