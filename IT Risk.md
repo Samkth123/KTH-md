@@ -460,6 +460,8 @@ if benefit in something, ex relocation - what is then the costs of setting every
 
 BCP roles refer to the specific responsibilities assigned to individuals or teams involved in Business Continuity Planning (BCP). BCP is the process of creating systems of prevention and recovery to deal with potential threats to a company
 
+====PRINTS:====
+
 
 **The Software Development Life Cycle (SDLC) is a structured process for developing software applications. Here’s a breakdown of each phase you mentioned:**
 
@@ -479,6 +481,48 @@ BCP roles refer to the specific responsibilities assigned to individuals or team
     - **Objective**: Deploy the software for end-users.
     - **Activities**: Releasing the software into a live environment. This phase includes monitoring for issues, providing support, and planning for future updates or maintenance.
 
+
+### Service Models
+1. **SaaS (Software as a Service)**:
+    - Software applications are delivered over the internet on a subscription basis. Users access the software via a web browser (e.g., Google Workspace, Salesforce).
+2. **PaaS (Platform as a Service)**:
+    - Provides a platform allowing developers to build, deploy, and manage applications without worrying about the underlying infrastructure (e.g., Heroku, Google App Engine).
+3. **IaaS (Infrastructure as a Service)**:
+    - Offers virtualized computing resources over the internet, providing users with control over the infrastructure (e.g., AWS EC2, Microsoft Azure VMs).
+4. **FaaS (Function as a Service)**:
+    - A serverless computing model where users can run code in response to events without managing servers. It scales automatically based on demand (e.g., AWS Lambda, Azure Functions).
+### Infrastructure Elements
+
+1. **Virtual Machines**:
+    - Software-based emulations of physical computers that run an operating system and applications. They allow multiple operating systems to run on a single physical server.
+2. **Containers**:
+    - Lightweight, portable units that package applications and their dependencies. Containers share the host OS kernel but run in isolated user spaces (e.g., Docker).
+3. **Load Balancers**:
+    - Distribute network traffic across multiple servers to ensure no single server becomes overwhelmed, improving performance and reliability.
+4. **Cloud Native Development**:
+    - Refers to building applications specifically for cloud environments, leveraging microservices, containers, and automated scaling for improved agility and resilience.
+
+
+### Agile Manifesto
+
+The Agile Manifesto outlines four key values and twelve principles that promote flexibility, collaboration, and customer satisfaction in software development. The four main values are:
+
+1. **Individuals and interactions** over processes and tools.
+2. **Working software** over comprehensive documentation.
+3. **Customer collaboration** over contract negotiation.
+4. **Responding to change** over following a plan.
+
+### Key Processes & Elements
+
+1. **Iterations**: Short, time-boxed cycles (usually 1-4 weeks) where teams work on delivering functional software increments.
+2. **Backlog**: A prioritized list of features, enhancements, and fixes that need to be developed. The backlog evolves as project needs change.
+3. **Team**: Cross-functional groups consisting of members with various skills who collaborate to deliver the product increment.
+
+### Roles
+
+1. **Scrum Master**: Facilitates the Agile process, removes obstacles, and ensures that the team follows Agile principles. Acts as a servant leader for the team.
+2. **Product Owner**: Represents stakeholders and customers, manages the product backlog, prioritizes features, and defines the vision for the product.
+3. **Developer Team**: A self-organizing group responsible for delivering the product increments. Team members work collaboratively to complete tasks and meet sprint goals.
 
 ---
 
