@@ -413,10 +413,8 @@ Can also be used as a load balancer.
 **Platinion**
 
 Hybrid cloud - take advantage of public cloud infrastructure 
-
 Data center consolidation part of digital transformation
 - need to provide new techs and solutions and renew infrastructure (8-9y old Solaris machines)
-
 Political issues in a certain place so should not have data centers there.
 
 Data center certification T2 bsT4 
