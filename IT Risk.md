@@ -75,7 +75,6 @@ Hey, thank u! I did have a case interview. It’s not as daunting as it sounds. 
 5. **Testing and Training:** Regularly test the plan through drills and training to ensure that everyone knows their roles and can respond effectively when needed.
 
 ##### ==Migration risks== to think about
-
 1. ==Costs== (migration costs, running costs, Total cost of ownership comparison)
 2. ==Reasons== to move
 3. ==Microservices== vs Legacy code (technical debt if move fix this if have legacy code)
@@ -128,7 +127,6 @@ Example Prioritizing security risks and vulnerabilities for mitigation based on 
 **==PaaS==**: AWS, google cloud
 **==IaaS==**: Gives full place for developing: Heroku
 ##### Public Cloud
-
 - **Definition**: Services offered over the public internet, shared across multiple organizations.
 - **Examples**: AWS, Google Cloud, Microsoft Azure.
 - **Cost**: Pay-as-you-go pricing model, generally lower costs due to shared resources.
@@ -137,7 +135,6 @@ Example Prioritizing security risks and vulnerabilities for mitigation based on 
 - **Use Cases**: Best for non-sensitive data, web applications, and startups needing flexibility.
 
 ##### Private Cloud
-
 - **Definition**: Exclusive cloud infrastructure dedicated to a single organization.
 - **Examples**: On-premises servers, hosted private cloud services.
 - **Cost**: Higher upfront costs due to dedicated infrastructure; ongoing maintenance required.
@@ -146,7 +143,6 @@ Example Prioritizing security risks and vulnerabilities for mitigation based on 
 - **Use Cases**: Ideal for businesses with strict security needs, such as finance and healthcare.
 
 ##### Hybrid Cloud
-
 - **Definition**: Combines public and private clouds, allowing data and applications to be shared between them.
 - **Examples**: Utilizing public cloud services for less sensitive operations while keeping critical data in a private cloud.
 - **Cost**: Balances costs; can be cost-effective but may require investment in both environments.
@@ -192,11 +188,9 @@ Used alot in cloud where target platform can efficiently handle large columes of
 
 
 ### System design challenges
-
 **Redundancy** refers to the inclusion of additional components or systems that can take over in case of a failure, ensuring continuous operation and minimizing downtime. 
 Ex: 
 Duplicate hardware components (e.g., servers, disks) so that if one fails, another can immediately handle the workload.
-
 **==Scalability==**
 - Vertical scaling (scaling up)
 	- Adding more resources to current hardware (GPU, storage, osv...)
@@ -214,7 +208,6 @@ Duplicate hardware components (e.g., servers, disks) so that if one fails, anoth
 		- Complex to manage
 		- Data synchronization problems
 		- Hard to balance traffic across nodes
-
 **==Reliability==**
 - Load balancers
 	- Distribute traffic onto different servers
@@ -225,7 +218,6 @@ Duplicate hardware components (e.g., servers, disks) so that if one fails, anoth
 	- On and offsite data backups
 	- Disaster and contingency plan
 	- Metrics such as recovery time per incident and recovery objectives
-
 ==Security==
 - Network segmentation
 	- Segment network so if one part fails all does not fail
@@ -233,7 +225,6 @@ Duplicate hardware components (e.g., servers, disks) so that if one fails, anoth
 	- test netowrk
 - Zero trust architecture
 	- Access controls, culture of threat could be from inside and outside, continuous monitoring, verify requests, check backdoors and such
-
 
 ### Digitalization
 **Transformative impact**
@@ -251,23 +242,17 @@ Duplicate hardware components (e.g., servers, disks) so that if one fails, anoth
 - Complex training we do not know how behave
 - Young regulation environment & standardization for risks
 - Ethical problems like bias
-
 ### Mergers
-
 Cultures - Two differnet cultures, do team building to get teams together, open communication between two different groups
 Integrating tech stacks - slowly and piloting, create roadmap
 Workforce impact - be transparent about shifts in roles, help people re skill etc
-
 ### Devops
-
 Collaboration
 - IT and Operations team
 - cross functional teams
-
 CI/CD pipeline
 - automated testing and deployment - minimize human error risk
 - more frequent iterations and faster pushes to production
-
 Culture
 - devops built on testing and being innovative
 - feedback loops and devops makes mistakes more kind to take care of 
@@ -275,9 +260,6 @@ Culture
 rollbacks - mistakes happen
 
 culture - have process in place with devops mindset - not do easy & fast fixes - leads to technical debt
-
-chaos engineering
-
 
 What is ==Infrastructure as code== (IaC)?
 - Many of the real challenges don’t emerge until teams hit the ground in actual delivery. This is why it's so important to use infrastructure as code. IaC can be integrated seamlessly with testing and monitoring tools. This allows you to validate infrastructure changes through automated testing, perform continuous integration and delivery (CI/CD), and monitor the infrastructure's performance and health in real-time. IaC helps facilitate such integrations and ensures that infrastructure changes are thoroughly tested and monitored.
@@ -382,13 +364,9 @@ Resilience:
 
 
 **Cap Theorem**
-
 Consistency, Availability and Partition tolerance
-
 - can only give 2/3 of these
-
 Consistency means every read recieves the latest info written.
-
 Availability means every request recieves a non error resposne.
 
 Partition tolerance is that the system continues to work even if some nodes have gone down if network failure. 
@@ -400,13 +378,9 @@ Aspects of scalability:
 Scale up or scale down
 
 Choices:
-
 CP, AP or CA
-
 But we must have P.
-
 SO either CP or AP.
-
 So consitency or availability?
 
 Failure in system, and node goes down, lets say we get a request, either we give stale data which is not consistent but available, or have consistent data but which is not available.
