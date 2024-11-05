@@ -22,3 +22,10 @@ Public sector characteristics
 - "trust business" - public opinion & audit
 - Large changes over elections
 
+Governance consiertaitons
+ - state or local level
+ - how financed public or private
+ - how many governemnt authroities
+ - how detailed should the instruction and regulations letter be
+ - who should lead?
+ - informal steering
