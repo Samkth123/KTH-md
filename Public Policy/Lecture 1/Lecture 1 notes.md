@@ -6,3 +6,4 @@ important to read literature - exam 28nov
 - essential part of course is learning by digesting academic articles
 second half of course is implications
 
+### Guest lecturer
