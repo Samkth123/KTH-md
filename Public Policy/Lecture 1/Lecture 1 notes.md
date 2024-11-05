@@ -14,3 +14,6 @@ Why public sector:
 - Redistribution and equality
 	- what to use tax for and how much tax to gather osv...
 	- pensions - redistribute over lifecycle
+
+Public sector characteristics
+- Politically controlled by polititans
