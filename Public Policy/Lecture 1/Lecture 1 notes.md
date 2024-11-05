@@ -7,3 +7,5 @@ important to read literature - exam 28nov
 second half of course is implications
 
 ### Guest lecturer
+Fiscal policy
+- stimulate enviro
