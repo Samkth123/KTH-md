@@ -7,5 +7,9 @@ important to read literature - exam 28nov
 second half of course is implications
 
 ### Guest lecturer
-Fiscal policy
-- stimulate enviro
+Why public sector:
+- Fiscal policy
+	- stimulate environments based on when fiscals come and go
+
+- Redistribution and equality
+	- what to use tax for and how much tax to gather osv...
