@@ -21,3 +21,21 @@ Public sector characteristics
 - High standards on impartiality - State officials value base
 - "trust business" - public opinion & audit
 - Large changes over elections
+
+What is public sector
+State
+- parliament and government
+- government offices
+- state autorieies
+- state owned companies
+- state comitees
+Regions
+- regional council and aexecutive committee
+- administration
+- healthcare system
+- collecive transportiaon, regional development, etc
+Municipalities
+- municipal council and executive committe
+- administration
+- schools
+- social services
