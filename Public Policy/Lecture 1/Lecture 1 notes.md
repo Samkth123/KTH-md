@@ -20,3 +20,4 @@ Public sector characteristics
 - Laws and regulations (but private are also plagued by this ex healthcare pill company)
 - High standards on impartiality - State officials value base
 - "trust business" - public opinion & audit
+- Large changes over elections
