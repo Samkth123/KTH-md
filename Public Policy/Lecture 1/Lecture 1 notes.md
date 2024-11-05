@@ -32,3 +32,5 @@ Governance consiertaitons
 
 ### Labour market policy
 
+The Rehn Meidner model "The swedish model"
+- kolla upp
