@@ -43,6 +43,11 @@ Governance principles:
 - Follow up and evaluation
 
 
+**A citizen centric public sector**
+
+Starting a restaurant in sweden has extremely many demands
+- whether it is korvkiosk or operakällaren
+- Is extremely many rules and steps go
 
 
 Digitlaization and AI in the public sector
