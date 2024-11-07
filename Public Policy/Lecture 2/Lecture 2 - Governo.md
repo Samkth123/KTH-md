@@ -21,7 +21,7 @@ Definition of governance:
 
 Governance in a context
 
-Governance principles:
+Governance principles (Guiding principles of public sector):
 - Financing
 - Setting goals
 - Regulations
