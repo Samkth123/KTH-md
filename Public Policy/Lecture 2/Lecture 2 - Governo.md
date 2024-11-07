@@ -47,7 +47,7 @@ Governance principles:
 
 Starting a restaurant in sweden has extremely many demands
 - whether it is korvkiosk or operakällaren
-- Is extremely many rules and steps go
+- Is extremely many rules and steps to go through
 
 
 Digitlaization and AI in the public sector
