@@ -17,3 +17,8 @@ is= (-> state
 )
 
 Tänk här att state slussas vidare å ändras, och man behöver inte skapa nya states hela tiden
+
+
+Bra syntax:
+let [card (first(get-deck state player-id))]
+	if card) ;basically om vi har ett kort 
