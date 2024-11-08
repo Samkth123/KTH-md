@@ -18,6 +18,9 @@
    :minion-ids-summoned-this-turn []})
 
 
+(def gamestate (firestone.construct/create-game [{:deck ["Sheep"]}]))
+
+
 **call function and put output to something**
 `(def result (increment 5))`
 
