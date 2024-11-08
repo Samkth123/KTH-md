@@ -8,3 +8,5 @@ Typ updatemana, do deathrattle osv... Om inte funktionerna finns så skriv dom s
 
 För demo:
 - testerna måste finnas
+
+Försök förstå flow av testerna som han visade
