@@ -25,7 +25,11 @@
 **call function that changes state**
 (add-card-to-deck state player-id card :deck)
 
-
+**add many things at the same time:**
+(def stateNew  
+  (-> state  
+      (add-card-to-deck player-id "Leper Gnome" )  
+      (add-card-to-deck player-id "Leper Gnome" )))
 
 
 (def state  {:player-id-in-turn             "p1"
