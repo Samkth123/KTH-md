@@ -1,6 +1,6 @@
 
 
-(def test-state
+(def state
   {:player-id-in-turn "p1"
    :players {"p1" {:id "p1"
                    :deck [{:name "Loot Hoarder" :id "c1"}
