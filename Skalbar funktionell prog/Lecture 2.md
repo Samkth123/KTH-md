@@ -21,4 +21,7 @@ Tänk här att state slussas vidare å ändras, och man behöver inte skapa nya 
 
 Bra syntax:
 let [card (first(get-deck state player-id))]
-	if card) ;basically om vi har ett kort 
+	(if card  ;basically om vi har ett kort yäni if card is truthy
+	om true dra
+	else
+		fatigue)
