@@ -25,3 +25,6 @@ let [card (first(get-deck state player-id))]
 	om true dra
 	else
 		fatigue)
+
+
+assoc-in means we dont care about previous value the new value should be this
