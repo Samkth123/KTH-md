@@ -10,3 +10,10 @@ För demo:
 - testerna måste finnas
 
 Försök förstå flow av testerna som han visade
+
+is= (-> state
+(remove-card-from-deck "p1" card) ;in this state remove the card from p1s deck
+(get deck "p1") ; then get the deck from the state
+)
+
+Tänk här att state slussas vidare å ändras, och man behöver inte skapa nya states hela tiden
