@@ -18,5 +18,38 @@
    :minion-ids-summoned-this-turn []})
 
 
-
+**call function and put output to something**
 `(def result (increment 5))`
+
+
+**call function that changes state**
+(add-card-to-deck state player-id card :deck)
+
+
+
+
+(def state  {:player-id-in-turn             "p1"
+             :players                       {"p1" {:id       "p1"
+                                                   :deck     []
+                                                   :hand     []
+                                                   :minions  []
+                                                   :fatigue  1
+                                                   :max-mana 8
+                                                   :mana     8
+                                                   :hero     {:name         "Jaina Proudmoore"
+                                                              :id           "r"
+                                                              :damage-taken 0
+                                                              :entity-type  :hero}}
+                                             "p2" {:id       "p2"
+                                                   :deck     []
+                                                   :hand     []
+                                                   :minions  []
+                                                   :fatigue  1
+                                                   :mana     8
+                                                   :max-mana 8
+                                                   :hero     {:name         "Gul'dan"
+                                                              :id           "h2"
+                                                              :damage-taken 0
+                                                              :entity-type  :hero}}}
+             :counter                       1
+             :minion-ids-summoned-this-turn []})
