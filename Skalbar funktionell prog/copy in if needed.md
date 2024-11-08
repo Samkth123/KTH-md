@@ -18,3 +18,5 @@
    :minion-ids-summoned-this-turn []})
 
 
+
+`(def result (increment 5))`
