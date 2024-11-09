@@ -14,6 +14,9 @@
 
 Data feminism book he wrote
 
+Governance of AI in metaverse
+- what restrictions
+
 Psychological Impact of AI-driven Interactions
 - How do AI avatars, chatbots, or virtual companions impact human socialization and emotional well-being in virtual spaces (metaverses, online games, etc.)? Are there measurable effects on loneliness, anxiety, or identity formation?
 
