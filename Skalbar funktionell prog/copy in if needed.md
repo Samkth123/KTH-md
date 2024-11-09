@@ -62,3 +62,41 @@
                                                               :entity-type  :hero}}}
              :counter                       1
              :minion-ids-summoned-this-turn []})
+
+
+
+Deathratltle test leper gnoem before:
+{:test (fn []  
+         (let [game-state (create-game [{:hero "Gul'dan"} {:hero "Jaina Proudmoore"}])]  
+           (is= (-> game-state  
+                    (deathrattle-leper-gnome)  
+                    (get-hero "h2")  
+                    (:damage-taken))  
+                2)                                        ;2 dmg  
+           (is= (-> game-state  
+                    (deathrattle-leper-gnome)  
+                    (get-hero "h1")  
+                    (:damage-taken))  
+                0)                                        ; 0 dmg for p1  
+  
+           (is= (-> game-state                            ; test cummulative dmg  
+                    (deathrattle-leper-gnome)  
+                    (deathrattle-leper-gnome)  
+                    (get-hero "h2")  
+                    (:damage-taken))  
+                4)                                        ;4 dmg  
+           (is= (-> game-state                            ; if hero took dmg before leeper gnome dmg  
+                    (update-in [:players "p2" :hero :damage-taken] + 3)  
+                    (deathrattle-leper-gnome)  
+                    (get-hero "h2")  
+                    (:damage-taken))  
+                5)  
+           (is= (-> game-state                            ; hero dmg after lepper gnome dmg  
+                    (deathrattle-leper-gnome)  
+                    (update-in [:players "p2" :hero :damage-taken] + 3)  
+                    (get-hero "h2")  
+                    (:damage-taken))  
+                5)  
+           )  
+         )  
+ }
