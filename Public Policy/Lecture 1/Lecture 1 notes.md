@@ -33,4 +33,4 @@ Governance consiertaitons
 ### Labour market policy
 
 The Rehn Meidner model "The swedish model"
-- A economic and 
+- A economic and labour market policy
