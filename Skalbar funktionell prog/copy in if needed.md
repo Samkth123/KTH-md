@@ -104,3 +104,16 @@ Deathratltle test leper gnoem before:
            )  
          )  
  }
+
+
+
+(defn deathrattle-leper-gnome  
+  "Deathrattle - deal 2 damage to the player who owned the Leper Gnome."  
+  [state player-id minion-id]  
+  (let [minions (get-in state [:players player-id :minions])   ; minions for the current player  
+        minion (some (fn [m] (if (= (:id m) minion-id) m)) minions)]  ; Find minion by ID  
+    (if minion  
+      (let [owner-id player-id  
+            hero-id (:id (get-in state [:players owner-id :hero]))]  ; hero ID for the player who owns the Leper Gnome  
+        ;; Deal 2 damage to the player's hero who owned the Leper Gnome        (update-hero state hero-id :damage-taken (fn [damage] (+ damage 2))))  
+      state)))  ; state unchanged if no minion was found
