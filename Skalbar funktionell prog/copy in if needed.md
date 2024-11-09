@@ -22,6 +22,10 @@
 (def stateReal (create-game [{:minions ["Leper Gnome"]}{:minions ["Leper Gnome"]}]))
 (def gamestate (firestone.construct/create-game [{:deck ["Sheep"]}]))
 
+(def stateReal (firestone.construct/create-game [{:minions ["Leper Gnome"]}{:minions ["Leper Gnome"]}]))
+
+(firestone.core-api/attack-minion stateReal "p1" "m1" "m3")
+
 
 **call function and put output to something**
 `(def result (increment 5))`
