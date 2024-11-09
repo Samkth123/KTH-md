@@ -19,7 +19,7 @@
 
 ##### FÖRSTA {} är första splarene andra e andra spelarnen
 (def stateReal (create-game [{}]))
-
+(def stateReal (create-game [{:minions ["Leper Gnome"]}{:minions ["Leper Gnome"]}]))
 (def gamestate (firestone.construct/create-game [{:deck ["Sheep"]}]))
 
 
