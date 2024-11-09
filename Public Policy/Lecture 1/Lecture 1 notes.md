@@ -32,5 +32,12 @@ Governance consiertaitons
 
 ### Labour market policy
 
-The Rehn Meidner model "The swedish model"
+Its a good mix between equity and efficiency
+->
+The **==Rehn Meidner==** model "The swedish model"
 - A economic and labour market policy
+- Full employment: As a society we should aim for having full employment as a cornerstone of society
+- Policy of wage compression aka solidarity wage policy, which means that we set wages to a level that brings equity to society
+- Active Labor Market Policies ALMPs so retraining, job matching and mobility incentives (go to norrland for example where more jobs exist). This is focused on the relocation of labour so workers can be retrained and go to growing sectors of the economy
+- Social security and welfare state - all citizens should have basic income to be support during rough periods
+- Strong focus on corporatism - to have a strong relationship between trade unions, employers assoications and the government to have social dialouge
