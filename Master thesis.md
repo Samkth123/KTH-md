@@ -10,7 +10,9 @@
 - **Impact:** Improve training programs, reduce turnover rates, and develop talent that is better aligned with market needs, ensuring long-term growth for the company and the local tech ecosystem.
 
 
-Scope Amir:
+**Scope Amir:**
+
+Data feminism book he wrote
 
 Psychological Impact of AI-driven Interactions
 - How do AI avatars, chatbots, or virtual companions impact human socialization and emotional well-being in virtual spaces (metaverses, online games, etc.)? Are there measurable effects on loneliness, anxiety, or identity formation?
@@ -27,3 +29,13 @@ Case Studies of Virtual Communities: Select specific games or virtual spaces (li
 **D. Experimental Studies**
 Simulation Studies: You could set up experiments where participants interact with human-like AI avatars in controlled virtual environments, and test different conditions (e.g., "friendly" AI vs. "neutral" AI). Measuring participants' emotional responses, engagement, or cognitive load could reveal more about the nature of AI socialization.
 
+#### Key research questions
+
+Psychological and Emotional Impact: How do AI interactions in virtual communities impact user emotional states? Does AI enhance or exacerbate feelings of loneliness or social connection?
+
+Authenticity & Trust: Do users perceive AI avatars as "real" in terms of social engagement, or do they remain aware of the artificiality? How does the sense of authenticity affect trust and relationship-building?
+
+Identity & Self-Expression: How do people navigate their sense of identity in virtual worlds with AI avatars? Do they "perform" differently with AI or feel more comfortable expressing themselves?
+
+Any possible framework?
+Turing test?
