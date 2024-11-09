@@ -8,3 +8,6 @@
     - Explore ways to **measure and predict talent retention** based on factors like career progression, work environment, and skill development opportunities.
 - **NGO Collaboration/Corporate Collaboration:** Work with Awesomity's HR and talent management teams to pilot and refine a talent retention model and use real-time performance data to enhance the training approach.
 - **Impact:** Improve training programs, reduce turnover rates, and develop talent that is better aligned with market needs, ensuring long-term growth for the company and the local tech ecosystem.
+
+
+Scope Amir:
