@@ -17,6 +17,8 @@
    :counter 1
    :minion-ids-summoned-this-turn []})
 
+##### FÖRSTA {} är första splarene andra e andra spelarnen
+(def stateReal (create-game [{}]))
 
 (def gamestate (firestone.construct/create-game [{:deck ["Sheep"]}]))
 
