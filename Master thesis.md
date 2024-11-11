@@ -14,6 +14,8 @@
 
 Data feminism book he wrote
 
+Rwanda AI - CSCIRO - eller med dig
+
 Governance of AI in metaverse
 - what restrictions
 
