@@ -13,6 +13,7 @@
 **Scope Amir:**
 
 Data feminism book he wrote
+Technocolonialism
 
 Rwanda AI - CSCIRO - eller med dig
 
