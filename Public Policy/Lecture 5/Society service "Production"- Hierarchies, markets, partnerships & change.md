@@ -18,4 +18,4 @@ Basic recapitulation
 	- In practice we have many mixes of the institutional logics, obv have business with altruistic things as well as public sectors who are very efficicent parts
 	- Ex. hybdrid organisation where you use both public and private sector throughts
 		- ex Svea skog - one side uphold natural reservation and so on, but also have demands on profitability. This is a hybdrid organsaion
-	- 
+
