@@ -1,7 +1,7 @@
 
 Basic recapitulation
 - Public sector multiplicity
-- Institutional logics - Different basic logics (norms, conceptions, rules) of our three societal sectors (tradeoffs)
+- Institutional logics - Different basic logics (norms, conceptions, rules) of our three societal sectors (tradeoffs - ex efficiency is harder for public sector as if we have pharmcy in north which is not gonig well we cant close it because we need to have it there for the customers, but if it were a private company they would just close it)
 	- Public sector
 		- equal treatment
 		- legal security
@@ -12,4 +12,10 @@ Basic recapitulation
 		- altruism
 		- democracy
 - What do we mean with an **idealtype**?
+	- Not a normative concept
+	- Means that we have a simplified model with the basic fundaments.
+	- Used by scholars bevause facilitates discussions
+	- In practice we have many mixes of the institutional logics, obv have business with altruistic things as well as public sectors who are very efficicent parts
+	- Ex. hybdrid organisation where you use both public and private sector throughts
+		- ex Svea skog - one side uphold natural reservation and so on, but also have demands on profitability. This is a hybdrid organsaion
 	- 
