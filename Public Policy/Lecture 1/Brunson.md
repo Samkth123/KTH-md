@@ -181,7 +181,7 @@ Ex Previosuly Swedish Railways had financing problems, but was then split into t
 
   
 
-The financing strategy of the political organization appeared to make it function less effectively as it had poor results and continuously needed more funds. But in reality it is attractive to take the company insitutional form, as money has different meanings in company and political org. In company, money is created and company can generate profit, being proud of it. In political organisation, its the reverse, as it consumption of money from the public is regarded as **consuming** others money and seen in negative light. The greater the consumption, the worse it is. If the political organisation shows a surplus of money, its seen as over taxation rather than something the organization has created itself. All this means that political orgnization may be regarded as **draining** while company is seen as **sustaining**.
+The financing strategy of the political organization appeared to make it function less effectively as it had poor results and continuously needed more funds. But in reality it is attractive to take the company insitutional form, as money has different meanings in company and political org. In company, money is created and company can generate profit, being proud of it. In political organisation, its the reverse, as it consumption of money from the public is regarded as **==consuming==** others money and seen in negative light. The greater the consumption, the worse it is. If the political organisation shows a surplus of money, its seen as **==over taxation==** rather than something the organization has created itself. All this means that political orgnization may be regarded as **draining** while company is seen as **sustaining**.
 
   
 
