@@ -1,10 +1,6 @@
 **Politicization and company-ization - institutional affiliation and confusion in the organizational world**
 
-  
-
 Many companies are both politicized and institutionalized. This leads to institutional confusion as they try to imitate different aspects of these two parts.
-
-  
 
 A formal organization has specific goals in mind and laid out rules and a hierarchy. Informal organization is a social structure that arises when people with common interests meet
 
@@ -108,7 +104,7 @@ Decision processes that mobilize action do not reflect inconsistent demands very
 
   
 
-Companies aim to specialize and concentrate on a particular type of action - a natural way forward. Policital organisations want to generalize as the ideas of the public increasingly diverge and touch on new areas. Generalization also promotes legitimacy as the political org listens to its environment.
+Companies aim to specialize and concentrate on a particular type of action - a natural way forward. Policital organisations want to generalize as the ideas of the public increasingly diverge and touch on new areas. **==Generalization==** also promotes legitimacy as the political org listens to its environment.
 
   
 
@@ -165,7 +161,7 @@ Actors might pick out specific bits of different institutions and add to their o
 
   
 
-If **activities in the organisation are decoupled** this potential inconsistency of imported features might not necessarily be problematic.
+If **==activities in the organisation are decoupled==** this potential inconsistency of imported features might not necessarily be problematic.
 
   
 
