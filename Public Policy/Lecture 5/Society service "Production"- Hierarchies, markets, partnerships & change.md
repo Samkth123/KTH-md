@@ -92,14 +92,14 @@ what is pp
 - nya karolinska (region sthlm and skanska)
 - Arlandabanan (the state and A-train)
 
-PP 
+==PP ==
 - demands a lot of resources and knowledge of both parts to get right/reasonable
 - complicated contract work
 - risks of being lockedup in unfavorable longterm agreeemnts if not highly competent part
 - so if negotiating in a much more experienced party than you you might be going into a bad deal longterm
 
 Challenges
-- high transcation costs (cost of collecting info, analysing ingo, writing contracts, osv. If you loose a contract in sweden you usually appeal to court because lots of cost in buying/selling)
+- high transcational costs (cost of collecting info, analysing ingo, writing contracts, osv. If you loose a contract in sweden you usually appeal to court because lots of cost in buying/selling)
 - lack of appropriate skills
 - incomplete risk transfer (may construct contract where the parties dont take equal shares of responsibility)
 - higher end user charges
@@ -107,6 +107,7 @@ Challenges
 Critical succes factors:
 - Appropriate risk charing
 - Strong private consortium (the partner must be strong so you know that they will be there, have competence, and have muscle to go through changes in economy)
+	- but here problem as startips left outside unlike usa 5% must go to startups sthlm stad spoke this
 - political and public support
 - transparent procurement
 
@@ -136,7 +137,7 @@ Strategies in the handling of public procurement - 3 municpalities
     - both municipality and nonprofit organization content with the ollaboration (quality/price)
     - collaboration quite close
 - 1 municipality Nacka
-    - Strategy: Accept and Adapy (argue for relevant public procurement quality factors)
+    - Strategy: Accept and Adapt (argue for relevant public procurement quality factors)
     - Concern for their women aid centre survival
 
 Quotes:
@@ -171,7 +172,7 @@ Many similar problems with markets/outsourcing for public organizations and busi
     - Contractual problems P
 
 Concluding remarks fon the framework for welfare production
-- common with naive views (by decisionamkers) of what we have not experiences for example of alternative forms for ordering welfare provision/production
+- common with ==naive views== (by decisionamkers) of what we have not experiences for example of alternative forms for ordering welfare provision/production
     - ex snowthing thoguht would automatically create competition but failed
 - Each form has its challenges/critical factors - as do change between them
 - each form can potentially be orgnaized in a huge variety of ways 
