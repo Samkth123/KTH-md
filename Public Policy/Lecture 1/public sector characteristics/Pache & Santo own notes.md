@@ -6,6 +6,8 @@ Article is about how hybrid organisation who have competing institutional logics
 
 A hybrid organization is a type of organization that blends different organizational models or structures to achieve multiple objectives, often combining elements of both profit-driven and social or mission-driven goals. In other words, hybrid organizations typically seek to pursue both financial success and social or environmental impact, rather than focusing exclusively on one or the other.
 
+A **social enterprise** is an organization that operates with the primary goal of addressing a **social, environmental, or cultural issue**, while also striving to be financially sustainable
+
 Just as social enterprises need to balance between making profits for owners vs reinvesting, or putting money into efficient workers vs caring volunteers, hybdrid organisations need to find a way to deal with the multiple demands to which they are exposed. This article explores how they may do so.
 
 Hybdrid are not only organisations blending market and social logics, they are ppp’s incorporating elements from state, market and civil society logics, also can be biotech companies incoprotating science and market logics.
