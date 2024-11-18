@@ -26,7 +26,7 @@ Basic recapitulation
 Outsourcing trend in private sector
 
 Public sector has new public management 
-- marketization- public sector dont produce the service itself but buy it instead
+- **==marketization==- public sector doesnt produce the service itself but buy it instead**
 - backsourcing in berlin et al is backlash to this
 
 Normally talk about hierarchy and market, but seldom consider partnership part in alternativ way to order welfare service production
@@ -34,7 +34,7 @@ Normally talk about hierarchy and market, but seldom consider partnership part i
 - ppp
 - ppm
 
-#### Provision or production, users or costuomer? - the power of labels - basically what are we in regards to public services
+#### Provision or production, users or costuomer? - ==the power of labels== - basically what are we in regards to public services
 
 Labels affect how we:
 - talk about practice
@@ -44,7 +44,7 @@ Labels affect how we:
     - ex in red cross its weird to talk about production and customers, 
     - its not really in their identity.
 
-marketization - public giving out to private to run
+marketization - public giving out to private to run stuff
 
 #### Market problems/failures and market reorganisations
 
@@ -65,7 +65,7 @@ The attemps did not bring the desired results
 SEAB has close to monopoly, this affects costs and quality for street maintenance
 
 Had free market, then changed towards increased control (more rules, moinitoring, sanctiosn)
-- innovation:
+- ==innovation==:
     - technologies of control - GPS & GIS to track the trucks
     - sellers not happy of the transparancy need
 
