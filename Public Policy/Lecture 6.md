@@ -58,3 +58,17 @@ Governance in nonprofit organizations
 
 
 2 types of organizational governance 
+- normal for profit
+- The hourglass construct
+	- members placed at top
+	- annual meetings in local units (which are many of)
+	- They then send representatives to the regional units and general assembly
+	- Its a very democratic org where members are at top and decisions goes down to regions then to general assembly
+	- then to national board (where have congress every year and vote on big issues and they create )
+	- The first triangle is democratic authroity and decision making- indivudla members and elected representatives
+	- The second traingle is Non democratic execution, so officals, staff, elected representatives and otehr volunteers
+	- Basically send down what Genreal assembly voted on and send it to regional units and local units in turn
+
+
+Artikeln jag läste - Civil society regimes
+- Table 3 - Models of third sector regime
