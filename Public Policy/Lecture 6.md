@@ -172,9 +172,24 @@ What might explain the difference between how the two types of rescue services a
 - fires might spread
 - sea is personal emergency
 
-What are the advantages and disadvantages of ahving civil society. organizations run essential services like maritime rescue compared to a professionalized state run service?
+What are the advantages and disadvantages of having civil society organizations run essential services like maritime rescue compared to a professionalized state run service?
+- advantages
+	- flexibility
+	- no bureaucracy constraints
+	- costs
+	- volunteers as resource 
+- disadvantages
+	- unprofessional
+	- knowledge
+	- accountability
+	- incentives
+	- more resources if run by state
 
 Do you think there are ways for civil society to contribute to everyday operations of rescue services that could help build social capital or should their role be limited to large scale emergencies? Why or why not?
+- No
+	- Accountability
+	- Björntjänst - more bad than good (people want to do good but sometimes goes bad or lack energy)
+- 
 
 Do you  think there are limits to how much responsibility civil society should have in emergency services, and why?
 
