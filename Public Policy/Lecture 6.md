@@ -39,5 +39,19 @@ Why do we need nonprofits?
 	- ex if you go to a restaurant and dont like it, you lost 70 dollars
 	- in school its much harder to measure quality, and also its my kid going and not me
 	- How do i even know what is high quality in schools
-	- The idea is that a nonprofit will be more trustworthy 
-- Adressing social gaps?
+	- The idea is that a nonprofit will be more trustworthy to provide the type of service where ==**information asymmetry**== exist
+	- But a for profit might take more money as you will not know if the quality is lowered
+- Addressing social gaps?
+
+
+Governance in nonprofit organizations
+- Foundations
+- Voluntary associations
+	- members select a board
+- Economic associations
+	- members select a board
+- Registered religious communities
+	- kind of ilke voluntary associations but need to be religious to register
+- (company with limited profit distributions)
+	- basically hybrids between market and society
+	- maybe can distribute profits but only small profits
