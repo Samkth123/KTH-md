@@ -189,10 +189,17 @@ Do you think there are ways for civil society to contribute to everyday operatio
 - No
 	- Accountability
 	- Björntjänst - more bad than good (people want to do good but sometimes goes bad or lack energy)
-- 
 
 Do you  think there are limits to how much responsibility civil society should have in emergency services, and why?
+- björntjänst
 
+What makes coppeation between civil society and state possible -->
+What can we learn from these cases:
+- Clear mandates and division of responsibilities (ex maritime)
+	- municpilaty repsonsible for municipal waters and civil society dont have responsibilty but have mandate of state water and seen as responsible even if responsibility is on state (they have much ownership of the rescue services)
+- Combination of self interest and public good
+	- If you
+- Cooperation between state actors and civil society is important for social capital
 
 
 
