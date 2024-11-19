@@ -98,7 +98,7 @@ Why so few nonprofits in welfare
 	- State took care of welfare from church
 - Difficulties with funding (limited philanthrophy)
 	- ex US 30% had given donations to the schools while this would never happen in Sweden
-- Previously lacekd networks and interest organizations
+- Previously lacked networks and interest organizations
 - No tradition of nonprofit organizations
 - Legislation that facors for profit entities
 - Challenges in measuring "added value" in public procurement
@@ -107,5 +107,9 @@ Differnt types of agreements between the state and nonprofits
 - Procurements (LOU)
 	- bidding for doing work
 - Freedom of choice models (LOV)
-	- school system - can open a school and all competition and 
-- Nonprofit public partnerships (IOP)
+	- school system - can open a school and all competition and if u get students u get money from state and if not u get no money
+- Nonprofit public partnerships (IOP) (public and nonprift sector collab towards gemmensamt mål)
+	- The partnership should be based on a mutual need for collaboration towards a public benefit goal
+	- Both parties should contrinute resources to the operation (might include voluntary efforts)
+	- Becomes relevant when procurement regulations do not apply
+	- Lacks a legal definition
