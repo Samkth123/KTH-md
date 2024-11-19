@@ -14,4 +14,18 @@ Four societal spheres
 - each sphere has different logics, and you are different people depending on which sphere you are in
 - you will use different logics as you move through these different spheres
 - The sectors are in the middle and that is where the orgs are
-- This photo is an ideal type, so its a clear cut photo of how eveyrthing is, but in reality its hard to know how some organizations might be in market sector or civil society org ex if a NGO has a daughter company that is for profit where would it be placed? These hybrids are normal 
+- This photo is an ideal type, so its a clear cut photo of how eveyrthing is, but in reality its hard to know how some organizations might be in market sector or civil society org ex if a NGO has a daughter company that is for profit where would it be placed? These hybrids are normal
+
+A child dear to many has many names
+- nonprofit sector, voluntary sector, third sector, associational life
+- popular movement orgs
+- the concept of civil society entered the debate in the early 1990s
+- In Sweden we have had many movements, which build on each other.
+- The concept of civil society entered the debate late 35 years ago
+
+What defines a nonprofit org?
+- Non public - not part of public sector & ran by private actors (but can recieve public money)
+- Operates in an org form that cannot distribute profits (non distribution constraint)
+- No owners, more like members
+- Focus on ideas, ideologies and values (but for profit companies also focus on values and market themselves through values they have, but what seperates profits vs nonprofits is that the making of proifts is more important than the values but in NGO values are most important - tänk på lite det man sa om public sector om att the entity existerar bara due to t)
+- Engages in some form of welfare activity
