@@ -55,3 +55,6 @@ Governance in nonprofit organizations
 - (company with limited profit distributions)
 	- basically hybrids between market and society
 	- maybe can distribute profits but only small profits
+
+
+2 types of organizational governance 
