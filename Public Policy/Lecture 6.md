@@ -125,4 +125,6 @@ Fun fact: salt stones so animals dont go to roads and lick salt during winter
 
 
 What are the advanteages and disadvantages of procurement rather than the Hunting Association having a continuous assignment?
-
+procurement
+- markets logic - more incentive to do good
+- bad that can change very fast and get new 
