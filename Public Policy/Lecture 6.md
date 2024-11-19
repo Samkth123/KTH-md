@@ -1,6 +1,17 @@
-Ebba Henriksen
+**Ebba Henriksen lecture**
 
 Nonprofit is soicla goals and are organizations
 
 civil society is actions, ideology, volunteering basically - basically the larger sphere of this
-- its also a place where you discuss idelo
+- its also a place where you discuss ideologies and values and 
+
+Civil society in public is just disucsesd as something good and volutneering - but its also a place where you dicuss things, and an org can have a goal that you do not agree with but they will still pursue it
+
+Civil society
+- An arena, seperate from the state,market, and private shousehold where poeple organise and act together in common interests
+
+Four societal spheres
+- each sphere has different logics, and you are different people depending on which sphere you are in
+- you will use different logics as you move through these different spheres
+- The sectors are in the middle and that is where the orgs are
+- This photo is an ideal type, so its a clear cut photo of how eveyrthing is, but in reality its hard to know how some organizations might be in market sector or civil society org ex if a NGO has a daughter company that is for profit where would it be placed? These hybrids are normal 
