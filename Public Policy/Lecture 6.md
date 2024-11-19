@@ -124,7 +124,18 @@ CASE: The swedish hunters association
 Fun fact: salt stones so animals dont go to roads and lick salt during winter
 
 
-What are the advanteages and disadvantages of procurement rather than the Hunting Association having a continuous assignment?
+==What are the advantages and disadvantages of procurement rather than the Hunting Association having a continuous assignment? Consider the perspectives of different stakeholders.== Skicka t GPT sen och se
+
 procurement
-- markets logic - more incentive to do good
+- markets logic - more incentive to do good as competition
 - bad that can change very fast and get new 
+- more standardized
+- depending on how long the service is might focus more on short term goals rather than long term goals
+
+Continuous assignment
+- relationship
+- knowledge
+- could be more inefficient
+- less standardized
+
+For hunters association from their part everything is the same but that they need to waste money on 3 people who need to write procurement bids.
