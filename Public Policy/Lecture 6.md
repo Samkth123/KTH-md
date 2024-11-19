@@ -168,7 +168,9 @@ Maritime rescue services
 **CASE**: The Swedish rescue services in cooperation
 
 What might explain the difference between how the two types of rescue services are organized?
-- 
+- nature of emergencies affect how organized
+- fires might spread
+- sea is personal emergency
 
 What are the advantages and disadvantages of ahving civil society. organizations run essential services like maritime rescue compared to a professionalized state run service?
 
