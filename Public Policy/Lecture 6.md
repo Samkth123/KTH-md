@@ -90,14 +90,22 @@ The swedish civil society regime
 - Large number of organizations (run my volunteers so no professional staff)
 - State Church until the year 2000
 	- in other countries is relgion big in civil society but not in sweden
-	- As saw in article, we see that state took control of church and in turn ate all its responsibilities so welafre is high and dont need to give money to civil society
+	- As saw in article, we see that state took control of church and in turn ate all its responsibilities so welfare is high and dont need to give money to civil society
 
 Why so few nonprofits in welfare
 - Sweden has had high religious homogeneity, and the state has opposed religious actors in welfare
 	- many civil society orgs abroad are religious
 	- State took care of welfare from church
 - Difficulties with funding (limited philanthrophy)
+	- ex US 30% had given donations to the schools while this would never happen in Sweden
 - Previously lacekd networks and interest organizations
 - No tradition of nonprofit organizations
 - Legislation that facors for profit entities
 - Challenges in measuring "added value" in public procurement
+
+Differnt types of agreements between the state and nonprofits
+- Procurements (LOU)
+	- bidding for doing work
+- Freedom of choice models (LOV)
+	- school system - can open a school and all competition and 
+- Nonprofit public partnerships (IOP)
