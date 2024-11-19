@@ -119,4 +119,6 @@ CASE: The swedish hunters association
 - Membership org with 159k members anr responsible for wildlife management in Sweden
 - 1938 The assoication gets a general assignment from the state to organize parts of the wildlife mangement
 - 2021 It was decided thtat the responsibility for wildlife mangement needed to be put out for tender
-- There was only one actor who applied to win the procurement
+- There was only one actor who applied to win the procurement and that was the same assoication
+
+Fun fact: salt stones so animals dont go to roads and lick salt during winter
