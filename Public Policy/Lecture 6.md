@@ -115,7 +115,7 @@ Differnt types of agreements between the state and nonprofits
 	- Lacks a legal definition
 
 
-CASE: The swedish hunters association
+**CASE**: The swedish hunters association
 - Membership org with 159k members anr responsible for wildlife management in Sweden
 - 1938 The assoication gets a general assignment from the state to organize parts of the wildlife mangement
 - 2021 It was decided thtat the responsibility for wildlife mangement needed to be put out for tender
@@ -139,3 +139,21 @@ Continuous assignment
 - less standardized
 
 For hunters association from their part everything is the same but that they need to waste money on 3 people who need to write procurement bids.
+
+Disadvangegef from state is also that the hunters can ask for more money during the procurement as they are the only ones bidding
+
+
+Responsibilties of rescue service is firefighting and water resuce (this is scope in this case)
+- first profesional fire brigade in 1870s
+- more professionalizdd in urban areas
+- 671 professionalized fire stations with full and part time employees
+- Mix of professional and voluntary stations is 17
+- VOluntary fire stations are 120
+- Other civil society organizations
+**CASE**: The Swedish rescue services in cooperation
+
+
+
+
+
+
