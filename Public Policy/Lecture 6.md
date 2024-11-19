@@ -113,3 +113,10 @@ Differnt types of agreements between the state and nonprofits
 	- Both parties should contrinute resources to the operation (might include voluntary efforts)
 	- Becomes relevant when procurement regulations do not apply
 	- Lacks a legal definition
+
+
+CASE: The swedish hunters association
+- Membership org with 159k members anr responsible for wildlife management in Sweden
+- 1938 The assoication gets a general assignment from the state to organize parts of the wildlife mangement
+- 2021 It was decided thtat the responsibility for wildlife mangement needed to be put out for tender
+- There was only one actor who applied to win the procurement
