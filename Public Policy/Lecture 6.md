@@ -161,7 +161,10 @@ In rural areas it take long time for fire service to reach the fires, so it migh
 Also good for bigger fires - so if something big happens like 9/11 need relationship between civil society orgs and public.
 
 Maritime rescue services
-- municipalities are responsible for municipal 
+- municipalities are responsible for municipal waters (so all rescues that happen here so all biggest 3 lakes and seas)
+	- however do not need to rescue people who are drowing at state waters
+- The swedish sea rescue society (SSRS) operate on stateowned water
+	- so when someone calls SOS the state send out alarm and actor that is closest will go and usually it is SSRS
 **CASE**: The Swedish rescue services in cooperation
 
 
