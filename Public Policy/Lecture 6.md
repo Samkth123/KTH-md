@@ -193,13 +193,18 @@ Do you think there are ways for civil society to contribute to everyday operatio
 Do you  think there are limits to how much responsibility civil society should have in emergency services, and why?
 - björntjänst
 
-What makes coppeation between civil society and state possible -->
-What can we learn from these cases:
+==**What makes coppeation between civil society and state possible -->**
+**What can we learn from these cases:**==
 - Clear mandates and division of responsibilities (ex maritime)
 	- municpilaty repsonsible for municipal waters and civil society dont have responsibilty but have mandate of state water and seen as responsible even if responsibility is on state (they have much ownership of the rescue services)
 - Combination of self interest and public good
-	- If you
+	- ex hunter associate self interest and public good as hunters want game they can hunt but they also want a nice nature and wildlife etc so combine self interest and care of society in the same role when they volunteer so it becomes very powerful that its not either altruism and self interest but combo
+	- ex people have boats and like going fast with them, but they also like when they rescue people
 - Cooperation between state actors and civil society is important for social capital
+	- social capital is important if ex 9/11?
+- Civil society as necessary, but undesirable?
+	- fireservices - tension in sweden where feel like civil society was before but now state can take over and do better job
+- civil society important role in many different areas and a role where for profit would be hard to play that role, but some roles for profit could take over, but civil society is really good for some of because of its members and volunteers etc. 
 
 
 
