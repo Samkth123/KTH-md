@@ -27,5 +27,17 @@ What defines a nonprofit org?
 - Non public - not part of public sector & ran by private actors (but can recieve public money)
 - Operates in an org form that cannot distribute profits (non distribution constraint)
 - No owners, more like members
-- Focus on ideas, ideologies and values (but for profit companies also focus on values and market themselves through values they have, but what seperates profits vs nonprofits is that the making of proifts is more important than the values but in NGO values are most important - tänk på lite det man sa om public sector om att the entity existerar bara due to t)
+- Focus on ideas, ideologies and values (but for profit companies also focus on values and market themselves through values they have, but what seperates profits vs nonprofits is that the making of proifts is more important than the values but in NGO values are most important - tänk på lite det man sa om public sector om att the entity existerar bara due to the value of its task, and not the company itself)
 - Engages in some form of welfare activity
+
+Why do we need nonprofits?
+- Government failure theory
+	- basically if state prevents welfare its a standardized solution (in sweden it is high quality, but still standardized and universal)
+	- It works well if the people are homogenous and will be happy with standardized solutiun
+	- but if its a heterogenous population, we need more nisch solutions, and thats where nonprofits come in
+- The trustworthiness principle
+	- ex if you go to a restaurant and dont like it, you lost 70 dollars
+	- in school its much harder to measure quality, and also its my kid going and not me
+	- How do i even know what is high quality in schools
+	- The idea is that a nonprofit will be more trustworthy 
+- Adressing social gaps?
