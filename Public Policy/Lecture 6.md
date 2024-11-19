@@ -122,3 +122,7 @@ CASE: The swedish hunters association
 - There was only one actor who applied to win the procurement and that was the same assoication
 
 Fun fact: salt stones so animals dont go to roads and lick salt during winter
+
+
+What are the advanteages and disadvantages of procurement rather than the Hunting Association having a continuous assignment?
+
