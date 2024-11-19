@@ -72,3 +72,21 @@ Governance in nonprofit organizations
 
 Artikeln jag läste - Civil society regimes
 - Table 3 - Models of third sector regime
+- Categorizes civil society into 4 sectors
+- Liberal is UK or US where gov dont spend much mone on welfare
+- Corporatist is NE or GER where much welfare produced in civil society but the state funding to welfare is high
+- Social democratic is Nordic countries, we have little welfare in civil society produced, but we have lots of government spending which is produced in public sector
+	- Swedes think we have lots of volunteers and big civil society, and lots of orgs where ovlunteers do much thigns, but we do not have that many employees here
+- Statist seciotn is Japan where low  government spending and small nonprofit scale in terms of employees
+
+The swedish civil society regime
+- Popular movements organizations engaed in advocacy
+	- So ex labor movement & corporatist tradition wher ecivil society gets state inquiry to send feedback on
+	- its much about voice and not producing welfare thing
+- High level of closeness between closeness between civil society and the state (as they talk much about public policy but not produce much stuff in civil society)
+- Small share of welfare production
+- membership based, democratic orgs
+- low proportion of employees but high volunteer engagement (50% swedes ahve volunteered)
+- Large number of organizations (run my volunteers so no professional staff)
+- State Church until the year 2000
+	- in other countries is relgion big in civil society but not in sweden
