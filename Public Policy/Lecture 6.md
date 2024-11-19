@@ -150,6 +150,18 @@ Responsibilties of rescue service is firefighting and water resuce (this is scop
 - Mix of professional and voluntary stations is 17
 - VOluntary fire stations are 120
 - Other civil society organizations
+- Part time firefighers in smaller areas
+- Majority of firestations are professionalized but 120 are voluntary, so they are civil society but they do get trining from the state (so hybrid) and also paid from the state if they extinguish a fire (so civil society but grey area between civil society and state)
+
+But firefighters dont like volunteers and dont want to work with civil society. They talk about civil society which in theory is voluntary failure
+- so when civil society orgs are seen as not professional, efficient and not doing a good job
+
+In rural areas it take long time for fire service to reach the fires, so it might be good to have volunteers in place that are trained to take care of such stuff
+
+Also good for bigger fires - so if something big happens like 9/11 need relationship between civil society orgs and public.
+
+Maritime rescue services
+- municipalities are responsible for municipal 
 **CASE**: The Swedish rescue services in cooperation
 
 
