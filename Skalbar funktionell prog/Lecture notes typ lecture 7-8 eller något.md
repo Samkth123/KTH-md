@@ -40,4 +40,12 @@ function that takes bank in and check total money of bank defn total-money
 
 ;swap! can be used to swap bank-atom to a function of bank which does the body of the previous code.
 
-;vi måste göra swap! i vår kod
+;vi måste göra swap! i vår kod för swap! is a function used to atomically update the value of an atom by applying a function to its current value
+;basically säger till att update göras atomically
+
+;no code for stateful stuff as its single source of code
+
+
+;Back to favorite number
+
+; can add logging watcher
