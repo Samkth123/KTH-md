@@ -27,7 +27,12 @@ defn transfer
 function that takes bank in and check total money of bank defn total-money
 
 ; Naive version - get the value, update it, then push it back
-
+; doing it from many threads, so one picks form bank and does transfer, but the threads ignore each other - therefore we need logging
 (dotimes [_ 10]
 	(future)
 )
+
+;Intermediate version: can we understand when things go 
+; instead of doing reset, we can do logging. ex compare-and-set! which is only set new value if old value is what i want it to be. Here we need to have the old value of the bank
+
+;the s
