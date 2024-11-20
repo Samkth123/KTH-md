@@ -35,4 +35,6 @@ function that takes bank in and check total money of bank defn total-money
 ;Intermediate version: can we understand when things go 
 ; instead of doing reset, we can do logging. ex compare-and-set! which is only set new value if old value is what i want it to be. Here we need to have the old value of the bank
 
-;the s
+;the spin loop when-not can compare-and-set, we will retry with recur and loop from the start
+; the language does the locking itself
+; ba
