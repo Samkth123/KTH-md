@@ -37,4 +37,7 @@ function that takes bank in and check total money of bank defn total-money
 
 ;the spin loop when-not can compare-and-set, we will retry with recur and loop from the start
 ; the language does the locking itself
-; ba
+
+;swap! can be used to swap bank-atom to a function of bank which does the body of the previous code.
+
+;vi måste göra swap! i vår kod
