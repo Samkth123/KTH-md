@@ -49,3 +49,5 @@ function that takes bank in and check total money of bank defn total-money
 ;Back to favorite number
 
 ; can add logging watcher
+
+;
