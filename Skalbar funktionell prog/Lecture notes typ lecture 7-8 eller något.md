@@ -20,3 +20,14 @@ defn transfer
 -> bank
 	(update-in [from-account :balance] - amount) ; update value inside
 	(update-in [to-account :balance] + amount)
+
+(transfer bank :accountid1 :accountid2 10)
+
+; total money
+function that takes bank in and check total money of bank defn total-money
+
+; Naive version - get the value, update it, then push it back
+
+(dotimes [_ 10]
+	(future)
+)
