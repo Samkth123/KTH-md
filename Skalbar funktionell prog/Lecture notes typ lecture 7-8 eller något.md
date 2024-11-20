@@ -51,3 +51,6 @@ function that takes bank in and check total money of bank defn total-money
 ; can add logging watcher
 
 ;set-validator! validator function checks whether a new value can be set for that reference. If the validator function returns nil, the value is accepted; if it returns any other value, the operation will be rejected, and an exception will be thrown
+
+
+;create game - should we handle mana here and send it from end-turn!
