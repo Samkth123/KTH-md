@@ -53,3 +53,59 @@ In liberal and social democratic regimes, nonprofit sector is financed heavily b
     * The balance of power between state, church, and social movements over time.
 
 Left to do: examples of coropratist and statist regimes
+
+
+
+you only need to read Pages 214-219, 226-231 and 241-246 for Salamon & Anheier
+
+The emergence of democracy, or what we would call a vibrant “civil society” is due to:
+1. Royal absolutism held in check by strong elites (monarchs authroity is limited by wealthy landowners)
+2. The emergence of vigorous and independent urban middle class to challenge powers of traditional elites
+3. Solution to agrarian problem - agricultural reforms free majority of population from dependence on farming
+
+In liberal model, low social welfare spending is associated with strong nonprofit sector where opposition of landed elite / middle class never happened.
+
+Opposite extreme is social democratic model. Here welfare is given much from state, and no room is left for nonprfits. Here most likely working class powers have put out good efforts. This does not mean the nonprofits are not active, but they are instead active in other ways than in liberal. If in liberal its like much soup kitchens, in social democratic they are part of political and social and recrational activities. Ex. Hallen IF.
+
+In between the two above models are the others. Corporatist is basically like liberal where NGOs are strong, but they also have strong social welfare spending. The government keeps good contact with the NGOs to keep support from strong powerful social elites like churches and aristocracy. They basically work with them so more extreme demands dont come up. In corporatist regimes nonprofits grow with the government, but in liberal regimes nonprofit shrinks if government take on more responsibiltity.
+
+Fourth model is statist model. Here we have both low government welfare spending and low NGO activity. This is as government keeps centralized control and might be religious regime.
+
+Hypothesis:
+- storng middleclass & middleclass + landed elites not wanting challenge - liberal regime wins as they have low welfare put people take care of eachoher
+- when working class stronger than middle class its scial democratic due to scoial welfare to working class and small nonprofits ecor
+- landed elements strong and confron pressure from middle and working calss, this is corporatist as get good welfare and governemtn works with nonprofits  as its 2 v 1
+- conservative elements remain in control of state, a statist most likely happens where nothing given to citizens.
+
+Social origins also important. In liberal and sociodemo regimes nonprofits are financed by private contributions (unions normal here?). In corporatist the good collaboration between nonprofits and government makes state help more prevelant in nonprofits. In statist no money is expected for the nonprofits.
+Basically
+- if liberal/sociodemo funding is from private
+- corporatist funding is from government mostly
+- statist none, so might take fees as nonprofits
+
+
+#### Social origins theory
+
+
+Super-Short Summary:
+* Social Origins Theory: Nonprofit sectors are shaped by social and political histories. The theory identifies four models:
+    1. Liberal (U.S., U.K.): Low state welfare, large nonprofit sector, supported by middle class.
+    2. Social Democratic (Sweden, Italy): High state welfare, small nonprofit sector, with nonprofits focusing on advocacy.
+    3. Corporatist (Germany, France): State works closely with nonprofits, especially religious ones, to provide welfare.
+    4. Statist (Japan): State dominance, low nonprofit sector, and reliance on corporate welfare.
+* Financing & Anomalies: The theory explains nonprofit revenue sources:
+    * Liberal: Private philanthropy.
+    * Corporatist: Government funding.
+    * Statist: Fees.
+    * Social Democratic: Predicted private giving, but fees are more prominent.
+* German Example: The German nonprofit sector’s focus on health and social services (not education) is rooted in historical struggles between the state and the Catholic Church, leading to a corporatist welfare system.
+
+The Social Origins Theory explains the development of nonprofit sectors in different countries through their unique social and political histories, leading to four main "regimes" or models:
+1. Liberal Regimes (e.g., U.S., U.K.): These countries have low government welfare spending and large nonprofit sectors, shaped by a strong urban middle class. The U.S. is a "purer" liberal model, while the U.K. combines liberal and social democratic elements, particularly in healthcare.
+2. Social Democratic Regimes (e.g., Sweden, Italy): These countries feature extensive government welfare and smaller nonprofit sectors, with nonprofits focusing on advocacy and community roles rather than direct service provision.
+3. Corporatist Regimes (e.g., Germany, France): The state collaborates closely with nonprofit organizations, often religious, to provide welfare services. In Germany, this partnership is rooted in historical agreements with churches.
+4. Statist Regimes (e.g., Japan): The state dominates welfare provision with minimal involvement from nonprofits, relying on corporate welfare.
+The theory also explains nonprofit finance patterns: liberal regimes rely on private philanthropy, corporatist regimes on government funding, and statist regimes on fees. Social democratic regimes, contrary to expectations, show a prominence of fees, though private giving is still notable.
+Overall, the theory helps explain cross-country differences in nonprofit sector size, function, and financing based on historical and social contexts.
+
+
