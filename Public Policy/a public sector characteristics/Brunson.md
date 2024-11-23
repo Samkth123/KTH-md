@@ -2,21 +2,21 @@
 
 Many companies are both politicized and institutionalized. This leads to institutional confusion as they try to imitate different aspects of these two parts.
 
-A formal organization has specific goals in mind and laid out rules and a hierarchy. Informal organization is a social structure that arises when people with common interests meet
+**A formal organization has specific goals in mind and laid out rules and a hierarchy. Informal organization is a social structure that arises when people with common interests meet**
 
   
 
 3 organizational sub institutions
 
-- political organization
+- **political organization**
 
 - state and municipal are based on this
 
-- company
+- **company**
 
 - for organizing trade and production of goods
 
-- association
+- **association**
 
 - trade union and special interest groups
 
@@ -31,7 +31,7 @@ The Brunson article argues that organizations are generally constructed in a way
 
   
 
-The Political organization & the company are dependent on their environments, and need legitimacy ie they need to be tolerated by their environments - but these are different between the 2.
+The Political organization & the company are ==dependent on their environments, and need legitimacy ie they need to be tolerated by their environments== - but these are different between the 2.
 
 The political organization is dependent its environment in the form of citizens, who provide legitimacy. The citizen is characterized by interests and demands, and all their demands are legitimate. The organization looks to get support of citizen in democratic votes.
   
@@ -42,7 +42,7 @@ In the environment of the companys most crucial actor is the customer. Customers
 **The political organization exists for its surroundings and not itself. It has no intristic value if its task dissapears.**
 
 
-The company has no **mission in that sense**. It should only generate demand for its product, and if demand falls, it needs to be flexible and adapt stratgies, showing no loyalty to old idas. Survival is the companies value and goal.
+The company has no **mission in that sense**. It should only generate demand for its product, and if demand falls, it needs to be flexible and adapt strategies, showing no loyalty to old idas. ==Survival is the companies value and goal==.
 
   
 ##### Financing
@@ -61,11 +61,11 @@ Financing in company from external capital comes from how well a company can arg
 
 In the company, the goal is unity and striving for the same goal.
 
-Political organisation is different, as its crucial competence lies in reflecting citizens conflicting ideas.
+==Political organisation is different, as its crucial competence lies in reflecting citizens conflicting ideas.==
 
 Decision processes that mobilize action do not reflect inconsistent demands very well and vice versa. Rational decision-making where you formulate problems, specifiy goals and consider alternatives and do pros/cons list is good for conflicting ideologies. To the political organisation rational decision making is attractive, while the company wants to focus more on action.
 
-**Hypocracy** is produced in organisations where talk is done in accordance of one set of norms, but decisions in accordance with another, and act according to a third. This easily arises in the political organization, where it is difficult to implement decisions due to continuous conflict.
+**Hypocracy** is ==produced in organisations where talk is done in accordance of one set of norms, but decisions in accordance with another==, and act according to a third. This easily arises in the political organization, where it is difficult to implement decisions due to continuous conflict.
 ##### Generalization and change
 
 Companies aim to specialize and concentrate on a particular type of action - a natural way forward. Policital organisations want to generalize as the ideas of the public increasingly diverge and touch on new areas. **==Generalization==** also promotes legitimacy as the political org listens to its environment.
@@ -87,10 +87,10 @@ Individual organisations that characteristics of the political organisations. Fo
 
 ##### Company-ization
 
-This means that an organization that originally had a strong political element starts assuming features from company insitutions. For example, a state or local government authority begins regarding people as customers. Ex increasing size of fees for the authorities services.
+This means that an organization that originally had a strong political element starts assuming features from company insitutions. ==For example, a state or local government authority begins regarding people as customers==. Ex increasing size of fees for the authorities services.
 
   
-Another form of companyization is when an authority demands more **autonomy**. It is also involved when the political instiution seems to be getting a **value of its own** and not related to the **task at hand**.
+==Another form of companyization is when an authority demands more **autonomy**==. It is also involved when the political instiution seems to be getting a **value of its own** and not related to the **task at hand**.
 ##### Associationization
 
 Organisations can adopt characteristics of associations. Examples are acquiring members, such as IKEA family club. Members are more attractive than customers as they are more loyal.
@@ -98,15 +98,11 @@ Organisations can adopt characteristics of associations. Examples are acquiring 
 
 #### Processes of institutional confusion
 
-  
-
 Several kinds of processes driven by different causes may lead to institutional confusion.
-
-  
 
 ##### Picking out individual bits
 
-Actors might pick out specific bits of different institutions and add to their own, and not worry if it looks inconsistent to what other features of the organisation. The chance of this is higher if the imitator sees the organisation they imitate from to be like their own, or if they see no difference in different organisations
+**==Actors==** might pick out specific bits of different institutions and add to their own, and not worry if it looks inconsistent to what other features of the organisation. The chance of this is higher if the imitator sees the organisation they imitate from to be like their own, or if they see no difference in different organisations
 
 If **==activities in the organisation are decoupled==** this potential inconsistency of imported features might not necessarily be problematic.
 

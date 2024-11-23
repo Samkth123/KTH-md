@@ -8,9 +8,9 @@ A hybrid organization is a type of organization that blends different organizati
 
 A **social enterprise** is an organization that operates with the primary goal of addressing a **social, environmental, or cultural issue**, while also striving to be financially sustainable
 
-Just as social enterprises need to balance between making profits for owners vs reinvesting, or putting money into efficient workers vs caring volunteers, hybdrid organisations need to find a way to deal with the multiple demands to which they are exposed. This article explores how they may do so.
+Just as social enterprises need to balance between making profits for owners vs reinvesting, or putting money into efficient workers vs caring volunteers, hybrid organisations need to find a way to deal with the multiple demands to which they are exposed. This article explores how they may do so.
 
-Hybdrid are not only organisations blending market and social logics, they are ppp’s incorporating elements from state, market and civil society logics, also can be biotech companies incoprotating science and market logics.
+Hybrid are not only organisations blending market and social logics, they are ppp’s incorporating elements from state, market and civil society logics, also can be biotech companies incoprotating science and market logics.
 
 The growing pervasiveness of hybdrids is because of A pluralistic institutional environment, which is a setting where multiple diverse groups, interests, values, and perspectives coexist and influence the workings of the institution. In such an environment, power and decision-making are distributed across various actors, rather than concentrated in the hands of a single group or authority.
 - Here companies are exposed to different taken for granted concepts of what goals are and also how to legitimately reach them and how to even be seen as legitimate
