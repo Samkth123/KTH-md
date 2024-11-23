@@ -20,7 +20,7 @@ The quote from Seibel (1990) means that nonprofit organizations play a dual role
 
 The passage highlights the historical relationship between church and state and how this shaped the role of voluntary institutions (like nonprofits) in different countries, including Sweden.
 
-Specifically, it says that in Sweden, where Church authorities were “==domesticated==" (i.e., the Church’s influence was reduced or controlled by the state), the state absorbed much of the welfare functions that had previously been managed by religious organizations. As a result, voluntary institutions (nonprofit organizations, charities, etc.) played a smaller role, particularly in providing human services.
+Specifically, it says that in Sweden, where Church authorities were “==domesticated==" (i.e., the Church’s influence was reduced or controlled by the state), **the state absorbed much of the welfare functions that had previously been managed by religious organizations**. As a result, voluntary institutions (nonprofit organizations, charities, etc.) played a smaller role, particularly in providing human services.
 
 This contrasts with countries like Germany (under Bismarck), where the church maintained a more independent or cooperative role with the state. In such contexts, voluntary institutions continued to have a stronger presence even as state-sponsored welfare systems grew
 
