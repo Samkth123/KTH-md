@@ -89,7 +89,7 @@ Q4 innovation with improvement
 
 Looking at the paper, the direct opposite of rule-based logic would be what's described under the New Public Management (NPM) and Networked Governance paradigms - specifically an outcomes or results-based approach.
 
-Rule-based logic = Focus on HOW things are done (following correct procedures/processes) Results-based logic = Focus on WHAT is achieved (outcomes/effectiveness) - but they still focus on how things are acheived too, but here efficient and market driven process is important
+**Rule-based logic** = Focus on HOW things are done (following correct procedures/processes) **Results-based logic** = Focus on WHAT is achieved (outcomes/effectiveness) - but they still focus on how things are acheived too, but here efficient and market driven process is important
 
 In NPM the population are seen as customers and environment is competitive.
 
