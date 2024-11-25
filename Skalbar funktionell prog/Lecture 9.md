@@ -36,4 +36,11 @@ sprint 3:
 - spel för att kunna ge deathrattle till en minion
 - Abusive sergent - kan välja BARA THIS TURN att ge attack
 	- if no minion then no dmg
-- 
+- Kill COmmand är beast ska finnas on board
+- På secret ska vi ha som egen :secret på hero? typ om secret är active
+
+No references to specific minions in engine
+- ska vara if du e deathrattle då ska vi köra deathrattle - gäller inte för oss längre
+
+
+Bara full decision because functional - so if have a secret, hur ska vi tänka?
