@@ -6,6 +6,7 @@ yserra random uses randomness with seed
 dont want 2 atoms we will have intermediate states - dont want
 
 **pairprogramming i början sen dela upp mer**
+- också vad är progsam kommande dagarna
 
 
 koden ska verkligen spegla hur saker händer
