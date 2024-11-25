@@ -16,9 +16,9 @@ Social capital approach gives new ways of combining private social infrastructur
 - Shift to flat org designs
 - tigether integration of orgs with networks of other orgs
 
-Social capital is not fixed, and dependso n the context it is in. Its basically networks/relationships/trust that exist within a community or org
+**Social capital** is not fixed, and dependso n the context it is in. Its basically networks/relationships/trust that exist within a community or org
 
-PNP: When public orgs collaborate with nonprofits, they build social capital in the community as people are encouraged to actively participate in communities and set priorites and develop programs together which strengthens social ties and trust.
+PNP: When public orgs collaborate with nonprofits, they **build social capital in the community** as people are encouraged to actively participate in communities and set priorites and develop programs together which strengthens social ties and trust.
 
 Public policies can enhance social capital by promoting collabs like through pnps
 
@@ -34,7 +34,7 @@ Social networks can enhance performance of collective action
 3. Rapid dissemination of information  - social networks makes it easy to spread info quickly
 4. Social capital also improves access to resources among network members
 
-Tight coupling means a system where different components are closely interconnected so if there is a failure in one part it will be problems in others as well. If we have this its inevitable we will have accidents
+**Tight coupling** means a system where different components are closely interconnected so if there is a failure in one part it will be problems in others as well. If we have this its inevitable we will have accidents
 
 PNP is not only administrative matter, but the partnership process also encourages collective action and capacity building, more effective decision making and implementation and more community ivolvement.
 

@@ -14,7 +14,7 @@ Hierarchy:
 
 #### Markets and firms
 
-Williamsons arguemnts is that transactions that involve uncertainty about their outcome, that recur frequently and require substantial “transaction specific investments” of money/energy/time & cant be easily transfered are likely to take place within hierarichically organized firms.
+Williamsons arguemnts is that transactions that involve uncertainty about their outcome, that recur frequently and require substantial “**transaction specific investments**” of money/energy/time & cant be easily transfered are likely to take place within hierarichically organized firms.
 - Exchanges that are straightforward, non-repetitive & require no transaction specific investment take place across a market interface
 
 Transactions are moved from markets into hierarchies after knowledge specific to transaction build up due to
