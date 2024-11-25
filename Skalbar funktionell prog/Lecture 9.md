@@ -30,3 +30,10 @@ deftest testing-deathrattle
 
 
 Hero kanske har armour... Tänk på detta också
+
+
+sprint 3:
+- spel för att kunna ge deathrattle till en minion
+- Abusive sergent - kan välja BARA THIS TURN att ge attack
+	- if no minion then no dmg
+- 
