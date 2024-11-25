@@ -8,7 +8,7 @@ Marcus Grönqvist chief accounting officer - redovisninschef
 
 Part of democratic governement in Sweden
 
-Local self-government in Sweden refers to the system in which local authorities—such as municipalities (kommuner) and regions (landsting or regioner)—have the autonomy and responsibility to manage and govern a variety of public services and functions within their geographical areas. This system is a core feature of Sweden's political structure and is rooted in the Swedish Constitution.
+==Local self-government in Sweden refers to the system in which local authorities==—such as municipalities (kommuner) and regions (landsting or regioner)—have the autonomy and responsibility to manage and govern a variety of public services and functions within their geographical areas. This system is a core feature of Sweden's political structure and is rooted in the Swedish Constitution.
 - Means decentralization of power
 
 #### Swedish democratic system
@@ -64,11 +64,12 @@ An equalization system aims to reduce differences in economic resources between 
 Politicians make out city council (municipality) 
 City executive board is also politicians
 
-Stockholm stad has companies they run
+==Stockholm stad has companies== they run
 - So they have AB’s
 - If go bad they can fund with taxes
 - if sthlm stad (municipailty) fails, the region takes responsibility, and if they go bankrupt the nation takes control
 - So basically the ABs they have can never go bankrupt because they will fund them with taxes
+	- this is opportunisitic as they s
 
 
 
