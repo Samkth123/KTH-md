@@ -12,7 +12,7 @@ Innovation may inclucde reinvention or adaption to another context, location, or
 - here is a **difference between public and private** sector as innovation in private sector is mainly about gaining a compettitive advantage and restricting knowledge sharing, while in public sector drivers is to achieve widespread improvement to increase public value
 - such public goals can be enhanced through collaboration efforts ex STAF in FPL
 
-Innovations are defined as “New ideas that work” and “novelty in action”, and they emphasise that innovation is not just a new idea but a new practice.
+Innovations are defined as “**New ideas that work**” and “**novelty in action**”, and they emphasise that innovation is not just a new idea but a new practice.
 
 
 A innovation is an innovation if
@@ -23,7 +23,7 @@ A innovation is an innovation if
 - must “appreciably affect the operations” 
 Invention is creation of new ideas, but innovation is the practical implementation of new ideas into practice
 
-Public sector innovation characteristics
+**Public sector innovation characteristics**
 - Service based nature
     - often not physical
     - changes in relationships between providers and uders
