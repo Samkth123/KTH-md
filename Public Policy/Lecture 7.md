@@ -12,7 +12,7 @@ SALAR - Swedish association of local areas and regions
 
 Lecture about how innovation can be planted in org in public sector
 
-ex: BetalaP, tax payers office
+==ex: BetalaP, tax payers office==
 
 Three lessons about innovation in public sector
 1. Trust matters - 
@@ -64,7 +64,7 @@ Driver of public innovations?
 
 fun fact: 1/10 money to swedbank goes to compliance
 
-layers of regulations exist
+==layers of regulations exist==
 - does this make innovation easier or harder?
 - easier as more things to innovate
 - if trust eachother need less regulations ex in banking system
