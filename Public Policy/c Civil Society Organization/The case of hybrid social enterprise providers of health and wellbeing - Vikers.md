@@ -34,7 +34,7 @@ Example: How can a hospital be profitable AND provide universal care AND involve
 The solution is use “institutional perspectives” to study
 
 
-Hybrid SEs have advantages in addressing complex and under-served needs of people as they can combine logics of public service and social value with logics of private enteprises and markets.
+**Hybrid SEs have advantages** in addressing complex and under-served needs of people as they can combine logics of public service and social value with logics of private enteprises and markets.
 
 Previous studies looked at tensions between logics and marketization of nonprofits give rise to danger of “mission drift” where social ends and social innovation are compromised by logics of business and market.
 
