@@ -22,3 +22,8 @@ deathrattle-loot-hoarder
 
 create-minion
 - cond maybe shouldnt be cond as minions might have more abilities - ex if have taunt and stealth
+
+
+deftest testing-deathrattle
+- gör en sån?
+- gör en sån för loot-hoarder?
