@@ -1,7 +1,7 @@
 
 Basic recapitulation
 - Public sector multiplicity
-- Institutional logics - Different basic logics (norms, conceptions, rules) of our three societal sectors (tradeoffs - ex efficiency is harder for public sector as if we have pharmcy in north which is not gonig well we cant close it because we need to have it there for the customers, but if it were a private company they would just close it)
+- Institutional logics - Different basic logics (norms, conceptions, rules) of our three societal sectors (**==tradeoffs==** - ex efficiency is harder for public sector as if we have pharmcy in north which is not gonig well we cant close it because we need to have it there for the customers, but if it were a private company they would just close it)
 	- Public sector
 		- equal treatment
 		- legal security
@@ -36,7 +36,7 @@ Normally talk about hierarchy and market, but seldom consider partnership part i
 
 #### Provision or production, users or costuomer? - ==the power of labels== - basically what are we in regards to public services
 
-Labels affect how we:
+==Labels affect how we:==
 - talk about practice
 - what models we may use or not
 - what is considered right/good or the opposite
@@ -44,7 +44,7 @@ Labels affect how we:
     - ex in red cross its weird to talk about production and customers, 
     - its not really in their identity.
 
-marketization - public giving out to private to run stuff
+**==marketization==** - public giving out to private to run stuff
 
 #### Market problems/failures and market reorganisations
 
@@ -65,7 +65,7 @@ The attemps did not bring the desired results
 SEAB has close to monopoly, this affects costs and quality for street maintenance
 
 Had free market, then changed towards increased control (more rules, moinitoring, sanctiosn)
-- ==innovation==:
+- ==**innovation**==:
     - technologies of control - GPS & GIS to track the trucks
     - sellers not happy of the transparancy need
 
@@ -99,7 +99,7 @@ what is pp
 - so if negotiating in a much more experienced party than you you might be going into a bad deal longterm
 
 Challenges
-- high transcational costs (cost of collecting info, analysing ingo, writing contracts, osv. If you loose a contract in sweden you usually appeal to court because lots of cost in buying/selling)
+- high ==**transcational costs**== (cost of collecting info, analysing ingo, writing contracts, osv. If you loose a contract in sweden you usually appeal to court because lots of cost in buying/selling)
 - lack of appropriate skills
 - incomplete risk transfer (may construct contract where the parties dont take equal shares of responsibility)
 - higher end user charges

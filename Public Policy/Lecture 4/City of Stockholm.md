@@ -69,7 +69,7 @@ City executive board is also politicians
 - If go bad they can fund with taxes
 - if sthlm stad (municipailty) fails, the region takes responsibility, and if they go bankrupt the nation takes control
 - So basically the ABs they have can never go bankrupt because they will fund them with taxes
-	- this is opportunisitic as they s
+	- this is ==opportunisitic== as they choose parts of marketization but dont want full competition part
 
 
 
