@@ -27,3 +27,6 @@ create-minion
 deftest testing-deathrattle
 - gör en sån?
 - gör en sån för loot-hoarder?
+
+
+Hero kanske har armour... Tänk på detta också
