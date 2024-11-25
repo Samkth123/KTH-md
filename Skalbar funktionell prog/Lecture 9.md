@@ -44,6 +44,13 @@ sprint 3:
 - Early exit också ifall minion attackerar hero men dör innan pga secret så ska inte hero ta dmg
 - Play minion
 - Draken sätter bara health, inte max health
+- knife jungler triggers on moroes summon of miniions as it does on summon minion not play minion
+- Position är nu viktigt också, man måste kunna lägga kort på rätt position pga direwolf alpha ger adjacent minions extra attack, men det ändras vad som är bredvid så försvinner attack
+	- usually people give +1 attack then remove and they track
+	- Det är inte give, utan det är bredvid
+	- kanske ska vara if dire-wolf-adjacent då ska vi ha 1 mer attack
+	- calculate during runtime if this minion is beside me
+	- get-attack function if direwolf-adjacent SKA DET VARA
 
 No references to specific minions in engine
 - ska vara if du e deathrattle då ska vi köra deathrattle - gäller inte för oss längre
