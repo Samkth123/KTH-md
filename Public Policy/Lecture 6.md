@@ -103,10 +103,10 @@ Why so few nonprofits in welfare
 - Legislation that facors for profit entities
 - Challenges in measuring "added value" in public procurement
 
-Differnt types of agreements between the state and nonprofits
+**Differnt types of agreements between the state and nonprofits**
 - Procurements (LOU)
 	- bidding for doing work
-- Freedom of choice models (LOV)
+- ==Freedom of choice models== (LOV)
 	- school system - can open a school and all competition and if u get students u get money from state and if not u get no money
 - Nonprofit public partnerships (IOP) (public and nonprift sector collab towards gemmensamt mål)
 	- The partnership should be based on a mutual need for collaboration towards a public benefit goal
@@ -153,7 +153,7 @@ Responsibilties of rescue service is firefighting and water resuce (this is scop
 - Part time firefighers in smaller areas
 - Majority of firestations are professionalized but 120 are voluntary, so they are civil society but they do get trining from the state (so hybrid) and also paid from the state if they extinguish a fire (so civil society but grey area between civil society and state)
 
-But firefighters dont like volunteers and dont want to work with civil society. They talk about civil society which in theory is voluntary failure
+But firefighters dont like volunteers and dont want to work with civil society. They talk about civil society which in theory is ==voluntary failure==
 - so when civil society orgs are seen as not professional, efficient and not doing a good job
 
 In rural areas it take long time for fire service to reach the fires, so it might be good to have volunteers in place that are trained to take care of such stuff
@@ -172,7 +172,7 @@ What might explain the difference between how the two types of rescue services a
 - fires might spread
 - sea is personal emergency
 
-What are the advantages and disadvantages of having civil society organizations run essential services like maritime rescue compared to a professionalized state run service?
+What are the **advantages and disadvantages** of having civil society organizations run essential services like maritime rescue compared to a professionalized state run service?
 - advantages
 	- flexibility
 	- no bureaucracy constraints
