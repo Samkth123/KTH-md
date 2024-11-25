@@ -38,6 +38,12 @@ sprint 3:
 	- if no minion then no dmg
 - Kill COmmand är beast ska finnas on board
 - På secret ska vi ha som egen :secret på hero? typ om secret är active
+- Ragnaros cant attack. must handle valid attacks - how to describe this in data
+	- MEN DETTA ÄR INTE ATTACK, SÅ SECRET SOM SÄGER IF HERO ATTACKED KOMMER INTE KÖRAS IGÅNG
+	- DÄRFÖR KAN VI INTE STARTA EN SECRET PÅ DAMAGE TAKEN ELR NÅGOT SÅNT
+- Early exit också ifall minion attackerar hero men dör innan pga secret så ska inte hero ta dmg
+- Play minion
+- Draken sätter bara health, inte max health
 
 No references to specific minions in engine
 - ska vara if du e deathrattle då ska vi köra deathrattle - gäller inte för oss längre
