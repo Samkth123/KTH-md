@@ -4,12 +4,12 @@ How extensive does a change be to be seen as an innovation?
 
 Usually we look at product innovation, but innovation in governance and services are more ambiguous. Its not physical, but rather a change in the relationship between service providers and their users.
 
-Innovations have to be percieved as new by a proportion of key stakeholders. This socially constructed perspective is useful approach to public sector innovation across a range of services.
+Innovations have to be **percieved as new by a proportion of key stakeholders**. This socially constructed perspective is **useful approach to public sector innovation** across a range of services.
 
-Innovation may invlucde reinvention or adaption to another context, location, or time period.
+Innovation may inclucde reinvention or adaption to another context, location, or time period.
 
-The diffusion of innovation (sometimes called dissemination, or spread of good or promising practices) to other orgs is particularly important for the public sector
-- here is a difference between public and private sector as innovation in private sector is mainly about gaining a compettitive advantage and restricting knowledge sharing, while in public sector drivers is to achieve widespread improvement to increase public value
+**The diffusion of innovation** (sometimes called dissemination, or spread of good or promising practices) to other orgs is particularly **important for the public sector**
+- here is a **difference between public and private** sector as innovation in private sector is mainly about gaining a compettitive advantage and restricting knowledge sharing, while in public sector drivers is to achieve widespread improvement to increase public value
 - such public goals can be enhanced through collaboration efforts ex STAF in FPL
 
 Innovations are defined as “New ideas that work” and “novelty in action”, and they emphasise that innovation is not just a new idea but a new practice.
