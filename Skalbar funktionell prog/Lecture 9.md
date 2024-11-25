@@ -17,3 +17,7 @@ deathrattle-loot-hoarder
 - vad ska vi göra istället?
 - owner-id ska ändras till player-id eller något
 - Ha funktion som säger get player-id of owner eller något
+
+
+create-minion
+- cond maybe shouldnt be cond as minions might have more abilities - ex if have taunt and stealth
