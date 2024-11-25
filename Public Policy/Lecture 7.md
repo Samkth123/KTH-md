@@ -69,14 +69,14 @@ fun fact: 1/10 money to swedbank goes to compliance
 - easier as more things to innovate
 - if trust eachother need less regulations ex in banking system
 
-why dont innovation happen more often
-- lack of knowledge on how to innovatte
+**why dont innovation happen more often**
+- lack of knowledge on how to innovative
     - if you dont know how to do the solution you need to procure it
     - lack of knoweldge of what problem is and what soultions is and how you can connect them
 - internal problems ex staff/mangement, trade unions, organisational structure, logistics and turf battles
     - budgets in differnet places, and one guy needs to say yes but who gets the benefit is someone else
     - especially if its national, regional and local then more problems in who gets what
-- Fear of negative publicity and/or public doubts about the effectiveness of innovative programmes
+- ==Fear of negative publicity and/or public doubts about the effectiveness of innovative programmes==
     - we wont have incentives to innovative if the benefit goes to people but all bad things that happen to us if something goes wrong
     - if in private you find a way to monetize somethuing or save money you will go up in career
     - but if its in public you do not know who will specificaly benefit
