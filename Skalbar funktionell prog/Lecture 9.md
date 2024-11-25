@@ -57,3 +57,5 @@ No references to specific minions in engine
 
 
 Bara full decision because functional - so if have a secret, hur ska vi tänka?
+
+If non pure functions we 
