@@ -8,7 +8,7 @@ civil society is actions, ideology, volunteering basically - basically the large
 Civil society in public is just disucsesd as something good and volutneering - but its also a place where you dicuss things, and an org can have a goal that you do not agree with but they will still pursue it
 
 Civil society
-- An arena, seperate from the state,market, and private shousehold where poeple organise and act together in common interests
+- An arena, seperate from the state,market, and private household where poeple organise and act together in common interests
 
 Four societal spheres
 - each sphere has different logics, and you are different people depending on which sphere you are in
@@ -31,15 +31,15 @@ What defines a nonprofit org?
 - Engages in some form of welfare activity
 
 Why do we need nonprofits?
-- Government failure theory
+- ==Government failure theory==
 	- basically if state prevents welfare its a standardized solution (in sweden it is high quality, but still standardized and universal)
-	- It works well if the people are homogenous and will be happy with standardized solutiun
-	- but if its a heterogenous population, we need more nisch solutions, and thats where nonprofits come in
-- The trustworthiness principle
+	- It ==works well if the people are homogenous and will be happy with standardized== solutiun
+	- but if its a ==heterogenous population==, we need more nisch solutions, and thats where nonprofits come in
+- ==The trustworthiness principle==
 	- ex if you go to a restaurant and dont like it, you lost 70 dollars
 	- in school its much harder to measure quality, and also its my kid going and not me
 	- How do i even know what is high quality in schools
-	- The idea is that a nonprofit will be more trustworthy to provide the type of service where ==**information asymmetry**== exist
+	- The idea is that a **nonprofit will be more trustworthy** to provide the type of service where ==**information asymmetry**== exist
 	- But a for profit might take more money as you will not know if the quality is lowered
 - Addressing social gaps?
 
