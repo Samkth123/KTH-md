@@ -36,7 +36,7 @@ The solution is use “institutional perspectives” to study
 
 **Hybrid SEs have advantages** in addressing complex and under-served needs of people as they can combine logics of public service and social value with logics of private enteprises and markets.
 
-Previous studies looked at tensions between logics and marketization of nonprofits give rise to danger of “mission drift” where social ends and social innovation are compromised by logics of business and market.
+Previous studies looked at tensions between logics and marketization of nonprofits give rise to danger of “**mission drift**” where social ends and social innovation are compromised by logics of business and market.
 
 
 The results section analyzes how differnet institutional logics interact in public service innovation
@@ -58,7 +58,7 @@ The results section analyzes how differnet institutional logics interact in publ
     - Use of volunteers (can be good and bad tho)
     - Democratic participation by staff and users
 
-The study identified three key areas where the logics interplayed within organizations:
+The study identified **==three key== areas where the logics interplayed within organizations**:
 - Leadership & Culture
     - Leaders able to combine different logic styles in mangement style
     - Staff empowered to experiment and take risks (hard in public sector but more normal in heirarchical and market)
