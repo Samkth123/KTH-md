@@ -12,4 +12,8 @@ koden ska verkligen spegla hur saker händer
 - inte bara massa kod utan ska vara väldigt modulärt med bra funktion namn som säger exakt vad som ska göras
 
 deathrattle-loot-hoarder
-- 
+- reusable entity is draw-card
+- redo into def-test-test-loothoarder
+- vad ska vi göra istället?
+- owner-id ska ändras till player-id eller något
+- Ha funktion som säger get player-id of owner eller något
