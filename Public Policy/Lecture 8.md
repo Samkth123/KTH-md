@@ -203,6 +203,9 @@ How to do it:
 - conducting a substantial amrket analysis
 - early dialogue with stakeholders in the market
 - setting functional requirements - what instead of how
-
-
-
+	- ex instead of instructional how to clean up house, you in functional requirement say i want a clean room and you the supplier need to figure out how to do the cleaning because that is what you are best at
+	- low threshold to waht is innovation basically
+- Choiche of procedure - open step by step procedure
+	- competitive dialogue
+	- negotiated procedure
+	- innovation p
