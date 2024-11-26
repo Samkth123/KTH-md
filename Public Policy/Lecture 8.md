@@ -21,9 +21,13 @@ Themes in questions
 - opportunities
 	- value driven procurement
 	- converting usually private companies focusing on profit to more social enterprises
+	- efficiency
+		- ex category management
+	- Open innovation - involve citizens as are closest environemtn to public entity
 - barriers
 	- ROI
 	- time - too inovative takes long - balance
+	- what you are procuring might not be in line with goals
 
 ##### Procurement trends and phenomena
 
