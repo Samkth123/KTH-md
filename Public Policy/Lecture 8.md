@@ -13,12 +13,14 @@ Themes in questions
 - Public vs private procurement approaches
 - Public procurement as a catalyst for innovation
 
-How would you utilize and drive public procurement innovation?
+**How would you utilize and drive public procurement innovation?**
 - Experimental and adaptable procurement
+- Value driven procurement as well? Can influence private companies a lot
 
-What opportunities and barriers do you see?
+**What opportunities and barriers do you see?**
 - opportunities
-	- 
+	- value driven procurement
+	- converting usually private companies focusing on profit to more social enterprises
 - barriers
 	- ROI
 	- time - too inovative takes long - balance
