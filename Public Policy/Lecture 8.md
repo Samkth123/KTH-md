@@ -7,12 +7,21 @@ lecture
 
 Themes in questions
 - balancing efficiency, innovation and risk in public procurement
+	- 
 - INtegrating innovation and sustainability in procurement practices
 - legal and regulatory constraints in procurement decisions
 - Public vs private procurement approaches
 - Public procurement as a catalyst for innovation
 
+How would you utilize and drive public procurement innovation?
+- Experimental and adaptable procurement
 
+What opportunities and barriers do you see?
+- opportunities
+	- 
+- barriers
+	- ROI
+	- time - too inovative takes long - balance
 
 ##### Procurement trends and phenomena
 
@@ -234,5 +243,15 @@ Adapted procurement (onging innovations)
 - co-development of specificatiojs or criteria in market dialogue or light customiation of solution by co-develpoment during the contract period
 - basically set flecible contracts that you can develop over itme, as its impossible to forecast what will happen in future and will ahve to live with fixed contract
 
-Experimental procurement
-- co devlepoment of specificaiton, 
+Experimental procurement - innovate something to get new product
+- co devlepoment of specificaiton
+- Aims to address new societal eneds or challenges
+- seeks entriely new, specialized solutions
+- extensively utlizes innovation throughout all procureent phases
+- includes development plans in the contract fo the implmentaitoj phase
+- very usefull for innovation is made for this man
+
+Technological orocurement
+- inovld speicalied tech for a new use case or market
+- limited innovation compared to experimental prcourement
+- innovation occurs during pre sutdy phase rather than later in the development
