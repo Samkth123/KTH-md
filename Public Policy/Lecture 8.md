@@ -179,6 +179,18 @@ Suppliers have never been more business critical
 - sustainbale supply base
 - + ai
 
+Risk mitigation
+- supplier relationship management
+- risk mitigation as in dual sourcing
+- collaboration internally
+
+
+Procurement can act as a value contributor
+- Bottom is cost and performance as foundation
+- Then business partnering is important for innovation and relationhips
+- Top is transforming and ledaership and orchestrate with suppliers. Can make them sustainable and shape the market from a public perspective
+	- Basically kan göra mycket allmännyta genom att ha sustainability krav på företagen procure från som public entitiy
+	- forces companies to be more innovative to focus on sustainability as well
 ##### Supplier collaboration and value creation
 
 
