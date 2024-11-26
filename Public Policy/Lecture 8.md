@@ -208,4 +208,31 @@ How to do it:
 - Choiche of procedure - open step by step procedure
 	- competitive dialogue
 	- negotiated procedure
-	- innovation p
+	- innovation partnership
+
+PPfi 
+- role of public procurement to drive innovation
+
+PPoI
+- how can public services be innovated? 
+- procure new innovative products or services
+
+IPP
+- How can public institutions procure innovatively
+- Procurement process
+
+**==Public procuement of innovations PPOI TROR DETTA E LITE VIKTIGT==**
+- drivers
+	- the new law and regulations
+	- successful stories of PPOI
+	- quest for new proposals
+
+Adapted procurement (onging innovations)
+- focuses on developing procurement criteria or making inor customziations during the contract period
+- limited innovation compared to experimental procurement
+- innovation typically occurs during the pre-study phase or later in the contract period
+- co-development of specificatiojs or criteria in market dialogue or light customiation of solution by co-develpoment during the contract period
+- basically set flecible contracts that you can develop over itme, as its impossible to forecast what will happen in future and will ahve to live with fixed contract
+
+Experimental procurement
+- co devlepoment of specificaiton, 
