@@ -266,4 +266,4 @@ Technological orocurement
 - limited innovation compared to experimental prcourement
 - innovation occurs during pre sutdy phase rather than later in the development
 
-# ÄR PPP och procurement  1-time procureexakt samma procurement process?
+# ÄR PPP och 1-time-procurement exakt samma procurement process?
