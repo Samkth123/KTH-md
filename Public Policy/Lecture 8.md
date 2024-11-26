@@ -16,6 +16,10 @@ Themes in questions
 **How would you utilize and drive public procurement innovation?**
 - Experimental and adaptable procurement
 - Value driven procurement as well? Can influence private companies a lot
+- If you are regulator, you can remove steps of procurement. Less rules give more innovation, but more rules can drive innovation around those rules
+	- basically change external environment
+- knowledge in procurement ex private company has lots of knowledge and large part of company dedicated to procurement, but in public can have less knowledge as one person might need to manage a wide variety of categories, but in private we have fewer categories but more procurement people. They can also focus on innovation there
+- 
 
 **What opportunities and barriers do you see?**
 - opportunities
@@ -261,3 +265,5 @@ Technological orocurement
 - inovld speicalied tech for a new use case or market
 - limited innovation compared to experimental prcourement
 - innovation occurs during pre sutdy phase rather than later in the development
+
+# ÄR PPP och procurement  1-time procureexakt samma procurement process?
