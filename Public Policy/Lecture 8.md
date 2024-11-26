@@ -171,7 +171,18 @@ How will strategy and collaboration look like in the different quadrants?  W
 
 How would a public procurement category “footprint” look like? 
 
+Companies are only as sustainable as their suppliers
+
+Suppliers have never been more business critical
+- security of supply
+- mitigate price rises
+- sustainbale supply base
+- + ai
+
 ##### Supplier collaboration and value creation
+
+
+
 
 ##### Public procurement innovation strategies
 
