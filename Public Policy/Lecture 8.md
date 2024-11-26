@@ -198,6 +198,11 @@ Procurement can act as a value contributor
 
 ##### Public procurement innovation strategies
 
+How to do it:
+- an innovation procurement will take longer and require more resources than a regular procurement process 
+- conducting a substantial amrket analysis
+- early dialogue with stakeholders in the market
+- setting functional requirements - what instead of how
 
 
 
