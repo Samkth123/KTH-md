@@ -8,7 +8,7 @@ Innovations have to be **percieved as new by a proportion of key stakeholders**.
 
 Innovation may inclucde reinvention or adaption to another context, location, or time period.
 
-**The diffusion of innovation** (sometimes called dissemination, or spread of good or promising practices) to other orgs is particularly **important for the public sector**
+==**The diffusion of innovation**== (sometimes called dissemination, or spread of good or promising practices) to other orgs is particularly **important for the public sector**
 - here is a **difference between public and private** sector as innovation in private sector is mainly about gaining a compettitive advantage and restricting knowledge sharing, while in public sector drivers is to achieve widespread improvement to increase public value
 - such public goals can be enhanced through collaboration efforts ex STAF in FPL
 
