@@ -106,7 +106,7 @@ Challenges of ppp
 
 Critical succes factors:
 - **Appropriate risk charing**
-- **Strong private consortium** (the partner must be strong so you know that they will be there, have competence, and have muscle to go through changes in economy)
+- Strong private consortium (the partner must be strong so you know that they will be there, have competence, and have muscle to go through changes in economy)
 	- but here problem as startips left outside unlike usa 5% must go to startups sthlm stad spoke this
 - political and public support
 - transparent procurement
