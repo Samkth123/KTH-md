@@ -37,7 +37,11 @@ Added contexual moderators
 
 Looked at if school performed well but in their student demographic they were bad, they could be a turn around school.
 
-
+3 pathways to school turnaround
+- Borrom up turnaround- techer collaboration in conjunction with the principal when the school is under change pressure
+- Bypass turnaround - school district in conjunction with high academic expectations (change pressure irrelevant) and the principal is not focussing on core operations
+- Leeway turnaround - School District in conjunction with principal when not under cahnge pressure, and there is a lack of teacher collaboration
+- Non-turnaround - more prevelant in urvan contexts, the abscence of teacher collaboration is key
 
 
 
