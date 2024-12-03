@@ -23,7 +23,19 @@ higher performing schools are characterized by
 - high academic expectations on pupils
 
 
-Comparative qualitative analy
+Comparative qualitative analysis QCA
+- a qulaitative method for medium to large n systematic case comparison
+- identifies necessary and sufficient conditions by process of comparativ analysis and reduction
+
+Schools need to be conextualized aka they are all very different or its reverse where its like students motivated or teachers good will work out everything
+- none of these extremes work, need a middle thing
+
+Added contexual moderators
+- change pressure (absolute low-performing)
+	- ex: Skola i bromma som går bra men ändå under snitte
+- Urban/non-urban school
+
+Looked at if school performed well but in their student demographic they were bad, they could be a turn around school.
 
 
 
