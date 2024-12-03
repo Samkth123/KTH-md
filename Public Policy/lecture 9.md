@@ -14,7 +14,16 @@ chlanges arise in tensions between the policies osv
 
 Research area: HOw to turn around underperforming schools
 
-linear relationships between school performance for kids and parents education. The higher education parents have the higher 
+linear relationships between school performance for kids and parents education. The higher education parents have the higher the school education for kids
+
+higher performing schools are characterized by
+- a school district with a strong focus on systematic quality assurance
+- a principal who focuses on the core mission ie students learning
+- teachers who collaborate (well)
+- high academic expectations on pupils
+
+
+Comparative qualitative analy
 
 
 
