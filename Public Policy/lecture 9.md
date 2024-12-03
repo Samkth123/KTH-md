@@ -32,8 +32,8 @@ Schools need to be conextualized aka they are all very different or its reverse 
 
 Added contexual moderators
 - change pressure (absolute low-performing)
-	- ex: Skola i bromma som går bra men ändå under snitte
-- Urban/non-urban school
+	- ex: Skola i bromma som går bra men ändå under snittet för sitt område har lägre change pressure än ortens skolla som rankas sveriges sämsta skola
+- Urban/non-urban school context
 
 Looked at if school performed well but in their student demographic they were bad, they could be a turn around school.
 
