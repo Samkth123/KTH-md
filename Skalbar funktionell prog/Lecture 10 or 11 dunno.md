@@ -35,4 +35,8 @@ mock-it
 use IFn (ifunctions)
 
 
+i can set mock score
+- 
+
+
 --
