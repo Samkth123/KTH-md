@@ -22,4 +22,14 @@ sendermock
 Mock helps with character mismatch, because if you print might look the same, but this shows if there is any error
 - so basically send http request to mock-it or any mock framework for tests
 
+mock-it 
+- java syntax for regex
+- finns nog på github
+- ex: {:path "/the/path"
+:http-metod "GET"}
+- {:http-status 200}
+- can also write with pathid: :path /the/path/:path-id
+- mock response is json
+- should be in logs and test enviroment
+
 --
