@@ -19,4 +19,7 @@ sendermock
 	- headers we will send (cookies, auths)
 	- what content have on body
 
+Mock helps with character mismatch, because if you print might look the same, but this shows if there is any error
+- so basically send http request to mock-it or any mock framework for tests
+
 --
