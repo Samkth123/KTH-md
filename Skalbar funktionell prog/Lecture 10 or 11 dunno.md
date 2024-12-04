@@ -42,5 +42,10 @@ i can set mock score
 same is with (read-string "#ijfai) osv...
 
 
+debuff ska ha counter som går ner
+
+abusive sergeant - turn duration på buffs
+- då blir det bara get attack som behöver bry sig om detta
+
 
 --
