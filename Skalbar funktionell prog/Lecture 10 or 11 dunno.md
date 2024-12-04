@@ -32,4 +32,7 @@ mock-it
 - mock response is json
 - should be in logs and test enviroment
 
+use IFn (ifunctions)
+
+
 --
