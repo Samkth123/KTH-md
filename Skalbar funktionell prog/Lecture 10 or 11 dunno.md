@@ -10,3 +10,13 @@ frontend app talks to srever and asks for http
 använder java http
 
 have a send api that sends java client and request osv... public interface sender
+
+sendermock
+- instead of sending extrat usfeull info
+- from http point of view is
+	- where want send
+	- what kind of method using (patchoptions? put? get?)
+	- headers we will send (cookies, auths)
+	- what content have on body
+
+--
