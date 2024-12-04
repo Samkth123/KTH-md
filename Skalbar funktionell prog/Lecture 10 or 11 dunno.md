@@ -36,7 +36,11 @@ use IFn (ifunctions)
 
 
 i can set mock score
-- 
+
+(list 1 2 3 a ) --> 1 2 3 42
+'(1 2 3 a) - says dont change anything in my list and gives --> 1 2 3 a
+same is with (read-string "#ijfai) osv...
+
 
 
 --
