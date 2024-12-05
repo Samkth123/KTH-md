@@ -21,3 +21,9 @@ smart homes
 - complex for people to come home to them and help with cleaning and cooking or someone to hang with - can be solved by technology
 - will see huge demand on public sector in decades to come in smart homes
 - whatever innovative solution we can suggest has large value here
+
+if there are feasibility studies we can find use them 
+
+if have a solution and see something being provided elsewhere, if it works there it can work here
+
+
