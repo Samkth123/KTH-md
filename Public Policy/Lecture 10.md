@@ -26,4 +26,15 @@ if there are feasibility studies we can find use them
 
 if have a solution and see something being provided elsewhere, if it works there it can work here
 
+think of who would benefit from the solution  ex not only old people but also hospitals?
+no report, only pp's
 
+text pctures
+
+use business model canvas for the whole thing
+- proposed solution -- be creative - look at other places and take inspiration
+- resources (who will be responsible) -- 
+- assumption of target audience or look at reports or do mini data collection
+- 14 slides max?
+- mycket fina grafer å så
+- presented on 17th
