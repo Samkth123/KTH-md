@@ -38,3 +38,7 @@ use business model canvas for the whole thing
 - 14 slides max?
 - mycket fina grafer å så
 - presented on 17th
+
+
+
+HELA IDEN ÄR ATT VI ÄR MGMGM KONSULTER Å SKA FÅ BUDGET FÖR ETT PROJEKT MEN IST FÖR PROEJKTE. DET GRADE
