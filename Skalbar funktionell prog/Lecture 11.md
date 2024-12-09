@@ -8,3 +8,8 @@ Undo button:
 
 Need swap state button
 conj state and next state
+
+
+Redo button:
+cant drop anyhting
+need to maybe store in another list?
