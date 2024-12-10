@@ -1,0 +1,1 @@
+Budget process - all ministries participate, Ministry of Finance is project leader (they dont decide but they hold the whole process)
