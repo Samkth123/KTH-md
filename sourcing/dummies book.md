@@ -11,3 +11,7 @@ or
 
 Lean manufacturing can reduce inventories, same as being responsive to customer needs.
 
+A resilient supply chain requires scenario planning. What scenarios are most important to you, what you will do in each scenario and how you can tell when a scenario is becoming reality. Should have sensors that tell you what happens to your cargo if at sea ex pirates, storm, osv...
+
+“You can find more information about supply chain scenario planning, as well as a link to the MIT Scenario Planning Toolkit, in Chapter 15.”
+
