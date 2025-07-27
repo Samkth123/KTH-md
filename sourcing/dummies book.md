@@ -15,3 +15,8 @@ A resilient supply chain requires scenario planning. What scenarios are most imp
 
 “You can find more information about supply chain scenario planning, as well as a link to the MIT Scenario Planning Toolkit, in Chapter 15.”
 
+Principles of supply chain…
+1. Customer focus
+	1. supply chain starts with understanding who your customers are and why they are buying, as if you understand their problems you can help solve it better faster y cheaper than the competition
+2. Systems thinking
+	1. 
