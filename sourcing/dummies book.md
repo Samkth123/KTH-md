@@ -22,5 +22,8 @@ Principles of supply chain…
 2. Systems thinking
 	1. **s-chains are combo of people procceses y technologies** that work together and you need to understand the end to end process. Appreciate the **series of cause and effect relationships** within the supply chain
 3. Bimodal innovation
-	1. need to keep innovation in supply chains 2 types
-		1. Sustaining innovation - continous improvements in process such as lean, six sigma and theory of 
+	1. need to keep innovation in supply chains 2 types. Must do stuff better faster and cheaper than competitors
+		1. Sustaining innovation - continous improvements in process such as lean, six sigma and theory of constraints
+		2. disruptive innovation - 
+4. Collaboration
+	1. work across departments in org & work with suppliers and. ustomers outside org
