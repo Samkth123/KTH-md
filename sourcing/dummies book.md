@@ -1,5 +1,6 @@
+highlitar bra ord att använda
 
-Supply chains are the complex systems made up of people, processes, and technologies that we engineer and manage to deliver the goods and services customers value. Supply chain management is the planning and coordination of the relationships between all the people, processes, and technology involved in creating that value
+Supply chains are the complex systems made up of people, processes, and technologies that we engineer and manage to deliver the goods and services customers value. **Supply chain management is the planning and coordination of the relationships between all the people, processes, and technology involved in creating that value**
 
 Supply chain är inte bara inköp, utan hjälper även andra delar av bolaget tex sälj å manufacturing. Alla dessa måste va aligned för att göra profit. 
 
@@ -11,12 +12,15 @@ or
 
 Lean manufacturing can reduce inventories, same as being responsive to customer needs.
 
-A resilient supply chain requires scenario planning. What scenarios are most important to you, what you will do in each scenario and how you can tell when a scenario is becoming reality. Should have sensors that tell you what happens to your cargo if at sea ex pirates, storm, osv...
+A resilient supply chain requires **scenario planning**. What scenarios are most important to you, what you will do in each scenario and how you can tell when a scenario is becoming reality. Should have sensors that tell you what happens to your cargo if at sea ex pirates, storm, osv...
 
 “You can find more information about supply chain scenario planning, as well as a link to the MIT Scenario Planning Toolkit, in Chapter 15.”
 
 Principles of supply chain…
 1. Customer focus
-	1. supply chain starts with understanding who your customers are and why they are buying, as if you understand their problems you can help solve it better faster y cheaper than the competition
+	1. **supply chain starts with understanding who your customers are and why they are buying**, as if you understand their problems you can help solve it better faster y cheaper than the competition
 2. Systems thinking
-	1. 
+	1. **s-chains are combo of people procceses y technologies** that work together and you need to understand the end to end process. Appreciate the **series of cause and effect relationships** within the supply chain
+3. Bimodal innovation
+	1. need to keep innovation in supply chains 2 types
+		1. Sustaining innovation - continous improvements in process such as lean, six sigma and theory of 
