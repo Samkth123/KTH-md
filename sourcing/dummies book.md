@@ -44,4 +44,8 @@ A resilient supply chain requires **scenario planning**. What scenarios are most
 - Design supply chain for strategic advantage 
 	- how s-chain can create value by operating better, faster and cheaper and comp. Think beyond lowering costs and see how s-chain can help grow revenue, innovate and create new markets
 - Implement collaborative relationships
-	- if sales wants to improve customer service by making sure lots of inventory exists, a
+	- if sales wants to improve customer service by making sure lots of inventory exists, and logistics tries to reduce inventory to reduce costs, we will waste energy
+- Forging supply chain partnerships
+	- Consider how to forge strong relationshops with customers and suppliers. When understand that depend on eachother for survival, working together becomes prio
+- Managing supply chain information
+	- If retailer share data upstream the manufacturer and production can do better job of scheduling production and managing inventory. Same as if manufacturer share data of commodity prices and capacity constraints, then retailers can better manage pricing
