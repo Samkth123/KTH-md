@@ -27,3 +27,10 @@ Principles of supply chain…
 		2. disruptive innovation - 
 4. Collaboration
 	1. work across departments in org & work with suppliers and. ustomers outside org
+5. **Flexibility**
+	1. How quick supply chain can respond to changes ex increase or decrease in sales. Flexbility comes in forms of buffers such as extra capacity, miultuple sources of supply and alt forms of transport. Flex costs money, but has value.
+		1. Think of the extra cost you pay to second supplier as insurance policy
+6. Technology
+7. Global perspective
+8. Risk management
+	1. be aware of risks and implement processes to detect and mitigate threats
