@@ -57,10 +57,28 @@ Creating 6 supply chain capabilites
 ### “Chapter 2 Seeing Supply Chains from Different Perspectives”
 
 ![[Screenshot 2025-07-30 at 23.49.20.png]]
-The purchasing, logistics, and operations teams have conflicting goals — often without realizing it
+**The purchasing, logistics, and operations teams have conflicting goals — often without realizing it**
 
 - logistics kanske vill ha inventory down, medan purchasing kanske vill köpa stora mängder för att priset ska vara billigare och operations vill ha mycket redo för ifall sälja mycket
 
 ”Managing these functions independently can lead to poor overall performance for your company. To meet top-level goals, supply chain managers need to make sure that the objectives of these groups are aligned.”
 
 “The simplest top-level goal for many supply chain decisions is return on investment. Focusing on this one objective can often help everyone see the big picture and look beyond functional supply chain metrics such as capacity utilization or transportation cost.”
+
+
+#### Purchasing
+Purchasing (or procurement) is the function that buys the materials and services that a company uses to produce its own products and services. The basic goal of the purchasing function is to get the stuff that the company needs at the lowest cost possible; the purchasing department is always looking for ways to get a better deal from suppliers. Some of the most common cost-reduction strategies for a purchasing manager are 
+
+Negotiating with a supplier to reduce the supplier’s profit margin
+Buying in larger quantities to get a volume discount
+Switching to a supplier that charges less for the same product
+Switching to a lower-quality product that’s less expensive
+
+“On the surface, any of these four options looks like a simple, effective way to reduce costs and therefore increase profitability, but each can have negative long-term effects”
+
+“Many purchasing decisions can also have direct effects on the costs of other functions within your company. **Sourcing lower-quality raw materials might lead to higher inspection and testing expenses**, for example”
+
+#### Logistics
+Logistics covers everything related to moving and storing products. This function involves physical distribution, warehousing, and transportation. Inbound logistics refers to the products that are being shipped to your company by your suppliers. Outbound logistics refers to the products that you ship to your customers. Intralogistics refers to moving and storing products within your own facilities.
+
+Transporting goods costs money, but that is the same a
