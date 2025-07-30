@@ -147,3 +147,16 @@ ab testing to see what they value the most
 
 “Responsiveness:Responsiveness is the measure of how quickly your supply chain can provide a product or service to a customer”
 
+“Flexibility:Flexibility is the measurement of how well your supply chain scales up or ramps down in response to change. If customers always wanted the same stuff in the same quantities and at regular intervals, supply chain management would be a whole lot simpler. But that’s not the way things work in the real world. One week, everyone is buying doughnuts, and no one is buying ice cream. The next week, everyone is buying ice cream, and no one is buying doughnuts. Supply chains must have the flexibility to respond to those changes in demand.”
+
+“Cost:Cost, of course, is the amount of money it takes to operate your supply chain. Supply chain management needs to provide the capacity, responsiveness, and flexibility that your customers need at the lowest possible cost”
+
+#### “Looking at Cost Drivers”
+
+Procurement costs
+- “Some common ways to reduce procurement costs are to negotiate **better prices from your suppliers, agree to buy larger quantities over a longer period, or switch to a supplier that agrees to accept lower prices**. Also, **each supplier that you work with costs you money**, because someone has to find the supplier, sign all the contracts, keep track of the supplier’s performance, and make sure the supplier gets paid. So the cost for procurement also includes the salaries and overhead for your procurement team. **Reducing the number of suppliers you work with and streamlining your procurement processes can often reduce procurement overhead costs**.”
+
+Transportation
+- “Moving a product from one place to another costs money, and different modes of transportation have different costs. These modes have different speeds, which can be just as important as transportation cost. **A faster and more expensive transportation mode might actually save you money by decreasing the amount of inventory that you have in transit**, for example. It’s also common to use more than one mode of transportation to move a single product through a supply chain. Changing from one mode to another by using multimodal transportation can optimize transportation costs. Another common way to reduce transportation costs is to pack more products into each load, thereby improving capacity utilization. **The important thing to remember is that choosing a transportation mode that is slower and less reliable may reduce transportation costs, but it will increase your inventory and consume more working capital**. ”
+
+Inv
