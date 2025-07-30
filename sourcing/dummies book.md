@@ -141,4 +141,9 @@ ab testing to see what they value the most
 #### Step 3: Understand your products or services
 “The next step in prioritizing your supply chain goals is understanding the characteristics of your products or services. The easiest way to illustrate this step is to show how different kinds of products need to achieve different goals to deliver the greatest value to their customers.”
 
+#### “Building the Right Supply Chain”
+
+“Capacity:Capacity refers to how much product or service your supply chain can produce in a given period. One of the main goals of supply chain management is to provide your customers with as much of your products or services as they’re willing to buy. If you don’t have enough capacity, your customers will have to go without the products they want, or they’ll buy from your competitor. But if you have too much capacity, you’re tying up capital without generating a return.”
+
+“Responsiveness:Responsiveness is the measure of how quickly your supply chain can provide a product or service to a customer”
 
