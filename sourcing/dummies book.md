@@ -159,4 +159,12 @@ Procurement costs
 Transportation
 - “Moving a product from one place to another costs money, and different modes of transportation have different costs. These modes have different speeds, which can be just as important as transportation cost. **A faster and more expensive transportation mode might actually save you money by decreasing the amount of inventory that you have in transit**, for example. It’s also common to use more than one mode of transportation to move a single product through a supply chain. Changing from one mode to another by using multimodal transportation can optimize transportation costs. Another common way to reduce transportation costs is to pack more products into each load, thereby improving capacity utilization. **The important thing to remember is that choosing a transportation mode that is slower and less reliable may reduce transportation costs, but it will increase your inventory and consume more working capital**. ”
 
-Inv
+Inventory costs
+- “Keeping products in inventory costs money. If you’re borrowing money from the bank to pay for that inventory (which is often the case), your inventory costs you whatever interest rate you’re paying to the bank. Other costs include paying for a building to keep the inventory safe and paying people to move the inventory around inside the building. You also run the risk that products could be lost, damaged, or stolen. This problem, often called shrinkage, also creates a cost to your company. Finally, products can expire, deteriorate, evaporate, or become obsolete if they sit in a warehouse or a retail store for too long. These all contribute to your inventory holding cost.”
+
+Quality costs
+- “When you buy a product, you expect it to meet a certain level of quality. In some cases, you may need to have formal inspection and quality assurance processes in place to make sure that the products you receive from suppliers and the products you send to your customers meet these requirements. Any product that doesn’t meet these standards costs you money, and the more closely you have to look for quality problems, the more money you spend. Reducing the variation in manufacturing and distribution processes through techniques such as Lean and Six Sigma, ==which are discussed in Chapter 16==, can reduce the quality costs in a supply chain.”
+
+
+#### “Dealing with Trade-Offs”
+
