@@ -56,3 +56,11 @@ Creating 6 supply chain capabilites
 
 ### “Chapter 2 Seeing Supply Chains from Different Perspectives”
 
+![[Screenshot 2025-07-30 at 23.49.20.png]]
+The purchasing, logistics, and operations teams have conflicting goals — often without realizing it
+
+- logistics kanske vill ha inventory down, medan purchasing kanske vill köpa stora mängder för att priset ska vara billigare och operations vill ha mycket redo för ifall sälja mycket
+
+”Managing these functions independently can lead to poor overall performance for your company. To meet top-level goals, supply chain managers need to make sure that the objectives of these groups are aligned.”
+
+“The simplest top-level goal for many supply chain decisions is return on investment. Focusing on this one objective can often help everyone see the big picture and look beyond functional supply chain metrics such as capacity utilization or transportation cost.”
