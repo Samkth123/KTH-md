@@ -116,3 +116,8 @@ Improve communications. If the store, the wholesaler, and the manufacturer know 
 
 
 ==**TODO**==!!!! - “(For more information about supply chain modeling and simulation, see Chapter 15.)”
+
+
+“**A good way to look for improvement opportunities in any process is to compare your own performance with that of someone else. If you use the same KPIs in every facility, then you can compare one facility to another, or ==one company to another==**.”
+
+
