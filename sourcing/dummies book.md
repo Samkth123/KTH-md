@@ -81,4 +81,19 @@ Switching to a lower-quality product that’s less expensive
 #### Logistics
 Logistics covers everything related to moving and storing products. This function involves physical distribution, warehousing, and transportation. Inbound logistics refers to the products that are being shipped to your company by your suppliers. Outbound logistics refers to the products that you ship to your customers. Intralogistics refers to moving and storing products within your own facilities.
 
-Transporting goods costs money, but that is the same a
+**Transporting goods costs money, but that is the same as a product sitting in the distirbution center as then its an asset that ties up working capital.**
+
+“The goals of the logistics function are to move things faster, reduce transportation costs, ensure reliability, and decrease inventory. Following are some ways that a logistics department might try to achieve these goals: 
+
+Consolidating many small shipments into one large shipment to lower shipping costs
+Breaking large shipments into smaller ones to increase velocity
+Switching from one mode of transportation to another, either to lower costs or increase velocity
+Increasing or decreasing the number of distribution centers to increase velocity or lower costs
+Outsourcing logistics services to a third-party logistics (3PL) company”
+
+“ Logistics wants to decrease inventory, which may mean ordering in smaller quantities, but purchasing wants to lower the price of the purchased materials, which may mean buying in larger quantities. **Unless purchasing and logistics coordinate their decision-making and align their goals these two functions can end up working against each other and against the best interests of your company, your customers, and your suppliers**.”
+
+
+#### Operations
+Operations is the third key function in supply chain management, involving the processes that your company focuses on to create value
+
