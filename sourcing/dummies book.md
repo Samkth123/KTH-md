@@ -121,3 +121,7 @@ Improve communications. If the store, the wholesaler, and the manufacturer know 
 “**A good way to look for improvement opportunities in any process is to compare your own performance with that of someone else. If you use the same KPIs in every facility, then you can compare one facility to another, or ==one company to another==**.”
 
 
+### Chapter 3 Evaluating Your Supply Chain Strategy”
+
+“Before you can manage something, you have to understand how it works and what you want it to do. A supply chain is no exception.”
+
