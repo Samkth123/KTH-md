@@ -97,3 +97,22 @@ Outsourcing logistics services to a third-party logistics (3PL) company”
 #### Operations
 Operations is the third key function in supply chain management, involving the processes that your company focuses on to create value
 
+
+
+#### Bullwhip effect
+
+A pattern called the Bullwhip Effect, in which inventory peaks and valleys are amplified as they move upstream from one step to the next in a supply chain. The Bullwhip Effect, which occurs often in supply chain systems, is a normal, predictable phenomenon that occurs even when everyone in the supply chain makes decisions that seem to be logical from their point of view. To fix the problem, you need to change the system, which means understanding what is really happening.”
+
+- **Betyder basically at ett litet köp här kan leda till stort upstream**
+
+“Here are three ways that you could change this system to reduce the Bullwhip Effect: 
+
+Make batches smaller. The fewer widgets that the store and the wholesaler need to buy, the less amplification occurs when orders move up the supply chain.
+Improve forecasting. If all the partners in the supply chain have a better forecast, there’s less chance of ordering widgets that no one will buy.
+Improve communications. If the store, the wholesaler, and the manufacturer know exactly how many widgets are being sold, they can do a better job of planning ahead and managing their inventories.”
+
+“**An important point to notice is that some of the things you could do to reduce the Bullwhip Effect might seem odd to a functional manager. In fact, they might even interfere with some of the objectives of your team members. Smaller batches, for example, are likely to increase costs for both purchasing and logistics**.
+”
+
+
+==**TODO**==!!!! - “(For more information about supply chain modeling and simulation, see Chapter 15.)”
