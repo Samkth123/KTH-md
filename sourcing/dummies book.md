@@ -125,3 +125,20 @@ Improve communications. If the store, the wholesaler, and the manufacturer know 
 
 “Before you can manage something, you have to understand how it works and what you want it to do. A supply chain is no exception.”
 
+#### Step 1: Understand what customers value
+
+“ The purpose of a supply chain is to deliver value to a customer, so your first step in engineering and managing a supply chain should be to understand exactly what your customers value. They may value having a wide assortment of products to choose among, or they might prefer to have a smaller number of options at a lower price. Your customers may value having products available immediately for pickup or having them delivered at a time they choose”
+
+ab testing to see what they value the most
+
+
+#### Step 2: Recognize your competitors
+
+“The next step in prioritizing your supply chain goals is recognizing your competitors. Because of the Internet, your competitors may not be who you think they are. Traditional retail stores need to compete with websites like Amazon.com”
+
+**“To understand who your real competitors are, you need to stop thinking about the product or service that you sell and start thinking about the problem that it solves**. Clayton Christensen of Harvard Business School called this approach the ==Jobs to Be Done Theory==. Think about what “job” your product or service does for your customers and what other products or services might be able to do that same job better, faster, cheaper, or more reliably. These alternative products (or services) are your product’s real competitors.”
+
+#### Step 3: Understand your products or services
+“The next step in prioritizing your supply chain goals is understanding the characteristics of your products or services. The easiest way to illustrate this step is to show how different kinds of products need to achieve different goals to deliver the greatest value to their customers.”
+
+
