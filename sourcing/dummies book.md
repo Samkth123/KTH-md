@@ -51,4 +51,8 @@ A resilient supply chain requires **scenario planning**. What scenarios are most
 	- If retailer share data upstream the manufacturer and production can do better job of scheduling production and managing inventory. Same as if manufacturer share data of commodity prices and capacity constraints, then retailers can better manage pricing
 
 Creating 6 supply chain capabilites
-- Bästa: 
+- Bästa: “Connected customer: Using technology such as customer relationship management (CRM) systems to remember what customers have purchased and anticipate their future needs”
+
+
+### “Chapter 2 Seeing Supply Chains from Different Perspectives”
+
