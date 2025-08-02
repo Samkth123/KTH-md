@@ -195,6 +195,13 @@ Engineering vs Procurement
 Inventory vs downtime
 - Lean manufacturing... Chapter 16
 
-
+Procurement vs Logistics
+- procurement wants big shipments to make it cheaper per product, logisticts want to keep inventory down to save costs
+- Two ways to procure cheaper is 
+	- larger quantities
+	- buy from supplier in low cost region
+- **Ordering large quantities means more space is needed to store inventory & more people to manage it. So increasing lot size you buy could lower costs up front, but increase total costs**
+- Similar problem for supppliers far away
+- Price per unit might be lower but increased transportation costs can eat up those savings
 
 
