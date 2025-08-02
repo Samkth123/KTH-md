@@ -273,6 +273,17 @@ Details on how to implement these 3 in chapter 7
 **“Every company is a part of many different supply chains, and each of these supply chains may need to be managed differently”**
 
 
+Reverse supply chain
+- must allow customers to return stuff easily if you want more business in the future from them
+- If you do nothing with the defect return, you loose value, but if you have a effective reverse supply chain, you can recover most of the value. ex returned computer --> run tests, repair defects then resel it as refurbed unit
+- This creates value in 2 ways - Keeps customers happy and reduces losses from disposing of used or damaged products
+- Last reverse supply chain strategy is recycling materials
+
+
+### Chapter 6 Sourcing, Purchasing and Procurement
+
+
+
 
 
 
