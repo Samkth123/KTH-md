@@ -174,3 +174,12 @@ Sales vs Operations
 - Sales säger kan inte sälja de du inte har, medan operations handlar om att ha bara store så många produkter du faktiskt behöver
 - **Basically have a meeting with them and do S&OPP**
 
+Customer vs supplier
+- if you surprise your supplier with a big order it will most likely create problems
+- **Instead supply chain partners can help one another through collaborative planning, forecasting and replenishment (CPFR). They share info with eachother about how much they expect their customers to buy and how much inventory they have on hand to acheive high service levels with lower amounts of inventory**
+
+Engineering vs Procurement
+- **Engineering always wants to innovate, while if you source from a company normally the cheapest is the ones that have standardized processes. So a supplier that can be flecible and collaborative is expensive**
+- The solution is to include sourcing teams in the design phase of a product to ensure the costs of each step in the product life cycle are considered
+- Same with engaging engineering teams throughout the procurement process to ensure that lower cost options that meet the needs and properly vetted
+- design-build strategy is also a way as a single cotract taht both design and
