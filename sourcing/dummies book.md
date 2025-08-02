@@ -241,10 +241,22 @@ Scor Model:
 - Source
 	- Where to buy ingredients. Negotiate with suppliers to get best price, quality and service. Maybe better to have closeby suppliers so transport is fast and cheap. Or might make sense to choose supplier farther away that provides cheaper products
 - Make
-	- make by hand or machine? 
+	- Manage process of making them, and define stages of manufacturing process and how long each stage will take. also make by hand or machine?  
 - Deliver
+	- Manage logistics of getting hamburgers into customers hands. Customer pick up at counter or take it to their table? Or drivethrough window? Or deliver to their home
 - Return
+	- What happens is customer is finished using product? In case of hamburger may think about washing plates are recycling plastic
 - Enable
+	- What else do you need to make the supply chain work? Need to hire people with different skills and how to find them and measure their performance. Might also be other processes you need to have in place to make the supply chain work
 
 ![[Screenshot 2025-08-02 at 16.23.40.png]]
+
+
+**Identifiying the SIPOC Attributes**
+- skip
+- helps show dependencies between processes in a supply chain
+- Kan vara bra för senare
+
+
+### Chapter 5 - Planning the Supply Chain
 
