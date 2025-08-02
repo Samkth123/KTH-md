@@ -260,3 +260,8 @@ Scor Model:
 
 ### Chapter 5 - Planning the Supply Chain
 
+Three ways to balance supply and demand
+- Make to stock
+	- Have products ready to ship based on your forecast
+- Make to order
+	- Manufacturing on standby until a
