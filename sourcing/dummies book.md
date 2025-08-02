@@ -168,3 +168,9 @@ Quality costs
 
 #### “Dealing with Trade-Offs”
 
+Conflicts occur between two functions in the business and you need to make trade offs to maximize the overall profit of the business
+
+Sales vs Operations
+- Sales säger kan inte sälja de du inte har, medan operations handlar om att ha bara store så många produkter du faktiskt behöver
+- **Basically have a meeting with them and do S&OPP**
+
