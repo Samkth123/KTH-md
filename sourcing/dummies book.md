@@ -237,10 +237,14 @@ DIfferent frameworks
 
 Scor Model:
 - Plan
+	- Estimate how many hamburgers will make, where to make them and decide priorities. Do we want quality and freshness or customer service or low cost? These choices will influence trade offs we make later on
 - Source
+	- Where to buy ingredients. Negotiate with suppliers to get best price, quality and service. Maybe better to have closeby suppliers so transport is fast and cheap. Or might make sense to choose supplier farther away that provides cheaper products
 - Make
+	- make by hand or machine? 
 - Deliver
 - Return
 - Enable
 
+![[Screenshot 2025-08-02 at 16.23.40.png]]
 
