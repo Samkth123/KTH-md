@@ -262,6 +262,18 @@ Scor Model:
 
 Three ways to balance supply and demand
 - Make to stock
-	- Have products ready to ship based on your forecast
+	- Have products ready to ship based on your forecast (push system)
 - Make to order
-	- Manufacturing on standby until a
+	- Manufacturing on standby until a order comes in (pull system), but design work is done
+- Engineer to order
+	- Need customer to give specifications for design before start manufacturing
+
+Details on how to implement these 3 in chapter 7
+
+**“Every company is a part of many different supply chains, and each of these supply chains may need to be managed differently”**
+
+
+
+
+
+
