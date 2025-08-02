@@ -185,7 +185,16 @@ Engineering vs Procurement
 - design-build strategy is also a way as a single contract is given to the supplier to do both design and build of product
 
 **Inventory vs customer service**
-- Ex why do we have warehouses and such in different locations? But would a customer pay the same amount for a product if they had to pick it up 100 miles away or wait 1 year for it to arrive?
+- **Ex why do we have warehouses and such in different locations? But would a customer pay the same amount for a product if they had to pick it up 100 miles away or wait 1 year for it to arrive?**
 - Placement and availability of product have big effect on value to customer and revenue, and inventory is a buffer towards uncertainty about whos going to buy your product, how much they buy and where they buy and where they want it
 - The ability to provide your customer  with rpoducts they order quickly is called service level, and customers tend to buy more from suppliers that can meet their needs quickly, but you cant have too much inventory either. So it is basically a fine line between the two
-- Forecasting 
+- **Forecasting is the way to optimize inventory and still keep a good service level**
+	- the degree of which a forecast is wrong is called forecast error
+	- degree of forecast accuracy is measured with MAPE
+
+Inventory vs downtime
+- Lean manufacturing... Chapter 16
+
+
+
+
