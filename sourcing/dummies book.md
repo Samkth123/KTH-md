@@ -313,4 +313,32 @@ If you have hamburger restaurant, the tier 1 supplier sells you lettuce and patt
 
 ##### Managing total costs
 
-Need bill of material BOM for what you buy. Purchasing is analysing and understanding total cost of everything you b
+Need bill of material BOM for what you buy. Purchasing is analysing and understanding total cost of everything you buy.
+
+Purchase price of materials is just one factors to consider when calculting what something is really going to cost. Total landed cost if involving all factors involved, ex:
+Purchase price for materials
+Transportation
+Inventory holding costs
+Quality inspection and defect resolution
+Insurance
+Shrinkage, security, and loss prevention
+Duties, tariffs, and taxes
+Permits
+Licensing fees
+
+Many products also continue costing money after you purchase them and even after used or sold them, ex: Maintenance, disposal and ercovery, product liability, recalls and warranties.
+
+**The additional costs contribute to the total cost of ownership TCO or life-cycle cost for a product.**
+
+##### Minimizing input costs
+
+
+
+
+
+
+
+
+
+
+
