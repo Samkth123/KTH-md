@@ -223,3 +223,24 @@ Think about the range of other processes that enable a supply chain to operate e
 ### Chapter 4: Connecting Supply Chain Processes
 
 
+“**A supply chain process** is any series of activities that adds value to a product or service. Making a hamburger is a supply chain process, for example, because customers are willing to pay more for a cooked patty with lettuce and tomato inside a sliced bun than they are for the individual ingredients. ”
+
+“**Serving** a hamburger is a supply chain process, too; customers who eat a hamburger in a restaurant, with a server carrying it to the table, will pay more than when they purchase the same burger at a drive-through. Anything that adds value — anything that moves or changes a product or service in some way that a customer is willing to pay for — is a supply chain process.
+”
+
+**“When you start thinking about supply chains in terms of processes, you begin to see more clearly how all the pieces fit together. You have a process to order the components before you can make your products. Then you have manufacturing processes, sales processes, and delivery processes” **
+
+DIfferent frameworks
+- GSCF
+- APQC Process Classification Framework
+- SCOR model
+
+Scor Model:
+- Plan
+- Source
+- Make
+- Deliver
+- Return
+- Enable
+
+
