@@ -1,5 +1,7 @@
 highlitar bra ord att använda
 
+## Part 1: Getting started with supply chain management
+
 Supply chains are the complex systems made up of people, processes, and technologies that we engineer and manage to deliver the goods and services customers value. **Supply chain management is the planning and coordination of the relationships between all the people, processes, and technology involved in creating that value**
 
 Supply chain är inte bara inköp, utan hjälper även andra delar av bolaget tex sälj å manufacturing. Alla dessa måste va aligned för att göra profit. 
@@ -202,6 +204,22 @@ Procurement vs Logistics
 	- buy from supplier in low cost region
 - **Ordering large quantities means more space is needed to store inventory & more people to manage it. So increasing lot size you buy could lower costs up front, but increase total costs**
 - Similar problem for supppliers far away
-- Price per unit might be lower but increased transportation costs can eat up those savings
+- Price per unit might be lower but increased transportation costs can eat up those savings. Also shipping farther away could make you buy larger quantities. Also the farther away something is the more riskier, and to compensate you could have to increase inventory even more incase it gets lost along the way.
+- **So priorities of purchasing and logistics should be balanced with a total-cost analysis approach. There might be a more expensive supplier that can deliver small btaches and at low transport cost nearby, that is a better option that lower cost supplier in a distant location that requires to spend more moeny on inventory and transportation**
+
+
+
+## Part 2: Managing Supply Chain Processes
+
+“Use the SCOR Model to break your supply chain into high-level processes. 
+
+Look at how different kinds of supply chains plan, source, make, and deliver products and services. 
+
+Explore opportunities for capturing value and reducing waste with reverse supply chains. 
+
+Think about the range of other processes that enable a supply chain to operate effectively.”
+
+
+### Chapter 4: Connecting Supply Chain Processes
 
 
