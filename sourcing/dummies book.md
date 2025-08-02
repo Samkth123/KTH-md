@@ -182,4 +182,10 @@ Engineering vs Procurement
 - **Engineering always wants to innovate, while if you source from a company normally the cheapest is the ones that have standardized processes. So a supplier that can be flecible and collaborative is expensive**
 - The solution is to include sourcing teams in the design phase of a product to ensure the costs of each step in the product life cycle are considered
 - Same with engaging engineering teams throughout the procurement process to ensure that lower cost options that meet the needs and properly vetted
-- design-build strategy is also a way as a single cotract taht both design and
+- design-build strategy is also a way as a single contract is given to the supplier to do both design and build of product
+
+**Inventory vs customer service**
+- Ex why do we have warehouses and such in different locations? But would a customer pay the same amount for a product if they had to pick it up 100 miles away or wait 1 year for it to arrive?
+- Placement and availability of product have big effect on value to customer and revenue, and inventory is a buffer towards uncertainty about whos going to buy your product, how much they buy and where they buy and where they want it
+- The ability to provide your customer  with rpoducts they order quickly is called service level, and customers tend to buy more from suppliers that can meet their needs quickly, but you cant have too much inventory either. So it is basically a fine line between the two
+- Forecasting 
