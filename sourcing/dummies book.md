@@ -284,7 +284,7 @@ Reverse supply chain
 
 Before used to just try to get stuff as cheap as possible, now we compile purchasing data to evaluate what to buy from where and who and what changes we can do to improve supply chain - this process is called strategic sourcing
 
-**Common steps in strategic sourcing:**
+##### **Common steps in strategic sourcing:**
 
 1. Collect and analyze data about what you bought in the past.
 2. Collect and analyze forecasts about what you’ll buy in the future.
@@ -300,9 +300,17 @@ Before used to just try to get stuff as cheap as possible, now we compile purcha
 “The value of strategic sourcing can be measured by looking for costs — and missed revenue opportunities — that have occurred in the past. Applying the principles of strategic sourcing helps to ensure that you’re optimizing the future performance of your entire supply chain.”
 
 
-Segmenting your supply chain
+##### **Segmenting your supply chain**
 - It is easier to analyze purchasing data by understanding characteristics of your supplier by placing them in teirs based on how far upstream they are in your supply chain
 - Companies that you but from are tier 1 suppliers, the companies your tier 1 buys from are tier 2, etc...
+- The company that makes the final product and end of all teirs is the **OEM**
+
+![[Screenshot 2025-08-02 at 17.07.33.png]]
 
 
+If you have hamburger restaurant, the tier 1 supplier sells you lettuce and patties, but tier 1 indirect supplier sells you stuff you need but that is not included in your product, such as napkins.
 
+
+##### Managing total costs
+
+Need bill of material BOM for what you buy. Purchasing is analysing and understanding total cost of everything you b
