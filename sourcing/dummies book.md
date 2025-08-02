@@ -282,9 +282,27 @@ Reverse supply chain
 
 ### Chapter 6 Sourcing, Purchasing and Procurement
 
+Before used to just try to get stuff as cheap as possible, now we compile purchasing data to evaluate what to buy from where and who and what changes we can do to improve supply chain - this process is called strategic sourcing
+
+**Common steps in strategic sourcing:**
+
+1. Collect and analyze data about what you bought in the past.
+2. Collect and analyze forecasts about what you’ll buy in the future.
+3. Evaluate how past suppliers have performed in terms of cost, quality, reliability, sustainability, and social responsibility.
+4. Investigate whether other suppliers could provide the same products and services at better prices, higher quality levels, more reliably, or more sustainably.
+5. Consider opportunities to outsource or insource the products or services.
+6. Determine how important the product or service is and how available it is in the marketplace.
+7. Evaluate the effect of payment terms on your working capital.
+8. Assess risks associated with each supplier.
+9. Make changes.
+10. Repeat Steps 1–9
+
+“The value of strategic sourcing can be measured by looking for costs — and missed revenue opportunities — that have occurred in the past. Applying the principles of strategic sourcing helps to ensure that you’re optimizing the future performance of your entire supply chain.”
 
 
-
+Segmenting your supply chain
+- It is easier to analyze purchasing data by understanding characteristics of your supplier by placing them in teirs based on how far upstream they are in your supply chain
+- Companies that you but from are tier 1 suppliers, the companies your tier 1 buys from are tier 2, etc...
 
 
 
